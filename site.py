@@ -31,7 +31,7 @@ def page(title, depth, body, desc=""):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title><meta name="description" content="{e(desc)}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="{up}assets/site.css"></head><body>
+<link rel="stylesheet" href="{up}assets/site.css?v={dt.date.today():%Y%m%d}"></head><body>
 <nav class="bar"><div class="in"><a class="brand" href="{up}index.html">{NAME}</a><span class="links"><a href="{up}topics/data-centers/index.html">Data centers</a><a href="{up}topics/nuclear/index.html">Nuclear</a><a href="{up}housing/index.html">Housing</a><a href="{up}coverage/index.html">Coverage</a></span></div></nav>
 <main class="wrap">{body}</main>
 <footer class="wrap foot">Built from agendas, minutes, packets and warrants posted by New Hampshire municipalities. Excerpts are quoted from public records; open the linked document before relying on one. Topic definitions and scoring are ours.</footer>

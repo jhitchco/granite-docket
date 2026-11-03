@@ -2630,10 +2630,12 @@
    "Bow Bog, Bow Center, Bow Junction, Bow Mills, South Bow"
   ],
   "qid": "Q2304788",
-  "website": "http://www.bow-nh.com/",
-  "final_url": "https://www.montrealhotelsearch.com/en/bow-nh/",
+  "website": "https://www.bownh.gov/",
+  "final_url": "https://www.bownh.gov/",
   "status": 200,
-  "platform": [],
+  "platform": [
+   "civicplus"
+  ],
   "meeting_links": [
    [
     "https://www.montrealhotelsearch.com/en/property/holiday-inn-select-montreal-centre-ville-downtown.html",
@@ -2643,7 +2645,9 @@
     "https://www.montrealhotelsearch.com/staticfiles/bow-nh.com/c9ea145a22.css",
     "Fire &amp; Rescue Department\n\n\n\n\nExplore Bow, New Hampshire: A Quiet Gateway to "
    ]
-  ]
+  ],
+  "resolved": "manual",
+  "error": null
  },
  {
   "name": "Plaistow",

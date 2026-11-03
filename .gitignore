@@ -7,3 +7,5 @@ crawl.log
 report.html
 __pycache__/
 ocr.log
+ocr*.log
+refresh.log

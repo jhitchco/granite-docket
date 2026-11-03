@@ -9,3 +9,4 @@ __pycache__/
 ocr.log
 ocr*.log
 refresh.log
+!housing.db

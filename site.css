@@ -113,3 +113,12 @@ main.wrap>*{min-width:0}
 .sw.ln-tot,.sw.ln-full,.sw.ln-sch{height:3px;vertical-align:3px}
 .sw.ln-tot{background:var(--ink)} .sw.ln-full{background:var(--s2)} .sw.ln-sch{background:var(--s3)}
 .taxline{font-size:14px;max-width:80ch}
+.progress{background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:12px 14px;display:grid;gap:8px}
+.ph{display:flex;flex-wrap:wrap;gap:4px 14px;align-items:baseline;font-size:14px}
+.ph span{font:12px var(--f-mono);color:var(--muted)}
+.pbar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--rule)}
+.pbar .seg{display:block;height:100%}
+.seg.done{background:var(--accent)} .seg.crawling{background:var(--s2);animation:pulse 1.6s ease-in-out infinite} .seg.gap{background:var(--warn);opacity:.55} .seg.queued{background:transparent}
+.pnote{font:11px var(--f-mono);color:var(--muted)}
+@keyframes pulse{50%{opacity:.55}}
+@media (prefers-reduced-motion:reduce){.seg.crawling{animation:none}}

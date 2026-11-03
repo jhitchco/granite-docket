@@ -133,12 +133,25 @@ def main():
 <div class="evs">{"".join(event_html(x, 2, show_town=False) for x in evs) or '<p class="empty">No mentions of the tracked topics in the documents collected for this town.</p>'}</div>"""
         write(f"towns/{slug(t['name'])}/index.html", page(f"{t['name']}, NH · {NAME}", 2, body, f"{t['name']} NH meeting records"))
 
+    # ---- crawl progress bar (shown while a crawl is still running)
+    cnt = defaultdict(int)
+    for t in towns.values():
+        st = t["status"]
+        cnt["done" if st == "done" else "crawling" if st == "crawling" else "queued" if st == "pending" else "gap"] += 1
+    ocr_left = conn.execute("SELECT count(*) FROM documents WHERE needs_ocr=1").fetchone()[0]
+    ocr_done = conn.execute("SELECT count(*) FROM documents WHERE needs_ocr=2").fetchone()[0]
+    seg = lambda k: f'<span class="seg {k}" style="width:{cnt[k] / len(towns) * 100:.2f}%"></span>'
+    progress = "" if not (cnt["crawling"] or cnt["queued"] or ocr_left) else f"""<section class="progress" aria-label="Crawl progress">
+<div class="ph"><b>Collection in progress</b><span>{cnt["done"]} towns crawled · {cnt["crawling"]} in progress · {cnt["queued"]} queued · {cnt["gap"]} can't be crawled automatically</span></div>
+<div class="pbar">{seg("done")}{seg("crawling")}{seg("gap")}{seg("queued")}</div>
+<div class="pnote">Scanned PDFs read by OCR: {ocr_done:,} done, {ocr_left:,} waiting. Results update about every 30 minutes until collection finishes · last update {dt.datetime.now():%b %d, %H:%M}.</div></section>"""
+
     # ---- coverage
     order = sorted(towns.values(), key=lambda t: (t["status"] == "done", -(t["pop"] or 0)))
     gaps = [t for t in towns.values() if t["status"] != "done"]
     rows = "".join(f"""<tr><td><a href="../towns/{slug(t["name"])}/index.html">{e(t["name"])}</a></td><td>{e(t["county"])}</td><td class="n">{(t["pop"] or 0):,}</td>
 <td><span class="st {"ok" if t["status"] == "done" else "gap"}">{e(STATUS.get(t["status"], t["status"]))}</span></td><td class="n">{t["docs"]:,}</td><td>{e(t["notes"] or "")}</td></tr>""" for t in order)
-    body = f"""<header class="hd"><div class="eyebrow">Method</div><h1>Coverage</h1>
+    body = progress + f"""<header class="hd"><div class="eyebrow">Method</div><h1>Coverage</h1>
 <p class="lede">All 234 New Hampshire municipalities, with the status of each crawl. {len(gaps)} could not be read automatically: their sites sit behind a bot challenge, ask crawlers to stay out, render only with JavaScript, or do not exist. Those towns were checked through search engines and news instead, and findings from that sweep are marked "web search".</p>
 <p class="note">Collected: agendas, minutes, agenda packets, warrants and notices from meetings on or after 2024-01-01. Scanned PDFs without a text layer are not searched yet.</p></header>
 <div class="tablebox"><table><thead><tr><th>Town</th><th>County</th><th>Pop. 2020</th><th>Status</th><th>Documents</th><th>Note</th></tr></thead><tbody>{rows}</tbody></table></div>"""
@@ -157,7 +170,7 @@ def main():
 <small>{f"{a} in last {WINDOW} days" if a else ("on the record" if evs else ("not crawled" if t["status"] != "done" else f"{t['docs']:,} docs, no mentions"))}</small></a>""")
     body = f"""<header class="hd hero"><div class="eyebrow">New Hampshire · municipal public record</div><h1>{NAME}</h1>
 <p class="lede">What New Hampshire's planning boards, zoning boards, select boards and town meetings have put on the record about data centers and nuclear energy. Read from the towns' own agendas, minutes and warrants.</p></header>
-<div class="stats"><div><b>{total_docs:,}</b><span>meeting documents read</span></div><div><b>{sum(1 for t in towns.values() if t["status"] == "done")} / {len(towns)}</b><span>municipalities crawled</span></div>
+{progress}<div class="stats"><div><b>{total_docs:,}</b><span>meeting documents read</span></div><div><b>{sum(1 for t in towns.values() if t["status"] == "done")} / {len(towns)}</b><span>municipalities crawled</span></div>
 <div><b>{len({ev["town"] for ev in events})}</b><span>towns on the record</span></div><div><b>{e(span[0] or "?")} → {e(span[1] or "?")}</b><span>meeting dates</span></div></div>
 <section><h2>Topics</h2><div class="tcards">{tcards}</div></section>
 <section><h2>Latest on the record</h2><div class="evs">{"".join(event_html(x, 0) for x in sorted(events, key=lambda x: x.get("date") or "", reverse=True)[:12])}</div></section>

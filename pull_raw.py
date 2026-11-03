@@ -54,7 +54,24 @@ def main():
         log(f"{tag}: {added} new files archived from {len(parts)} part(s)")
 
 
+def sync_db():
+    """Replace the local database with the weekly job's copy, so local work starts from the latest crawl."""
+    import gzip
+    db = os.path.join(ROOT, "nh_meetings.db")
+    with tempfile.TemporaryDirectory(dir=ROOT) as tmp:
+        try: gh("release", "download", "data", "-p", "nh_meetings.db.gz", "-D", tmp)
+        except subprocess.CalledProcessError:
+            log("no database snapshot on GitHub yet"); return
+        new = os.path.join(tmp, "nh_meetings.db")
+        with gzip.open(os.path.join(tmp, "nh_meetings.db.gz"), "rb") as g, open(new, "wb") as f: shutil.copyfileobj(g, f, 1 << 20)
+        for ext in ("-wal", "-shm"):
+            if os.path.exists(db + ext): os.remove(db + ext)
+        os.replace(new, db)
+    log("local database replaced with the weekly job's snapshot")
+
+
 if __name__ == "__main__":
-    try: main()
+    try:
+        main(); sync_db()
     except Exception as e:
         log(f"failed: {e}"); sys.exit(1)

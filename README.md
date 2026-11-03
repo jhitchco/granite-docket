@@ -41,3 +41,9 @@ python nhmeet.py crawl                                  # incremental: already-s
 python report.py
 python site.py      # regenerate docs/, then commit and push
 ```
+
+## Adding documents by hand (towns that block crawlers)
+
+1. Download agendas/minutes in your browser and drop them into `inbox/<Town>/` (subfolders and any file names are fine; folder name must match the town).
+2. Run `python import_inbox.py --publish`. It files each document, OCRs scans, rebuilds the site, and hands the database to the weekly job.
+3. Don't run it on Monday mornings while the weekly job is running.

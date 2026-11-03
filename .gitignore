@@ -11,3 +11,4 @@ ocr*.log
 refresh.log
 !housing.db
 pull_raw.log
+inbox/

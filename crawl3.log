@@ -1232,3 +1232,835 @@ MuPDF error: syntax error: array not closed before end of file
 MuPDF error: syntax error: syntax error after inline image
 
 14:20:46 Nashua done pages=450 docs=627
+MuPDF error: syntax error: cannot find ExtGState resource 'GS3'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS1'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS2'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS2'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS2'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS2'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS1'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS2'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS1'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS1'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS1'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS1'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS1'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GS1'
+
+MuPDF error: format error: cmsOpenProfileFromMem failed
+
+MuPDF error: format error: cmsOpenProfileFromMem failed
+
+MuPDF error: format error: No default Layer config
+
+14:38:42 Dover done pages=450 docs=1657
+14:38:42 Rochester blocked
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_0000'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_0000'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_0000'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_0000'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_0000'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_0000'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_0000'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_0000'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FE31'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSS_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+
+MuPDF error: syntax error: cannot find ExtGState resource 'GSF_alpha_FFFF'
+

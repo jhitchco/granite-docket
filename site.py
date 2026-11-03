@@ -63,8 +63,12 @@ def main():
     today = dt.date.today()
     cut, cut2 = (today - dt.timedelta(WINDOW)).isoformat(), (today - dt.timedelta(2 * WINDOW)).isoformat()
     events = []
-    for r in conn.execute("""SELECT h.topic,d.town,d.board,d.doc_type,d.meeting_date,d.title,d.url,h.terms,h.score,h.snippets
-                             FROM hits h JOIN documents d ON d.id=h.doc_id WHERE h.score>=? AND h.zoning_context>0""", (MIN_SCORE,)):
+    seen_sha = set()  # towns often post one file at several URLs (www/non-www, archive copies)
+    for r in conn.execute("""SELECT h.topic,d.town,d.board,d.doc_type,d.meeting_date,d.title,d.url,h.terms,h.score,h.snippets,d.sha256
+                             FROM hits h JOIN documents d ON d.id=h.doc_id WHERE h.score>=? AND h.zoning_context>0
+                             ORDER BY length(d.url)""", (MIN_SCORE,)):
+        if (r[0], r[10]) in seen_sha: continue
+        seen_sha.add((r[0], r[10]))
         events.append(dict(topic=r[0], town=r[1], board=r[2], type=r[3], date=r[4], title=r[5], url=r[6], terms=r[7], score=r[8], snippets=json.loads(r[9])))
     fbp = os.path.join(ROOT, "search_fallback.json")
     if os.path.exists(fbp):

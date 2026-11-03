@@ -102,3 +102,4 @@ figcaption{font:12px var(--f-mono);color:var(--muted);margin-top:4px}
 td.warn{color:var(--warn)}
 td.wrapcell{white-space:normal;min-width:320px;max-width:520px}
 .q{color:var(--muted);font:12px var(--f-mono)}
+main.wrap>*{min-width:0}

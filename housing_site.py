@@ -99,7 +99,7 @@ def build(out, towns, page, write, slug, e):
     sv = {k: [sum(M[t][p][k][1] for t in M if p in M[t]) for p in months] for k, _, _ in SERIES}
     est_share = [sum(1 for t in M if p in M[t] and not M[t][p]["reported"]) / max(1, sum(1 for t in M if p in M[t])) for p in months]
     labs = [dt.date(int(p[:4]), int(p[5:]), 1).strftime("%b %y") for p in months]
-    state_chart = stacked_bars(labs, [(k, sv[k]) for k, _, _ in SERIES], money, "Statewide permitted construction value by month", every=3)
+    state_chart = stacked_bars(labs, [(k, sv[k]) for k, _, _ in SERIES], money, "Statewide permitted construction value by month", every=6)
     t12 = sum(sum(v[-12:]) for v in sv.values()); p12 = sum(sum(v[-24:-12]) for v in sv.values())
     apt12 = sum(tot(t, last12, 0, ("apt",)) for t in M); u12 = sum(tot(t, last12, 0) for t in M)
 

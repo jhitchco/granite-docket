@@ -26,7 +26,15 @@
         "nuclear\\s*/\\s*radiological",
         "radiological emergency response plan",
         "Seabrook Station Emergency",
-        "nuclear option"
+        "nuclear option",
+        "special nuclear,? or by-?product material",
+        "source,? special nuclear",
+        "Atomic Energy Act",
+        "nuclear (and|&) a utility background",
+        "chemical,? biological,? radiological,? nuclear",
+        "CBRNE?",
+        "location of a nuclear generating facility in Seabrook",
+        "Audubon Society of New Hampshire appeal"
       ]
     },
     "data_center": {
@@ -47,21 +55,38 @@
         "substation",
         "cooling towers?"
       ],
-      "exclude": []
+      "exclude": [
+        "data cent(er|re) infrastructure",
+        "(town|city|county|school|district)('s)? (own )?data cent(er|re)",
+        "data cent(er|re) (switch|equipment|hardware|backup|migration)",
+        "server room"
+      ]
     }
   },
   "zoning_context": [
-    "ordinance",
-    "zoning",
     "amendment",
-    "permitted use",
-    "site plan",
-    "variance",
-    "special exception",
-    "moratorium",
-    "warrant article",
-    "public hearing",
+    "applicant",
+    "application",
+    "citizen petition",
     "conditional use",
-    "overlay district"
+    "definition",
+    "land use",
+    "moratoria",
+    "moratorium",
+    "ordinance",
+    "overlay district",
+    "permitted",
+    "permitted use",
+    "planning board",
+    "proposal",
+    "proposed",
+    "public hearing",
+    "rezon\\w*",
+    "site plan",
+    "special exception",
+    "variance",
+    "warrant article",
+    "zoning",
+    "zoning district"
   ]
 }

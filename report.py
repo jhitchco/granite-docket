@@ -9,6 +9,7 @@ import argparse, csv, html, json, os, re, sqlite3, datetime as dt
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DB = os.path.join(ROOT, "nh_meetings.db")
 CTX = 220  # chars of context each side of a match
+NEAR = 400  # how close land-use words must be to a match to count as context
 
 
 def compile_cfg(cfg, only):
@@ -36,6 +37,7 @@ def snippets(text, rx, limit=6):
 def scan(conn, topics, zctx):
     conn.executescript("""DROP TABLE IF EXISTS hits;
       CREATE TABLE hits(doc_id INTEGER, topic TEXT, n_strong INTEGER, n_weak INTEGER, terms TEXT, zoning_context INTEGER, score REAL, snippets TEXT);""")
+    zrx = re.compile("|".join(f"(?:{w})" for w in zctx), re.I)
     rows = conn.execute("""SELECT d.id, t.text FROM documents d JOIN doc_text t ON t.id=d.id""").fetchall()
     conn.commit()
     n = 0
@@ -47,11 +49,15 @@ def scan(conn, topics, zctx):
             if not strong: continue
             weak = list(tp["weak"].finditer(body)) if tp["weak"] else []
             terms = sorted({m.group(0).lower() for m in strong})
-            z = sum(1 for w in zctx if re.search(w, body, re.I))
-            # distinct-term variety and zoning context matter more than raw repetition
-            score = round(min(len(strong), 20) + 3 * len(terms) + 0.5 * min(len(weak), 10) + 1.5 * z, 1)
+            # land-use context must sit near a match (within NEAR chars); a word elsewhere in a long packet doesn't count
+            near = [m for m in strong if zrx.search(body[max(0, m.start() - NEAR):m.end() + NEAR])]
+            z = len({w.group(0).lower() for m in near for w in zrx.finditer(body[max(0, m.start() - NEAR):m.end() + NEAR])})
+            # distinct-term variety and nearby land-use context matter more than raw repetition
+            score = round(min(len(strong), 20) + 3 * len(terms) + 0.5 * min(len(weak), 10) + 2 * z + min(len(near), 10), 1)
             rx = re.compile(tp["strong"].pattern + ("|" + tp["weak"].pattern if tp["weak"] else ""), re.I)
-            sn = snippets(body, tp["strong"]) or snippets(body, rx)
+            first = near[0].start() if near else 0  # lead the excerpts with a land-use mention
+            sn = snippets(body[max(0, first - CTX):], tp["strong"]) + (snippets(body[:max(0, first - CTX)], tp["strong"], 2) if first else [])
+            sn = sn or snippets(body, rx)
             conn.execute("INSERT INTO hits VALUES(?,?,?,?,?,?,?,?)", (doc_id, key, len(strong), len(weak), ", ".join(terms), z, score, json.dumps(sn)))
             n += 1
     conn.commit()

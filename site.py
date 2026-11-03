@@ -112,7 +112,7 @@ def main():
         topic_cards.append((key, label, tslug, desc, len(rows), n_ev, n_recent, rows[:4]))
         table = "".join(f"""<li class="row"><a class="town" href="../../towns/{slug(town)}/index.html">{e(town)}</a>
 <span class="num">{n} record{"s" if n != 1 else ""}</span><span class="num">{a} in {WINDOW} days</span>{trend}
-<span class="latest">latest {e(evs[0].get("date") or "?")}: {e((evs[0].get("title") or "").split(" | ")[0][:80])}</span></li>""" for a, n, town, evs, trend in rows)
+<span class="latest">latest {e(evs[0].get("date") or "?")}: {e(((evs[0].get("title") or "").split(" | ")[0].strip() or BOARD.get(evs[0].get("board"), "") + " " + (evs[0].get("type") or ""))[:80])}</span></li>""" for a, n, town, evs, trend in rows)
         recent = sorted([ev for ev in events if ev["topic"] == key], key=lambda x: x.get("date") or "", reverse=True)[:60]
         body = f"""<header class="hd"><div class="eyebrow">Topic · New Hampshire · public record</div><h1>{e(label)}</h1><p class="lede">{e(desc)}</p></header>
 <div class="stats"><div><b>{len(rows)}</b><span>towns on the record</span></div><div><b>{n_ev}</b><span>matching documents</span></div><div><b>{n_recent}</b><span>in the last {WINDOW} days</span></div></div>

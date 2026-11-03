@@ -63,7 +63,7 @@ def line_chart(labels, series, fmt, title, w=520, h=220, zero=True):
         pts = [(x(i), y(v), v, labels[i]) for i, v in enumerate(vs) if v is not None]
         out.append(f'<polyline class="ln {cls}" points="{" ".join(f"{a:.1f},{b:.1f}" for a, b, _, _ in pts)}"/>')
         out += [f'<circle class="pt {cls}" cx="{a:.1f}" cy="{b:.1f}" r="3"><title>{label} {lab}: {fmt(v)}</title></circle>' for a, b, v, lab in pts]
-        if pts: out.append(f'<text class="ax lbl {cls}" x="{pts[-1][0] - 4:.1f}" y="{pts[-1][1] - 8:.1f}" text-anchor="end">{fmt(pts[-1][2])}</text>')
+        if pts and cls == series[0][0]: out.append(f'<text class="ax lbl {cls}" x="{pts[-1][0] - 4:.1f}" y="{pts[-1][1] - 8:.1f}" text-anchor="end">{fmt(pts[-1][2])}</text>')
     out.append("</svg>")
     return "".join(out)
 

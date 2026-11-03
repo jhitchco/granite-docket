@@ -34,7 +34,9 @@
         "chemical,? biological,? radiological,? nuclear",
         "CBRNE?",
         "location of a nuclear generating facility in Seabrook",
-        "Audubon Society of New Hampshire appeal"
+        "Audubon Society of New Hampshire appeal",
+        "polynuclear",
+        "nuclear[- ](war|weapons?|arsenals?|missiles?|disarmament|non-?proliferation|freeze)\\w*"
       ]
     },
     "data_center": {

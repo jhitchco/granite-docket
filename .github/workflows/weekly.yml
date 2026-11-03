@@ -1,0 +1,78 @@
+name: Weekly recrawl
+
+# Pull new agendas/minutes from every town, rescan keywords, rebuild the site.
+# The SQLite database lives as an asset on the "data" release so each run builds on the last.
+on:
+  schedule:
+    - cron: "0 7 * * 1"   # Mondays 07:00 UTC (02:00/03:00 Eastern)
+  workflow_dispatch:
+    inputs:
+      since_days:
+        description: "Only fetch documents dated within this many days"
+        default: "120"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: weekly-recrawl
+  cancel-in-progress: false
+
+jobs:
+  recrawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      GH_TOKEN: ${{ github.token }}
+      PYTHONIOENCODING: utf8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml pymupdf
+
+      - name: Restore database
+        run: |
+          gh release download data -p nh_meetings.db.gz && gunzip -f nh_meetings.db.gz || echo "no saved database yet; starting fresh"
+
+      - name: Crawl
+        run: python nhmeet.py crawl --since-days "${{ inputs.since_days || '120' }}" --workers 24 --max-minutes 270
+
+      - name: Keyword report and site
+        run: |
+          python report.py
+          python site.py
+
+      - name: Save database
+        if: always()
+        run: |
+          [ -f nh_meetings.db ] || exit 0
+          sqlite3 nh_meetings.db "PRAGMA wal_checkpoint(TRUNCATE);" || true
+          gzip -kf nh_meetings.db
+          gh release view data >/dev/null 2>&1 || gh release create data --title "Database snapshot" --notes "SQLite database used by the weekly crawl. Replaced every run."
+          gh release upload data nh_meetings.db.gz --clobber
+
+      - name: Publish
+        run: |
+          git config user.name "granite-docket-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs hits.csv
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "Weekly update $(date -u +%F)"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

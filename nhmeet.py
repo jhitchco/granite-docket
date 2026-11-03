@@ -19,6 +19,7 @@ UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 MAX_PAGES = 450          # HTML pages per town
 MAX_DOCS = 1500          # documents per town
 MAX_BYTES = 60 << 20     # skip files over 60 MB
+DEADLINE = float("inf")  # epoch seconds; set by --max-minutes so CI runs stop cleanly
 DELAY = 0.25             # seconds between requests to one town
 DOC_EXT = re.compile(r"\.(pdf|docx?|rtf|txt)(\?|$)", re.I)
 DOC_PATH = re.compile(r"/AgendaCenter/ViewFile/|/DocumentCenter/View/|/ArchiveCenter/ViewFile/|get_agenda_document_link|/Archive\.aspx\?ADID=|/media/\d+$|/file/\d+/|/download_file/|/uploads/", re.I)
@@ -164,7 +165,7 @@ class Town:
 
     def save_doc(self, url, title, src, ctx, html_text=None):
         url = urldefrag(url)[0]
-        if url in self.docs_seen or url in self.known or self.ndocs >= MAX_DOCS: return
+        if url in self.docs_seen or url in self.known or self.ndocs >= MAX_DOCS or time.time() > DEADLINE: return
         self.docs_seen.add(url)
         label = f"{title} {url} {ctx}"
         board, dtype = classify_board(label), classify_type(f"{title} {url}") if classify_type(f"{title} {url}") != "other" else classify_type(ctx)
@@ -263,7 +264,7 @@ class Town:
     def crawl(self):
         frontier = [(0, 0, self.base, "home")]
         blobs = []
-        while frontier and self.pages < MAX_PAGES:
+        while frontier and self.pages < MAX_PAGES and time.time() < DEADLINE:
             frontier.sort(key=lambda x: (x[0], x[1]))
             _, depth, url, ctx = frontier.pop(0)
             if url in self.seen: continue
@@ -327,6 +328,7 @@ def load_towns():
 
 
 def crawl_town(t, since):
+    if time.time() > DEADLINE: return t["name"], "skipped (time limit)"
     conn = db()
     name = t["name"]
     def mark(status, pages=0, docs=0, notes=""):
@@ -367,6 +369,8 @@ def main():
     ap.add_argument("cmd", choices=["crawl", "stats"])
     ap.add_argument("--towns"); ap.add_argument("--since", default="2024-01-01")
     ap.add_argument("--workers", type=int, default=16); ap.add_argument("--skip-done", action="store_true")
+    ap.add_argument("--since-days", type=int, help="rolling window: only fetch documents dated within N days (unknown dates still fetched)")
+    ap.add_argument("--max-minutes", type=float, help="stop starting new work after this many minutes")
     a = ap.parse_args()
     conn = db(); conn.executescript(SCHEMA); conn.commit()
     if a.cmd == "stats":
@@ -374,6 +378,9 @@ def main():
         print(conn.execute("SELECT count(*), sum(needs_ocr), sum(error IS NOT NULL) FROM documents").fetchone())
         for r in conn.execute("SELECT board,doc_type,count(*) FROM documents GROUP BY 1,2 ORDER BY 3 DESC LIMIT 30"): print(r)
         return
+    global DEADLINE
+    if a.max_minutes: DEADLINE = time.time() + 60 * a.max_minutes
+    if a.since_days: a.since = (dt.date.today() - dt.timedelta(a.since_days)).isoformat()
     T = load_towns()
     if a.towns: T = [t for t in T if t["name"] in {x.strip() for x in a.towns.split(",")}]
     if a.skip_done:

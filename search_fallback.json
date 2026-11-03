@@ -1,0 +1,131 @@
+{
+  "searched_towns": [
+    "Somersworth", "Barrington", "Kingston", "Henniker", "Hillsborough", "Nottingham",
+    "Northfield", "Lee", "Milton", "Ossipee", "Walpole", "Antrim", "Bethlehem",
+    "Tuftonboro", "Newbury", "Sutton", "Greenville", "Woodstock", "New Castle", "Marlow",
+    "Waterville Valley", "Windsor", "Gilford", "Northwood", "Milford", "Epsom",
+    "New Hampton", "Haverhill", "Troy", "Stewartstown", "Clarksville", "Ellsworth"
+  ],
+  "findings": [
+    {
+      "town": "Nottingham",
+      "topic": "data_center",
+      "date": null,
+      "board": "planning",
+      "title": "Nottingham to hear early plans for data center (Union Leader)",
+      "url": "https://unionleader.com/news/politics/local/nottingham-to-hear-early-plans-for-data-center/article_06bee17f-8a29-4109-8973-7def74ea8e19.html",
+      "summary": "Preview of a conceptual consultation before the Planning Board: property owner Thomas Moulton proposed turning a just-under-200,000 sq ft building on a roughly 150-acre parcel (Old Turnpike Rd / Route 4, Nottingham Business Park) into a data center. Published in May 2026, ahead of the May 27 meeting.",
+      "source_type": "news"
+    },
+    {
+      "town": "Nottingham",
+      "topic": "data_center",
+      "date": "2026-05-27",
+      "board": "planning",
+      "title": "Planning Board minutes 5/27/26",
+      "url": "https://www.nottingham-nh.gov/planning-board/minutes/pb-minutes-52726",
+      "summary": "The meeting was moved to the school because of heavy interest in the data center proposal. The minutes record that the applicant withdrew the conceptual application without prejudice hours before the hearing, after a petition opposing it drew more than 25,000 signatures.",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Nottingham",
+      "topic": "data_center",
+      "date": "2026-05-27",
+      "board": "planning",
+      "title": "AI Data Center Paused Amid Uproar in Nottingham (InDepthNH)",
+      "url": "https://indepthnh.org/2026/05/27/ai-data-center-paused-amid-uproar-in-nottingham/",
+      "summary": "News coverage of the withdrawal of the 40-acre Nottingham Business Park data center concept on the day of the Planning Board meeting. Residents cited private-well water use, grid strain and noise; the developer said he might return later.",
+      "source_type": "news"
+    },
+    {
+      "town": "Nottingham",
+      "topic": "data_center",
+      "date": "2026-06-03",
+      "board": "planning",
+      "title": "Nottingham residents say they don't want a data center in town; the planning board is listening (NHPR)",
+      "url": "https://www.nhpr.org/nh-news/2026-06-04/nottingham-data-center-land-use-ai-town-meeting-planning-board-zoning-laws",
+      "summary": "At a packed meeting, the Planning Board chair (Drew Stevens) presented a draft 12-month temporary moratorium on data centers, to be reviewed by town counsel. The board also voted to form a subcommittee to draft data center zoning and performance standards for the next zoning season.",
+      "source_type": "news"
+    },
+    {
+      "town": "Nottingham",
+      "topic": "data_center",
+      "date": "2026-07-01",
+      "board": "planning",
+      "title": "Planning Board public hearing and minutes 7/1/26: Temporary Moratorium on Data Centers Ordinance",
+      "url": "https://www.nottingham-nh.gov/planning-board/minutes/pb-minutes-7126",
+      "summary": "Public hearing under RSA 674:23 on the town-counsel-reviewed moratorium ordinance. The board voted unanimously to send a 12-month data center moratorium to a town vote (agenda: https://www.nottingham-nh.gov/planning-board/agenda/public-hearing-agenda-7126; news: https://www.nhpr.org/environment/2026-07-03/nottingham-data-center-moratorium-town-meeting-nh).",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Nottingham",
+      "topic": "data_center",
+      "date": "2026-09-08",
+      "board": "town_meeting",
+      "title": "Special Town Election: Temporary Moratorium on Data Centers Ordinance",
+      "url": "https://www.nottingham-nh.gov/sites/g/files/vyhlif3611/f/pages/2026_nottingham_special_town_election_sample_ballot_0.pdf",
+      "summary": "A special election ballot question, set by the Select Board, asked whether to adopt a temporary data center moratorium under RSA 674:23 so the town can study impacts and draft zoning. It passed 1,335 to 143 (Vermont Public/NHPR, 2026-09-09: https://www.vermontpublic.org/2026-09-09/nottingham-voters-approve-moratorium-data-centers-nh-newhampshire). The date is inferred from 'Tuesday' in the 9/9 reports.",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Barrington",
+      "topic": "data_center",
+      "date": "2026-05-28",
+      "board": "energy",
+      "title": "Barrington Conservation Commission agenda/minutes 5/28/26: Nottingham data center proposal",
+      "url": "https://www.barrington.nh.gov/sites/g/files/vyhlif2766/f/events/2026_0528_bcc.pdf",
+      "summary": "The Conservation Commission listed the Nottingham data center proposal under New Business. Residents raised concerns that the site (the former USA Springs warehouse) abuts Barrington conservation land and wetlands, and about noise, water and power demand. The commission offered support letters to Nottingham's Conservation Commission (minutes: https://www.barrington.nh.gov/conservation-commission/minutes/2026barrington-conservation-commission-meeting-minutes-0).",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Bethlehem",
+      "topic": "data_center",
+      "date": "2025-03-31",
+      "board": "select_board",
+      "title": "Select Board letter to Senator Rochefort opposing HB 639 (crypto mining)",
+      "url": "https://bethlehemnh.gov/wp-content/uploads/2025/03/Senator-Rochefort-Letter-March-31-2025-V2.docx",
+      "summary": "The Select Board wrote to the state senator opposing HB 639, which would preempt local regulation of cryptocurrency mining. The board said the bill would leave the town unable to protect itself from crypto mining's environmental impacts.",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Bethlehem",
+      "topic": "data_center",
+      "date": "2025-05-15",
+      "board": "energy",
+      "title": "Bethlehem Conservation Commission minutes 5/15/25",
+      "url": "https://bethlehemnh.gov/wp-content/uploads/2025/06/BCC-Minutes-May-15-2025.docx",
+      "summary": "In the context of crypto mining facilities, the Conservation Commission said it wanted to work with the Planning and Select Boards on local protections (ordinances).",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Bethlehem",
+      "topic": "data_center",
+      "date": "2025-06-11",
+      "board": "planning",
+      "title": "Planning Board minutes 6/11/25: crypto mine ordinance and HB 639",
+      "url": "https://bethlehemnh.gov/wp-content/uploads/2025/07/08-June-11-2025-Minutes.pdf",
+      "summary": "The board discussed a new crypto mine ordinance (with Fitzwilliam's ordinance as a model), plus related noise, groundwater and aquifer ordinance updates. It noted the town could take the issue to Town Meeting if HB 639 did not pass.",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Bethlehem",
+      "topic": "data_center",
+      "date": "2025-07-23",
+      "board": "planning",
+      "title": "Planning Board minutes 7/23/25: crypto mining warrant article sponsorship",
+      "url": "https://bethlehemnh.gov/wp-content/uploads/2025/08/10-July-23-2025-Minutes.pdf",
+      "summary": "The board discussed whether the Select Board or the Planning Board should sponsor a 2026 warrant article on crypto mining, with a draft due by August 15, 2025. I did not find the final 2026 warrant outcome.",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Sutton",
+      "topic": "data_center",
+      "date": null,
+      "board": "select_board",
+      "title": "Select Board agenda item: NHMA Legislative Bulletin #4 (Data Centers)",
+      "url": "https://www.suttonnh.gov/media/10146",
+      "summary": "A 2026 Select Board agenda packet lists the NH Municipal Association's legislative bulletin on data centers as a new-business item. The search turned up no local proposal or vote, so this is a minor, informational item.",
+      "source_type": "town_document"
+    }
+  ]
+}

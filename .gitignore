@@ -1,0 +1,8 @@
+# raw downloads and the database are too large for git
+raw/
+*.db
+*.db-wal
+*.db-shm
+crawl.log
+report.html
+__pycache__/

@@ -1,0 +1,67 @@
+{
+  "_comment": "Topics for report.py. Each term is a case-insensitive regex. 'weak' terms only count when a strong term of the same topic appears in the same document. 'exclude' regexes are blanked out before matching.",
+  "topics": {
+    "nuclear": {
+      "label": "Nuclear / micro-nuclear",
+      "strong": [
+        "micro[- ]?nuclear",
+        "micro[- ]?reactors?",
+        "small modular reactors?",
+        "modular (nuclear )?reactors?",
+        "advanced (nuclear )?reactors?",
+        "nuclear (power|energy|plant|facilit\\w*|generat\\w*|reactor\\w*|ordinance|zoning)",
+        "nuclear",
+        "fission"
+      ],
+      "weak": [
+        "\\bSMRs?\\b",
+        "\\breactors?\\b",
+        "radioactive",
+        "\\bNRC\\b"
+      ],
+      "exclude": [
+        "nuclear famil\\w*",
+        "nuclear medicine",
+        "nuclear attack",
+        "nuclear\\s*/\\s*radiological",
+        "radiological emergency response plan",
+        "Seabrook Station Emergency",
+        "nuclear option"
+      ]
+    },
+    "data_center": {
+      "label": "Data centers",
+      "strong": [
+        "data[- ]?cent(er|re)s?",
+        "datacent(er|re)s?",
+        "server farms?",
+        "hyper[- ]?scale",
+        "colocation (facilit\\w*|center)",
+        "(crypto|cryptocurrency|bitcoin)[- ]?(currency )?mining",
+        "high[- ]performance computing",
+        "AI (campus|facilit\\w*|data)"
+      ],
+      "weak": [
+        "\\bMW\\b load",
+        "megawatts?",
+        "substation",
+        "cooling towers?"
+      ],
+      "exclude": []
+    }
+  },
+  "zoning_context": [
+    "ordinance",
+    "zoning",
+    "amendment",
+    "permitted use",
+    "site plan",
+    "variance",
+    "special exception",
+    "moratorium",
+    "warrant article",
+    "public hearing",
+    "conditional use",
+    "overlay district"
+  ]
+}

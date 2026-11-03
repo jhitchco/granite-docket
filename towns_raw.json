@@ -1,0 +1,3746 @@
+[
+ {
+  "name": "Manchester",
+  "wiki": "Manchester,_New_Hampshire",
+  "cells": [
+   "Manchester",
+   "City",
+   "Hillsborough ( seat )",
+   "Mayor-council",
+   "115,644",
+   "33.1",
+   "1751",
+   "Amoskeag, Bakersville, Goffs Falls, Hallsville, Manchester, Massabesic, Rimmon Heights, Youngsville * The Manchester Department of Planning & Community Development has defined 25 neighborhoods within the city , including those listed above."
+  ],
+  "qid": "Q48370",
+  "website": "http://www.manchesternh.gov/"
+ },
+ {
+  "name": "Nashua",
+  "wiki": "Nashua,_New_Hampshire",
+  "cells": [
+   "Nashua",
+   "City",
+   "Hillsborough (seat)",
+   "Mayor-council",
+   "91,322",
+   "30.8",
+   "1746",
+   "Broad Acres, Crown Hill, French Hill, Lincoln Park, Nashua, Nashville Historic District , North End"
+  ],
+  "qid": "Q48274",
+  "website": "http://www.nashuanh.gov"
+ },
+ {
+  "name": "Concord",
+  "wiki": "Concord,_New_Hampshire",
+  "cells": [
+   "Concord",
+   "City ( capital )",
+   "Merrimack (seat)",
+   "Council-manager",
+   "43,976",
+   "64.0",
+   "1733",
+   "Concord, Concord Heights, Concord Manor, East Concord, Mast Yard, Penacook , Riverhill, West Concord"
+  ],
+  "qid": "Q28249",
+  "website": "http://www.onconcord.com"
+ },
+ {
+  "name": "Derry",
+  "wiki": "Derry,_New_Hampshire",
+  "cells": [
+   "Derry",
+   "Town",
+   "Rockingham",
+   "Council-manager",
+   "34,317",
+   "35.6",
+   "1827",
+   "Chases Grove, Collettes Grove, Conleys Grove, Derry , Derry Village, East Derry , Howards Grove, Hubbard, Peppermint Corner, West Derry"
+  ],
+  "qid": "Q1055850",
+  "website": "http://www.derry-nh.org"
+ },
+ {
+  "name": "Dover",
+  "wiki": "Dover,_New_Hampshire",
+  "cells": [
+   "Dover",
+   "City",
+   "Strafford (seat)",
+   "Council-manager",
+   "32,741",
+   "26.7",
+   "1623",
+   "Bellamy, Boston Harbor, Cocheco, Dover, Gates Corner, Sawyers , Wentworth Terrace"
+  ],
+  "qid": "Q48215",
+  "website": "http://www.ci.dover.nh.us"
+ },
+ {
+  "name": "Rochester",
+  "wiki": "Rochester,_New_Hampshire",
+  "cells": [
+   "Rochester",
+   "City",
+   "Strafford",
+   "Council-manager",
+   "32,492",
+   "45.0",
+   "1722",
+   "East Rochester , Gonic , Meaderboro Corner, Melrose Corner, North Rochester , Pickering, Rochester, West Gonic"
+  ],
+  "qid": "Q985354",
+  "website": "http://www.rochesternh.net/"
+ },
+ {
+  "name": "Salem",
+  "wiki": "Salem,_New_Hampshire",
+  "cells": [
+   "Salem",
+   "Town",
+   "Rockingham",
+   "Council-manager",
+   "30,089",
+   "24.7",
+   "1750",
+   "Arlington Park, Canobie Lake, Cluffs Crossing, Cowbell Corners, Foster Corners, Hampshire Road, Millville, Mount Ararat, North Salem , Noyes Terrace, Pine Grove Park, Salem , Salem Depot, Wilson Corners"
+  ],
+  "qid": "Q1013102",
+  "website": "http://www.townofsalemnh.org/"
+ },
+ {
+  "name": "Merrimack",
+  "wiki": "Merrimack,_New_Hampshire",
+  "cells": [
+   "Merrimack",
+   "Town",
+   "Hillsborough",
+   "Council-manager",
+   "26,632",
+   "32.6",
+   "1746",
+   "Lawrence Corner, East Merrimack , Merrimack, Reeds Ferry , Souhegan Village, South Merrimack, Thorntons Ferry, Woodland Park"
+  ],
+  "qid": "Q2266624",
+  "website": "http://www.merrimacknh.gov"
+ },
+ {
+  "name": "Londonderry",
+  "wiki": "Londonderry,_New_Hampshire",
+  "cells": [
+   "Londonderry",
+   "Town",
+   "Rockingham",
+   "Town council",
+   "25,826",
+   "42.0",
+   "1722",
+   "Londonderry , North Londonderry, West Derry, Wilson"
+  ],
+  "qid": "Q2304585",
+  "website": "http://www.londonderrynh.org/"
+ },
+ {
+  "name": "Hudson",
+  "wiki": "Hudson,_New_Hampshire",
+  "cells": [
+   "Hudson",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "25,394",
+   "28.3",
+   "1746",
+   "Hudson , Hudson Center, Perhams Four Corners, Potash Corner"
+  ],
+  "qid": "Q2417176",
+  "website": "http://www.hudsonnh.gov/"
+ },
+ {
+  "name": "Bedford",
+  "wiki": "Bedford,_New_Hampshire",
+  "cells": [
+   "Bedford",
+   "Town",
+   "Hillsborough",
+   "Council-manager",
+   "23,322",
+   "32.8",
+   "1750",
+   "Bedford"
+  ],
+  "qid": "Q2310735",
+  "website": "http://www.ci.bedford.nh.us/"
+ },
+ {
+  "name": "Keene",
+  "wiki": "Keene,_New_Hampshire",
+  "cells": [
+   "Keene",
+   "City",
+   "Cheshire (seat)",
+   "Mayor-council",
+   "23,047",
+   "37.1",
+   "1753",
+   "Joslin, Keene, North Swanzey, South Keene"
+  ],
+  "qid": "Q767364",
+  "website": "http://www.ci.keene.nh.us/"
+ },
+ {
+  "name": "Portsmouth",
+  "wiki": "Portsmouth,_New_Hampshire",
+  "cells": [
+   "Portsmouth",
+   "City",
+   "Rockingham",
+   "Council-manager",
+   "21,956",
+   "15.7",
+   "1631",
+   "Atlantic Heights , Bersum Gardens, Christian Shore, Colonial Pines, Creek Area, Elwyn Park, Haymarket Square, Hillcrest Estates, Maplehaven, Meadowbrook, Pannaway Manor, Portsmouth, Portsmouth Plains, Sagamore Grove, Seacrest Village, Strawbery Banke , The Woodlands, Wentworth Acres"
+  ],
+  "qid": "Q49191",
+  "website": "http://www.cityofportsmouth.com/"
+ },
+ {
+  "name": "Goffstown",
+  "wiki": "Goffstown,_New_Hampshire",
+  "cells": [
+   "Goffstown",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "18,577",
+   "36.9",
+   "1761",
+   "Browns Corner, Goffstown , Grasmere , Mountain Base, Parker, Pinardville , Shirley Park"
+  ],
+  "qid": "Q2304452",
+  "website": "https://www.goffstown.com/"
+ },
+ {
+  "name": "Laconia",
+  "wiki": "Laconia,_New_Hampshire",
+  "cells": [
+   "Laconia",
+   "City",
+   "Belknap (seat)",
+   "Council-manager",
+   "16,871",
+   "19.9",
+   "1855",
+   "Interlaken Park, Laconia, Lakeport , Mallard Cove, Pendleton Beach, Weirs Beach , Wildwood Village"
+  ],
+  "qid": "Q993431",
+  "website": "http://www.city.laconia.nh.us/"
+ },
+ {
+  "name": "Hampton",
+  "wiki": "Hampton,_New_Hampshire",
+  "cells": [
+   "Hampton",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "16,214",
+   "12.9",
+   "1639",
+   "Coffins Mill, Dunvegan Woods, Eastman Point, Elmwood Corners, Great Boars Head, Hampton , Hampton Beach , Hampton Landing, North Beach, Plaice Cove, Smith Colony, The Five Corners, The Plantation, The Willows"
+  ],
+  "qid": "Q945362",
+  "website": "http://www.hamptonnh.gov/"
+ },
+ {
+  "name": "Milford",
+  "wiki": "Milford,_New_Hampshire",
+  "cells": [
+   "Milford",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "16,131",
+   "25.2",
+   "1794",
+   "East Milford, Milford , South Milford, Richardson"
+  ],
+  "qid": "Q2417412",
+  "website": "http://milfordnh.info/"
+ },
+ {
+  "name": "Exeter",
+  "wiki": "Exeter,_New_Hampshire",
+  "cells": [
+   "Exeter",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "16,049",
+   "19.6",
+   "1638",
+   "Dows Corner, Exeter , Gooch Corner, Haynes Corner, Jady Hill, Perkins Hill"
+  ],
+  "qid": "Q990504",
+  "website": "http://www.town.exeter.nh.us/"
+ },
+ {
+  "name": "Windham",
+  "wiki": "Windham,_New_Hampshire",
+  "cells": [
+   "Windham",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "15,817",
+   "26.8",
+   "1742",
+   "West Windham, Windham, Windham Depot"
+  ],
+  "qid": "Q2416945",
+  "website": "http://www.windhamNH.gov"
+ },
+ {
+  "name": "Durham",
+  "wiki": "Durham,_New_Hampshire",
+  "cells": [
+   "Durham",
+   "Town",
+   "Strafford",
+   "Council-manager",
+   "15,490",
+   "22.4",
+   "1732",
+   "Durham"
+  ],
+  "qid": "Q2003309",
+  "website": "http://www.ci.durham.nh.us/"
+ },
+ {
+  "name": "Hooksett",
+  "wiki": "Hooksett,_New_Hampshire",
+  "cells": [
+   "Hooksett",
+   "Town",
+   "Merrimack",
+   "Council-manager",
+   "14,871",
+   "36.4",
+   "1822",
+   "Hooksett , Martin, Martins Corner, Martins Ferry, Rowes Corner, South Hooksett"
+  ],
+  "qid": "Q2418271",
+  "website": "http://www.hooksett.org/"
+ },
+ {
+  "name": "Lebanon",
+  "wiki": "Lebanon,_New_Hampshire",
+  "cells": [
+   "Lebanon",
+   "City",
+   "Grafton",
+   "Council-manager",
+   "14,282",
+   "40.3",
+   "1761",
+   "East Wilder, Lebanon, Mascoma, Sachem Village, West Lebanon"
+  ],
+  "qid": "Q993523",
+  "website": "http://www.lebnh.net/"
+ },
+ {
+  "name": "Pelham",
+  "wiki": "Pelham,_New_Hampshire",
+  "cells": [
+   "Pelham",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "14,222",
+   "26.4",
+   "1746",
+   "North Pelham, Pelham"
+  ],
+  "qid": "Q2418224",
+  "website": "http://www.pelhamweb.com/"
+ },
+ {
+  "name": "Claremont",
+  "wiki": "Claremont,_New_Hampshire",
+  "cells": [
+   "Claremont",
+   "City",
+   "Sullivan",
+   "Council-manager",
+   "12,949",
+   "43.2",
+   "1764",
+   "Claremont, Claremont Junction, Puckershire, West Claremont"
+  ],
+  "qid": "Q951659",
+  "website": "http://www.claremontnh.com/"
+ },
+ {
+  "name": "Hanover",
+  "wiki": "Hanover,_New_Hampshire",
+  "cells": [
+   "Hanover",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "11,870",
+   "49.0",
+   "1761",
+   "Etna , Hanover , Hanover Center, Rivercrest"
+  ],
+  "qid": "Q131908",
+  "website": "http://www.hanovernh.org/"
+ },
+ {
+  "name": "Somersworth",
+  "wiki": "Somersworth,_New_Hampshire",
+  "cells": [
+   "Somersworth",
+   "City",
+   "Strafford",
+   "Council-manager",
+   "11,855",
+   "9.8",
+   "1754",
+   "Blackwater, Central Park, Crocketts Crossing, Foundry, Somersworth"
+  ],
+  "qid": "Q1000227",
+  "website": "http://www.somersworth.com/"
+ },
+ {
+  "name": "Amherst",
+  "wiki": "Amherst,_New_Hampshire",
+  "cells": [
+   "Amherst",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "11,753",
+   "34.2",
+   "1760",
+   "Amherst , Baboosic Lake, Cricket Corner, Ponemah"
+  ],
+  "qid": "Q2323115",
+  "website": "http://www.amherstnh.gov/"
+ },
+ {
+  "name": "Raymond",
+  "wiki": "Raymond,_New_Hampshire",
+  "cells": [
+   "Raymond",
+   "Town",
+   "Rockingham",
+   "Town meeting (with town manager)",
+   "10,684",
+   "28.8",
+   "1764",
+   "Onway Lake, Raymond"
+  ],
+  "qid": "Q2323417",
+  "website": "http://www.raymondnh.gov/"
+ },
+ {
+  "name": "Conway",
+  "wiki": "Conway,_New_Hampshire",
+  "cells": [
+   "Conway",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "9,822",
+   "69.5",
+   "1765",
+   "Center Conway , Conway , East Conway, Intervale , Kearsarge , North Conway , Quint, Redstone , South Conway"
+  ],
+  "qid": "Q2076159",
+  "website": "http://www.conwaynh.org/"
+ },
+ {
+  "name": "Newmarket",
+  "wiki": "Newmarket,_New_Hampshire",
+  "cells": [
+   "Newmarket",
+   "Town",
+   "Rockingham",
+   "Council-manager",
+   "9,430",
+   "12.5",
+   "1727",
+   "Four Corners, Newmarket"
+  ],
+  "qid": "Q2304578",
+  "website": "https://www.newmarketnh.gov/"
+ },
+ {
+  "name": "Berlin",
+  "wiki": "Berlin,_New_Hampshire",
+  "cells": [
+   "Berlin",
+   "City",
+   "Co\u00f6s",
+   "Council-manager",
+   "9,425",
+   "61.4",
+   "1829",
+   "Berlin, Berlin Mills, Cascade"
+  ],
+  "qid": "Q821244",
+  "website": "https://www.berlinnh.gov/"
+ },
+ {
+  "name": "Barrington",
+  "wiki": "Barrington,_New_Hampshire",
+  "cells": [
+   "Barrington",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "9,326",
+   "46.6",
+   "1722",
+   "Barrington, East Barrington, South Barrington, West Barrington"
+  ],
+  "qid": "Q962862",
+  "website": "http://www.barrington.nh.gov/"
+ },
+ {
+  "name": "Weare",
+  "wiki": "Weare,_New_Hampshire",
+  "cells": [
+   "Weare",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "9,092",
+   "58.8",
+   "1764",
+   "Chase Village, Clinton Grove, North Weare, Riverdale, Slab City, South Weare, Tavern Village, Weare"
+  ],
+  "qid": "Q634813",
+  "website": "http://www.weare.nh.gov/"
+ },
+ {
+  "name": "Hampstead",
+  "wiki": "Hampstead,_New_Hampshire",
+  "cells": [
+   "Hampstead",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "8,998",
+   "13.3",
+   "1749",
+   "Baglett Grove, East Hampstead , Hampstead, West Hampstead"
+  ],
+  "qid": "Q2417249",
+  "website": "http://www.hampsteadnh.us/"
+ },
+ {
+  "name": "Franklin",
+  "wiki": "Franklin,_New_Hampshire",
+  "cells": [
+   "Franklin",
+   "City",
+   "Merrimack",
+   "Council-manager",
+   "8,741",
+   "27.4",
+   "1828",
+   "Franklin, Webster Lake, Webster Place, West Franklin"
+  ],
+  "qid": "Q202726",
+  "website": "http://www.franklinnh.org/"
+ },
+ {
+  "name": "Litchfield",
+  "wiki": "Litchfield,_New_Hampshire",
+  "cells": [
+   "Litchfield",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "8,478",
+   "15.1",
+   "1734",
+   "Litchfield"
+  ],
+  "qid": "Q2304567",
+  "website": "http://www.litchfield-nh.gov/"
+ },
+ {
+  "name": "Seabrook",
+  "wiki": "Seabrook,_New_Hampshire",
+  "cells": [
+   "Seabrook",
+   "Town",
+   "Rockingham",
+   "Town meeting (with town manager)",
+   "8,401",
+   "8.9",
+   "1768",
+   "Atlantic, Fogg Corners, Riverside, Seabrook, Seabrook Beach , Seabrook Station, Smithtown, South Seabrook, Walton Landing, Weare Corner, Weares Mill"
+  ],
+  "qid": "Q375215",
+  "website": "http://www.seabrooknh.org/"
+ },
+ {
+  "name": "Hollis",
+  "wiki": "Hollis,_New_Hampshire",
+  "cells": [
+   "Hollis",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "8,342",
+   "31.8",
+   "1746",
+   "Hollis , Hollis Depot, West Hollis"
+  ],
+  "qid": "Q2417466",
+  "website": "http://www.hollis.nh.us/"
+ },
+ {
+  "name": "Bow",
+  "wiki": "Bow,_New_Hampshire",
+  "cells": [
+   "Bow",
+   "Town",
+   "Merrimack",
+   "Town meeting (with town manager)",
+   "8,229",
+   "28.0",
+   "1727",
+   "Bow Bog, Bow Center, Bow Junction, Bow Mills, South Bow"
+  ],
+  "qid": "Q2304788",
+  "website": "http://www.bow-nh.com/"
+ },
+ {
+  "name": "Plaistow",
+  "wiki": "Plaistow,_New_Hampshire",
+  "cells": [
+   "Plaistow",
+   "Town",
+   "Rockingham",
+   "Town meeting (with town manager)",
+   "7,830",
+   "10.6",
+   "1749",
+   "Atkinson Depot, Plaistow, Westville"
+  ],
+  "qid": "Q2417121",
+  "website": "http://www.plaistow.com/"
+ },
+ {
+  "name": "Gilford",
+  "wiki": "Gilford,_New_Hampshire",
+  "cells": [
+   "Gilford",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "7,699",
+   "38.9",
+   "1812",
+   "Ames, Belknap Point, Dockham Shore, Gilford, Glendale , Lake Shore Park, Samoset, The Ledges, Yale Estates"
+  ],
+  "qid": "Q972314",
+  "website": "http://www.gilfordnh.org/"
+ },
+ {
+  "name": "Stratham",
+  "wiki": "Stratham,_New_Hampshire",
+  "cells": [
+   "Stratham",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "7,669",
+   "15.1",
+   "1716",
+   "Parkman Corner, Stratham, Winniconic, Winnicut Mills"
+  ],
+  "qid": "Q2417239",
+  "website": "http://www.strathamnh.gov"
+ },
+ {
+  "name": "Belmont",
+  "wiki": "Belmont,_New_Hampshire",
+  "cells": [
+   "Belmont",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "7,314",
+   "30.5",
+   "1727",
+   "Belmont , Gardners Grove, Lochmere , Winnisquam , Tioga"
+  ],
+  "qid": "Q2310774",
+  "website": "http://www.belmontnh.org/"
+ },
+ {
+  "name": "Swanzey",
+  "wiki": "Swanzey,_New_Hampshire",
+  "cells": [
+   "Swanzey",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "7,270",
+   "45.0",
+   "1753",
+   "East Swanzey , North Swanzey, Spragueville, Swanzey, Swanzey Station, West Swanzey , Westport"
+  ],
+  "qid": "Q2418091",
+  "website": "http://www.town.swanzey.nh.us/"
+ },
+ {
+  "name": "Pembroke",
+  "wiki": "Pembroke,_New_Hampshire",
+  "cells": [
+   "Pembroke",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "7,207",
+   "22.8",
+   "1759",
+   "North Pembroke, Pembroke, Pembroke Hill, Suncook (west part)"
+  ],
+  "qid": "Q645979",
+  "website": "http://www.pembroke-nh.com/"
+ },
+ {
+  "name": "Epping",
+  "wiki": "Epping,_New_Hampshire",
+  "cells": [
+   "Epping",
+   "Town",
+   "Rockingham",
+   "Town meeting (with ballot initiative)",
+   "7,125",
+   "26.0",
+   "1741",
+   "Camp Hedding, Epping , Martin Crossing, North Epping, West Epping"
+  ],
+  "qid": "Q927021",
+  "website": "http://www.ci.epping.nh.us/"
+ },
+ {
+  "name": "Atkinson",
+  "wiki": "Atkinson,_New_Hampshire",
+  "cells": [
+   "Atkinson",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "7,087",
+   "11.2",
+   "1767",
+   "Atkinson, Atkinson Heights, Conleys Grove, Westville, Atkinson Depot"
+  ],
+  "qid": "Q3349760",
+  "website": "http://www.town-atkinsonnh.com/"
+ },
+ {
+  "name": "Farmington",
+  "wiki": "Farmington,_New_Hampshire",
+  "cells": [
+   "Farmington",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "6,722",
+   "37.2",
+   "1798",
+   "Farmington , Hornetown, Merrill Corners, Place"
+  ],
+  "qid": "Q2076191",
+  "website": "https://www.farmington.nh.us/"
+ },
+ {
+  "name": "Plymouth",
+  "wiki": "Plymouth,_New_Hampshire",
+  "cells": [
+   "Plymouth",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "6,682",
+   "28.1",
+   "1763",
+   "Plymouth , West Plymouth"
+  ],
+  "qid": "Q2076221",
+  "website": "https://www.plymouth-nh.org/"
+ },
+ {
+  "name": "Meredith",
+  "wiki": "Meredith,_New_Hampshire",
+  "cells": [
+   "Meredith",
+   "Town",
+   "Belknap",
+   "Town meeting (with town manager)",
+   "6,662",
+   "39.9",
+   "1768",
+   "Bear Island , East Bear Island, Leavitt Park, Lovejoy Sands, Meredith , Meredith Center, Meredith Hill"
+  ],
+  "qid": "Q2276259",
+  "website": "http://www.meredithnh.org/"
+ },
+ {
+  "name": "Sandown",
+  "wiki": "Sandown,_New_Hampshire",
+  "cells": [
+   "Sandown",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "6,548",
+   "13.9",
+   "1756",
+   "Sandown"
+  ],
+  "qid": "Q2417035",
+  "website": "https://www.sandown.us/"
+ },
+ {
+  "name": "Rindge",
+  "wiki": "Rindge,_New_Hampshire",
+  "cells": [
+   "Rindge",
+   "Town",
+   "Cheshire",
+   "Town meeting (with town manager)",
+   "6,476",
+   "37.2",
+   "1768",
+   "Converseville, Cutter Hill, East Rindge, Jones Corner, Rand, Rindge, Thomas, West Rindge, Woodmere"
+  ],
+  "qid": "Q2419426",
+  "website": "http://www.town.rindge.nh.us/"
+ },
+ {
+  "name": "Peterborough",
+  "wiki": "Peterborough,_New_Hampshire",
+  "cells": [
+   "Peterborough",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "6,418",
+   "37.7",
+   "1760",
+   "Drury, Happy Valley, MacDowell , Noone, North Village, Peterborough , West Peterborough"
+  ],
+  "qid": "Q1021395",
+  "website": "http://www.townofpeterborough.com/"
+ },
+ {
+  "name": "Wolfeboro",
+  "wiki": "Wolfeboro,_New_Hampshire",
+  "cells": [
+   "Wolfeboro",
+   "Town",
+   "Carroll",
+   "Town meeting (with town manager)",
+   "6,416",
+   "47.9",
+   "1770",
+   "Cotton Valley Station, East Wolfeboro, Fernald, Goose Corner, Keewayden, North Wolfeboro, South Wolfeboro, Stockbridge Corner, Wolfeboro , Wolfeboro Center, Wolfeboro Falls"
+  ],
+  "qid": "Q601652",
+  "website": "http://www.wolfeboronh.us/"
+ },
+ {
+  "name": "Newport",
+  "wiki": "Newport,_New_Hampshire",
+  "cells": [
+   "Newport",
+   "Town",
+   "Sullivan (seat)",
+   "Town meeting",
+   "6,299",
+   "43.6",
+   "1761",
+   "Chandler Station, Chandlers Mills, Guild , Kelleyville, Newport , North Newport"
+  ],
+  "qid": "Q286753",
+  "website": "http://www.newportnh.net/"
+ },
+ {
+  "name": "Kingston",
+  "wiki": "Kingston,_New_Hampshire",
+  "cells": [
+   "Kingston",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "6,202",
+   "19.7",
+   "1694",
+   "Kingston, South Kingston, West Kingston"
+  ],
+  "qid": "Q2304507",
+  "website": "http://www.kingstonnh.org/"
+ },
+ {
+  "name": "Henniker",
+  "wiki": "Henniker,_New_Hampshire",
+  "cells": [
+   "Henniker",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "6,185",
+   "44.1",
+   "1768",
+   "Colby, Henniker , Henniker Junction, West Henniker, Emerson Station"
+  ],
+  "qid": "Q598615",
+  "website": "http://www.henniker.org/"
+ },
+ {
+  "name": "New Boston",
+  "wiki": "New_Boston,_New_Hampshire",
+  "cells": [
+   "New Boston",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "6,108",
+   "42.8",
+   "1763",
+   "Klondike Corner , New Boston"
+  ],
+  "qid": "Q2304604",
+  "website": "http://www2.new-boston.nh.us/"
+ },
+ {
+  "name": "Littleton",
+  "wiki": "Littleton,_New_Hampshire",
+  "cells": [
+   "Littleton",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "6,005",
+   "50.1",
+   "1784",
+   "Apthorp, Littleton , North Littleton"
+  ],
+  "qid": "Q1626213",
+  "website": "http://www.townoflittleton.org/"
+ },
+ {
+  "name": "Auburn",
+  "wiki": "Auburn,_New_Hampshire",
+  "cells": [
+   "Auburn",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "5,946",
+   "25.2",
+   "1845",
+   "Auburn, Hooks Crossing, Severance"
+  ],
+  "qid": "Q747146",
+  "website": "http://www.auburnnh.us/"
+ },
+ {
+  "name": "Hillsborough",
+  "wiki": "Hillsborough,_New_Hampshire",
+  "cells": [
+   "Hillsborough",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "5,939",
+   "43.6",
+   "1772",
+   "Hillsborough , Hillsboro Center, Hillsboro Lower Village, Hillsboro Upper Village, Bridge Village"
+  ],
+  "qid": "Q2076252",
+  "website": "http://www.town.hillsborough.nh.us/Public_Documents/index"
+ },
+ {
+  "name": "Hopkinton",
+  "wiki": "Hopkinton,_New_Hampshire",
+  "cells": [
+   "Hopkinton",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "5,914",
+   "43.4",
+   "1765",
+   "Contoocook , Hatfield Corner, Hopkinton, Tyler, West Hopkinton"
+  ],
+  "qid": "Q980157",
+  "website": "http://www.hopkinton-nh.gov/"
+ },
+ {
+  "name": "Alton",
+  "wiki": "Alton,_New_Hampshire",
+  "cells": [
+   "Alton",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "5,894",
+   "62.9",
+   "1796",
+   "Alton , Alton Bay , Brookhurst, East Alton, Loon Cove, Mount Major, South Alton, Spring Haven, Stockbridge Corners, West Alton, Woodlands"
+  ],
+  "qid": "Q933223",
+  "website": "http://www.alton.nh.gov/Main.asp"
+ },
+ {
+  "name": "Brookline",
+  "wiki": "Brookline,_New_Hampshire",
+  "cells": [
+   "Brookline",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "5,639",
+   "19.8",
+   "1769",
+   "Brookline, North Brookline, South Brookline, West Brookline"
+  ],
+  "qid": "Q2304485",
+  "website": "http://www.brookline.nh.us/"
+ },
+ {
+  "name": "Loudon",
+  "wiki": "Loudon,_New_Hampshire",
+  "cells": [
+   "Loudon",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "5,576",
+   "46.8",
+   "1773",
+   "Loudon , Loudon Center, Loudon Ridge, Pearls Corner, Sabattus Heights"
+  ],
+  "qid": "Q737929",
+  "website": "http://www.loudonnh.org/"
+ },
+ {
+  "name": "Rye",
+  "wiki": "Rye,_New_Hampshire",
+  "cells": [
+   "Rye",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "5,543",
+   "12.6",
+   "1726",
+   "Acorn Acres, Cable Road, Fairhill Manor, Foss Beach, Foyes Corner, Gosport, Jenness Beach, Langs Corner, Odiorne Point, Rye, Rye Beach , Rye Harbor, Rye North Beach, Wallis Sands, West Rye"
+  ],
+  "qid": "Q523619",
+  "website": "http://www.town.rye.nh.us/"
+ },
+ {
+  "name": "Jaffrey",
+  "wiki": "Jaffrey,_New_Hampshire",
+  "cells": [
+   "Jaffrey",
+   "Town",
+   "Cheshire",
+   "Town meeting (with town manager)",
+   "5,320",
+   "38.3",
+   "1773",
+   "Hadley, Jaffrey , Jaffrey Center, Squantum"
+  ],
+  "qid": "Q1639666",
+  "website": "http://town.jaffrey.nh.us/"
+ },
+ {
+  "name": "Chester",
+  "wiki": "Chester,_New_Hampshire",
+  "cells": [
+   "Chester",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "5,232",
+   "25.9",
+   "1722",
+   "Chester, North Chester"
+  ],
+  "qid": "Q629497",
+  "website": "https://www.chesternh.org/"
+ },
+ {
+  "name": "Nottingham",
+  "wiki": "Nottingham,_New_Hampshire",
+  "cells": [
+   "Nottingham",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "5,229",
+   "46.5",
+   "1722",
+   "Cedar Waters, North Nottingham, Nottingham, Nottingham Square, West Nottingham , Pawtuckaway"
+  ],
+  "qid": "Q2304472",
+  "website": "http://www.nottingham-nh.gov/"
+ },
+ {
+  "name": "New Ipswich",
+  "wiki": "New_Ipswich,_New_Hampshire",
+  "cells": [
+   "New Ipswich",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "5,204",
+   "32.8",
+   "1762",
+   "Bank, Davis, Gibson Four Corners, High Bridge, New Ipswich, New Ipswich Center , Smithville, Wilder"
+  ],
+  "qid": "Q2417215",
+  "website": "http://www.townofnewipswich.org/"
+ },
+ {
+  "name": "Wakefield",
+  "wiki": "Wakefield,_New_Hampshire",
+  "cells": [
+   "Wakefield",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "5,201",
+   "39.5",
+   "1774",
+   "East Wakefield , North Wakefield, Province Lake, Sanbornville , Union , Wakefield , Woodman"
+  ],
+  "qid": "Q2430147",
+  "website": "http://www.wakefieldnh.com/"
+ },
+ {
+  "name": "Moultonborough",
+  "wiki": "Moultonborough,_New_Hampshire",
+  "cells": [
+   "Moultonborough",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "4,918",
+   "59.5",
+   "1777",
+   "Clark Landing, Lees Mill , Moultonborough, Moultonborough Falls, State Landing, Suissevale , Winnipesaukee"
+  ],
+  "qid": "Q2430033",
+  "website": "http://www.moultonborough.org/"
+ },
+ {
+  "name": "Barnstead",
+  "wiki": "Barnstead,_New_Hampshire",
+  "cells": [
+   "Barnstead",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "4,915",
+   "42.0",
+   "1727",
+   "Barnstead Parade, Center Barnstead , Lockes Corner, North Barnstead, South Barnstead"
+  ],
+  "qid": "Q2430037",
+  "website": "http://www.barnstead.org/"
+ },
+ {
+  "name": "Northfield",
+  "wiki": "Northfield,_New_Hampshire",
+  "cells": [
+   "Northfield",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "4,872",
+   "28.8",
+   "1780",
+   "Northfield , Northfield Station"
+  ],
+  "qid": "Q954005",
+  "website": "http://www.northfieldnh.org/"
+ },
+ {
+  "name": "Deerfield",
+  "wiki": "Deerfield,_New_Hampshire",
+  "cells": [
+   "Deerfield",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "4,855",
+   "50.9",
+   "1766",
+   "Deerfield, Deerfield Center , Deerfield Parade, James City, Leavitts Hill, Mount Delight, South Deerfield"
+  ],
+  "qid": "Q2304547",
+  "website": "http://www.townofdeerfieldnh.com/"
+ },
+ {
+  "name": "Epsom",
+  "wiki": "Epsom,_New_Hampshire",
+  "cells": [
+   "Epsom",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "4,834",
+   "34.2",
+   "1727",
+   "Epsom, Gossville, New Rye, Short Falls"
+  ],
+  "qid": "Q2304515",
+  "website": "http://www.epsomnh.org/"
+ },
+ {
+  "name": "Newton",
+  "wiki": "Newton,_New_Hampshire",
+  "cells": [
+   "Newton",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "4,820",
+   "9.9",
+   "1749",
+   "Crane Crossing, Newton, Newton Junction , Rowes Corner, Sargent Corners"
+  ],
+  "qid": "Q2417020",
+  "website": "http://www.newton-nh.gov/"
+ },
+ {
+  "name": "Charlestown",
+  "wiki": "Charlestown,_New_Hampshire",
+  "cells": [
+   "Charlestown",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "4,806",
+   "35.8",
+   "1753",
+   "Charlestown , Hemlock Center, North Charlestown , Snumshire, South Charlestown, South Hemlock, Springfield Junction, Trapshire"
+  ],
+  "qid": "Q2278175",
+  "website": "https://www.charlestown-nh.gov/"
+ },
+ {
+  "name": "Fremont",
+  "wiki": "Fremont,_New_Hampshire",
+  "cells": [
+   "Fremont",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "4,739",
+   "17.2",
+   "1764",
+   "Fremont, Fremont Station, Lyford Crossing, Pages Corner"
+  ],
+  "qid": "Q646903",
+  "website": "https://www.fremont.nh.gov/"
+ },
+ {
+  "name": "Allenstown",
+  "wiki": "Allenstown,_New_Hampshire",
+  "cells": [
+   "Allenstown",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "4,707",
+   "20.3",
+   "1831",
+   "Allenstown, Blodgett, Kenison Corner, Suncook (east part)"
+  ],
+  "qid": "Q1022970",
+  "website": "http://www.allenstownnh.gov"
+ },
+ {
+  "name": "Northwood",
+  "wiki": "Northwood,_New_Hampshire",
+  "cells": [
+   "Northwood",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "4,641",
+   "28.0",
+   "1773",
+   "Melrose Beach, Northwood, Northwood Center, Northwood Narrows, Northwood Ridge"
+  ],
+  "qid": "Q2416999",
+  "website": "http://www.northwoodnh.org/"
+ },
+ {
+  "name": "Haverhill",
+  "wiki": "Haverhill,_New_Hampshire",
+  "cells": [
+   "Haverhill",
+   "Town",
+   "Grafton (seat)",
+   "Town meeting (with town manager)",
+   "4,585",
+   "51.0",
+   "1763",
+   "Center Haverhill, East Haverhill, Haverhill , Mountain Lakes (south part), North Haverhill , Pike , Woodsville"
+  ],
+  "qid": "Q1009477",
+  "website": "http://www.haverhill-nh.com/"
+ },
+ {
+  "name": "North Hampton",
+  "wiki": "North_Hampton,_New_Hampshire",
+  "cells": [
+   "North Hampton",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "4,538",
+   "13.9",
+   "1742",
+   "Bass Beach, Cemetery Corners, Fogg Corner, Little Boars Head , North Hampton, North Hampton Center"
+  ],
+  "qid": "Q2417144",
+  "website": "http://www.northhampton-nh.gov/"
+ },
+ {
+  "name": "Lee",
+  "wiki": "Lee,_New_Hampshire",
+  "cells": [
+   "Lee",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "4,520",
+   "20.0",
+   "1766",
+   "Glenmere Village, Lee, Lee Five Corners, South Lee, Wadley Falls"
+  ],
+  "qid": "Q2416911",
+  "website": "http://www.leenh.org/"
+ },
+ {
+  "name": "Brentwood",
+  "wiki": "Brentwood,_New_Hampshire",
+  "cells": [
+   "Brentwood",
+   "Town",
+   "Rockingham (seat)",
+   "Town meeting",
+   "4,490",
+   "16.8",
+   "1742",
+   "Brentwood, Brentwood Corners, Marshall Corner"
+  ],
+  "qid": "Q910003",
+  "website": "http://www.brentwoodnh.gov/"
+ },
+ {
+  "name": "Milton",
+  "wiki": "Milton,_New_Hampshire",
+  "cells": [
+   "Milton",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "4,482",
+   "33.1",
+   "1802",
+   "Hayes Corner, Laskey Corner, Milton , Milton Mills , Town House"
+  ],
+  "qid": "Q612201",
+  "website": "https://www.miltonnh-us.com/"
+ },
+ {
+  "name": "Enfield",
+  "wiki": "Enfield,_New_Hampshire",
+  "cells": [
+   "Enfield",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "4,465",
+   "40.3",
+   "1761",
+   "Enfield , Enfield Center , Fish Market, Lockehaven, Lower Shaker Village, Montcalm , Purmort, Upper Shaker Village"
+  ],
+  "qid": "Q2276245",
+  "website": "http://www.enfield.nh.us/"
+ },
+ {
+  "name": "Danville",
+  "wiki": "Danville,_New_Hampshire",
+  "cells": [
+   "Danville",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "4,408",
+   "11.7",
+   "1760",
+   "Danville, North Danville, South Danville"
+  ],
+  "qid": "Q2417157",
+  "website": "http://www.townofdanville.org/"
+ },
+ {
+  "name": "New London",
+  "wiki": "New_London,_New_Hampshire",
+  "cells": [
+   "New London",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "4,400",
+   "22.5",
+   "1779",
+   "Crockett Corner, Elkins , Hastings, Lakeside, New London , Otterville, Pages Corner"
+  ],
+  "qid": "Q2417089",
+  "website": "http://www.nl-nh.com/"
+ },
+ {
+  "name": "Ossipee",
+  "wiki": "Ossipee,_New_Hampshire",
+  "cells": [
+   "Ossipee",
+   "Town",
+   "Carroll (seat)",
+   "Town meeting",
+   "4,372",
+   "70.8",
+   "1785",
+   "Center Ossipee , Chickville, Dorrs Corner, Granite, Leighton Corners, Long Sands, Moultonville, Ossipee, Ossipee Lake Shores, Ossipee Valley, Pollys Crossing, Roland Park, Water Village, West Ossipee"
+  ],
+  "qid": "Q1001448",
+  "website": "http://www.ossipee.org/"
+ },
+ {
+  "name": "Strafford",
+  "wiki": "Strafford,_New_Hampshire",
+  "cells": [
+   "Strafford",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "4,230",
+   "49.2",
+   "1820",
+   "Berrys Corner, Bow Lake Village , Center Strafford , Hills Corner, Leighton Corners, Strafford, Strafford Corner, Welsh's Corner"
+  ],
+  "qid": "Q2419045",
+  "website": "https://strafford.nh.gov/"
+ },
+ {
+  "name": "Winchester",
+  "wiki": "Winchester,_New_Hampshire",
+  "cells": [
+   "Winchester",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "4,150",
+   "54.9",
+   "1753",
+   "Ashuelot , Camp Forest Lake, Curtis Corner, Scotland, Winchester"
+  ],
+  "qid": "Q2304556",
+  "website": "http://www.winchester-nh.gov/"
+ },
+ {
+  "name": "Pittsfield",
+  "wiki": "Pittsfield,_New_Hampshire",
+  "cells": [
+   "Pittsfield",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "4,075",
+   "23.9",
+   "1782",
+   "Pittsfield , Rings Corner, South Pittsfield, Webster Mills"
+  ],
+  "qid": "Q920784",
+  "website": "http://www.pittsfieldnh.gov/"
+ },
+ {
+  "name": "Greenland",
+  "wiki": "Greenland,_New_Hampshire",
+  "cells": [
+   "Greenland",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "4,067",
+   "10.5",
+   "1721",
+   "Bayside, Breakfast Hill, Camp Gundalow, Greenland, Greenland Station, Stratham Station"
+  ],
+  "qid": "Q2417079",
+  "website": "http://www.greenland-nh.com/"
+ },
+ {
+  "name": "Candia",
+  "wiki": "Candia,_New_Hampshire",
+  "cells": [
+   "Candia",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "4,013",
+   "30.3",
+   "1763",
+   "Bean Island, Candia, Candia Four Corners , Candia Station, East Candia"
+  ],
+  "qid": "Q2416969",
+  "website": "http://www.candianh.org/"
+ },
+ {
+  "name": "Boscawen",
+  "wiki": "Boscawen,_New_Hampshire",
+  "cells": [
+   "Boscawen",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "3,998",
+   "24.7",
+   "1760",
+   "Boscawen, Gerrish"
+  ],
+  "qid": "Q2417269",
+  "website": "http://www.townofboscawen.org"
+ },
+ {
+  "name": "Tilton",
+  "wiki": "Tilton,_New_Hampshire",
+  "cells": [
+   "Tilton",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "3,962",
+   "11.1",
+   "1869",
+   "Belmont Junction, East Tilton, Lochmere , The Plains, Tilton , Winnisquam"
+  ],
+  "qid": "Q2430019",
+  "website": "http://www.tiltonnh.org/"
+ },
+ {
+  "name": "Hinsdale",
+  "wiki": "Hinsdale,_New_Hampshire",
+  "cells": [
+   "Hinsdale",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "3,948",
+   "20.6",
+   "1753",
+   "Dole Junction, Hinsdale , North Hinsdale"
+  ],
+  "qid": "Q1911833",
+  "website": "http://www.town.hinsdale.nh.us/"
+ },
+ {
+  "name": "Gilmanton",
+  "wiki": "Gilmanton,_New_Hampshire",
+  "cells": [
+   "Gilmanton",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "3,945",
+   "57.2",
+   "1727",
+   "Allens Mills, Gilmanton Corners, Gilmanton Ironworks , Jones Mills, Kelleys Corner, Lower Gilmanton"
+  ],
+  "qid": "Q2430103",
+  "website": "http://www.gilmantonnh.org/"
+ },
+ {
+  "name": "Wilton",
+  "wiki": "Wilton,_New_Hampshire",
+  "cells": [
+   "Wilton",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "3,896",
+   "25.8",
+   "1762",
+   "Davisville, West Wilton, Wilton , Wilton Center"
+  ],
+  "qid": "Q2278164",
+  "website": "http://www.ci.wilton.nh.us/"
+ },
+ {
+  "name": "Canaan",
+  "wiki": "Canaan,_New_Hampshire",
+  "cells": [
+   "Canaan",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "3,794",
+   "53.2",
+   "1761",
+   "Canaan , Canaan Center, Canaan Street , North Canaan, West Canaan"
+  ],
+  "qid": "Q1031897",
+  "website": "http://www.townofcanaannh.us/"
+ },
+ {
+  "name": "Walpole",
+  "wiki": "Walpole,_New_Hampshire",
+  "cells": [
+   "Walpole",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "3,633",
+   "35.2",
+   "1752",
+   "Christian Hollow, Cold River, Dodge Tavern, Drewsville , North Walpole , Walpole"
+  ],
+  "qid": "Q2420185",
+  "website": "http://www.walpolenh.us/"
+ },
+ {
+  "name": "Chesterfield",
+  "wiki": "Chesterfield,_New_Hampshire",
+  "cells": [
+   "Chesterfield",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "3,552",
+   "45.6",
+   "1752",
+   "Chesterfield, Spofford , West Chesterfield"
+  ],
+  "qid": "Q2310682",
+  "website": "http://www.nhchesterfield.com/"
+ },
+ {
+  "name": "Grantham",
+  "wiki": "Grantham,_New_Hampshire",
+  "cells": [
+   "Grantham",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "3,404",
+   "27.2",
+   "1761",
+   "East Grantham, Eastman, Grantham, North Grantham"
+  ],
+  "qid": "Q2417011",
+  "website": "https://www.granthamnh.net"
+ },
+ {
+  "name": "Campton",
+  "wiki": "Campton,_New_Hampshire",
+  "cells": [
+   "Campton",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "3,343",
+   "51.9",
+   "1761",
+   "Beebe River, Blair, Campton Hollow, Campton Lower Village, Campton Station, Campton Upper Village, West Campton"
+  ],
+  "qid": "Q2418170",
+  "website": "http://www.camptonnh.org/"
+ },
+ {
+  "name": "Sunapee",
+  "wiki": "Sunapee,_New_Hampshire",
+  "cells": [
+   "Sunapee",
+   "Town",
+   "Sullivan",
+   "Town meeting (with town manager)",
+   "3,342",
+   "21.1",
+   "1781",
+   "Burkehaven, Fernwood, Georges Mills , Granliden, Lower Village, Sunapee, Sunapee Station, Wendell"
+  ],
+  "qid": "Q537668",
+  "website": "http://www.town.sunapee.nh.us/"
+ },
+ {
+  "name": "Bristol",
+  "wiki": "Bristol,_New_Hampshire",
+  "cells": [
+   "Bristol",
+   "Town",
+   "Grafton",
+   "Town meeting (with town manager)",
+   "3,244",
+   "17.1",
+   "1819",
+   "Bristol"
+  ],
+  "qid": "Q917802",
+  "website": "http://www.townofbristolnh.org/"
+ },
+ {
+  "name": "Lancaster",
+  "wiki": "Lancaster,_New_Hampshire",
+  "cells": [
+   "Lancaster",
+   "Town",
+   "Co\u00f6s (seat)",
+   "Town meeting",
+   "3,218",
+   "49.8",
+   "1763",
+   "Coos Junction, Grange, Lancaster , Lost Nation, South Lancaster"
+  ],
+  "qid": "Q990612",
+  "website": "http://www.lancasternh.org/"
+ },
+ {
+  "name": "Bartlett",
+  "wiki": "Bartlett,_New_Hampshire",
+  "cells": [
+   "Bartlett",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "3,200",
+   "74.9",
+   "1790",
+   "Bartlett , Cooks Crossing, Glen , Goodrich Falls , Jericho, Lower Bartlett, Intervale , Kearsarge , Rogers Crossing"
+  ],
+  "qid": "Q809447",
+  "website": "http://www.bartlettnh.org"
+ },
+ {
+  "name": "Sanbornton",
+  "wiki": "Sanbornton,_New_Hampshire",
+  "cells": [
+   "Sanbornton",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "3,026",
+   "47.6",
+   "1770",
+   "Bay Meetinghouse, Gaza, North Sanbornton, Sanbornton , Winnisquam"
+  ],
+  "qid": "Q2188563",
+  "website": "http://www.sanborntonnh.org/"
+ },
+ {
+  "name": "Dunbarton",
+  "wiki": "Dunbarton,_New_Hampshire",
+  "cells": [
+   "Dunbarton",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "3,005",
+   "30.9",
+   "1765",
+   "Baileys Corner, Dunbarton Center, Pages Corner"
+  ],
+  "qid": "Q2417104",
+  "website": "http://www.dunbartonnh.org/"
+ },
+ {
+  "name": "Warner",
+  "wiki": "Warner,_New_Hampshire",
+  "cells": [
+   "Warner",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "2,937",
+   "55.6",
+   "1774",
+   "Bagley, Davisville, Dimond, Lower Village, Melvin Mills, Newmarket, Roby, Warner , Waterloo"
+  ],
+  "qid": "Q2417260",
+  "website": "http://www.warner.nh.us/"
+ },
+ {
+  "name": "Tamworth",
+  "wiki": "Tamworth,_New_Hampshire",
+  "cells": [
+   "Tamworth",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "2,812",
+   "59.7",
+   "1766",
+   "Bennett Corners, Chocorua , Pequawket, South Tamworth , Tamworth, Whittier, Wonalancet"
+  ],
+  "qid": "Q2430064",
+  "website": "http://www.tamworthnh.org/"
+ },
+ {
+  "name": "Thornton",
+  "wiki": "Thornton,_New_Hampshire",
+  "cells": [
+   "Thornton",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "2,708",
+   "50.2",
+   "1763",
+   "Goose Hollow, Thornton, West Thornton"
+  ],
+  "qid": "Q2417492",
+  "website": "http://www.townofthornton.org/"
+ },
+ {
+  "name": "Gorham",
+  "wiki": "Gorham,_New_Hampshire",
+  "cells": [
+   "Gorham",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "2,698",
+   "31.9",
+   "1836",
+   "Cascade , Gorham , Upper Village, Lead Mines"
+  ],
+  "qid": "Q966159",
+  "website": "http://www.gorhamnh.org/"
+ },
+ {
+  "name": "New Durham",
+  "wiki": "New_Durham,_New_Hampshire",
+  "cells": [
+   "New Durham",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "2,693",
+   "41.5",
+   "1762",
+   "Coburn, Copplecrown Village District, Davis, Dexter Corner, New Durham, New Durham Corner"
+  ],
+  "qid": "Q2416718",
+  "website": "http://www.newdurhamnh.us/"
+ },
+ {
+  "name": "Chichester",
+  "wiki": "Chichester,_New_Hampshire",
+  "cells": [
+   "Chichester",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "2,665",
+   "21.1",
+   "1727",
+   "Chichester, Horse Corner, Kelleys Corner, North Chichester, Websters Mill"
+  ],
+  "qid": "Q2304496",
+  "website": "http://www.chichesternh.org/"
+ },
+ {
+  "name": "Antrim",
+  "wiki": "Antrim,_New_Hampshire",
+  "cells": [
+   "Antrim",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "2,651",
+   "35.7",
+   "1777",
+   "Antrim , Antrim Center, Clinton Village, Loverens Mill, North Branch"
+  ],
+  "qid": "Q2076351",
+  "website": "http://www.antrimnh.org/"
+ },
+ {
+  "name": "Rollinsford",
+  "wiki": "Rollinsford,_New_Hampshire",
+  "cells": [
+   "Rollinsford",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "2,597",
+   "7.3",
+   "1849",
+   "Kelwyn Park, Rollinsford, Rollinsford Station"
+  ],
+  "qid": "Q2416729",
+  "website": "http://www.rollinsford.nh.us/"
+ },
+ {
+  "name": "Mont Vernon",
+  "wiki": "Mont_Vernon,_New_Hampshire",
+  "cells": [
+   "Mont Vernon",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "2,584",
+   "16.6",
+   "1803",
+   "Mont Vernon"
+  ],
+  "qid": "Q2417168",
+  "website": "http://town.mont-vernon.nh.us/"
+ },
+ {
+  "name": "Madison",
+  "wiki": "Madison,_New_Hampshire",
+  "cells": [
+   "Madison",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "2,565",
+   "38.5",
+   "1852",
+   "East Madison, Eidelweiss , Madison, Silver Lake"
+  ],
+  "qid": "Q2430071",
+  "website": "http://www.madison-nh.org/"
+ },
+ {
+  "name": "Whitefield",
+  "wiki": "Whitefield,_New_Hampshire",
+  "cells": [
+   "Whitefield",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "2,490",
+   "34.2",
+   "1804",
+   "Hazens, Whitefield"
+  ],
+  "qid": "Q2418140",
+  "website": "http://www.whitefieldnh.org/"
+ },
+ {
+  "name": "Bethlehem",
+  "wiki": "Bethlehem,_New_Hampshire",
+  "cells": [
+   "Bethlehem",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "2,484",
+   "90.6",
+   "1799",
+   "Alderbrook, Bethlehem , Deerfield, Five Corners, Maplewood, Pierce Bridge"
+  ],
+  "qid": "Q2417533",
+  "website": "http://www.bethlehemnh.org"
+ },
+ {
+  "name": "Tuftonboro",
+  "wiki": "Tuftonboro,_New_Hampshire",
+  "cells": [
+   "Tuftonboro",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "2,467",
+   "41.0",
+   "1795",
+   "Center Tuftonboro, Federal Corner, Melvin Village , Mirror Lake , Tuftonboro Corner, Union Wharf, Wawbeek"
+  ],
+  "qid": "Q2430156",
+  "website": "http://www.tuftonboro.org/"
+ },
+ {
+  "name": "Plainfield",
+  "wiki": "Plainfield,_New_Hampshire",
+  "cells": [
+   "Plainfield",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "2,459",
+   "52.2",
+   "1761",
+   "Coryville, East Plainfield, Hell Hollow, Meriden , Mill Village, Plainfield , Pratts Corners"
+  ],
+  "qid": "Q1009581",
+  "website": "http://www.plainfieldnh.org/"
+ },
+ {
+  "name": "East Kingston",
+  "wiki": "East_Kingston,_New_Hampshire",
+  "cells": [
+   "East Kingston",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "2,441",
+   "10.0",
+   "1738",
+   "East Kingston, Monahan Corners, Powwow River, Tappan Corners"
+  ],
+  "qid": "Q2304461",
+  "website": "http://www.eastkingstonnh.org/"
+ },
+ {
+  "name": "Andover",
+  "wiki": "Andover,_New_Hampshire",
+  "cells": [
+   "Andover",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "2,406",
+   "40.5",
+   "1779",
+   "Andover, Cilleyville, East Andover , Halcyon Station, Potter Place, West Andover"
+  ],
+  "qid": "Q492832",
+  "website": "https://www.andover-nh.gov/"
+ },
+ {
+  "name": "Hampton Falls",
+  "wiki": "Hampton_Falls,_New_Hampshire",
+  "cells": [
+   "Hampton Falls",
+   "Town",
+   "Rockingham",
+   "Town meeting (with ballot initiative)",
+   "2,403",
+   "12.2",
+   "1726",
+   "Brimstone Hill (The Common), Fogg Corners, Hampton Falls, Nason Corners, Sanborn, Sanborn Corners, Town Hall Corner, Weares Mill"
+  ],
+  "qid": "Q2417133",
+  "website": "http://www.hamptonfalls.org/"
+ },
+ {
+  "name": "Canterbury",
+  "wiki": "Canterbury,_New_Hampshire",
+  "cells": [
+   "Canterbury",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "2,389",
+   "43.6",
+   "1741",
+   "Boyce, Canterbury, Canterbury Station, Hills Corner, Shaker Village"
+  ],
+  "qid": "Q2417199",
+  "website": "http://www.canterbury-nh.org/"
+ },
+ {
+  "name": "New Hampton",
+  "wiki": "New_Hampton,_New_Hampshire",
+  "cells": [
+   "New Hampton",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "2,377",
+   "36.7",
+   "1777",
+   "New Hampton , Winona"
+  ],
+  "qid": "Q2310668",
+  "website": "http://www.new-hampton.nh.us/"
+ },
+ {
+  "name": "Fitzwilliam",
+  "wiki": "Fitzwilliam,_New_Hampshire",
+  "cells": [
+   "Fitzwilliam",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "2,351",
+   "34.6",
+   "1773",
+   "Beechwood Corners, Bowkerville, Fitzwilliam , Fitzwilliam Depot, Rockwood, State Line"
+  ],
+  "qid": "Q2430129",
+  "website": "http://www.fitzwilliam-nh.gov/"
+ },
+ {
+  "name": "Newbury",
+  "wiki": "Newbury,_New_Hampshire",
+  "cells": [
+   "Newbury",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "2,172",
+   "35.8",
+   "1778",
+   "Box Corner, Blodgett Landing , Chalk Pond, Edgemont, Mount Sunapee, Newbury, Pine Cliff, South Newbury"
+  ],
+  "qid": "Q2417523",
+  "website": "http://www.newburynh.org/"
+ },
+ {
+  "name": "Troy",
+  "wiki": "Troy,_New_Hampshire",
+  "cells": [
+   "Troy",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "2,130",
+   "17.4",
+   "1815",
+   "Troy"
+  ],
+  "qid": "Q2418254",
+  "website": "http://www.troy-nh.us/"
+ },
+ {
+  "name": "Northumberland",
+  "wiki": "Northumberland,_New_Hampshire",
+  "cells": [
+   "Northumberland",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "2,126",
+   "35.7",
+   "1779",
+   "Groveton , Northumberland"
+  ],
+  "qid": "Q2420158",
+  "website": "https://northumberlandnh.weebly.com/"
+ },
+ {
+  "name": "Marlborough",
+  "wiki": "Marlborough,_New_Hampshire",
+  "cells": [
+   "Marlborough",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "2,096",
+   "20.4",
+   "1776",
+   "Marlborough , Webb"
+  ],
+  "qid": "Q2418309",
+  "website": "https://www.marlboroughnh.org/"
+ },
+ {
+  "name": "Kensington",
+  "wiki": "Kensington,_New_Hampshire",
+  "cells": [
+   "Kensington",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "2,095",
+   "11.9",
+   "1737",
+   "Austin Corners, Brick School Corner, Eastman Corners, Five Corners, Kensington, Lamprey Corners, Prescott Corner"
+  ],
+  "qid": "Q2417044",
+  "website": "http://www.town.kensington.nh.us/"
+ },
+ {
+  "name": "Colebrook",
+  "wiki": "Colebrook,_New_Hampshire",
+  "cells": [
+   "Colebrook",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "2,084",
+   "40.7",
+   "1796",
+   "Colebrook , Kidderville, Upper Kidderville, Factory Village"
+  ],
+  "qid": "Q2418159",
+  "website": "http://www.colebrooknh.org"
+ },
+ {
+  "name": "Holderness",
+  "wiki": "Holderness,_New_Hampshire",
+  "cells": [
+   "Holderness",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "2,004",
+   "30.5",
+   "1761",
+   "Deephaven, East Holderness, Holderness, Rockywold"
+  ],
+  "qid": "Q2538888",
+  "website": "http://www.holderness-nh.gov/"
+ },
+ {
+  "name": "Sutton",
+  "wiki": "Sutton,_New_Hampshire",
+  "cells": [
+   "Sutton",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "1,978",
+   "42.3",
+   "1784",
+   "East Sutton, North Sutton , Shingle Mill Corner, South Sutton , Sutton, Sutton Mills"
+  ],
+  "qid": "Q2304527",
+  "website": "http://www.sutton-nh.gov/"
+ },
+ {
+  "name": "Greenville",
+  "wiki": "Greenville,_New_Hampshire",
+  "cells": [
+   "Greenville",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,974",
+   "6.9",
+   "1872",
+   "Greenville"
+  ],
+  "qid": "Q2188902",
+  "website": "http://www.greenvillenh.org/"
+ },
+ {
+  "name": "Ashland",
+  "wiki": "Ashland,_New_Hampshire",
+  "cells": [
+   "Ashland",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,938",
+   "11.0",
+   "1868",
+   "Ashland"
+  ],
+  "qid": "Q2310716",
+  "website": "http://www.ashland.nh.gov"
+ },
+ {
+  "name": "Madbury",
+  "wiki": "Madbury,_New_Hampshire",
+  "cells": [
+   "Madbury",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "1,918",
+   "11.7",
+   "1755",
+   "Madbury"
+  ],
+  "qid": "Q2416954",
+  "website": "http://lefh.net/madbury/"
+ },
+ {
+  "name": "Webster",
+  "wiki": "Webster,_New_Hampshire",
+  "cells": [
+   "Webster",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "1,913",
+   "27.9",
+   "1860",
+   "Courser Hill, Dingit Corner, Gerrish Corner, Snyders Mill, Swetts Mills, Webster"
+  ],
+  "qid": "Q2417229",
+  "website": "https://www.webster-nh.gov/"
+ },
+ {
+  "name": "Deering",
+  "wiki": "Deering,_New_Hampshire",
+  "cells": [
+   "Deering",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,904",
+   "30.8",
+   "1774",
+   "Deering, East Deering, Holton, West Deering"
+  ],
+  "qid": "Q508737",
+  "website": "http://www.deering.nh.us/"
+ },
+ {
+  "name": "Alstead",
+  "wiki": "Alstead,_New_Hampshire",
+  "cells": [
+   "Alstead",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "1,864",
+   "38.8",
+   "1763",
+   "Alstead, Alstead Center, East Alstead, Forristalls Corner, Mill Hollow"
+  ],
+  "qid": "Q2306403",
+  "website": "http://www.alsteadnh.org/"
+ },
+ {
+  "name": "Middleton",
+  "wiki": "Middleton,_New_Hampshire",
+  "cells": [
+   "Middleton",
+   "Town",
+   "Strafford",
+   "Town meeting",
+   "1,823",
+   "18.1",
+   "1778",
+   "Middleton Corners, New Portsmouth"
+  ],
+  "qid": "Q2416977",
+  "website": "http://www.middletonnh.gov/"
+ },
+ {
+  "name": "Alexandria",
+  "wiki": "Alexandria,_New_Hampshire",
+  "cells": [
+   "Alexandria",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,776",
+   "43.0",
+   "1782",
+   "Alexandria, South Alexandria"
+  ],
+  "qid": "Q1022942",
+  "website": "http://www.alexandrianh.com/"
+ },
+ {
+  "name": "Newfields",
+  "wiki": "Newfields,_New_Hampshire",
+  "cells": [
+   "Newfields",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "1,769",
+   "7.0",
+   "1849",
+   "Littlefield, Newfields , Rockingham"
+  ],
+  "qid": "Q2417067",
+  "website": "https://www.newfieldsnh.gov/"
+ },
+ {
+  "name": "Lyme",
+  "wiki": "Lyme,_New_Hampshire",
+  "cells": [
+   "Lyme",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,745",
+   "53.8",
+   "1761",
+   "Hardscrabble, Lyme , Lyme Center"
+  ],
+  "qid": "Q2418021",
+  "website": "http://www.lymenh.gov/"
+ },
+ {
+  "name": "Hancock",
+  "wiki": "Hancock,_New_Hampshire",
+  "cells": [
+   "Hancock",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,731",
+   "30.0",
+   "1779",
+   "Elmwood, Hancock"
+  ],
+  "qid": "Q2417425",
+  "website": "https://www.hancocknh.org/"
+ },
+ {
+  "name": "Greenfield",
+  "wiki": "Greenfield,_New_Hampshire",
+  "cells": [
+   "Greenfield",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,716",
+   "26.1",
+   "1791",
+   "Greenfield, Russell"
+  ],
+  "qid": "Q2304613",
+  "website": "http://www.greenfield-nh.gov/"
+ },
+ {
+  "name": "Westmoreland",
+  "wiki": "Westmoreland,_New_Hampshire",
+  "cells": [
+   "Westmoreland",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "1,706",
+   "35.9",
+   "1752",
+   "East Westmoreland, Gilboa, Park Hill, Poocham , Westmoreland, Westmoreland Depot"
+  ],
+  "qid": "Q2418241",
+  "website": "http://www.westmorelandtown.com/"
+ },
+ {
+  "name": "Lyndeborough",
+  "wiki": "Lyndeborough,_New_Hampshire",
+  "cells": [
+   "Lyndeborough",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,702",
+   "30.4",
+   "1764",
+   "Curtis Corner, Johnson Corner, Lyndeborough Center , Perham Corner, South Lyndeborough"
+  ],
+  "qid": "Q1787567",
+  "website": "http://town.lyndeborough.nh.us/"
+ },
+ {
+  "name": "Effingham",
+  "wiki": "Effingham,_New_Hampshire",
+  "cells": [
+   "Effingham",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "1,691",
+   "38.4",
+   "1778",
+   "Center Effingham, Chases Mill, Effingham (Lord's Hill) , Effingham Falls, Grape Corner, Pine River, South Effingham, Drake's Corner"
+  ],
+  "qid": "Q2430133",
+  "website": "http://www.effinghamnh.net/"
+ },
+ {
+  "name": "Freedom",
+  "wiki": "Freedom,_New_Hampshire",
+  "cells": [
+   "Freedom",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "1,689",
+   "35.0",
+   "1831",
+   "East Freedom, Four Corners, Freedom"
+  ],
+  "qid": "Q2276146",
+  "website": "http://www.townoffreedom.net/"
+ },
+ {
+  "name": "Bradford",
+  "wiki": "Bradford,_New_Hampshire",
+  "cells": [
+   "Bradford",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "1,662",
+   "35.3",
+   "1787",
+   "Box Corner, Bradford , Bradford Center"
+  ],
+  "qid": "Q2417112",
+  "website": "http://www.bradfordnh.org/"
+ },
+ {
+  "name": "Lincoln",
+  "wiki": "Lincoln,_New_Hampshire",
+  "cells": [
+   "Lincoln",
+   "Town",
+   "Grafton",
+   "Town meeting (with town manager)",
+   "1,631",
+   "130.3",
+   "1764",
+   "Lincoln , North Lincoln, Stillwater (former)"
+  ],
+  "qid": "Q922740",
+  "website": "http://www.lincolnnh.org/"
+ },
+ {
+  "name": "Lisbon",
+  "wiki": "Lisbon,_New_Hampshire",
+  "cells": [
+   "Lisbon",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,621",
+   "26.2",
+   "1763",
+   "Barrett, Lisbon , Savageville"
+  ],
+  "qid": "Q2310637",
+  "website": "https://www.lisbonnh.org/"
+ },
+ {
+  "name": "Cornish",
+  "wiki": "Cornish,_New_Hampshire",
+  "cells": [
+   "Cornish",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "1,616",
+   "42.1",
+   "1765",
+   "Balloch , Cornish Center, Cornish City, Cornish Flat , Cornish Mills, South Cornish, Squag City"
+  ],
+  "qid": "Q2304594",
+  "website": "https://www.cornishnh.net/"
+ },
+ {
+  "name": "Francestown",
+  "wiki": "Francestown,_New_Hampshire",
+  "cells": [
+   "Francestown",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,610",
+   "30.2",
+   "1772",
+   "Francestown"
+  ],
+  "qid": "Q2417481",
+  "website": "http://www.francestown-nh.gov/"
+ },
+ {
+  "name": "Dublin",
+  "wiki": "Dublin,_New_Hampshire",
+  "cells": [
+   "Dublin",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "1,532",
+   "28.0",
+   "1771",
+   "Bonds Corner, Dublin"
+  ],
+  "qid": "Q2430201",
+  "website": "http://www.townofdublin.org/"
+ },
+ {
+  "name": "Unity",
+  "wiki": "Unity,_New_Hampshire",
+  "cells": [
+   "Unity",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "1,518",
+   "36.9",
+   "1764",
+   "East Unity, Quaker City, Unity, West Unity"
+  ],
+  "qid": "Q2416935",
+  "website": "http://www.unitynh.gov/"
+ },
+ {
+  "name": "Bennington",
+  "wiki": "Bennington,_New_Hampshire",
+  "cells": [
+   "Bennington",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,501",
+   "11.0",
+   "1842",
+   "Bennington"
+  ],
+  "qid": "Q2417391",
+  "website": "http://www.townofbennington.com/"
+ },
+ {
+  "name": "Rumney",
+  "wiki": "Rumney,_New_Hampshire",
+  "cells": [
+   "Rumney",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,498",
+   "41.7",
+   "1761",
+   "Quincy, Rumney, Rumney Depot, Stinson Lake , West Rumney"
+  ],
+  "qid": "Q2418056",
+  "website": "http://www.rumneynh.org/"
+ },
+ {
+  "name": "Sandwich",
+  "wiki": "Sandwich,_New_Hampshire",
+  "cells": [
+   "Sandwich",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "1,466",
+   "90.2",
+   "1763",
+   "Big Rock Corner, Center Sandwich , Chicks Corner, East Sandwich, North Sandwich , Sandwich (Lower Corner) , Sandwich Landing, Wentworth Hill, Whiteface"
+  ],
+  "qid": "Q2430049",
+  "website": "http://town.sandwich.nh.us/"
+ },
+ {
+  "name": "Mason",
+  "wiki": "Mason,_New_Hampshire",
+  "cells": [
+   "Mason",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,448",
+   "23.9",
+   "1768",
+   "Mason, Pratt"
+  ],
+  "qid": "Q2418283",
+  "website": "http://masonnh.us/"
+ },
+ {
+  "name": "Woodstock",
+  "wiki": "Woodstock,_New_Hampshire",
+  "cells": [
+   "Woodstock",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,434",
+   "58.7",
+   "1763",
+   "Fairview, Lost River, North Woodstock , Woodstock"
+  ],
+  "qid": "Q2306422",
+  "website": "http://www.woodstocknh.org/"
+ },
+ {
+  "name": "Salisbury",
+  "wiki": "Salisbury,_New_Hampshire",
+  "cells": [
+   "Salisbury",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "1,422",
+   "40.0",
+   "1768",
+   "Salisbury, Salisbury Heights, Scribners Corner, Smiths Corner, Thompson Corner, West Salisbury"
+  ],
+  "qid": "Q2417187",
+  "website": "http://www.salisburynh.org/"
+ },
+ {
+  "name": "Wilmot",
+  "wiki": "Wilmot,_New_Hampshire",
+  "cells": [
+   "Wilmot",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "1,407",
+   "29.6",
+   "1807",
+   "North Wilmot, Wilmot, Wilmot Flat"
+  ],
+  "qid": "Q2417055",
+  "website": "http://www.wilmotnh.org/"
+ },
+ {
+  "name": "Grafton",
+  "wiki": "Grafton,_New_Hampshire",
+  "cells": [
+   "Grafton",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,385",
+   "41.7",
+   "1778",
+   "East Grafton, Grafton, Grafton Center, Robinson Corner, Cardigan Station"
+  ],
+  "qid": "Q679440",
+  "website": "http://www.townofgrafton.com/"
+ },
+ {
+  "name": "Temple",
+  "wiki": "Temple,_New_Hampshire",
+  "cells": [
+   "Temple",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "1,382",
+   "22.2",
+   "1768",
+   "Temple"
+  ],
+  "qid": "Q2418186",
+  "website": "http://www.templenh.info/"
+ },
+ {
+  "name": "Stoddard",
+  "wiki": "Stoddard,_New_Hampshire",
+  "cells": [
+   "Stoddard",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "1,374",
+   "50.9",
+   "1774",
+   "Leominster Corner, Mill Village, South Stoddard, Stoddard, Woods Mill"
+  ],
+  "qid": "Q2430576",
+  "website": "http://www.stoddardnh.org/"
+ },
+ {
+  "name": "Milan",
+  "wiki": "Milan,_New_Hampshire",
+  "cells": [
+   "Milan",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "1,358",
+   "63.8",
+   "1824",
+   "Copperville, Milan, West Milan"
+  ],
+  "qid": "Q2418146",
+  "website": "http://www.townofmilan.org/"
+ },
+ {
+  "name": "Springfield",
+  "wiki": "Springfield,_New_Hampshire",
+  "cells": [
+   "Springfield",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "1,259",
+   "43.2",
+   "1794",
+   "East Springfield, Roby Corners, Springfield, Twin Lakes Village, Washburn Corner, West Springfield"
+  ],
+  "qid": "Q962307",
+  "website": "http://www.springfieldnh.net/"
+ },
+ {
+  "name": "Danbury",
+  "wiki": "Danbury,_New_Hampshire",
+  "cells": [
+   "Danbury",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "1,250",
+   "37.5",
+   "1795",
+   "Converse Station, Danbury, Elmwood, Fords Crossing, Fords Mill, South Danbury"
+  ],
+  "qid": "Q1159292",
+  "website": "http://www.townofdanburynh.com/"
+ },
+ {
+  "name": "Orford",
+  "wiki": "Orford,_New_Hampshire",
+  "cells": [
+   "Orford",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,237",
+   "46.7",
+   "1761",
+   "Gilmans Corner, Orford , Orfordville, Quinttown"
+  ],
+  "qid": "Q934408",
+  "website": "http://www.orfordnh.us/"
+ },
+ {
+  "name": "Richmond",
+  "wiki": "Richmond,_New_Hampshire",
+  "cells": [
+   "Richmond",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "1,197",
+   "37.6",
+   "1752",
+   "North Richmond, Richmond"
+  ],
+  "qid": "Q596795",
+  "website": "http://www.richmond.nh.gov/"
+ },
+ {
+  "name": "Washington",
+  "wiki": "Washington,_New_Hampshire",
+  "cells": [
+   "Washington",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "1,192",
+   "45.4",
+   "1776",
+   "East Washington, Washington"
+  ],
+  "qid": "Q2416989",
+  "website": "http://www.washingtonnh.org/"
+ },
+ {
+  "name": "Bridgewater",
+  "wiki": "Bridgewater,_New_Hampshire",
+  "cells": [
+   "Bridgewater",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,160",
+   "21.3",
+   "1788",
+   "Bridgewater"
+  ],
+  "qid": "Q2418044",
+  "website": "http://www.bridgewater-nh.com/"
+ },
+ {
+  "name": "Lempster",
+  "wiki": "Lempster,_New_Hampshire",
+  "cells": [
+   "Lempster",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "1,118",
+   "32.3",
+   "1761",
+   "Dodge Hollow, East Lempster , Keyes Hollow, Lempster"
+  ],
+  "qid": "Q2416920",
+  "website": "http://www.lempsternh.org/"
+ },
+ {
+  "name": "Franconia",
+  "wiki": "Franconia,_New_Hampshire",
+  "cells": [
+   "Franconia",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,083",
+   "65.7",
+   "1764",
+   "Franconia, Mittersill"
+  ],
+  "qid": "Q2323254",
+  "website": "http://www.franconianh.org/"
+ },
+ {
+  "name": "Bath",
+  "wiki": "Bath,_New_Hampshire",
+  "cells": [
+   "Bath",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "1,077",
+   "37.7",
+   "1761",
+   "Bath, Mountain Lakes (north part), Nutter, Pettyboro, Swiftwater, Upper Village, West Bath"
+  ],
+  "qid": "Q2310698",
+  "website": "http://www.bathnh.info/"
+ },
+ {
+  "name": "Jefferson",
+  "wiki": "Jefferson,_New_Hampshire",
+  "cells": [
+   "Jefferson",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "1,043",
+   "50.2",
+   "1796",
+   "Baileys, Highlands, Jefferson, Jefferson Highland, Riverton, Starr King, Waumbeck Junction, Cherry Mountain, Meadows"
+  ],
+  "qid": "Q2418119",
+  "website": "http://www.jeffersonnh.org/"
+ },
+ {
+  "name": "Center Harbor",
+  "wiki": "Center_Harbor,_New_Hampshire",
+  "cells": [
+   "Center Harbor",
+   "Town",
+   "Belknap",
+   "Town meeting",
+   "1,040",
+   "13.4",
+   "1797",
+   "Center Harbor , West Center Harbor"
+  ],
+  "qid": "Q2430082",
+  "website": "http://www.centerharbornh.org/"
+ },
+ {
+  "name": "Jackson",
+  "wiki": "Jackson,_New_Hampshire",
+  "cells": [
+   "Jackson",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "1,028",
+   "66.9",
+   "1800",
+   "Ducks Head, Dundee, Jackson, Jackson Falls , Panno Place"
+  ],
+  "qid": "Q680661",
+  "website": "http://www.jacksonvillage.net/"
+ },
+ {
+  "name": "Hill",
+  "wiki": "Hill,_New_Hampshire",
+  "cells": [
+   "Hill",
+   "Town",
+   "Merrimack",
+   "Town meeting",
+   "1,017",
+   "26.7",
+   "1778",
+   "Hill, Hill Center, Murray Hill , South Alexandria"
+  ],
+  "qid": "Q2536910",
+  "website": "http://www.townofhillnh.org/"
+ },
+ {
+  "name": "New Castle",
+  "wiki": "New_Castle,_New_Hampshire",
+  "cells": [
+   "New Castle",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "1,000",
+   "0.8",
+   "1693",
+   "New Castle"
+  ],
+  "qid": "Q2723772",
+  "website": "http://www.newcastlenh.org/"
+ },
+ {
+  "name": "Harrisville",
+  "wiki": "Harrisville,_New_Hampshire",
+  "cells": [
+   "Harrisville",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "984",
+   "18.6",
+   "1870",
+   "Chesham , Eastview, Harrisville"
+  ],
+  "qid": "Q2430096",
+  "website": "http://www.harrisvillenh.org/"
+ },
+ {
+  "name": "Dalton",
+  "wiki": "Dalton,_New_Hampshire",
+  "cells": [
+   "Dalton",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "933",
+   "27.5",
+   "1784",
+   "Cushman, Dalton, Scott"
+  ],
+  "qid": "Q2418130",
+  "website": "http://www.townofdalton.com/"
+ },
+ {
+  "name": "South Hampton",
+  "wiki": "South_Hampton,_New_Hampshire",
+  "cells": [
+   "South Hampton",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "894",
+   "7.9",
+   "1742",
+   "Currierville, Jewell Town , Smith's Corner , South Hampton , Towles Corner"
+  ],
+  "qid": "Q582637",
+  "website": null
+ },
+ {
+  "name": "Monroe",
+  "wiki": "Monroe,_New_Hampshire",
+  "cells": [
+   "Monroe",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "864",
+   "22.3",
+   "1854",
+   "Monroe"
+  ],
+  "qid": "Q2417400",
+  "website": "http://www.monroetown.com/"
+ },
+ {
+  "name": "Acworth",
+  "wiki": "Acworth,_New_Hampshire",
+  "cells": [
+   "Acworth",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "853",
+   "38.9",
+   "1766",
+   "Acworth, Crescent Lake, East Acworth, Lynn, South Acworth"
+  ],
+  "qid": "Q344939",
+  "website": "https://www.acworthnhtownclerk.com/"
+ },
+ {
+  "name": "Wentworth",
+  "wiki": "Wentworth,_New_Hampshire",
+  "cells": [
+   "Wentworth",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "845",
+   "41.4",
+   "1766",
+   "Wentworth"
+  ],
+  "qid": "Q2306396",
+  "website": "http://www.wentworth-nh.org/"
+ },
+ {
+  "name": "Warren",
+  "wiki": "Warren,_New_Hampshire",
+  "cells": [
+   "Warren",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "825",
+   "48.5",
+   "1763",
+   "Breezy Point, Glencliff , Warren"
+  ],
+  "qid": "Q2310654",
+  "website": null
+ },
+ {
+  "name": "Carroll",
+  "wiki": "Carroll,_New_Hampshire",
+  "cells": [
+   "Carroll",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "820",
+   "50.2",
+   "1832",
+   "Bretton Woods , Carroll, Crawford House, Fabyan, Quebec Junction, Twin Mountain"
+  ],
+  "qid": "Q1013089",
+  "website": "https://carrollnh.org/"
+ },
+ {
+  "name": "Surry",
+  "wiki": "Surry,_New_Hampshire",
+  "cells": [
+   "Surry",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "820",
+   "15.6",
+   "1769",
+   "Shaws Corner, Surry"
+  ],
+  "qid": "Q2430713",
+  "website": "http://www.townofsurry.org/"
+ },
+ {
+  "name": "Stewartstown",
+  "wiki": "Stewartstown,_New_Hampshire",
+  "cells": [
+   "Stewartstown",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "813",
+   "46.2",
+   "1795",
+   "Stewartstown, Stewartstown Hollow, West Stewartstown"
+  ],
+  "qid": "Q2430498",
+  "website": null
+ },
+ {
+  "name": "Newington",
+  "wiki": "Newington,_New_Hampshire",
+  "cells": [
+   "Newington",
+   "Town",
+   "Rockingham",
+   "Town meeting",
+   "811",
+   "8.2",
+   "1764",
+   "Newington , Newington Station, Piscataqua, South Newington"
+  ],
+  "qid": "Q589768",
+  "website": "http://www.newington.nh.us/"
+ },
+ {
+  "name": "Croydon",
+  "wiki": "Croydon,_New_Hampshire",
+  "cells": [
+   "Croydon",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "801",
+   "36.7",
+   "1763",
+   "Croydon, Croydon Flat, Croydon Four Corners, Ryder Corner"
+  ],
+  "qid": "Q2303106",
+  "website": "http://www.croydonnh.us"
+ },
+ {
+  "name": "Pittsburg",
+  "wiki": "Pittsburg,_New_Hampshire",
+  "cells": [
+   "Pittsburg",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "800",
+   "281.4",
+   "1840",
+   "Happy Corner, Idlewilde, Pittsburg, The Glen"
+  ],
+  "qid": "Q2323309",
+  "website": "http://www.pittsburg-nh.com/"
+ },
+ {
+  "name": "Goshen",
+  "wiki": "Goshen,_New_Hampshire",
+  "cells": [
+   "Goshen",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "796",
+   "22.5",
+   "1791",
+   "Goshen, Goshen Four Corners"
+  ],
+  "qid": "Q2304249",
+  "website": "http://www.goshennh.org/"
+ },
+ {
+  "name": "Piermont",
+  "wiki": "Piermont,_New_Hampshire",
+  "cells": [
+   "Piermont",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "769",
+   "38.5",
+   "1764",
+   "Piermont"
+  ],
+  "qid": "Q2430469",
+  "website": "https://townofpiermontnh.org/"
+ },
+ {
+  "name": "Albany",
+  "wiki": "Albany,_New_Hampshire",
+  "cells": [
+   "Albany",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "759",
+   "73.6",
+   "1766",
+   "Ferncroft , Passaconaway, Paugus Mill"
+  ],
+  "qid": "Q2323057",
+  "website": "http://www.albanynh.org/"
+ },
+ {
+  "name": "Brookfield",
+  "wiki": "Brookfield,_New_Hampshire",
+  "cells": [
+   "Brookfield",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "755",
+   "22.9",
+   "1794",
+   "Brookfield, Stoneham Corners"
+  ],
+  "qid": "Q2430054",
+  "website": "http://www.brookfieldnh.org/"
+ },
+ {
+  "name": "Gilsum",
+  "wiki": "Gilsum,_New_Hampshire",
+  "cells": [
+   "Gilsum",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "752",
+   "16.7",
+   "1763",
+   "Gilsum, Lower Village, Roundys Corner"
+  ],
+  "qid": "Q607442",
+  "website": "http://gilsum-nh.gov"
+ },
+ {
+  "name": "Marlow",
+  "wiki": "Marlow,_New_Hampshire",
+  "cells": [
+   "Marlow",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "749",
+   "26.0",
+   "1761",
+   "Baker Corner, Gee Mill, Marlow, Marlow Junction"
+  ],
+  "qid": "Q2418295",
+  "website": "http://www.marlow-nh.org/"
+ },
+ {
+  "name": "Stratford",
+  "wiki": "Stratford,_New_Hampshire",
+  "cells": [
+   "Stratford",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "662",
+   "79.5",
+   "1773",
+   "Beatties , East Stratford, Mapleton, Masons, North Stratford , Stratford Center, Stratford Hollow"
+  ],
+  "qid": "Q2304624",
+  "website": "http://www.stratfordnh.org/"
+ },
+ {
+  "name": "Columbia",
+  "wiki": "Columbia,_New_Hampshire",
+  "cells": [
+   "Columbia",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "659",
+   "60.3",
+   "1797",
+   "Bungy, Columbia, Cones, Georges, Meriden Hill, Tinkerville"
+  ],
+  "qid": "Q581953",
+  "website": "http://www.columbianh.org/"
+ },
+ {
+  "name": "Sullivan",
+  "wiki": "Sullivan,_New_Hampshire",
+  "cells": [
+   "Sullivan",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "658",
+   "18.5",
+   "1787",
+   "East Sullivan, Ellisville, Sullivan"
+  ],
+  "qid": "Q2430534",
+  "website": "http://www.ci.sullivan.nh.us/"
+ },
+ {
+  "name": "Langdon",
+  "wiki": "Langdon,_New_Hampshire",
+  "cells": [
+   "Langdon",
+   "Town",
+   "Sullivan",
+   "Town meeting",
+   "651",
+   "16.3",
+   "1787",
+   "Condon Corner, Langdon"
+  ],
+  "qid": "Q378730",
+  "website": "http://langdonnh.org"
+ },
+ {
+  "name": "Sugar Hill",
+  "wiki": "Sugar_Hill,_New_Hampshire",
+  "cells": [
+   "Sugar Hill",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "647",
+   "17.0",
+   "1962",
+   "Sugar Hill"
+  ],
+  "qid": "Q2430609",
+  "website": "http://www.sugarhillnh.org/"
+ },
+ {
+  "name": "Hebron",
+  "wiki": "Hebron,_New_Hampshire",
+  "cells": [
+   "Hebron",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "632",
+   "16.5",
+   "1792",
+   "East Hebron , Hebron , Nuttings Beach"
+  ],
+  "qid": "Q586964",
+  "website": "http://www.hebronnh.org/"
+ },
+ {
+  "name": "Nelson",
+  "wiki": "Nelson,_New_Hampshire",
+  "cells": [
+   "Nelson",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "629",
+   "21.9",
+   "1774",
+   "Munsonville , Nelson"
+  ],
+  "qid": "Q601573",
+  "website": "http://www.townofnelson.com/"
+ },
+ {
+  "name": "Lyman",
+  "wiki": "Lyman,_New_Hampshire",
+  "cells": [
+   "Lyman",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "585",
+   "28.5",
+   "1761",
+   "Dodge Pond, Parker Hill, Tinkerville"
+  ],
+  "qid": "Q669692",
+  "website": "https://www.lymannh.org/"
+ },
+ {
+  "name": "Groton",
+  "wiki": "Groton,_New_Hampshire",
+  "cells": [
+   "Groton",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "569",
+   "40.8",
+   "1761",
+   "Groton, North Groton"
+  ],
+  "qid": "Q2418034",
+  "website": "http://www.town-of-groton.com/"
+ },
+ {
+  "name": "Waterville Valley",
+  "wiki": "Waterville_Valley,_New_Hampshire",
+  "cells": [
+   "Waterville Valley",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "508",
+   "64.9",
+   "1829",
+   "Waterville Valley"
+  ],
+  "qid": "Q1018140",
+  "website": "https://www.watervillevalley.org/"
+ },
+ {
+  "name": "Stark",
+  "wiki": "Stark,_New_Hampshire",
+  "cells": [
+   "Stark",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "478",
+   "58.7",
+   "1795",
+   "Crystal, Percy, Stark"
+  ],
+  "qid": "Q2417379",
+  "website": "http://townofstark.com/"
+ },
+ {
+  "name": "Landaff",
+  "wiki": "Landaff,_New_Hampshire",
+  "cells": [
+   "Landaff",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "446",
+   "28.4",
+   "1774",
+   "Ireland, Jericho, Jockey Hill, Landaff Center"
+  ],
+  "qid": "Q1801934",
+  "website": "http://www.landaffnh.org"
+ },
+ {
+  "name": "Eaton",
+  "wiki": "Eaton,_New_Hampshire",
+  "cells": [
+   "Eaton",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "405",
+   "24.3",
+   "1766",
+   "Eaton Center, Snowville"
+  ],
+  "qid": "Q2430189",
+  "website": "http://www.eatonnh.org/"
+ },
+ {
+  "name": "Benton",
+  "wiki": "Benton,_New_Hampshire",
+  "cells": [
+   "Benton",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "374",
+   "48.2",
+   "1764",
+   "Benton, Boutin Corner, Coventry"
+  ],
+  "qid": "Q2417437",
+  "website": "http://www.tobentonnh.org"
+ },
+ {
+  "name": "Sharon",
+  "wiki": "Sharon,_New_Hampshire",
+  "cells": [
+   "Sharon",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "359",
+   "15.6",
+   "1791",
+   "Sharon"
+  ],
+  "qid": "Q2417510",
+  "website": "http://www.sharonnh.org/"
+ },
+ {
+  "name": "Shelburne",
+  "wiki": "Shelburne,_New_Hampshire",
+  "cells": [
+   "Shelburne",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "353",
+   "47.9",
+   "1820",
+   "Shelburne"
+  ],
+  "qid": "Q2418215",
+  "website": "http://www.shelburnenh.com/"
+ },
+ {
+  "name": "Chatham",
+  "wiki": "Chatham,_New_Hampshire",
+  "cells": [
+   "Chatham",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "341",
+   "56.7",
+   "1767",
+   "Chatham, North Chatham, South Chatham"
+  ],
+  "qid": "Q2304537",
+  "website": "http://chathamnh.org"
+ },
+ {
+  "name": "Dorchester",
+  "wiki": "Dorchester,_New_Hampshire",
+  "cells": [
+   "Dorchester",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "339",
+   "44.7",
+   "1761",
+   "Bucks Corner, Cheever, Dorchester , North Dorchester"
+  ],
+  "qid": "Q941059",
+  "website": "http://www.townofdorchester.net/"
+ },
+ {
+  "name": "Randolph",
+  "wiki": "Randolph,_New_Hampshire",
+  "cells": [
+   "Randolph",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "328",
+   "47.1",
+   "1824",
+   "Appalachia, Bowman, Randolph, Randolph Hill, Scates Corner"
+  ],
+  "qid": "Q2418102",
+  "website": "http://randolph.nh.gov/"
+ },
+ {
+  "name": "Dummer",
+  "wiki": "Dummer,_New_Hampshire",
+  "cells": [
+   "Dummer",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "306",
+   "48.2",
+   "1848",
+   "Dummer, Paris"
+  ],
+  "qid": "Q2420129",
+  "website": "http://dummernh.com"
+ },
+ {
+  "name": "Errol",
+  "wiki": "Errol,_New_Hampshire",
+  "cells": [
+   "Errol",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "298",
+   "60.6",
+   "1836",
+   "Errol"
+  ],
+  "qid": "Q2418070",
+  "website": null
+ },
+ {
+  "name": "Clarksville",
+  "wiki": "Clarksville,_New_Hampshire",
+  "cells": [
+   "Clarksville",
+   "Town",
+   "Co\u00f6s",
+   "Town meeting",
+   "294",
+   "60.1",
+   "1853",
+   ""
+  ],
+  "qid": "Q2418002",
+  "website": null
+ },
+ {
+  "name": "Easton",
+  "wiki": "Easton,_New_Hampshire",
+  "cells": [
+   "Easton",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "292",
+   "31.2",
+   "1876",
+   "Easton, Wildwood"
+  ],
+  "qid": "Q576458",
+  "website": "http://easton-nh.org"
+ },
+ {
+  "name": "Orange",
+  "wiki": "Orange,_New_Hampshire",
+  "cells": [
+   "Orange",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "277",
+   "23.2",
+   "1790",
+   "Orange"
+  ],
+  "qid": "Q2417452",
+  "website": "http://town.orange.nh.us/"
+ },
+ {
+  "name": "Windsor",
+  "wiki": "Windsor,_New_Hampshire",
+  "cells": [
+   "Windsor",
+   "Town",
+   "Hillsborough",
+   "Town meeting",
+   "262",
+   "8.3",
+   "1798",
+   "Windsor"
+  ],
+  "qid": "Q607379",
+  "website": "http://windsornh.org/"
+ },
+ {
+  "name": "Roxbury",
+  "wiki": "Roxbury,_New_Hampshire",
+  "cells": [
+   "Roxbury",
+   "Town",
+   "Cheshire",
+   "Town meeting",
+   "220",
+   "11.9",
+   "1812",
+   "Roxbury Center"
+  ],
+  "qid": "Q2420172",
+  "website": "http://roxburynh.org/"
+ },
+ {
+  "name": "Ellsworth",
+  "wiki": "Ellsworth,_New_Hampshire",
+  "cells": [
+   "Ellsworth",
+   "Town",
+   "Grafton",
+   "Town meeting",
+   "93",
+   "21.4",
+   "1802",
+   "Ellsworth"
+  ],
+  "qid": "Q2418197",
+  "website": null
+ },
+ {
+  "name": "Hart's Location",
+  "wiki": "Hart's_Location,_New_Hampshire",
+  "cells": [
+   "Hart's Location",
+   "Town",
+   "Carroll",
+   "Town meeting",
+   "68",
+   "18.7",
+   "1795",
+   "Notchland, Sawyers River, Willey House"
+  ],
+  "qid": "Q1026710",
+  "website": "http://www.hartslocation.com/"
+ }
+]

@@ -97,8 +97,17 @@ CREATE INDEX IF NOT EXISTS ix_doc_town ON documents(town);
 _dblock = threading.Lock()
 
 
+def retry(fn, tries=20):
+    """Run a DB write, waiting out locks held by OCR or report runs that share the database."""
+    for k in range(tries):
+        try: return fn()
+        except sqlite3.OperationalError as e:
+            if "locked" not in str(e) or k == tries - 1: raise
+            time.sleep(min(30, 2 + 2 * k))
+
+
 def db():
-    c = sqlite3.connect(DB, timeout=60, check_same_thread=False)
+    c = sqlite3.connect(DB, timeout=120, check_same_thread=False)
     c.execute("PRAGMA journal_mode=WAL")
     return c
 
@@ -201,14 +210,19 @@ class Town:
         except Exception as e:
             err = str(e)[:300]
         needs_ocr = int(bool(sha) and ext == ".pdf" and len(text.strip()) < 200)
-        with _dblock:
-            cur = self.conn.execute(
+        def write():
+          with _dblock:
+            try:
+              cur = self.conn.execute(
                 "INSERT OR IGNORE INTO documents(town,url,title,source_page,board,doc_type,meeting_date,content_type,sha256,local_path,n_chars,needs_ocr,fetched_at,error) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
                 (self.name, url, title[:300], src, board, dtype, date, ctype[:80], sha, path and os.path.relpath(path, ROOT), len(text), needs_ocr, dt.datetime.now().isoformat(timespec="seconds"), err))
-            if cur.lastrowid and cur.rowcount and text:
+              if cur.lastrowid and cur.rowcount and text:
                 self.conn.execute("INSERT INTO doc_text(id,text) VALUES(?,?)", (cur.lastrowid, text))
                 self.conn.execute("INSERT INTO doc_fts(rowid,text) VALUES(?,?)", (cur.lastrowid, text))
-            self.conn.commit()
+              self.conn.commit()
+            except sqlite3.OperationalError:
+              self.conn.rollback(); raise
+        retry(write)
         self.ndocs += 1
 
     # ---------- platform helpers ----------
@@ -288,7 +302,8 @@ class Town:
             for a in soup.select("a[href]"):
                 href = a["href"].strip()
                 if not href or href.startswith("#"): continue
-                u = urldefrag(urljoin(r.url, href))[0]
+                try: u = urldefrag(urljoin(r.url, href))[0]; urlparse(u).netloc
+                except ValueError: continue  # malformed hrefs (e.g. stray brackets read as IPv6)
                 if not u.startswith("http") or SKIP.search(u): continue
                 txt = a.get_text(" ", strip=True)[:200]
                 # row context helps when link text is just "Agenda" / "Minutes"
@@ -332,11 +347,13 @@ def crawl_town(t, since):
     conn = db()
     name = t["name"]
     def mark(status, pages=0, docs=0, notes=""):
-        with _dblock:
+        def write():
+          with _dblock:
             conn.execute("INSERT OR REPLACE INTO towns VALUES(?,?,?,?,?,?,?,?,?,?,?)",
                          (name, t["county"], t["type"], t["population"], t.get("final_url"), ",".join(t.get("platform") or []),
                           status, pages, docs, notes, dt.datetime.now().isoformat(timespec="seconds")))
             conn.commit()
+        retry(write)
     if t.get("resolved") == "NO_SITE" or not t.get("final_url"):
         mark("no_website", notes="No municipal website found"); return name, "no_website"
     try:

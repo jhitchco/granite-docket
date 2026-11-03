@@ -45,6 +45,29 @@ def stacked_bars(labels, stacks, fmt, title, flags=None, every=1, w=760, h=240):
     return "".join(out)
 
 
+def line_chart(labels, series, fmt, title, w=520, h=220, zero=True):
+    """series: list of (css_class, label, values); None values are skipped."""
+    L, R, T, B = 58, 12, 14, 34
+    vals = [v for _, _, vs in series for v in vs if v is not None]
+    if not vals: return ""
+    hi = nice_max(max(vals)); lo = 0 if zero else min(vals) * 0.9
+    x = lambda i: L + (w - L - R) * (i / max(1, len(labels) - 1))
+    y = lambda v: T + (h - T - B) * (1 - (v - lo) / (hi - lo or 1))
+    out = [f'<svg class="chart" viewBox="0 0 {w} {h}" role="img" aria-label="{title}"><title>{title}</title>']
+    for k in range(5):
+        v = lo + (hi - lo) * k / 4
+        out.append(f'<line class="grid" x1="{L}" x2="{w - R}" y1="{y(v):.1f}" y2="{y(v):.1f}"/><text class="ax" x="{L - 6}" y="{y(v) + 4:.1f}" text-anchor="end">{fmt(v)}</text>')
+    for i, lab in enumerate(labels):
+        out.append(f'<text class="ax" x="{x(i):.1f}" y="{h - B + 16}" text-anchor="middle">{lab}</text>')
+    for cls, label, vs in series:
+        pts = [(x(i), y(v), v, labels[i]) for i, v in enumerate(vs) if v is not None]
+        out.append(f'<polyline class="ln {cls}" points="{" ".join(f"{a:.1f},{b:.1f}" for a, b, _, _ in pts)}"/>')
+        out += [f'<circle class="pt {cls}" cx="{a:.1f}" cy="{b:.1f}" r="3"><title>{label} {lab}: {fmt(v)}</title></circle>' for a, b, v, lab in pts]
+        if pts: out.append(f'<text class="ax lbl {cls}" x="{pts[-1][0] - 4:.1f}" y="{pts[-1][1] - 8:.1f}" text-anchor="end">{fmt(pts[-1][2])}</text>')
+    out.append("</svg>")
+    return "".join(out)
+
+
 def spark(vals, w=120, h=26):
     if not vals or max(vals) <= 0: return '<svg class="spark" viewBox="0 0 120 26"></svg>'
     top = max(vals); bw = w / len(vals)
@@ -132,12 +155,56 @@ def build(out, towns, page, write, slug, e):
                                f"{t}: permitted construction value per month", flags=[(p in M[t] and not M[t][p]["reported"]) for p in mm], every=6, w=520, h=220)
         return annual, monthly
 
+    def new_res(t, y):  # residential construction value permitted in year y (Census, all structure types)
+        d = Y[t].get(str(y))
+        return (d["v1"] + d["v2"] + d["v34"] + d["v5"]) if d else 0
+
+    def tax_charts(t):
+        dr = dra.get(t, {})
+        yrs = [y for y in sorted(dr) if dr[y]["equalized"] and dr[y]["total_rate"]]
+        if len(yrs) < 2: return None
+        y0 = yrs[0]; base = dr[y0]["equalized"]; cum = 0; parts = {"base": [], "new": [], "appr": []}
+        for y in yrs:
+            if y > y0: cum += new_res(t, y)
+            eq = dr[y]["equalized"]; b = min(base, eq); n = max(0, min(cum, eq - b))
+            parts["base"].append(b); parts["new"].append(n); parts["appr"].append(max(0, eq - b - n))
+        stack = stacked_bars([str(y) for y in yrs], [(k, parts[k]) for k in ("base", "new", "appr")], money,
+                             f"{t}: equalized valuation split into {y0} base, new residential construction, and everything else", w=520, h=220)
+        rates = line_chart([str(y) for y in yrs], [("tot", "Total tax rate", [dr[y]["total_rate"] for y in yrs]),
+                                                   ("full", "Full-value rate", [round(dr[y]["total_rate"] * dr[y]["ratio"] / 100, 2) if dr[y]["ratio"] else None for y in yrs]),
+                                                   ("sch", "Local school rate", [dr[y]["school_rate"] for y in yrs])],
+                           lambda v: f"${v:.2f}", f"{t}: tax rate per $1,000", w=520, h=220)
+        growth = dr[yrs[-1]]["equalized"] - base
+        return dict(stack=stack, rates=rates, y0=y0, y1=yrs[-1], base=base, end=dr[yrs[-1]]["equalized"], growth=growth, new=cum,
+                    share=(cum / growth if growth > 0 else None), r0=dr[y0]["total_rate"], r1=dr[yrs[-1]]["total_rate"])
+
+    TAXLEG = ('<div class="legend"><span><i class="sw b-base"></i>value at start</span><span><i class="sw b-new"></i>new residential construction since (permit value)</span>'
+              '<span><i class="sw b-appr"></i>appreciation, commercial and everything else</span></div>')
+    RATELEG = ('<div class="legend"><span><i class="sw ln-tot"></i>total tax rate</span><span><i class="sw ln-full"></i>full-value rate (at market value)</span>'
+               '<span><i class="sw ln-sch"></i>local school rate</span></div>')
+
+    def tax_block(t, tc):
+        share = f", about {tc['share'] * 100:.0f}% of the growth" if tc["share"] else ""
+        return f"""<div class="taxline">Tax base {tc["y0"]}→{tc["y1"]}: {money(tc["base"])} → {money(tc["end"])} (+{tc["growth"] / tc["base"] * 100:.0f}%).
+New residential construction permitted since then: {money(tc["new"])}{share}. Total tax rate ${tc["r0"]:.2f} → ${tc["r1"]:.2f} per $1,000.</div>
+<div class="two"><figure>{TAXLEG}{tc["stack"]}<figcaption>Equalized (market) valuation, NH DRA</figcaption></figure><figure>{RATELEG}{tc["rates"]}<figcaption>Tax rate per $1,000 of assessed value, NH DRA</figcaption></figure></div>"""
+
     feat = []
     for t in FEATURED:
         if t not in M: continue
         a, m = town_charts(t)
         feat.append(f"""<article class="fcard"><div class="fh"><a class="town" href="{slug(t)}/index.html">{e(t)}</a><span class="num">last 12 months: {money(tot(t, last12, 1))} · {tot(t, last12, 0):,} units · {tot(t, last12, 0, ("apt",)):,} in 5+ unit buildings</span></div>
-<div class="two"><figure>{a}<figcaption>Units per year</figcaption></figure><figure>{m}<figcaption>Construction value per month</figcaption></figure></div></article>""")
+<div class="two"><figure>{a}<figcaption>Units per year</figcaption></figure><figure>{m}<figcaption>Construction value per month</figcaption></figure></div>{tax_block(t, tax_charts(t)) if tax_charts(t) else ""}</article>""")
+
+    taxrows = []
+    for t in sorted(dra):
+        if t not in Y: continue
+        tc = tax_charts(t)
+        if not tc or tc["new"] < 10e6: continue
+        taxrows.append((t, tc))
+    taxrows.sort(key=lambda x: -(x[1]["new"] / x[1]["base"]))
+    taxtable = "".join(f"""<tr><td><a href="{slug(t)}/index.html">{e(t)}</a></td><td class="n">{money(tc["base"])}</td><td class="n">{money(tc["end"])}</td><td class="n">+{tc["growth"] / tc["base"] * 100:.0f}%</td>
+<td class="n">{money(tc["new"])}</td><td class="n">{tc["new"] / tc["base"] * 100:.1f}%</td><td class="n">{f'{tc["share"] * 100:.0f}%' if tc["share"] else "–"}</td><td class="n">${tc["r0"]:.2f} → ${tc["r1"]:.2f}</td></tr>""" for t, tc in taxrows[:60])
 
     big = sorted([c for v in clusters.values() for c in v if c["units"] >= 40 and (c["last"] or "") >= "2024-01-01"], key=lambda c: -c["units"])[:25]
     def proj_rows(cs, show_town=True):
@@ -155,7 +222,8 @@ def build(out, towns, page, write, slug, e):
 <div class="tablebox"><table><thead><tr><th>Town</th><th>Value</th><th>vs. prior 12 mo.</th><th>Units</th><th>5+ unit</th><th>24 months</th><th>Reported</th></tr></thead><tbody>{table}</tbody></table></div></section>
 <section><h2>Largest projects in planning records since 2024</h2><p class="note">Unit counts pulled automatically from planning board, zoning and council documents. Mentions of the same unit count in one town are grouped. Read the source before relying on one: some are city-wide totals or proposals that never went ahead.</p>
 <div class="tablebox"><table><thead><tr><th>Town</th><th>Units</th><th>Type</th><th>Location</th><th>Mentioned</th><th>Docs</th><th>Excerpt</th></tr></thead><tbody>{proj_rows(big)}</tbody></table></div></section>
-<section><h2>Tax rates and assessed value</h2><p class="note" id="dra">{"Per-town assessed valuation and tax rates from NH DRA are shown on each town's housing page." if dra else "Coming next: NH Department of Revenue assessed valuation, equalized valuation and tax rates for 2018–2025, charted against new construction for each town."}</p></section>"""
+<section><h2>New construction and the tax base, 2018–2025</h2><p class="note">Equalized valuation is NH DRA's estimate of each town's full market value, which removes the jumps from town revaluations. "New construction" is the residential permit value Census recorded from 2019 on, so treat it as a rough guide: permit value is not assessed value, and commercial building is not included. Ranked by new construction as a share of the 2018 tax base; towns with under $10M of new construction are left out.</p>
+<div class="tablebox"><table><thead><tr><th>Town</th><th>Equalized 2018</th><th>Equalized 2025</th><th>Growth</th><th>New residential construction</th><th>% of 2018 base</th><th>Share of growth</th><th>Total tax rate</th></tr></thead><tbody>{taxtable}</tbody></table></div></section>"""
     write("housing/index.html", page("Housing & new construction · Granite Docket", 1, body, "NH residential building permits and construction value by town and month."))
 
     # ---------- per-town housing pages
@@ -175,6 +243,6 @@ def build(out, towns, page, write, slug, e):
 {f'<section><h2>Permits</h2>{legend(True)}<div class="two"><figure>{a}<figcaption>Units per year (Census BPS annual)</figcaption></figure><figure>{m}<figcaption>Construction value per month, last 36 months</figcaption></figure></div></section>' if a else ""}
 <section><h2>Two sources compared</h2><p class="note">Census counts permits issued; NH Office of Planning and Development counts net new units from the town's own survey (after demolitions). Where they disagree, the town survey is usually more reliable, especially in years the town didn't report to Census.</p>
 <div class="tablebox"><table><thead><tr><th>Year</th><th>Census units</th><th>Census 5+</th><th>Months reported</th><th>OPD net units</th><th>OPD 5+</th></tr></thead><tbody>{cmp}</tbody></table></div></section>
-{f'<section><h2>Assessed value and tax rate</h2><div class="tablebox">{dra_html}</div></section>' if dra_html else ""}
+{f'<section><h2>New construction, tax base and tax rate</h2>{tax_block(t, tax_charts(t))}<div class="tablebox">{dra_html}</div></section>' if dra_html and t in Y and tax_charts(t) else (f'<section><h2>Assessed value and tax rate</h2><div class="tablebox">{dra_html}</div></section>' if dra_html else "")}
 <section><h2>Projects in planning records</h2>{f'<div class="tablebox"><table><thead><tr><th>Units</th><th>Type</th><th>Location</th><th>Mentioned</th><th>Docs</th><th>Excerpt</th></tr></thead><tbody>{proj_rows(clusters.get(t, [])[:40], False)}</tbody></table></div>' if clusters.get(t) else '<p class="empty">No multifamily projects found in the collected records.</p>'}</section>"""
         write(f"housing/{slug(t)}/index.html", page(f"{t} housing · Granite Docket", 2, body, f"New construction in {t}, NH"))

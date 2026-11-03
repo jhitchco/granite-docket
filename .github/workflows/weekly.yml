@@ -52,6 +52,7 @@ jobs:
           python report.py
           python housing.py fetch
           python housing.py projects
+          python housing.py dra
           python site.py
 
       - name: Save database

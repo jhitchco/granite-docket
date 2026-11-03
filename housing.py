@@ -2,6 +2,7 @@
 
   python housing.py fetch      # Census BPS (annual 2018+, monthly 2022-01+) and OPD housing supply CSV
   python housing.py projects   # multifamily project mentions from planning/zoning records in nh_meetings.db
+  python housing.py dra        # NH DRA valuation + tax rate spreadsheets in dra/ (downloaded by hand: revenue.nh.gov blocks scripts)
 Sources and caveats: housing_sources.md
 """
 import csv, datetime as dt, io, json, os, re, sqlite3, sys, time
@@ -140,8 +141,62 @@ def projects(conn):
     for r in conn.execute("SELECT town,count(*),sum(units) FROM projects GROUP BY town ORDER BY 2 DESC LIMIT 15"): print(r)
 
 
+def dra(conn):
+    import glob, openpyxl
+    hn = lambda h: re.sub(r"\s+", " ", str(h or "")).strip().lower()
+    clean = lambda n: re.sub(r"\s*\(.*?\)\s*$", "", str(n)).strip()
+    def sheet_rows(path):
+        wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
+        ws = next((wb[n] for n in wb.sheetnames if "alpha" in n.lower()), wb.worksheets[0])
+        rows = list(ws.iter_rows(values_only=True))
+        hi = next((i for i, r in enumerate(rows[:10]) if any(hn(c) == "municipality" for c in r)), None)
+        if hi is not None: return [hn(c) for c in rows[hi]], rows[hi + 1:]
+        # some years (2019, 2021) ship without a header row; borrow it from the nearest year with the same layout
+        kind, year = re.match(r"(\w+)-(\d{4})", os.path.basename(path)).groups()
+        width = max(len(r) for r in rows[:5])
+        for y in sorted(range(2018, 2030), key=lambda y: abs(y - int(year))):
+            ref = os.path.join(ROOT, "dra", f"{kind}-{y}.xlsx")
+            if y == int(year) or not os.path.exists(ref): continue
+            try: h, r2 = sheet_rows(ref)
+            except ValueError: continue
+            if len(h) == width: return h, [x for x in rows if x and len(x) > 1 and x[1] is not None]
+        raise ValueError(f"no header in {path}")
+    def col(heads, test):
+        return next((i for i, h in enumerate(heads) if test(h)), None)
+    towns = {}
+    for path in sorted(glob.glob(os.path.join(ROOT, "dra", "tables-*.xlsx"))):
+        y = int(re.search(r"(\d{4})", path).group(1)); heads, rows = sheet_rows(path)
+        im = heads.index("municipality")
+        ires = col(heads, lambda h: h in ("residential buildings", "residential"))
+        inet = col(heads, lambda h: h.startswith("net valuation"))
+        for r in rows:
+            if not r[im] or not isinstance(r[inet], (int, float)): continue
+            towns.setdefault((clean(r[im]), y), {}).update(net_valuation=r[inet], res_buildings=r[ires])
+    for path in sorted(glob.glob(os.path.join(ROOT, "dra", "rates-*.xlsx"))):
+        y = int(re.search(r"(\d{4})", path).group(1)); heads, rows = sheet_rows(path)
+        im = heads.index("municipality")
+        c = dict(ratio=col(heads, lambda h: h.endswith("ratio")),
+                 equalized=col(heads, lambda h: "total equalized valuation including" in h),
+                 total_rate=col(heads, lambda h: "total tax rate" in h),
+                 school_rate=col(heads, lambda h: h.startswith("school tax rate")),
+                 state_ed_rate=col(heads, lambda h: h.startswith("state education tax rate")),
+                 county_rate=col(heads, lambda h: h.startswith("county tax rate")),
+                 municipal_rate=col(heads, lambda h: h.startswith("municipal tax rate")))
+        for r in rows:
+            if not r[im] or not isinstance(r[c["total_rate"]], (int, float)): continue
+            towns.setdefault((clean(r[im]), y), {}).update({k: (round(r[i], 4) if isinstance(r[i], float) else r[i]) for k, i in c.items() if i is not None})
+    conn.execute("DELETE FROM dra")
+    for (t, y), d in towns.items():
+        if re.search(r"total|county", t, re.I): continue
+        conn.execute("INSERT OR REPLACE INTO dra VALUES(?,?,?,?,?,?,?,?,?,?,?)", (t, y, d.get("net_valuation"), d.get("res_buildings"), d.get("equalized"), d.get("ratio"),
+                     d.get("total_rate"), d.get("municipal_rate"), d.get("school_rate"), d.get("state_ed_rate"), d.get("county_rate")))
+    conn.commit()
+    print("DRA rows:", conn.execute("SELECT count(*), count(DISTINCT town), min(year), max(year) FROM dra").fetchone())
+
+
 if __name__ == "__main__":
     conn = sqlite3.connect(HDB); conn.executescript(SCHEMA)
     cmd = sys.argv[1] if len(sys.argv) > 1 else "fetch"
     if cmd == "fetch": fetch(conn)
     elif cmd == "projects": projects(conn)
+    elif cmd == "dra": dra(conn)

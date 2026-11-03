@@ -103,3 +103,13 @@ td.warn{color:var(--warn)}
 td.wrapcell{white-space:normal;min-width:320px;max-width:520px}
 .q{color:var(--muted);font:12px var(--f-mono)}
 main.wrap>*{min-width:0}
+:root{--t1:#9aa8a1;--t2:#2f8f6b;--t3:#cfd7d2}
+@media (prefers-color-scheme:dark){:root{--t1:#55625c;--t2:#6cc3a3;--t3:#2c3833}}
+.b-base{fill:var(--t1)} .b-new{fill:var(--t2)} .b-appr{fill:var(--t3)}
+.sw.b-base{background:var(--t1)} .sw.b-new{background:var(--t2)} .sw.b-appr{background:var(--t3)}
+.ln{fill:none;stroke-width:2.2} .ln.tot{stroke:var(--ink)} .ln.full{stroke:var(--s2);stroke-dasharray:5 4} .ln.sch{stroke:var(--s3)}
+.pt.tot{fill:var(--ink)} .pt.full{fill:var(--s2)} .pt.sch{fill:var(--s3)}
+.ax.lbl{font-weight:500} .ax.lbl.tot{fill:var(--ink)} .ax.lbl.full{fill:var(--s2)} .ax.lbl.sch{fill:var(--s3)}
+.sw.ln-tot,.sw.ln-full,.sw.ln-sch{height:3px;vertical-align:3px}
+.sw.ln-tot{background:var(--ink)} .sw.ln-full{background:var(--s2)} .sw.ln-sch{background:var(--s3)}
+.taxline{font-size:14px;max-width:80ch}

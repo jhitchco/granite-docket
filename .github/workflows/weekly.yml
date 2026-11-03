@@ -38,14 +38,19 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml pymupdf
+        run: |
+          pip install requests beautifulsoup4 lxml pymupdf openpyxl psutil
+          sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr
 
       - name: Restore database
         run: |
           gh release download data -p nh_meetings.db.gz && gunzip -f nh_meetings.db.gz || echo "no saved database yet; starting fresh"
 
       - name: Crawl
-        run: python nhmeet.py crawl --since-days "${{ inputs.since_days || '120' }}" --workers 24 --max-minutes 270
+        run: python nhmeet.py crawl --since-days "${{ inputs.since_days || '120' }}" --workers 24 --max-minutes 240
+
+      - name: OCR scanned PDFs
+        run: timeout 40m python ocr.py --workers 4 || echo "OCR stopped at time limit; the rest carries to next week"
 
       - name: Keyword report and site
         run: |

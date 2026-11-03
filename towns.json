@@ -527,11 +527,11 @@
    "Bellamy, Boston Harbor, Cocheco, Dover, Gates Corner, Sawyers , Wentworth Terrace"
   ],
   "qid": "Q48215",
-  "website": "http://www.ci.dover.nh.us",
+  "website": "https://www.dover.nh.gov/",
   "error": null,
-  "final_url": "https://www.dovernh.org/",
+  "final_url": "https://www.dover.nh.gov/",
   "status": 200,
-  "resolved": "guess"
+  "resolved": "manual"
  },
  {
   "name": "Rochester",
@@ -547,13 +547,13 @@
    "East Rochester , Gonic , Meaderboro Corner, Melrose Corner, North Rochester , Pickering, Rochester, West Gonic"
   ],
   "qid": "Q985354",
-  "website": "http://www.rochesternh.net/",
-  "final_url": "https://www.rochesternh.org/",
+  "website": "https://www.rochesternh.gov/",
+  "final_url": "https://www.rochesternh.gov/",
   "status": 200,
   "platform": [],
   "meeting_links": [],
   "error": null,
-  "resolved": "guess"
+  "resolved": "manual"
  },
  {
   "name": "Salem",
@@ -2452,13 +2452,13 @@
    "Chase Village, Clinton Grove, North Weare, Riverdale, Slab City, South Weare, Tavern Village, Weare"
   ],
   "qid": "Q634813",
-  "website": "http://www.weare.nh.gov/",
-  "final_url": "https://www.wearenh.org/",
+  "website": "https://www.wearenh.gov/",
+  "final_url": "https://www.wearenh.gov/",
   "status": 200,
   "platform": [],
   "meeting_links": [],
   "error": null,
-  "resolved": "guess"
+  "resolved": "manual"
  },
  {
   "name": "Hampstead",
@@ -2571,8 +2571,8 @@
    "Atlantic, Fogg Corners, Riverside, Seabrook, Seabrook Beach , Seabrook Station, Smithtown, South Seabrook, Walton Landing, Weare Corner, Weares Mill"
   ],
   "qid": "Q375215",
-  "website": "http://www.seabrooknh.org/",
-  "final_url": "https://seabrooknh.org/",
+  "website": "https://seabrooknh.info/",
+  "final_url": "https://seabrooknh.info/",
   "status": 200,
   "platform": [
    "wordpress"
@@ -2594,7 +2594,9 @@
     "https://seabrooknh.org/zoning-board/",
     "Zoning Board"
    ]
-  ]
+  ],
+  "resolved": "manual",
+  "error": null
  },
  {
   "name": "Hollis",
@@ -4122,13 +4124,13 @@
    "Contoocook , Hatfield Corner, Hopkinton, Tyler, West Hopkinton"
   ],
   "qid": "Q980157",
-  "website": "http://www.hopkinton-nh.gov/",
-  "final_url": "https://hopkinton.nh.us/",
+  "website": "https://www.hopkinton-nh.gov/",
+  "final_url": "https://www.hopkinton-nh.gov/",
   "status": 200,
   "platform": [],
   "meeting_links": [],
   "error": null,
-  "resolved": "guess"
+  "resolved": "manual"
  },
  {
   "name": "Alton",
@@ -5837,13 +5839,13 @@
    "Enfield , Enfield Center , Fish Market, Lockehaven, Lower Shaker Village, Montcalm , Purmort, Upper Shaker Village"
   ],
   "qid": "Q2276245",
-  "website": "http://www.enfield.nh.us/",
-  "final_url": "https://www.enfieldnh.org/",
+  "website": "https://www.enfieldnh.gov/",
+  "final_url": "https://www.enfieldnh.gov/",
   "status": 200,
   "platform": [],
   "meeting_links": [],
   "error": null,
-  "resolved": "guess"
+  "resolved": "manual"
  },
  {
   "name": "Danville",
@@ -7082,13 +7084,13 @@
    "Burkehaven, Fernwood, Georges Mills , Granliden, Lower Village, Sunapee, Sunapee Station, Wendell"
   ],
   "qid": "Q537668",
-  "website": "http://www.town.sunapee.nh.us/",
-  "final_url": "https://sunapeenh.org/",
+  "website": "https://www.sunapeenh.gov/",
+  "final_url": "https://www.sunapeenh.gov/",
   "status": 200,
   "platform": [],
   "meeting_links": [],
   "error": null,
-  "resolved": "guess"
+  "resolved": "manual"
  },
  {
   "name": "Bristol",
@@ -11326,13 +11328,13 @@
    "Mason, Pratt"
   ],
   "qid": "Q2418283",
-  "website": "http://masonnh.us/",
-  "final_url": "https://mason-nh.org/",
+  "website": "https://www.masonnh.us/",
+  "final_url": "https://www.masonnh.us/",
   "status": 200,
   "platform": [],
   "meeting_links": [],
   "error": null,
-  "resolved": "guess"
+  "resolved": "manual"
  },
  {
   "name": "Woodstock",

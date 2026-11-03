@@ -17,7 +17,7 @@ DB = os.path.join(ROOT, "nh_meetings.db")
 RAW = os.path.join(ROOT, "raw")
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36 nh-meetings-research"
 MAX_PAGES = 450          # HTML pages per town
-MAX_DOCS = 1500          # documents per town
+MAX_DOCS = 4000          # documents per town
 MAX_BYTES = 60 << 20     # skip files over 60 MB
 DEADLINE = float("inf")  # epoch seconds; set by --max-minutes so CI runs stop cleanly
 DELAY = 0.25             # seconds between requests to one town
@@ -253,6 +253,16 @@ class Town:
         slugs = set(re.findall(r"towncloud\.io/go/([\w-]+)/agendas/(\d+)", html_blobs))
         by = {}
         for slug, i in slugs: by[slug] = max(by.get(slug, 0), int(i))
+        if not by:  # site built on TownCloud but no agenda links in the HTML (list is loaded by script): find the newest id
+            slug = (re.findall(r"towncloud\.io/go/([\w-]+)", html_blobs) or [re.sub(r"[^a-z]+", "-", self.name.lower()).strip("-") + "-nh"])[0]
+            hi, misses, i = 0, 0, 0
+            while i < 2000 and (misses < 80 or (not hi and i < 400)):
+                i += 1
+                try: r = self.get(f"https://towncloud.io/go/{slug}/agendas/{i}", timeout=30)
+                except Exception: continue
+                if r.status_code == 200 and "Read the full agenda" in r.text: hi, misses = i, 0
+                else: misses += 1
+            if hi: by[slug] = hi
         for slug, hi in by.items():
             misses = 0
             for i in range(hi + 40, 0, -1):
@@ -328,7 +338,7 @@ class Town:
         plat = self.t.get("platform") or []
         if "civicplus" in plat or "civicplus" in self.base: self.civicplus()
         blobs = self.crawl()
-        if "towncloud.io/go/" in blobs: self.towncloud(blobs)
+        if "towncloud.io/go/" in blobs or "towncloud.com?utm" in blobs: self.towncloud(blobs)
         return self.pages, self.ndocs
 
 

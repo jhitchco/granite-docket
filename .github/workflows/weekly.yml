@@ -69,6 +69,16 @@ jobs:
           gh release view data >/dev/null 2>&1 || gh release create data --title "Database snapshot" --notes "SQLite database used by the weekly crawl. Replaced every run."
           gh release upload data nh_meetings.db.gz --clobber
 
+      - name: Bundle new original files for the PC archive
+        if: always()
+        run: |
+          # the runner starts empty, so raw/ holds only this run's downloads; pull_raw.py on the PC fetches and removes them
+          [ -d raw ] && [ -n "$(ls -A raw)" ] || exit 0
+          tag=raw-$(date -u +%Y%m%d)
+          tar -cf - raw | split -b 1900m -d - "$tag.tar.part"
+          gh release view raw-archive >/dev/null 2>&1 || gh release create raw-archive --title "Original files awaiting PC archive" --notes "Weekly bundles of downloaded agendas and minutes. pull_raw.py moves them to the PC and deletes them here."
+          gh release upload raw-archive $tag.tar.part* --clobber
+
       - name: Publish
         run: |
           git config user.name "granite-docket-bot"

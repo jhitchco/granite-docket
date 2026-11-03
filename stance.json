@@ -1,61 +1,239 @@
 {
-  "_comment": "Town-level stance on a topic, set by hand from the records. stance: against | leaning_against | regulating | leaning_for | for | mixed | unclear | not_relevant. Towns not listed get an automatic call from keyword cues (see site.py). Reviewed 2026-11-03.",
+  "_comment": "Town-level stance on a topic, set by hand from the records. stance: against | leaning_against | regulating | leaning_for | for | mixed | unclear | not_relevant. Towns not listed get an automatic call from keyword cues (see site.py). Reviewed 2026-11-03 (after full crawl).",
   "data_center": {
-    "Keene": {"stance": "against", "basis": "City Council referred a temporary moratorium on data centers and crypto mining to the Planning Board (Sep–Oct 2026)."},
-    "Nottingham": {"stance": "against", "basis": "Warehouse data center proposal withdrawn after a 25,000-signature petition; 12-month moratorium passed 1,335–143 (Sep 2026)."},
-    "Greenfield": {"stance": "against", "basis": "Planning Board proposed a moratorium on AI data centers to give itself a year to write an ordinance (Aug 2026)."},
-    "Stratford": {"stance": "against", "basis": "Select Board drafting a warrant article to amend the land use ordinance to prohibit data centers (Sep–Oct 2026)."},
-    "Canterbury": {"stance": "against", "basis": "Town meeting passed a zoning amendment banning data centers (Mar 2026); Select Board signed a letter opposing HB 639."},
-    "Hampton Falls": {"stance": "against", "basis": "Planning Board agreed a data center 'does not fit the look and feel' of the town and moved to say so in the Industrial section (Jun 2026)."},
-    "Peterborough": {"stance": "leaning_against", "basis": "Planning Board raised data centers and crypto mining as a new zoning issue, citing severe concerns about power and water demand (Nov–Dec 2025)."},
-    "Hooksett": {"stance": "leaning_against", "basis": "Planning Board asked 'do we want them or not?'; a member proposed a moratorium (Sep 2026). No vote yet."},
-    "Candia": {"stance": "leaning_against", "basis": "Zoning currently allows data centers by right; the Planning Board agreed to review an amendment removing that, though one member called them quiet neighbors (Sep–Oct 2026)."},
-    "Warner": {"stance": "leaning_against", "basis": "Residents asked the Planning Board for an ordinance to keep data centers out (Sep–Nov 2026). The board hasn't acted."},
-    "Dalton": {"stance": "leaning_against", "basis": "Concern raised that Dalton, with no zoning ordinance, could be targeted for an unwanted AI data center (Sep 2026)."},
-    "Bethlehem": {"stance": "leaning_against", "basis": "Select Board opposed HB 639; Planning Board drafted a crypto-mine ordinance modeled on Fitzwilliam's (2025). Found by web search."},
-    "Barrington": {"stance": "leaning_against", "basis": "Conservation Commission raised wetland concerns about the Nottingham proposal next to Barrington land (May 2026). Found by web search."},
-    "Franconia": {"stance": "leaning_against", "basis": "Conservation Commission objected to HB 639, which would limit local control over crypto-mining data centers (Jun 2026)."},
-    "Bow": {"stance": "regulating", "basis": "Talks reported over a data center at the former Merrimack Station; residents packed the Sep 22 Select Board meeting to oppose it. Planning Board reviewing data center zoning amendments Nov 5, 2026."},
-    "Rochester": {"stance": "regulating", "basis": "Zoning amendment defines data centers and limits them to the Recycling Industrial District with a conditional use permit; residents largely opposed (Aug 2026). Found by web search."},
-    "Londonderry": {"stance": "regulating", "basis": "Planning Board asked staff to develop data center regulations, locating them in industrial districts (Sep 2026)."},
-    "Derry": {"stance": "regulating", "basis": "Zoning ordinance adds a definition for 'Data Center or Information-Processing Facility' (effective Sep 2026)."},
-    "Boscawen": {"stance": "regulating", "basis": "Site plan regulations add a new Section 3.12 for data centers and high-intensity computing (Nov 2026)."},
-    "Bradford": {"stance": "regulating", "basis": "Planning Board drafted rules on water, noise, electric-rate impacts and coverage for data centers, then broadened them to all industrial uses (Aug–Sep 2026)."},
-    "Chester": {"stance": "regulating", "basis": "Planning Board discussing zoning amendments to restrict bitcoin-mining data centers (2025–2026)."},
-    "Newport": {"stance": "regulating", "basis": "Master Plan discussion agreed not to attempt a categorical prohibition and to address impacts instead (Aug 2026)."},
-    "Tamworth": {"stance": "regulating", "basis": "Conservation Commission asked the Planning Board to research ordinance revisions for data centers (Jul 2026)."},
-    "Swanzey": {"stance": "regulating", "basis": "Conservation Commission researching groundwater protections against large users such as data centers (Feb 2026)."},
-    "Fremont": {"stance": "regulating", "basis": "Conservation Commission concerned about water use; joint work with the Planning Board planned for 2027 zoning (Aug 2026)."},
-    "Claremont": {"stance": "regulating", "basis": "Planning Board discussing a working definition of data centers (Nov 2026)."},
-    "Salem": {"stance": "regulating", "basis": "Planning Board looking at adopting a data center definition at a councilor's request (May 2026)."},
-    "Durham": {"stance": "regulating", "basis": "Energy Committee working on definitions and the best regulatory approach, citing Nottingham (2026)."},
-    "Strafford": {"stance": "regulating", "basis": "Board agreed data centers need addressing after Nottingham; currently possible by special exception (Jun–Jul 2026)."},
-    "Windham": {"stance": "regulating", "basis": "No current prohibition; data centers fall under industrial. Board discussing treating them under the utilities definition (Sep 2026)."},
-    "Hudson": {"stance": "for", "basis": "Proposed zoning amendment adds 'data center' to the allowable uses in the Industrial Zone, with a definition (Jan 2026)."},
-    "Concord": {"stance": "for", "basis": "Site plan review for an 8,160 sq ft micro data center at 52 Locke Road in the Industrial district (Feb 2026)."},
-    "Franklin": {"stance": "mixed", "basis": "At Council public comment, one resident asked for a citizen committee to study costs and benefits; another spoke in support of exploring data center development (Aug 2026)."},
-    "Farmington": {"stance": "mixed", "basis": "Planning Board discussion; one member cautioned against overregulating what may be a passing trend (Jun 2026)."},
-    "Newfields": {"stance": "unclear", "basis": "Planning Board asked whether a moratorium was needed; staff said the town is reasonably protected by existing rules (Sep 2026)."},
-    "Littleton": {"stance": "unclear", "basis": "Zoning board reviewed research on pros and cons (Jul 2026). No position yet."},
-    "Allenstown": {"stance": "unclear", "basis": "Select Board received a resident letter about the Bow proposal and voted on a follow-up motion (Sep 2026)."},
-    "Acworth": {"stance": "unclear", "basis": "Select Board asked whether the Planning Board should look at data centers proactively (Apr 2026)."},
-    "Amherst": {"stance": "unclear", "basis": "Planning Board member asked to discuss a data center use (Sep 2026)."},
-    "Barnstead": {"stance": "unclear", "basis": "Planning Board will discuss data centers at a future meeting (Sep 2026)."},
-    "Bartlett": {"stance": "unclear", "basis": "Planning Board discussing whether the Master Plan should address allowing data centers and possible requirements (Sep–Oct 2026)."},
-    "Bedford": {"stance": "unclear", "basis": "Resident questions about data centers at a Select Board meeting (Jun 2026)."},
-    "Winchester": {"stance": "unclear", "basis": "Data centers listed as a possible warrant article topic for a work session (May–Jun 2026)."},
-    "Laconia": {"stance": "unclear", "basis": "Conservation Commission gathering information on data centers and crypto mining (2025–2026)."},
-    "Exeter": {"stance": "unclear", "basis": "Select Board packet includes NHMA's legislative bulletin opposing the state data center bill. Not a local proposal."},
-    "Hampton": {"stance": "unclear", "basis": "State senator's update on SB 439, a statewide data center zoning bill. Not a local proposal."},
-    "Stratham": {"stance": "unclear", "basis": "State senator's update on SB 439. Not a local proposal."},
-    "Sutton": {"stance": "unclear", "basis": "Select Board agenda lists NHMA's bulletin on data centers. Found by web search."},
-    "Goffstown": {"stance": "not_relevant", "basis": "Mentions are the town's own IT 'datacenter' equipment."},
-    "Nashua": {"stance": "not_relevant", "basis": "Mention is an IT closet relocation in a building contract."},
-    "Brookfield": {"stance": "not_relevant", "basis": "Mention is AI tools used to write minutes."},
-    "Wolfeboro": {"stance": "not_relevant", "basis": "Mention is the state's census 'Data Center' office."}
+    "Keene": {
+      "stance": "against",
+      "basis": "City Council referred a temporary moratorium on data centers and crypto mining to the Planning Board (Sep–Oct 2026)."
+    },
+    "Nottingham": {
+      "stance": "against",
+      "basis": "Warehouse data center proposal withdrawn after a 25,000-signature petition; 12-month moratorium passed 1,335–143 (Sep 2026)."
+    },
+    "Greenfield": {
+      "stance": "against",
+      "basis": "Planning Board proposed a moratorium on AI data centers to give itself a year to write an ordinance (Aug 2026)."
+    },
+    "Stratford": {
+      "stance": "against",
+      "basis": "Select Board drafting a warrant article to amend the land use ordinance to prohibit data centers (Sep–Oct 2026)."
+    },
+    "Canterbury": {
+      "stance": "against",
+      "basis": "Town meeting passed a zoning amendment banning data centers (Mar 2026); Select Board signed a letter opposing HB 639."
+    },
+    "Hampton Falls": {
+      "stance": "against",
+      "basis": "Planning Board agreed a data center 'does not fit the look and feel' of the town and moved to say so in the Industrial section (Jun 2026)."
+    },
+    "Peterborough": {
+      "stance": "leaning_against",
+      "basis": "Planning Board raised data centers and crypto mining as a new zoning issue, citing severe concerns about power and water demand (Nov–Dec 2025)."
+    },
+    "Hooksett": {
+      "stance": "leaning_against",
+      "basis": "Planning Board asked 'do we want them or not?'; a member proposed a moratorium (Sep 2026). No vote yet."
+    },
+    "Candia": {
+      "stance": "leaning_against",
+      "basis": "Zoning currently allows data centers by right; the Planning Board agreed to review an amendment removing that, though one member called them quiet neighbors (Sep–Oct 2026)."
+    },
+    "Warner": {
+      "stance": "leaning_against",
+      "basis": "Residents asked the Planning Board for an ordinance to keep data centers out (Sep–Nov 2026). The board hasn't acted."
+    },
+    "Dalton": {
+      "stance": "leaning_against",
+      "basis": "Concern raised that Dalton, with no zoning ordinance, could be targeted for an unwanted AI data center (Sep 2026)."
+    },
+    "Bethlehem": {
+      "stance": "leaning_against",
+      "basis": "Select Board opposed HB 639; Planning Board drafted a crypto-mine ordinance modeled on Fitzwilliam's (2025). Found by web search."
+    },
+    "Barrington": {
+      "stance": "leaning_against",
+      "basis": "Conservation Commission raised wetland concerns about the Nottingham proposal next to Barrington land (May 2026). Found by web search."
+    },
+    "Franconia": {
+      "stance": "leaning_against",
+      "basis": "Conservation Commission objected to HB 639, which would limit local control over crypto-mining data centers (Jun 2026)."
+    },
+    "Bow": {
+      "stance": "regulating",
+      "basis": "Talks reported over a data center at the former Merrimack Station; residents packed the Sep 22 Select Board meeting to oppose it. Planning Board reviewing data center zoning amendments Nov 5, 2026."
+    },
+    "Rochester": {
+      "stance": "regulating",
+      "basis": "Zoning amendment defines data centers and limits them to the Recycling Industrial District with a conditional use permit; residents largely opposed (Aug 2026). Found by web search."
+    },
+    "Londonderry": {
+      "stance": "regulating",
+      "basis": "Planning Board asked staff to develop data center regulations, locating them in industrial districts (Sep 2026)."
+    },
+    "Derry": {
+      "stance": "regulating",
+      "basis": "Zoning ordinance adds a definition for 'Data Center or Information-Processing Facility' (effective Sep 2026)."
+    },
+    "Boscawen": {
+      "stance": "regulating",
+      "basis": "Site plan regulations add a new Section 3.12 for data centers and high-intensity computing (Nov 2026)."
+    },
+    "Bradford": {
+      "stance": "regulating",
+      "basis": "Planning Board drafted rules on water, noise, electric-rate impacts and coverage for data centers, then broadened them to all industrial uses (Aug–Sep 2026)."
+    },
+    "Chester": {
+      "stance": "regulating",
+      "basis": "Planning Board discussing zoning amendments to restrict bitcoin-mining data centers (2025–2026)."
+    },
+    "Newport": {
+      "stance": "regulating",
+      "basis": "Master Plan discussion agreed not to attempt a categorical prohibition and to address impacts instead (Aug 2026)."
+    },
+    "Tamworth": {
+      "stance": "regulating",
+      "basis": "Conservation Commission asked the Planning Board to research ordinance revisions for data centers (Jul 2026)."
+    },
+    "Swanzey": {
+      "stance": "regulating",
+      "basis": "Conservation Commission researching groundwater protections against large users such as data centers (Feb 2026)."
+    },
+    "Fremont": {
+      "stance": "regulating",
+      "basis": "Conservation Commission concerned about water use; joint work with the Planning Board planned for 2027 zoning (Aug 2026)."
+    },
+    "Claremont": {
+      "stance": "regulating",
+      "basis": "Planning Board discussing a working definition of data centers (Nov 2026)."
+    },
+    "Salem": {
+      "stance": "regulating",
+      "basis": "Planning Board looking at adopting a data center definition at a councilor's request (May 2026)."
+    },
+    "Durham": {
+      "stance": "regulating",
+      "basis": "Energy Committee working on definitions and the best regulatory approach, citing Nottingham (2026)."
+    },
+    "Strafford": {
+      "stance": "regulating",
+      "basis": "Board agreed data centers need addressing after Nottingham; currently possible by special exception (Jun–Jul 2026)."
+    },
+    "Windham": {
+      "stance": "regulating",
+      "basis": "No current prohibition; data centers fall under industrial. Board discussing treating them under the utilities definition (Sep 2026)."
+    },
+    "Hudson": {
+      "stance": "for",
+      "basis": "Proposed zoning amendment adds 'data center' to the allowable uses in the Industrial Zone, with a definition (Jan 2026)."
+    },
+    "Concord": {
+      "stance": "for",
+      "basis": "Site plan review for an 8,160 sq ft micro data center at 52 Locke Road in the Industrial district (Feb 2026)."
+    },
+    "Franklin": {
+      "stance": "mixed",
+      "basis": "At Council public comment, one resident asked for a citizen committee to study costs and benefits; another spoke in support of exploring data center development (Aug 2026)."
+    },
+    "Farmington": {
+      "stance": "mixed",
+      "basis": "Planning Board discussion; one member cautioned against overregulating what may be a passing trend (Jun 2026)."
+    },
+    "Newfields": {
+      "stance": "unclear",
+      "basis": "Planning Board asked whether a moratorium was needed; staff said the town is reasonably protected by existing rules (Sep 2026)."
+    },
+    "Littleton": {
+      "stance": "unclear",
+      "basis": "Zoning board reviewed research on pros and cons (Jul 2026). No position yet."
+    },
+    "Allenstown": {
+      "stance": "unclear",
+      "basis": "Select Board received a resident letter about the Bow proposal and voted on a follow-up motion (Sep 2026)."
+    },
+    "Acworth": {
+      "stance": "unclear",
+      "basis": "Select Board asked whether the Planning Board should look at data centers proactively (Apr 2026)."
+    },
+    "Amherst": {
+      "stance": "unclear",
+      "basis": "Planning Board member asked to discuss a data center use (Sep 2026)."
+    },
+    "Barnstead": {
+      "stance": "unclear",
+      "basis": "Planning Board will discuss data centers at a future meeting (Sep 2026)."
+    },
+    "Bartlett": {
+      "stance": "unclear",
+      "basis": "Planning Board discussing whether the Master Plan should address allowing data centers and possible requirements (Sep–Oct 2026)."
+    },
+    "Bedford": {
+      "stance": "unclear",
+      "basis": "Resident questions about data centers at a Select Board meeting (Jun 2026)."
+    },
+    "Winchester": {
+      "stance": "unclear",
+      "basis": "Data centers listed as a possible warrant article topic for a work session (May–Jun 2026)."
+    },
+    "Laconia": {
+      "stance": "unclear",
+      "basis": "Conservation Commission gathering information on data centers and crypto mining (2025–2026)."
+    },
+    "Exeter": {
+      "stance": "unclear",
+      "basis": "Select Board packet includes NHMA's legislative bulletin opposing the state data center bill. Not a local proposal."
+    },
+    "Hampton": {
+      "stance": "unclear",
+      "basis": "State senator's update on SB 439, a statewide data center zoning bill. Not a local proposal."
+    },
+    "Stratham": {
+      "stance": "unclear",
+      "basis": "State senator's update on SB 439. Not a local proposal."
+    },
+    "Sutton": {
+      "stance": "unclear",
+      "basis": "Select Board agenda lists NHMA's bulletin on data centers. Found by web search."
+    },
+    "Goffstown": {
+      "stance": "not_relevant",
+      "basis": "Mentions are the town's own IT 'datacenter' equipment."
+    },
+    "Nashua": {
+      "stance": "not_relevant",
+      "basis": "Mention is an IT closet relocation in a building contract."
+    },
+    "Brookfield": {
+      "stance": "not_relevant",
+      "basis": "Mention is AI tools used to write minutes."
+    },
+    "Wolfeboro": {
+      "stance": "not_relevant",
+      "basis": "Mention is the state's census 'Data Center' office."
+    },
+    "Dover": {
+      "stance": "unclear",
+      "basis": "Planning document briefing on energy supply notes data centers as a new large load that may use small modular reactors in place of diesel backup, sited at former gas or coal plants. Informational, no proposal."
+    },
+    "Pembroke": {
+      "stance": "leaning_against",
+      "basis": "Resident raised concerns at the Select Board about the proposed hyperscale data center in neighboring Bow: property values, taxes, noise, water and electric demand (Sep 2026)."
+    },
+    "Surry": {
+      "stance": "regulating",
+      "basis": "Zoning board flagged data centers, solar farms and windmills as uses needing definitions in its ordinance update (Aug 2026)."
+    }
   },
   "nuclear": {
-    "Salem": {"stance": "unclear", "basis": "Small modular reactors discussed as part of the 'Freedom and Prosperity' development proposal (Aug 2025)."},
-    "Farmington": {"stance": "unclear", "basis": "SMRs mentioned as a possible future power source for data centers (Jun 2026)."}
+    "Salem": {
+      "stance": "unclear",
+      "basis": "Small modular reactors discussed as part of the 'Freedom and Prosperity' development proposal (Aug 2025)."
+    },
+    "Farmington": {
+      "stance": "unclear",
+      "basis": "SMRs mentioned as a possible future power source for data centers (Jun 2026)."
+    },
+    "Dover": {
+      "stance": "unclear",
+      "basis": "Planning document notes data centers may use SMRs as diesel-generator replacements at brownfield sites such as former gas or coal plants."
+    }
   }
 }

@@ -76,3 +76,29 @@ th,td{text-align:left;padding:7px 12px;border-bottom:1px solid var(--rule);white
 td.n{text-align:right}
 th{font:11px var(--f-mono);text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
 .foot{padding-block:20px 40px;color:var(--muted);font-size:12px;border-top:1px solid var(--rule)}
+/* housing charts */
+:root{--s1:#7a8f86;--s2:#c58b2a;--s3:#1d5aa6}
+@media (prefers-color-scheme:dark){:root{--s1:#8fa59b;--s2:#e0a94a;--s3:#80b4f2}}
+.chart{width:100%;height:auto;display:block}
+.chart .grid{stroke:var(--rule);stroke-width:1}
+.chart .axis{stroke:var(--muted);stroke-width:1}
+.chart .ax{fill:var(--muted);font:11px var(--f-mono)}
+.b-single{fill:var(--s1)} .b-small{fill:var(--s2)} .b-apt{fill:var(--s3)}
+.chart rect.est{fill-opacity:.38}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;font:12px var(--f-mono);color:var(--muted);margin-bottom:8px}
+.legend .sw{display:inline-block;width:11px;height:11px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.sw.b-single{background:var(--s1)} .sw.b-small{background:var(--s2)} .sw.b-apt{background:var(--s3)}
+.sw.est-sw{background:var(--s3);opacity:.38}
+figure{margin:0;min-width:0}
+figure.wide{background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:12px}
+figcaption{font:12px var(--f-mono);color:var(--muted);margin-top:4px}
+.feat{display:grid;gap:14px}
+.fcard{background:var(--panel);border:1px solid var(--rule);border-radius:6px;padding:14px 16px;display:grid;gap:10px}
+.fh{display:flex;flex-wrap:wrap;gap:4px 14px;align-items:baseline}
+.fh .town{font:800 18px var(--f-sans);color:var(--ink);text-decoration:none}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+.spark{width:120px;height:26px;display:block}
+.spark rect{fill:var(--s3)}
+td.warn{color:var(--warn)}
+td.wrapcell{white-space:normal;min-width:320px;max-width:520px}
+.q{color:var(--muted);font:12px var(--f-mono)}

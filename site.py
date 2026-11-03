@@ -32,7 +32,7 @@ def page(title, depth, body, desc=""):
 <title>{e(title)}</title><meta name="description" content="{e(desc)}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="{up}assets/site.css"></head><body>
-<nav class="bar"><div class="in"><a class="brand" href="{up}index.html">{NAME}</a><span class="links"><a href="{up}topics/data-centers/index.html">Data centers</a><a href="{up}topics/nuclear/index.html">Nuclear</a><a href="{up}coverage/index.html">Coverage</a></span></div></nav>
+<nav class="bar"><div class="in"><a class="brand" href="{up}index.html">{NAME}</a><span class="links"><a href="{up}topics/data-centers/index.html">Data centers</a><a href="{up}topics/nuclear/index.html">Nuclear</a><a href="{up}housing/index.html">Housing</a><a href="{up}coverage/index.html">Coverage</a></span></div></nav>
 <main class="wrap">{body}</main>
 <footer class="wrap foot">Built from agendas, minutes, packets and warrants posted by New Hampshire municipalities. Excerpts are quoted from public records; open the linked document before relying on one. Topic definitions and scoring are ours.</footer>
 </body></html>"""
@@ -128,7 +128,7 @@ def main():
         btxt = ", ".join(f"{BOARD.get(b, b)} {n}" for b, n in boards[:8])
         site = f'<a href="{e(t["site"])}" target="_blank" rel="noopener">{e(re.sub(r"^https?://(www\.)?", "", t["site"] or "").rstrip("/"))}</a>' if t["site"] else "no municipal website"
         body = f"""<header class="hd"><div class="eyebrow">Town · {e(t["county"])} County · pop. {(t["pop"] or 0):,}</div><h1>{e(t["name"])}</h1>
-<p class="lede">{len(evs)} matching record{"s" if len(evs) != 1 else ""} across {t["docs"]:,} meeting documents collected. Source: {site}. Crawl status: <span class="st {"ok" if t["status"] == "done" else "gap"}">{e(st)}</span>.</p>
+<p class="lede">{len(evs)} matching record{"s" if len(evs) != 1 else ""} across {t["docs"]:,} meeting documents collected. Source: {site}. Crawl status: <span class="st {"ok" if t["status"] == "done" else "gap"}">{e(st)}</span>. <a href="../../housing/{slug(t["name"])}/index.html">New construction in {e(t["name"])}</a>.</p>
 {f'<p class="note">Documents by board: {e(btxt)}.</p>' if btxt else ""}</header>
 <div class="evs">{"".join(event_html(x, 2, show_town=False) for x in evs) or '<p class="empty">No mentions of the tracked topics in the documents collected for this town.</p>'}</div>"""
         write(f"towns/{slug(t['name'])}/index.html", page(f"{t['name']}, NH · {NAME}", 2, body, f"{t['name']} NH meeting records"))
@@ -163,6 +163,9 @@ def main():
 <section><h2>Latest on the record</h2><div class="evs">{"".join(event_html(x, 0) for x in sorted(events, key=lambda x: x.get("date") or "", reverse=True)[:12])}</div></section>
 <section><h2>All {len(towns)} municipalities</h2><p class="note">Highlighted towns have at least one matching record. Updated {today.isoformat()}.</p><div class="grid">{"".join(town_rows)}</div></section>"""
     write("index.html", page(NAME, 0, body, "New Hampshire municipal meetings on data centers and nuclear energy, from the towns' own records."))
+    if os.path.exists(os.path.join(ROOT, "housing.db")):
+        import housing_site
+        housing_site.build(OUT, sorted(towns), page, write, slug, e)
     print(f"site written to {OUT}: {len(events)} events, {len(towns)} towns")
 
 

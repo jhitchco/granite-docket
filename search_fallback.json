@@ -1,10 +1,43 @@
 {
   "searched_towns": [
-    "Somersworth", "Barrington", "Kingston", "Henniker", "Hillsborough", "Nottingham",
-    "Northfield", "Lee", "Milton", "Ossipee", "Walpole", "Antrim", "Bethlehem",
-    "Tuftonboro", "Newbury", "Sutton", "Greenville", "Woodstock", "New Castle", "Marlow",
-    "Waterville Valley", "Windsor", "Gilford", "Northwood", "Milford", "Epsom",
-    "New Hampton", "Haverhill", "Troy", "Stewartstown", "Clarksville", "Ellsworth"
+    "Somersworth",
+    "Barrington",
+    "Kingston",
+    "Henniker",
+    "Hillsborough",
+    "Nottingham",
+    "Northfield",
+    "Lee",
+    "Milton",
+    "Ossipee",
+    "Walpole",
+    "Antrim",
+    "Bethlehem",
+    "Tuftonboro",
+    "Newbury",
+    "Sutton",
+    "Greenville",
+    "Woodstock",
+    "New Castle",
+    "Marlow",
+    "Waterville Valley",
+    "Windsor",
+    "Gilford",
+    "Northwood",
+    "Milford",
+    "Epsom",
+    "New Hampton",
+    "Haverhill",
+    "Troy",
+    "Stewartstown",
+    "Clarksville",
+    "Ellsworth",
+    "Rochester",
+    "Weare",
+    "Hopkinton",
+    "Enfield",
+    "Sunapee",
+    "Mason"
   ],
   "findings": [
     {
@@ -126,6 +159,36 @@
       "url": "https://www.suttonnh.gov/media/10146",
       "summary": "A 2026 Select Board agenda packet lists the NH Municipal Association's legislative bulletin on data centers as a new-business item. The search turned up no local proposal or vote, so this is a minor, informational item.",
       "source_type": "town_document"
+    },
+    {
+      "town": "Rochester",
+      "topic": "data_center",
+      "date": "2026-08-17",
+      "board": "planning",
+      "title": "Planning Board endorses data center zoning amendment (NHPR coverage)",
+      "url": "https://www.nhpr.org/nh-news/2026-08-20/data-centers-rochester-public-opposes-datacenters-nh",
+      "summary": "NHPR reports the Planning Board reluctantly endorsed a Chapter 275 amendment that defines data centers and limits them to the Recycling Industrial District with a conditional use permit. Chair Mark Collopy said he wanted to learn more about siting and residents' concerns; no data center application is pending.",
+      "source_type": "news"
+    },
+    {
+      "town": "Rochester",
+      "topic": "data_center",
+      "date": "2026-08-18",
+      "board": "select_board",
+      "title": "City Council public hearing on data center regulations (Chapter 275 amendments)",
+      "url": "https://www.rochesternh.gov/sites/g/files/vyhlif9211/f/agendas/ccwrkph20260818pkt.pdf",
+      "summary": "Residents packed a City Council public hearing on the ordinance, which would bar data centers from every district except Recycling Industrial (largely Waste Management land). Mayor Chuck Grassie said the city cannot ban them outright and noted a moratorium could last at most a year (city news: https://news.rochesternh.gov/city-council-holds-public-hearing-to-discuss-data-centers-in-rochester-considers-amendments-to-city-ordinances/; NHBR: https://www.nhbr.com/?p=193907).",
+      "source_type": "town_document"
+    },
+    {
+      "town": "Rochester",
+      "topic": "data_center",
+      "date": null,
+      "board": "select_board",
+      "title": "Rochester enacts new ordinance on data centers (WZID)",
+      "url": "https://wzid.com/news/042240-rochester-enacts-new-ordinance-on-data-centers/",
+      "summary": "Radio report that the city adopted the ordinance defining data centers and where they may locate. NHPR had said the council vote was scheduled for Sept. 1, 2026; the adoption date and vote tally were not confirmed in search results.",
+      "source_type": "news"
     }
   ]
 }

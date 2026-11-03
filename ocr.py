@@ -44,6 +44,7 @@ def main():
     a = ap.parse_args()
     sys.path.insert(0, ROOT)
     from nhmeet import find_date, classify_board, classify_type
+    recent = lambda d: d if d and d >= '2023-07-01' else None  # older dates in scanned text are usually citations, not the meeting
     conn = sqlite3.connect(DB, timeout=120)
     order = " ".join(f"WHEN '{b}' THEN {i}" for i, b in enumerate(PRIORITY))
     rows = conn.execute(f"""SELECT id, local_path FROM documents WHERE needs_ocr=1 AND local_path IS NOT NULL
@@ -65,7 +66,7 @@ def main():
                         conn.execute("INSERT INTO doc_fts(rowid, text) VALUES(?, ?)", (doc_id, text))
                         d, b, ty = conn.execute("SELECT meeting_date, board, doc_type FROM documents WHERE id=?", (doc_id,)).fetchone()
                         conn.execute("UPDATE documents SET needs_ocr=2, n_chars=?, meeting_date=?, board=?, doc_type=? WHERE id=?",
-                                     (len(text), d or find_date(text[:1500]), b if b != "other" else classify_board(text[:600]),
+                                     (len(text), d or recent(find_date(text[:1500])), b if b != "other" else classify_board(text[:600]),
                                       ty if ty != "other" else classify_type(text[:400]), doc_id))
                     else:
                         conn.execute("UPDATE documents SET needs_ocr=3, error=COALESCE(error, ?) WHERE id=?", (err and f"ocr: {err}", doc_id))

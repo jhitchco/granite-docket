@@ -80,7 +80,7 @@ def main():
     ndocs = dict(conn.execute("SELECT town,count(*) FROM documents WHERE error IS NULL GROUP BY town").fetchall())
     for t in towns.values(): t["docs"] = ndocs.get(t["name"], 0)
     total_docs = sum(ndocs.values())
-    span = conn.execute("SELECT min(meeting_date),max(meeting_date) FROM documents WHERE meeting_date<=?", (today.isoformat(),)).fetchone()
+    span = conn.execute("SELECT min(meeting_date),max(meeting_date) FROM documents WHERE meeting_date BETWEEN '2023-07-01' AND ?", (today.isoformat(),)).fetchone()
 
     by_tt = defaultdict(list)
     for ev in events: by_tt[(ev["topic"], ev["town"])].append(ev)

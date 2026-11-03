@@ -20,6 +20,15 @@ TOPIC_INFO = {
 BOARD = {"planning": "Planning board", "zoning": "Zoning / ZBA", "select_board": "Select board / council", "town_meeting": "Town meeting / warrant",
          "conservation": "Conservation commission", "energy": "Energy committee", "economic_dev": "Economic development", "budget": "Budget / CIP",
          "heritage_historic": "Historic district", "school": "School", "other": "Other board"}
+STANCE = {  # key: (label, css class, tooltip)
+    "against": ("Against", "against", "Moratorium, ban or prohibition adopted or formally proposed"),
+    "leaning_against": ("Leaning against", "lagainst", "Opposition or concerns raised; no formal action yet"),
+    "regulating": ("Regulating", "reg", "Writing definitions or rules for where and how it can happen"),
+    "mixed": ("Mixed", "mixed", "Views on both sides in the records"),
+    "leaning_for": ("Leaning for", "lfor", "Language allowing or welcoming it; no formal action yet"),
+    "for": ("For", "for", "Adding it as an allowed use or approving a project"),
+    "unclear": ("Can't tell", "unclear", "Mentioned, but the records don't show a position"),
+}
 STATUS = {"done": "Crawled", "blocked_bot_challenge": "Bot challenge", "robots_disallowed": "robots.txt blocks crawlers",
           "no_website": "No website", "unreachable": "Unreachable", "error": "Crawl error", "crawling": "Partial crawl", "pending": "Queued"}
 e = lambda s: html.escape(str(s if s is not None else ""))
@@ -86,8 +95,28 @@ def main():
     total_docs = sum(ndocs.values())
     span = conn.execute("SELECT min(meeting_date),max(meeting_date) FROM documents WHERE meeting_date BETWEEN '2023-07-01' AND ?", (today.isoformat(),)).fetchone()
 
+    # stance per town and topic: hand calls from stance.json, otherwise an automatic read of the excerpts
+    sp = os.path.join(ROOT, "stance.json")
+    stance_cfg = json.load(open(sp, encoding="utf8")) if os.path.exists(sp) else {}
+    events = [ev for ev in events if stance_cfg.get(ev["topic"], {}).get(ev["town"], {}).get("stance") != "not_relevant"]
     by_tt = defaultdict(list)
     for ev in events: by_tt[(ev["topic"], ev["town"])].append(ev)
+
+    def stance_of(topic, town, evs):
+        s = stance_cfg.get(topic, {}).get(town)
+        if s: return s["stance"], s["basis"], False
+        text = " ".join(x["pre"] + x["hit"] + x["post"] for ev in evs for x in ev.get("snippets", [])) + " ".join(ev.get("summary", "") for ev in evs)
+        con = len(re.findall(r"moratori|prohibit|\bban(ned|ning)?\b|oppos|not acceptable|keep (them )?out|against", text, re.I))
+        pro = len(re.findall(r"allowable use|permitted use|allowed by right|attract|tax revenue|in favor of|in support|welcom", text, re.I))
+        reg = len(re.findall(r"definition|ordinance|amendment|regulat|overlay|conditional use", text, re.I))
+        if con >= pro + 2: return "leaning_against", "Automatic read of the excerpts: opposition or moratorium language.", True
+        if pro >= con + 2: return "leaning_for", "Automatic read of the excerpts: language allowing or welcoming it.", True
+        if reg >= 2: return "regulating", "Automatic read of the excerpts: definitions or ordinance work.", True
+        return "unclear", "Not enough in the records to tell.", True
+
+    def stance_chip(st, auto=False):
+        lab = STANCE[st][0] + (" (auto)" if auto else "")
+        return f'<span class="stance {STANCE[st][1]}" title="{e(STANCE[st][2])}">{e(lab)}</span>'
     for v in by_tt.values(): v.sort(key=lambda x: x.get("date") or "", reverse=True)
 
     if os.path.exists(OUT): shutil.rmtree(OUT)
@@ -110,17 +139,20 @@ def main():
         for (tk, town), evs in by_tt.items():
             if tk != key: continue
             a, trend = movement(evs)
-            rows.append((a, len(evs), town, evs, trend))
+            rows.append((a, len(evs), town, evs, trend, stance_of(key, town, evs)))
         rows.sort(key=lambda x: (-x[0], -x[1], x[2]))
         n_ev = sum(r[1] for r in rows); n_recent = sum(r[0] for r in rows)
         topic_cards.append((key, label, tslug, desc, len(rows), n_ev, n_recent, rows[:4]))
+        tally = defaultdict(int)
+        for r in rows: tally[r[5][0]] += 1
+        summary = "".join(f'<span class="tal">{stance_chip(k)}<b>{tally[k]}</b></span>' for k in STANCE if tally[k])
         table = "".join(f"""<li class="row"><a class="town" href="../../towns/{slug(town)}/index.html">{e(town)}</a>
 <span class="num">{n} record{"s" if n != 1 else ""}</span><span class="num">{a} in {WINDOW} days</span>{trend}
-<span class="latest">latest {e(evs[0].get("date") or "?")}: {e(((evs[0].get("title") or "").split(" | ")[0].strip() or BOARD.get(evs[0].get("board"), "") + " " + (evs[0].get("type") or ""))[:80])}</span></li>""" for a, n, town, evs, trend in rows)
+<span class="latest">{stance_chip(st[0], st[2])} {e(st[1])} <span class="lt">Latest {e(evs[0].get("date") or "?")}: {e(((evs[0].get("title") or "").split(" | ")[0].strip() or BOARD.get(evs[0].get("board"), "") + " " + (evs[0].get("type") or ""))[:80])}</span></span></li>""" for a, n, town, evs, trend, st in rows)
         recent = sorted([ev for ev in events if ev["topic"] == key], key=lambda x: x.get("date") or "", reverse=True)[:60]
         body = f"""<header class="hd"><div class="eyebrow">Topic · New Hampshire · public record</div><h1>{e(label)}</h1><p class="lede">{e(desc)}</p></header>
 <div class="stats"><div><b>{len(rows)}</b><span>towns on the record</span></div><div><b>{n_ev}</b><span>matching documents</span></div><div><b>{n_recent}</b><span>in the last {WINDOW} days</span></div></div>
-<section><h2>Where it is on the record</h2><p class="note">Most recent movement first. A record is one agenda, minutes, packet or warrant that discusses the topic.</p><ol class="ledger">{table or '<li class="row">Nothing on the record yet.</li>'}</ol></section>
+<section><h2>Where each town stands</h2><div class="tally">{summary}</div><p class="note">Stance describes what the town's boards (or, where noted, its residents) are doing about the topic, read from the records. "Regulating" means writing rules for where and how it can happen, not a ban. Calls marked "auto" come from keywords in the excerpts and are rougher than the rest. Most recent movement first; a record is one agenda, minutes, packet or warrant.</p><ol class="ledger">{table or '<li class="row">Nothing on the record yet.</li>'}</ol></section>
 <section><h2>Latest documents</h2><div class="evs">{"".join(event_html(x, 2) for x in recent)}</div></section>"""
         write(f"topics/{tslug}/index.html", page(f"{label} in New Hampshire · {NAME}", 2, body, desc))
 

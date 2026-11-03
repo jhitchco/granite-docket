@@ -122,3 +122,15 @@ main.wrap>*{min-width:0}
 .pnote{font:11px var(--f-mono);color:var(--muted)}
 @keyframes pulse{50%{opacity:.55}}
 @media (prefers-reduced-motion:reduce){.seg.crawling{animation:none}}
+/* stance chips: red = against, amber = regulating/mixed, green = for, grey = can't tell */
+:root{--ag:#a33a2a;--ag-soft:#f8e3df;--rg:#8f5400;--rg-soft:#fbefd9;--fr:#1f6b45;--fr-soft:#dff0e6;--uc:#5b6862;--uc-soft:#e8ece9}
+@media (prefers-color-scheme:dark){:root{--ag:#f08b7a;--ag-soft:#3a1e19;--rg:#f0b45a;--rg-soft:#33270f;--fr:#6cc3a3;--fr-soft:#1d3029;--uc:#98a69f;--uc-soft:#252e2a}}
+.stance{font:500 11px var(--f-mono);padding:2px 8px;border-radius:3px;white-space:nowrap;margin-right:6px}
+.stance.against{background:var(--ag);color:var(--panel)} .stance.lagainst{background:var(--ag-soft);color:var(--ag)}
+.stance.reg,.stance.mixed{background:var(--rg-soft);color:var(--rg)}
+.stance.for{background:var(--fr);color:var(--panel)} .stance.lfor{background:var(--fr-soft);color:var(--fr)}
+.stance.unclear{background:var(--uc-soft);color:var(--uc)}
+.tally{display:flex;flex-wrap:wrap;gap:8px 16px;margin-bottom:10px}
+.tal{display:inline-flex;align-items:center;gap:2px;font-variant-numeric:tabular-nums}
+.tal b{font:800 16px var(--f-sans)}
+.latest .lt{display:block;font:12px var(--f-mono);color:var(--muted);margin-top:2px}

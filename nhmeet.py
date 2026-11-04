@@ -148,10 +148,12 @@ class Town:
             self.robots.parse(r.text.splitlines() if r.status_code == 200 else [])
         except Exception:
             self.robots.parse([])
+        try: self.delay = float(self.robots.crawl_delay(UA) or 0)  # honor a site's Crawl-delay
+        except Exception: self.delay = 0
         self.known = {r[0] for r in conn.execute("SELECT url FROM documents WHERE town=?", (self.name,))}
 
     def get(self, url, **kw):
-        wait = DELAY - (time.time() - self.last)
+        wait = max(DELAY, self.delay) - (time.time() - self.last)
         if wait > 0: time.sleep(wait)
         self.last = time.time()
         return self.s.get(url, timeout=kw.pop("timeout", 45), **kw)
@@ -284,6 +286,26 @@ class Town:
                 for a in re.findall(r'href="([^"]*minutes[^"]*)"', r.text, re.I):
                     self.save_doc(urljoin(u, a), "Minutes " + title, u, "minutes " + title)
 
+    def civicclerk(self, html_blobs):
+        """CivicClerk portals (<tenant>.portal.civicclerk.com) load meetings by script; read the public events API instead."""
+        for tenant in set(re.findall(r"([\w-]+)\.portal\.civicclerk\.com", html_blobs)):
+            api = f"https://{tenant}.api.civicclerk.com/v1"
+            skip = 0
+            while time.time() < DEADLINE:
+                try: r = self.get(f"{api}/Events", params={"$filter": f"startDateTime ge {self.since}T00:00:00Z", "$orderby": "startDateTime desc", "$top": 100, "$skip": skip}, timeout=60)
+                except Exception: break
+                if r.status_code != 200: break
+                events = r.json().get("value", [])
+                for e in events:
+                    when = (e.get("startDateTime") or "")[:10]
+                    for f in e.get("publishedFiles") or []:
+                        if f.get("type") == "Agenda Packet": continue  # packets repeat the agenda and run to hundreds of pages
+                        title = f"{e.get('categoryName') or e.get('eventName')} {f.get('type')} {when} {f.get('name') or ''}"
+                        self.save_doc(f"{api}/Meetings/GetMeetingFileStream(fileId={f['fileId']},plainText=false)", title,
+                                      f"https://{tenant}.portal.civicclerk.com/event/{e['id']}/files", title)
+                if len(events) < 100: break
+                skip += 100
+
     # ---------- generic crawl ----------
     def crawl(self):
         frontier = [(0, 0, self.base, "home")]
@@ -339,6 +361,7 @@ class Town:
         if "civicplus" in plat or "civicplus" in self.base: self.civicplus()
         blobs = self.crawl()
         if "towncloud.io/go/" in blobs or "towncloud.com?utm" in blobs: self.towncloud(blobs)
+        if ".portal.civicclerk.com" in blobs: self.civicclerk(blobs)
         return self.pages, self.ndocs
 
 

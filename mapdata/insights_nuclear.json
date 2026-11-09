@@ -1,0 +1,1190 @@
+{
+ "_comment": "Per-town read of the nuclear records (SMRs, microreactors). relevant=false means passing or boilerplate mentions only. 'thinking', 'good' and 'bad' are a read of the records, not the town's words. Re-review when new towns show up.",
+ "reviewed": "2026-11-09",
+ "towns": [
+  {
+   "town": "Alexandria",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Nuclear appears only in hazard plan and ordinance definition",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-09-17",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "http://alexandrianh.com/wp-content/uploads/2025/09/Alex_HMP_Final_Sep17_2025.pdf"
+   },
+   "last_date": "2025-09-17"
+  },
+  {
+   "town": "Allenstown",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Zoning bars nuclear waste storage; hazard plan boilerplate",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-12-17",
+    "board": "Zoning ordinance",
+    "phrase": null,
+    "url": "https://www.allenstownnh.gov/DocumentCenter/View/572/2026_-_town_of_allenstown_zoning_ordinance_final"
+   },
+   "last_date": "2025-12-17"
+  },
+  {
+   "town": "Amherst",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-04-27",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_04272026-379"
+   },
+   "last_date": "2026-04-27"
+  },
+  {
+   "town": "Andover",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Natural resources inventory energy filler",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "",
+    "board": "Energy",
+    "phrase": null,
+    "url": "https://www.andover-nh.gov/DocumentCenter/View/417/Appendix-XIV---Natural-Resources-Inventory-Summary"
+   },
+   "last_date": ""
+  },
+  {
+   "town": "Ashland",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-04-16",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://ashland.nh.gov/uploads/ashl_hmp_final_apr16_2025.pdf"
+   },
+   "last_date": "2025-04-16"
+  },
+  {
+   "town": "Atkinson",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Master Plan survey has one passing pro-nuclear comment",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-02-05",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.town-atkinsonnh.com/DocumentCenter/View/387/2025-Master-Plan---Adopted-2-5-25-PDF"
+   },
+   "last_date": "2025-02-05"
+  },
+  {
+   "town": "Bartlett",
+   "relevant": true,
+   "stance": "mixed",
+   "confidence": "medium",
+   "headline": "Planning Board debating small reactors while studying data center rules",
+   "thinking": "Over several months of data center hearings, board members and residents kept raising small modular reactors as the likely power source. The board appears split between a pro-nuclear view (clean, closed-loop) and safety, cooling-water and oversight worries. No nuclear-specific action yet; any rule would likely ride along with a data center ordinance and the Master Plan.",
+   "good": [
+    "Seen as clean power for data centers",
+    "Closed-loop cooling cited",
+    "Small footprint"
+   ],
+   "bad": [
+    "Fire and safety fears",
+    "Cooling water disposal",
+    "Regulatory oversight questions",
+    "Imported technology doubts"
+   ],
+   "key": {
+    "date": "2026-07-06",
+    "board": "Planning Board",
+    "phrase": "I would be very scared to pull into that driveway and find a nuclear reactor on fire.",
+    "url": "https://www.townofbartlett.nh.gov/AgendaCenter/ViewFile/Minutes/_07062026-192"
+   },
+   "last_date": "2026-10-05"
+  },
+  {
+   "town": "Bedford",
+   "relevant": true,
+   "stance": "leaning_for",
+   "confidence": "low",
+   "headline": "Energy Commission member favors micro-nuclear; topic slated for future agenda",
+   "thinking": "An Energy Commission member argued micro-reactors are the better baseload option compared with batteries or hydrogen, and the commission discussed putting nuclear on a future agenda. This is early, commission-level interest with no zoning or board action. Likely next step is an information item.",
+   "good": [
+    "reliable baseload power"
+   ],
+   "bad": [],
+   "key": {
+    "date": "2026-09-24",
+    "board": "Energy Commission",
+    "phrase": null,
+    "url": "https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_09242026-3009"
+   },
+   "last_date": "2026-09-24"
+  },
+  {
+   "town": "Brentwood",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Fire dept hosted Seabrook emergency-planning session",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-09-29",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14872"
+   },
+   "last_date": "2026-09-29"
+  },
+  {
+   "town": "Bristol",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2024-03-01",
+    "board": "planning",
+    "phrase": null,
+    "url": "https://bristolnh.gov/1469/Hazard-Mitigation-Plan---Update-2024-PDF"
+   },
+   "last_date": "2024-03-01"
+  },
+  {
+   "town": "Canaan",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Old Master Plan survey lists nuclear plant among unwanted uses",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-05-12",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.canaannh.gov/DocumentCenter/View/1009/Watershed-Protection-Plan-PDF"
+   },
+   "last_date": "2025-05-12"
+  },
+  {
+   "town": "Candia",
+   "relevant": true,
+   "stance": "leaning_for",
+   "confidence": "low",
+   "headline": "Energy committee member floats tiny nuclear plants as future power",
+   "thinking": "At a Recycling & Energy Committee meeting a member described very small new nuclear plants as a possibly cleaner future power source. It was an aside during a broader energy talk with no motion or follow-up, so it reads as curiosity rather than policy.",
+   "good": [
+    "cleaner than existing plants",
+    "large output from small footprint"
+   ],
+   "bad": [
+    "no formal discussion or action"
+   ],
+   "key": {
+    "date": "2026-03-26",
+    "board": "Recycling & Energy Committee",
+    "phrase": null,
+    "url": "https://www.candianh.org/AgendaCenter/ViewFile/Minutes/_03262026-494"
+   },
+   "last_date": "2026-03-26"
+  },
+  {
+   "town": "Canterbury",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "medium",
+   "headline": "Community power committee opposes statewide coalition's mini-nuclear interest",
+   "thinking": "Canterbury's community power committee told the Select Board that the statewide Community Power Coalition has shown interest in mini-nuclear projects and that the local committee is not in favor. It is a committee position reported at a board meeting, with no formal town action; the issue is being decided at the coalition level.",
+   "good": [],
+   "bad": [
+    "Committee opposition",
+    "Coalition-level decision outside town control"
+   ],
+   "key": {
+    "date": "2026-09-21",
+    "board": "Select Board",
+    "phrase": "CCPC is not in favor.",
+    "url": "https://www.canterburynh.gov/wp-content/uploads/2026/09/2026-09-21-Board-of-Selectmen-Minutes.pdf"
+   },
+   "last_date": "2026-09-21"
+  },
+  {
+   "town": "Chesterfield",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.chesterfield.nh.gov/DocumentCenter/View/244/Local-Emergency-Operations-Plan-2022-PDF"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Chichester",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "other",
+    "phrase": null,
+    "url": "https://www.chichesternh.org/1208/Hazard-Mitigation-Plan-2025"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Claremont",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2024-02-13",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/Clare_COOP_FinalforAdoption_Feb13_2024_3865.pdf"
+   },
+   "last_date": "2024-02-13"
+  },
+  {
+   "town": "Concord",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "2013 draft energy chapter cites Seabrook share only",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.concordnh.gov/DocumentCenter/View/1420"
+   },
+   "last_date": ""
+  },
+  {
+   "town": "Dalton",
+   "relevant": true,
+   "stance": "leaning_for",
+   "confidence": "low",
+   "headline": "Zoning hearing remark frames a state small reactor idea as opportunity",
+   "thinking": "At a hearing on a proposed zoning district, a speaker argued Dalton could be courted by a data center or the governor's small nuclear plant idea and should see that as an opportunity. This was one comment in a hearing about basic industrial zoning, not a board position. Interest looks tied to tax base and development.",
+   "good": [
+    "economic opportunity",
+    "tax base and jobs"
+   ],
+   "bad": [
+    "few employees from some industrial uses"
+   ],
+   "key": {
+    "date": "2026-09-19",
+    "board": "Planning Board ETZ public hearing",
+    "phrase": "We could be courted by the governor's idea for a small nuclear plant",
+    "url": "https://townofdaltonnh.gov/wp-content/uploads/2026/10/Public-Hearing-Transcript-1.pdf"
+   },
+   "last_date": "2026-09-19"
+  },
+  {
+   "town": "Deerfield",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Master plan energy filler and hazard plan",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2013-01-01",
+    "board": "Planning",
+    "phrase": null,
+    "url": "https://deerfieldnh.gov/DocumentCenter/View/450/Deerfield-2013-Energy-Chapter-PDF"
+   },
+   "last_date": "2013-01-01"
+  },
+  {
+   "town": "Dover",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "medium",
+   "headline": "Energy Commission report weighs a role for small reactors",
+   "thinking": "The city's Energy Commission devoted a report section to whether small modular reactors fit NH, prompted by Governor and legislative interest. It frames nuclear economics against cheap natural gas and notes public opposition has stalled nuclear. No board action; likely to stay an advisory discussion unless state siting moves forward.",
+   "good": [
+    "state interest in SMRs",
+    "stable baseload power",
+    "municipal energy-cost management"
+   ],
+   "bad": [
+    "competes with low-cost gas",
+    "NIMBY opposition",
+    "unproven economics"
+   ],
+   "key": {
+    "date": null,
+    "board": "Energy Commission",
+    "phrase": "Is There a Role for Small Nuclear Reactors?",
+    "url": "https://www.dover.nh.gov/Assets/government/city-operations/2document/planning/Resilient-Dover-Docs/2026%20EC%20Annual%20Report.pdf"
+   },
+   "last_date": null
+  },
+  {
+   "town": "East Kingston",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-01-19",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.eknh.org/AgendaCenter/ViewFile/Minutes/_01192026-116"
+   },
+   "last_date": "2026-01-19"
+  },
+  {
+   "town": "Exeter",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Inspector certifications, staff bio, and 2019 weapons resolution",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-06-01",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.exeternh.gov/sites/default/files/fileattachments/select_board/meeting/packets/64118/select_board_packet_6-1-26.pdf"
+   },
+   "last_date": "2026-06-01"
+  },
+  {
+   "town": "Farmington",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "medium",
+   "headline": "Planning Board hears SMRs raised during data center discussion",
+   "thinking": "During a data center discussion, a member noted proposals assume small modular reactors though no approved designs exist, and another relayed the governor's order for a state nuclear roadmap. Another member urged caution about advocacy-driven information. The board appears to be informing itself and wary of overregulating a possibly transient trend; no position yet.",
+   "good": [
+    "Possible future power for data centers",
+    "State nuclear roadmap underway"
+   ],
+   "bad": [
+    "No approved SMR designs exist",
+    "Hard to separate fact from advocacy"
+   ],
+   "key": {
+    "date": "2026-06-17",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_06172026-211"
+   },
+   "last_date": "2026-07-15"
+  },
+  {
+   "town": "Fremont",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "other",
+    "phrase": null,
+    "url": "https://www.fremont.nh.gov/DocumentCenter/View/539/Waste-Management-Contract-2024-2028"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Gilmanton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "other",
+    "phrase": null,
+    "url": "https://www.gilmantonnh.gov/DocumentCenter/View/306/Emergency-Operations-Plan-2023"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Goffstown",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only emergency and waste-ordinance boilerplate",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-09-28",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1576?packet=true"
+   },
+   "last_date": "2026-09-28"
+  },
+  {
+   "town": "Grantham",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "medium",
+   "headline": "Planning Board vice chair flags microreactors as coming topic",
+   "thinking": "The Planning Board's vice chair said microreactors may soon be of interest to the board, and the Energy Committee has twice put mini nuclear on its agenda, linked to data center and regional energy supply worries. The town appears to be at the awareness stage, likely tracking state action (HB710, roadmap) before deciding anything.",
+   "good": [
+    "Part of New England energy mix discussion",
+    "Developers active in the field"
+   ],
+   "bad": [
+    "Tied to data center concerns"
+   ],
+   "key": {
+    "date": "2026-08-06",
+    "board": "Planning Board",
+    "phrase": "nuclear microreactors as something that might be of interest to the PB",
+    "url": "https://granthamnh.gov/vertical/sites/%7B8E4EE0D6-AAA5-4E63-B5FA-19873AF96E35%7D/uploads/2026-08-06-PB-Meeting-Minutes.pdf"
+   },
+   "last_date": "2026-10-13"
+  },
+  {
+   "town": "Greenfield",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-04-29",
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.greenfield-nh.gov/DocumentCenter/View/402/Greenf-Eop-Final-Aug10-2023-PDF"
+   },
+   "last_date": "2026-04-29"
+  },
+  {
+   "town": "Greenland",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "other",
+    "phrase": null,
+    "url": "https://greenland.nh.gov/1412/2017-RERP-PDF"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Hampstead",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "other",
+    "phrase": null,
+    "url": "https://www.hampsteadnh.us/312/Emergency-Operations-Plan-PDF"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Hampton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Mentions concern the existing Seabrook plant: health study, taxes, drills",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-04-13",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://www.hamptonnh.gov/AgendaCenter/ViewFile/Minutes/_04132026-2001"
+   },
+   "last_date": "2026-04-13"
+  },
+  {
+   "town": "Hampton Falls",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Seabrook drill budgets and zoning waste definitions only",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-09-30",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.hamptonfalls.org/AgendaCenter/ViewFile/Minutes/_09302026-176"
+   },
+   "last_date": "2026-09-30"
+  },
+  {
+   "town": "Hanover",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Master Plan notes regional power mix includes nuclear",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.hanovernh.org/DocumentCenter/View/919/Chapter-11---Municipal-Facilities-and-Services-PDF"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Harrisville",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-12-31",
+    "board": "zoning",
+    "phrase": null,
+    "url": "https://harrisvillenh.org/wp-content/uploads/2026/02/Harrisville-2025-Town-Report.pdf"
+   },
+   "last_date": "2025-12-31"
+  },
+  {
+   "town": "Haverhill",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-07-28",
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/uploads/Subdivision_Regulations_as_amended_2026.docx"
+   },
+   "last_date": "2026-07-28"
+  },
+  {
+   "town": "Hebron",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2024-04-03",
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.hebronnh.gov/DocumentCenter/View/1546/Hebr_HMP_Final_Apr3_2024"
+   },
+   "last_date": "2024-04-03"
+  },
+  {
+   "town": "Holderness",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.holderness-nh.gov/DocumentCenter/View/316/Hazard-Mitigation-Plan---Updated-2015"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Hollis",
+   "relevant": true,
+   "stance": "leaning_for",
+   "confidence": "low",
+   "headline": "State legislator's update to Select Board touts micro-nuclear",
+   "thinking": "A state energy committee chair's written update to the Select Board praised an all-of-the-above energy policy that encourages micro-nuclear for reliability and lower costs. This is a state voice entered in the board record, not a town position; the board appears to have simply received it.",
+   "good": [
+    "state support for micro-nuclear",
+    "reliability and lower costs"
+   ],
+   "bad": [
+    "no town position"
+   ],
+   "key": {
+    "date": "2026-10-12",
+    "board": "Select Board",
+    "phrase": "encouraging innovative technologies such as micro-nuclear",
+    "url": "https://hollisnh.gov/AgendaCenter/ViewFile/Minutes/_10122026-365"
+   },
+   "last_date": "2026-10-12"
+  },
+  {
+   "town": "Hooksett",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Navy-supplier business remark and soil-density test specs",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-01-05",
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.hooksett.gov/1.5.2026 PB Minutes.pdf?t=202601121452470"
+   },
+   "last_date": "2026-01-05"
+  },
+  {
+   "town": "Keene",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Nuclear surfaces only in passing: state bill tracking and a zoning aside",
+   "thinking": "The Energy and Climate Committee tracked a state bill on nuclear technology studies and heard ISO-NE describe itself as technology-neutral. A Zoning Board member remarked that towns could exclude nuclear plants as an example of use definition. No proposal or position on small reactors appears in the record.",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-08-03",
+    "board": "Zoning Board of Adjustment",
+    "phrase": null,
+    "url": "https://keenenh.gov/wp-content/uploads/2026/09/2026_08_03_ZBA_Minutes_Adopted.pdf"
+   },
+   "last_date": "2026-09-08"
+  },
+  {
+   "town": "Lincoln",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "other",
+    "phrase": null,
+    "url": "https://lincolnnh.gov/DocumentCenter/View/361/Hazard-Preparedness-Guide"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Londonderry",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Utilities Committee hears of state nuclear push, defers to Governor",
+   "thinking": "The Utilities Committee heard a state legislator describe House efforts to promote new nuclear technology, and a year later a member asked about the state's nuclear plans; the chair said the Governor's office is handling it. The town appears to be watching, not acting, with energy costs the likely interest.",
+   "good": [
+    "state bills promoting new nuclear",
+    "energy cost interest"
+   ],
+   "bad": [
+    "no local role or position yet"
+   ],
+   "key": {
+    "date": "2026-05-05",
+    "board": "Utilities Committee",
+    "phrase": "the governor's office is handling that",
+    "url": "https://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_05052026-1158"
+   },
+   "last_date": "2026-05-05"
+  },
+  {
+   "town": "Loudon",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-07-15",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.loudonnh.org/AgendaCenter/ViewFile/Minutes/_07152025-13"
+   },
+   "last_date": "2025-07-15"
+  },
+  {
+   "town": "Madbury",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "zoning",
+    "phrase": null,
+    "url": "https://madburynh.org/Madbury/docs/zba_handbook_2016.pdf"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Nashua",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Nuclear density gauges, EMP hazard text, and weapons-resolution debate",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-02-05",
+    "board": "budget",
+    "phrase": null,
+    "url": "https://www.nashuanh.gov/AgendaCenter/ViewFile/Agenda/_02052025-7537"
+   },
+   "last_date": "2025-02-05"
+  },
+  {
+   "town": "New Durham",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "2008 utility tax table listing nuclear companies",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "school",
+    "phrase": null,
+    "url": "https://newdurhamnh.gov/uploads/2008_town_report.pdf"
+   },
+   "last_date": null
+  },
+  {
+   "town": "New Ipswich",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "other",
+    "phrase": null,
+    "url": "https://www.newipswichnh.gov/uploads/2026-paving-rfp-5-13.pdf"
+   },
+   "last_date": null
+  },
+  {
+   "town": "New London",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Old lecture note, arms-race resolution, household definition",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "planning",
+    "phrase": null,
+    "url": "https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/%7B6A4F579B-DE54-49EC-8BF1-5F828ED15917%7D.PDF"
+   },
+   "last_date": ""
+  },
+  {
+   "town": "Newfields",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-04-08",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.newfieldsnh.gov/AgendaCenter/ViewFile/Minutes/_04082025-55"
+   },
+   "last_date": "2025-04-08"
+  },
+  {
+   "town": "Newington",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Westinghouse chemicals variance, not reactors",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-08-28",
+    "board": "Zoning Board of Adjustment",
+    "phrase": null,
+    "url": "https://www.newingtonnh.gov/AgendaCenter/ViewFile/Minutes/_08282025-10"
+   },
+   "last_date": "2025-08-28"
+  },
+  {
+   "town": "Newport",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Zoning bans radioactive waste in landfill district",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "zoning",
+    "phrase": null,
+    "url": "https://newportnh.gov/DocumentCenter/View/305/2019_zoning_ordinance_masterfinal__2"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Newton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Year-end report notes town sits in Seabrook EPZ",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.newton-nh.gov/DocumentCenter/View/3469/Section-28"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Orford",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2024-03-01",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://orfordnh.us/wp-content/docs/selectboard/2024%20Hazard%20Mitigation%20Plan.pdf"
+   },
+   "last_date": "2024-03-01"
+  },
+  {
+   "town": "Pembroke",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Community power mailer lists generation mix",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "energy",
+    "phrase": null,
+    "url": "https://www.pembroke-nh.com/DocumentCenter/View/504/Pembroke-Community-Power-Mailer-0"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Peterborough",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Seabrook drill listing, energy plan definitions, 2019 weapons resolution",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-04-21",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://www.peterboroughnh.gov/SB Packet 04212026.pdf?t=202604201631130"
+   },
+   "last_date": "2026-04-21"
+  },
+  {
+   "town": "Plainfield",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Master plan energy chapter cites Seabrook and generic cost tables",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.plainfieldnh.gov/docview.aspx?docid=51767"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Portsmouth",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only Navy-shipyard bios, a medical proclamation and a thesis citation",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-08-17",
+    "board": "select_board",
+    "phrase": null,
+    "url": "https://files.portsmouthnh.gov/agendas/2026/City%20Council/CC%20Revised%20Packet%208.17.2026.pdf"
+   },
+   "last_date": "2026-08-17"
+  },
+  {
+   "town": "Salem",
+   "relevant": true,
+   "stance": "leaning_for",
+   "confidence": "medium",
+   "headline": "Draft Freedom and Prosperity district lists small reactors as permitted use",
+   "thinking": "Salem officials appear to see small modular reactors as a way to attract data centers and AI infrastructure and to be among the first NH towns to allow them. The draft district allows them subject to NRC licensing, later narrowed to land west of I-93. The council discussed them at length and a former planning director asked what they meant, so scrutiny is likely; final adoption is not shown in the record.",
+   "good": [
+    "data center and AI power supply",
+    "clean energy for businesses",
+    "first-mover appeal",
+    "NRC licensing as safeguard"
+   ],
+   "bad": [
+    "proximity to residential areas",
+    "building height debate",
+    "public needs to understand the technology"
+   ],
+   "key": {
+    "date": "2025-08-04",
+    "board": "Town Council (EDC recommendation memo)",
+    "phrase": "Advanced Nuclear Technologies, including Small Modular Reactors (SMRs), microreactors",
+    "url": "https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_08042025-1560"
+   },
+   "last_date": "2025-08-04"
+  },
+  {
+   "town": "Salisbury",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Hazard plan and master plan cite Seabrook and Vermont Yankee only",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-06-18",
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.salisburynh.org/266/2025-Hazard-Mitigation-Plan-PDF"
+   },
+   "last_date": "2025-06-18"
+  },
+  {
+   "town": "Sanbornton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "town_meeting",
+    "phrase": null,
+    "url": "https://www.sanborntonnh.org/Archive.aspx?ADID=56"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Seabrook",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Warrant item for emergency operations center upgrade",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-02-03",
+    "board": "town_meeting",
+    "phrase": null,
+    "url": "https://seabrooknh.info/wp-content/uploads/2026/02/2026-Town-Warrant-middle-insert.pdf"
+   },
+   "last_date": "2026-02-03"
+  },
+  {
+   "town": "Stoddard",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-02-16",
+    "board": "other",
+    "phrase": null,
+    "url": "https://www.stoddardnh.org/AgendaCenter/ViewFile/Minutes/_02162026-200"
+   },
+   "last_date": "2026-02-16"
+  },
+  {
+   "town": "Stratham",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Engineer stamp wording and power-mix mailer",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2025-09-03",
+    "board": "planning",
+    "phrase": null,
+    "url": "https://www.strathamnh.gov/Documents/Boards and Committees/Planning Board/Agendas and Minutes/2025/Minutes/2025.09.03_approved_minutes.pdf?t=202512231129510"
+   },
+   "last_date": "2025-09-03"
+  },
+  {
+   "town": "Sullivan",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Ordinance bars toxic and radioactive nuisance uses",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "planning",
+    "phrase": null,
+    "url": "https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/2023_CPO(1).pdf"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Swanzey",
+   "relevant": true,
+   "stance": "leaning_for",
+   "confidence": "low",
+   "headline": "Energy Commission hears state plan now includes small nuclear",
+   "thinking": "A state representative told the Energy Commission the new 10-year energy plan now includes nuclear and enables small 'pocket nuclear' developments, and framed this favorably. The commission only received the briefing; no local position recorded. Likely to remain informational.",
+   "good": [
+    "state 10-year plan includes nuclear",
+    "small-scale developments possible"
+   ],
+   "bad": [
+    "no local action or siting discussion"
+   ],
+   "key": {
+    "date": "2025-11-10",
+    "board": "Energy Commission",
+    "phrase": null,
+    "url": "https://www.swanzeynh.gov/2025-11-10 EnergyCom minutes draft.pdf?t=202511200753290"
+   },
+   "last_date": "2025-11-10"
+  },
+  {
+   "town": "Thornton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-03-10",
+    "board": "zoning",
+    "phrase": null,
+    "url": "https://www.thorntonnh.gov/DocumentCenter/View/266/Zoning-Ordinance---revised-03-10-2026"
+   },
+   "last_date": "2026-03-10"
+  },
+  {
+   "town": "Troy",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Nuclear mentioned only as waste avoided by solar",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2024-06-26",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://troy.nh.gov/vertical/sites/%7B9201E33A-EFFC-40B3-ACBA-1A7C616335B4%7D/uploads/06.26.2024_PB_Min._FINAL.pdf"
+   },
+   "last_date": "2024-06-26"
+  },
+  {
+   "town": "Warner",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "town_meeting",
+    "phrase": null,
+    "url": "https://warnernh.gov/meetings/minutes/town/2019_Warrant.pdf"
+   },
+   "last_date": null
+  },
+  {
+   "town": "Washington",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Boilerplate: emergency plans, density testing, or weapons text",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": "other",
+    "phrase": null,
+    "url": "https://www.washington.nh.gov/1214/Town-of-Washington-Emergency-Operations-"
+   },
+   "last_date": null
+  }
+ ]
+}

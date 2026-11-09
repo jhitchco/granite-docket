@@ -4,6 +4,7 @@
 Pages: docs/index.html, docs/topics/<topic>/index.html, docs/towns/<town>/index.html, docs/coverage/index.html
 """
 import datetime as dt, html, json, os, re, shutil, sqlite3
+import maps
 from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -123,6 +124,7 @@ def main():
     os.makedirs(os.path.join(OUT, "assets"))
     shutil.copy(os.path.join(ROOT, "site.css"), os.path.join(OUT, "assets", "site.css"))
     open(os.path.join(OUT, ".nojekyll"), "w").close()
+    maps.assets(OUT)
 
     def movement(evs):
         a = sum(1 for x in evs if (x.get("date") or "") >= cut)
@@ -135,25 +137,11 @@ def main():
     # ---- topic pages
     topic_cards = []
     for key, (label, tslug, desc) in TOPIC_INFO.items():
-        rows = []
-        for (tk, town), evs in by_tt.items():
-            if tk != key: continue
-            a, trend = movement(evs)
-            rows.append((a, len(evs), town, evs, trend, stance_of(key, town, evs)))
-        rows.sort(key=lambda x: (-x[0], -x[1], x[2]))
-        n_ev = sum(r[1] for r in rows); n_recent = sum(r[0] for r in rows)
-        topic_cards.append((key, label, tslug, desc, len(rows), n_ev, n_recent, rows[:4]))
-        tally = defaultdict(int)
-        for r in rows: tally[r[5][0]] += 1
-        summary = "".join(f'<span class="tal">{stance_chip(k)}<b>{tally[k]}</b></span>' for k in STANCE if tally[k])
-        table = "".join(f"""<li class="row"><a class="town" href="../../towns/{slug(town)}/index.html">{e(town)}</a>
-<span class="num">{n} record{"s" if n != 1 else ""}</span><span class="num">{a} in {WINDOW} days</span>{trend}
-<span class="latest">{stance_chip(st[0], st[2])} {e(st[1])} <span class="lt">Latest {e(evs[0].get("date") or "?")}: {e(((evs[0].get("title") or "").split(" | ")[0].strip() or BOARD.get(evs[0].get("board"), "") + " " + (evs[0].get("type") or ""))[:80])}</span></span></li>""" for a, n, town, evs, trend, st in rows)
-        recent = sorted([ev for ev in events if ev["topic"] == key], key=lambda x: x.get("date") or "", reverse=True)[:60]
-        body = f"""<header class="hd"><div class="eyebrow">Topic · New Hampshire · public record</div><h1>{e(label)}</h1><p class="lede">{e(desc)}</p></header>
-<div class="stats"><div><b>{len(rows)}</b><span>towns on the record</span></div><div><b>{n_ev}</b><span>matching documents</span></div><div><b>{n_recent}</b><span>in the last {WINDOW} days</span></div></div>
-<section><h2>Where each town stands</h2><div class="tally">{summary}</div><p class="note">Stance describes what the town's boards (or, where noted, its residents) are doing about the topic, read from the records. "Regulating" means writing rules for where and how it can happen, not a ban. Calls marked "auto" come from keywords in the excerpts and are rougher than the rest. Most recent movement first; a record is one agenda, minutes, packet or warrant.</p><ol class="ledger">{table or '<li class="row">Nothing on the record yet.</li>'}</ol></section>
-<section><h2>Latest documents</h2><div class="evs">{"".join(event_html(x, 2) for x in recent)}</div></section>"""
+        # one map + one town list per topic (maps.py); the per-town read lives in mapdata/insights_<topic>.json
+        body, nt, ne, nr, top = maps.topic_page(key, label, tslug, desc, conn, dict(
+            e=e, slug=slug, BOARD=BOARD, STANCE=STANCE, window=WINDOW, hand=stance_cfg.get(key, {}),
+            auto_stance=lambda k, town, evs: stance_of(k, town, [dict(x, snippets=x["snippets"]) for x in evs])[0]))
+        topic_cards.append((key, label, tslug, desc, nt, ne, nr, [(0, 0, t) for t in top]))
         write(f"topics/{tslug}/index.html", page(f"{label} in New Hampshire · {NAME}", 2, body, desc))
 
     # ---- town pages
@@ -215,6 +203,8 @@ def main():
     if os.path.exists(os.path.join(ROOT, "housing.db")):
         import housing_site
         housing_site.build(OUT, sorted(towns), page, write, slug, e)
+        write("housing/map/index.html", page(f"Big housing builds map · {NAME}", 2, maps.housing_map(sqlite3.connect(os.path.join(ROOT, "housing.db")), e),
+                                             "Map of New Hampshire housing projects over 15 units and permitted multifamily construction by town."))
     print(f"site written to {OUT}: {len(events)} events, {len(towns)} towns")
 
 

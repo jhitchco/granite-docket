@@ -212,7 +212,8 @@ New residential construction permitted since then: {money(tc["new"])}{share}. To
 <td>{e(c["first"] or "")} → {e(c["last"] or "")}</td><td class="n">{c["n"]}</td><td class="wrapcell"><a href="{e(c["url"])}" target="_blank" rel="noopener">source</a> <span class="q">…{e(c["snippet"][:240])}…</span></td></tr>""" for c in cs)
 
     body = f"""<header class="hd"><div class="eyebrow">Housing · new construction · New Hampshire</div><h1>What's being built</h1>
-<p class="lede">Residential building permits filed with each town, with their construction value, from the US Census Building Permits Survey. "5+ unit" buildings are apartment and garden-style complexes. Projects are located from planning board records.</p></header>
+<p class="lede">Residential building permits filed with each town, with their construction value, from the US Census Building Permits Survey. "5+ unit" buildings are apartment and garden-style complexes. Projects are located from planning board records.</p>
+<p class="lede"><a href="map/index.html"><b>Map of big builds →</b></a> every project over 15 units since 2023 and multifamily permits since {dt.date.today().year - 5}, by town and year.</p></header>
 <div class="stats"><div><b>{money(t12)}</b><span>permitted construction, last 12 months</span></div><div><b>{chg(t12, p12) or "–"}</b><span>vs. prior 12 months</span></div>
 <div><b>{u12:,}</b><span>housing units permitted</span></div><div><b>{apt12:,}</b><span>units in 5+ unit buildings</span></div></div>
 <section><h2>Statewide, by month</h2>{legend()}<figure class="wide">{state_chart}</figure>

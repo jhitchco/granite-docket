@@ -1,0 +1,1591 @@
+{
+ "_comment": "Per-town read of the data-center records. relevant=false means incidental mentions only. 'thinking', 'good' and 'bad' are a read of the records, not the town's words.",
+ "reviewed": "2026-11-09",
+ "towns": [
+  {
+   "town": "Acworth",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Select Board asks if Planning Board should look at data centers",
+   "thinking": "The board asked whether to be proactive after news from Merrimack. Members judged it would fall under non-residential site plan review and that Acworth lacks the electricity and water, and the board later urged the Planning Board to consider it.",
+   "good": [],
+   "bad": [
+    "Limited electric supply",
+    "Water needs"
+   ],
+   "key": {
+    "date": "2026-04-06",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://www.acworthnh.net/_files/ugd/a327e9_5a34f12bed6045dabc075d22280d2732.pdf"
+   },
+   "last_date": "2026-04-27"
+  },
+  {
+   "town": "Alexandria",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Allenstown",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "medium",
+   "headline": "Select Board forms committee to watch Bow data center",
+   "thinking": "A resident letter asked the board to track a proposed data center at the Merrimack Station site in neighboring Bow, citing noise, air and other effects on an abutting town. The board moved to create a five-person committee to study it and coordinate with Pembroke. No local project or rule is on the table.",
+   "good": [],
+   "bad": [
+    "Noise",
+    "Air quality",
+    "Regional spillover from Bow"
+   ],
+   "key": {
+    "date": "2026-09-14",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://www.allenstownnh.gov/AgendaCenter/ViewFile/Minutes/_09142026-368"
+   },
+   "last_date": "2026-09-14"
+  },
+  {
+   "town": "Alstead",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Amherst",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Planning Board member wants to discuss a data center use",
+   "thinking": "A member asked to discuss a data center use, and a July zoning hearing speaker worried a land-prep project could precede one.",
+   "good": [],
+   "bad": [
+    "noise and truck traffic worries"
+   ],
+   "key": {
+    "date": "2026-09-16",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_09162026-435"
+   },
+   "last_date": "2026-09-16"
+  },
+  {
+   "town": "Ashland",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Auburn",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Barnstead",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Planning Board says it will discuss data centers",
+   "thinking": "The board cited statewide interest and planned to take up data centers at a future meeting, then handed members background notes in October. No position or draft rule has surfaced.",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-10-15",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.barnstead.org/AgendaCenter/ViewFile/Minutes/_10152026-237"
+   },
+   "last_date": "2026-10-15"
+  },
+  {
+   "town": "Bartlett",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board debating adding data centers to the Master Plan",
+   "thinking": "Members reviewed state webinars and discussed power, water and cost recovery from developers, and a resident asked about a ballot question. The board wants to act before it is fully informed on energy and water. A Master Plan section or warrant article looks likely.",
+   "good": [],
+   "bad": [
+    "power demand",
+    "water use",
+    "ratepayer costs"
+   ],
+   "key": {
+    "date": "2026-08-03",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.townofbartlett.nh.gov/AgendaCenter/ViewFile/Minutes/_08032026-197"
+   },
+   "last_date": "2026-11-02"
+  },
+  {
+   "town": "Bedford",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Passing data center questions at Council and Conservation Commission",
+   "thinking": "Councilors asked a ZBA candidate about data centers, and the Conservation Commission discussed them as a hot-button topic for regional round tables. No local proposal or rule appears.",
+   "good": [],
+   "bad": [
+    "Zoning manipulation concern"
+   ],
+   "key": {
+    "date": "2026-09-22",
+    "board": "Conservation Commission",
+    "phrase": null,
+    "url": "https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_09222026-3004"
+   },
+   "last_date": "2026-09-22"
+  },
+  {
+   "town": "Berlin",
+   "relevant": true,
+   "stance": "leaning_for",
+   "confidence": "medium",
+   "headline": "Economic development board entertains a data center for jobs and tax base",
+   "thinking": "The development committee discussed a data center in March and April, with some residents calling it a windfall and others disagreeing; river water and abundant power were cited. The City Manager wants to wait until a tax agreement is finished.",
+   "good": [
+    "tax base windfall",
+    "jobs",
+    "river water and electricity"
+   ],
+   "bad": [
+    "disagreement over job counts"
+   ],
+   "key": {
+    "date": "2026-03-11",
+    "board": "Economic Development",
+    "phrase": null,
+    "url": "https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_03112026-124"
+   },
+   "last_date": "2026-10-19"
+  },
+  {
+   "town": "Boscawen",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "high",
+   "headline": "Land development regulations add data center section and definitions",
+   "thinking": "Planning Board approved new site plan requirements for data centers with screening and equipment separation, plus definitions including Large Water User. Some board members voiced opposition to a data center in town, though the board noted it cannot deny a compliant proposal.",
+   "good": [],
+   "bad": [
+    "noise and mechanical equipment",
+    "water use",
+    "cannot deny compliant project"
+   ],
+   "key": {
+    "date": "2026-11-10",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.boscawennh.gov/DocumentCenter/View/6581/Land-Development-Regulations---Approved-111026"
+   },
+   "last_date": "2026-11-10"
+  },
+  {
+   "town": "Bow",
+   "relevant": true,
+   "stance": "mixed",
+   "confidence": "medium",
+   "headline": "Data center floated at old Merrimack Station; Planning Board reviewing zoning",
+   "thinking": "Reports of a data center at the former power plant drew a packed Select Board meeting where nearly all residents spoke against. The Business Development Commission is also considering a working group on data center opportunities, and the Planning Board is reviewing zoning amendments in November. No application has been filed; the town looks to be weighing tax base against resident opposition while writing rules.",
+   "good": [
+    "tax base and redevelopment of former power plant site",
+    "economic development interest"
+   ],
+   "bad": [
+    "resident opposition",
+    "water and power questions",
+    "no application yet"
+   ],
+   "key": {
+    "date": "2026-09-22",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://www.bownh.gov/AgendaCenter/ViewFile/Minutes/_09222026-2776"
+   },
+   "last_date": "2026-10-15"
+  },
+  {
+   "town": "Bradford",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "high",
+   "headline": "Planning Board drafted data center site plan rules, then broadened them",
+   "thinking": "The board drafted standards on noise, water and electric rates, then broadened them to industrial uses generally. A select board member questioned the motivation. A hearing was set for Oct 27, 2026.",
+   "good": [],
+   "bad": [
+    "noise",
+    "water",
+    "electric rates",
+    "nuisance"
+   ],
+   "key": {
+    "date": "2026-08-25",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://towncloud.io/go/bradford-nh/agendas/359/minutes/get_agenda_document_link"
+   },
+   "last_date": "2026-10-13"
+  },
+  {
+   "town": "Brentwood",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Planning Board discussed potential of data centers in town",
+   "thinking": "The board put data centers on an August agenda alongside impact fees and discussed their potential; the minutes record no stance.",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": "2026-08-06",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14847"
+   },
+   "last_date": "2026-08-06"
+  },
+  {
+   "town": "Bristol",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Brookfield",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Candia",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "medium",
+   "headline": "Planning Board to review allowing data centers by right",
+   "thinking": "A Select Board member pointed out that zoning allows data centers by right in several districts, and the Planning Board agreed an amendment to remove that should be reviewed. One member said they are quiet neighbors, and the board noted Candia's infrastructure does not fit the typical large-site profile.",
+   "good": [
+    "Often quiet, office-like"
+   ],
+   "bad": [
+    "Allowed by right now",
+    "Power and water use"
+   ],
+   "key": {
+    "date": "2026-09-16",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.candianh.org/AgendaCenter/ViewFile/Minutes/_09162026-606"
+   },
+   "last_date": "2026-10-07"
+  },
+  {
+   "town": "Canterbury",
+   "relevant": true,
+   "stance": "against",
+   "confidence": "high",
+   "headline": "Voters banned data centers by zoning amendment in March 2026",
+   "thinking": "The Planning Board drafted a definition covering crypto mining and server farms, then sent a ban to the ballot, citing river water supply, electricity prices and noise. Residents voted it in at Town Meeting, and the Select Board also opposed state bill HB 639. The town appears settled and is now watching state preemption bills.",
+   "good": [],
+   "bad": [
+    "water demand",
+    "electricity prices",
+    "noise",
+    "state preemption (HB 639)"
+   ],
+   "key": {
+    "date": "2026-03-10",
+    "board": "Town Meeting",
+    "phrase": null,
+    "url": "https://www.canterburynh.gov/wp-content/uploads/2026/03/Town-Meeting-Election-Results-3_10_26.pdf"
+   },
+   "last_date": "2026-06-04"
+  },
+  {
+   "town": "Chester",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board discussing zoning limits on bitcoin-mining data centers",
+   "thinking": "A board member asked in 2025 to restrict uses now allowed under state law, including bitcoin mining data centers. The board discussed amendments in early 2026 along with other regulated uses. It looks like a restriction on crypto-style facilities rather than a ban on all data centers.",
+   "good": [],
+   "bad": [
+    "Crypto mining use allowed by state law"
+   ],
+   "key": {
+    "date": "2026-02-25",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.chesternh.org/AgendaCenter/ViewFile/Minutes/_02252026-207"
+   },
+   "last_date": "2026-02-25"
+  },
+  {
+   "town": "Chesterfield",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Chichester",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Claremont",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board weighing data center definitions this month",
+   "thinking": "The Planning Board put a data center definition on its Nov. 9 agenda after the Assistant Mayor asked for it, and staff compared state and local wording. The Conservation Commission is also planning a public program on impacts to natural resources, and a staffer has floated draft ordinances. It appears to be moving toward rules before any proposal arrives.",
+   "good": [],
+   "bad": [
+    "Natural resource impacts",
+    "No rules yet"
+   ],
+   "key": {
+    "date": "2026-11-09",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/Data Center Definitions for Discussion_Planning Board 110926_1793657259.pdf"
+   },
+   "last_date": "2026-11-19"
+  },
+  {
+   "town": "Concord",
+   "relevant": true,
+   "stance": "for",
+   "confidence": "medium",
+   "headline": "Micro data center cleared for site plan review on Locke Road",
+   "thinking": "A developer switched to an 8,160 sq ft micro data center in an industrial zone and went through design and conservation review, with questions about generators, cooling and stormwater. The city is treating it as an ordinary industrial use.",
+   "good": [
+    "permitted industrial use",
+    "small scale"
+   ],
+   "bad": [
+    "backup generators",
+    "stormwater and cooling water"
+   ],
+   "key": {
+    "date": "2026-02-09",
+    "board": "Design Review Committee",
+    "phrase": null,
+    "url": "https://www.concordnh.gov/Archive.aspx?AMID=55&Type=Recent"
+   },
+   "last_date": "2026-10-14"
+  },
+  {
+   "town": "Dalton",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "medium",
+   "headline": "Residents fear unzoned Dalton is a target for AI data centers",
+   "thinking": "A petition for a special town meeting on emergency zoning cites protection from large data centers, since Dalton has no zoning. At the hearing, some speakers doubted a data center would come given the local workforce and infrastructure. The town seems headed toward some zoning, with data centers as one motive.",
+   "good": [],
+   "bad": [
+    "no zoning ordinance",
+    "property values",
+    "unwanted corporate development"
+   ],
+   "key": {
+    "date": "2026-08-17",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://townofdaltonnh.gov/wp-content/uploads/2026/09/8.17.2026-Meeting-Minutes.pdf"
+   },
+   "last_date": "2026-09-19"
+  },
+  {
+   "town": "Deerfield",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Derry",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Zoning defines data centers but keeps them out of new Industrial II district",
+   "thinking": "A definition for Data Center or Information-Processing Facility was added in the Gateway rezoning, and the use was excluded from the IND-II district for now.",
+   "good": [],
+   "bad": [
+    "district fit"
+   ],
+   "key": {
+    "date": "2025-07-22",
+    "board": "Gateway planning meeting",
+    "phrase": null,
+    "url": "https://www.derrynh.gov/DocumentCenter/View/5015/Gateway-Meeting-Notes-July%2022,%202025"
+   },
+   "last_date": "2026-09-03"
+  },
+  {
+   "town": "Dover",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Energy Commission notes data centers as large new load",
+   "thinking": "A city energy report lists data centers as a large energy consumer that could drive new generation, possibly small modular reactors on former plant sites. It is informational background; neighboring Farmington's board says Dover allows small data centers only by conditional use.",
+   "good": [],
+   "bad": [
+    "Large electricity demand"
+   ],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Dublin",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "low",
+   "headline": "Master plan committee worries about intensive water users like data centers",
+   "thinking": "A master plan steering committee flagged intensive water users such as data centers as a risk to aquifers, while saying the broader aim is protecting water quality.",
+   "good": [],
+   "bad": [
+    "Aquifer and water quality"
+   ],
+   "key": {
+    "date": "2026-05-14",
+    "board": "Master Plan Steering Committee",
+    "phrase": null,
+    "url": "https://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_05142026-173"
+   },
+   "last_date": "2026-05-14"
+  },
+  {
+   "town": "Dunbarton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Durham",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board and Energy Committee defining hyperscale data centers",
+   "thinking": "The Energy Committee has data centers as a standing agenda item and has discussed defining a hyperscale facility by power draw. The Planning Board is clarifying that light manufacturing excludes data centers and awaiting regional planning guidance on definitions. Water use and cooling needs came up, and UNH said hyperscale was not part of its development plans.",
+   "good": [],
+   "bad": [
+    "Water use",
+    "Large power demand"
+   ],
+   "key": {
+    "date": "2026-10-14",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.durhamnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-420"
+   },
+   "last_date": "2026-11-03"
+  },
+  {
+   "town": "Exeter",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Farmington",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "high",
+   "headline": "Planning Board drafting data center zoning for March 2027 warrant",
+   "thinking": "Staff warned that a data center could now be allowed by special exception in any district as an unspecified use. The board is drafting a definition and tiered limits, with small facilities conditionally allowed and hyperscale prohibited for now, and a draft warrant article is in the November packet. One member earlier cautioned about overregulating; the Nottingham backlash was cited as a model of what to avoid.",
+   "good": [
+    "Small facilities could be allowed by permit"
+   ],
+   "bad": [
+    "Loophole in current zoning",
+    "Hyperscale scale",
+    "Water and power"
+   ],
+   "key": {
+    "date": "2026-11-04",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.farmington.nh.us/DocumentCenter/View/3129/PB-Packet-11-04-26"
+   },
+   "last_date": "2026-11-04"
+  },
+  {
+   "town": "Francestown",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Franconia",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "low",
+   "headline": "Conservation Commission objected to state bill on crypto data centers",
+   "thinking": "The commission reviewed HB 639, which it saw as allowing energy-costly crypto-mining data centers without local control. It signals concern but no local action.",
+   "good": [],
+   "bad": [
+    "loss of local control",
+    "energy cost"
+   ],
+   "key": {
+    "date": "2026-06-02",
+    "board": "Conservation Commission",
+    "phrase": null,
+    "url": "https://www.franconianh.gov/uploads/1/1/6/8/11680191/fcc_4-1-2025.pdf"
+   },
+   "last_date": "2026-06-02"
+  },
+  {
+   "town": "Franklin",
+   "relevant": true,
+   "stance": "mixed",
+   "confidence": "medium",
+   "headline": "Residents split on whether Franklin should explore a data center",
+   "thinking": "In public comment, residents asked the Council to study costs and benefits, with some seeing a tax base opportunity and another earlier warning that the tax cap could make the city a target. The Council has not taken a position. Budget pressure is the driver on both sides.",
+   "good": [
+    "Possible tax base growth",
+    "Interest in studying it"
+   ],
+   "bad": [
+    "Tax cap could invite exploitative projects"
+   ],
+   "key": {
+    "date": "2026-08-31",
+    "board": "City Council",
+    "phrase": null,
+    "url": "https://franklinnh.gov/AgendaCenter/ViewFile/Minutes/_08312026-181"
+   },
+   "last_date": "2026-08-31"
+  },
+  {
+   "town": "Fremont",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "low",
+   "headline": "Conservation and Planning Boards eye zoning for high-water uses",
+   "thinking": "The Conservation Commission worries about water for data centers and power uses, and planning members talked of zoning updates for high-water industries, possibly in 2027.",
+   "good": [],
+   "bad": [
+    "water supply",
+    "power generation land uses"
+   ],
+   "key": {
+    "date": "2026-08-05",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.fremont.nh.gov/AgendaCenter/ViewFile/Minutes/_08052026-224"
+   },
+   "last_date": "2026-08-05"
+  },
+  {
+   "town": "Goffstown",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Grantham",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Energy Committee agenda asks about Bow data center water and power",
+   "thinking": "The Energy Committee has repeatedly listed the Bow data center, noting it uses water and electricity, among energy topics. No local action.",
+   "good": [],
+   "bad": [
+    "Water use",
+    "Electric demand"
+   ],
+   "key": {
+    "date": "2026-10-13",
+    "board": "Energy Committee",
+    "phrase": null,
+    "url": "https://granthamnh.gov/uploads/dm/13090/GECAgenda_Oct13_2026.txt"
+   },
+   "last_date": "2026-11-10"
+  },
+  {
+   "town": "Greenfield",
+   "relevant": true,
+   "stance": "against",
+   "confidence": "medium",
+   "headline": "Planning Board proposes one-year moratorium on AI data centers",
+   "thinking": "Minutes list creating a moratorium on AI data centers to give the board a year to write an ordinance. It appears to be a proposed warrant measure, not yet adopted.",
+   "good": [
+    "Time to draft an ordinance"
+   ],
+   "bad": [
+    "Unregulated large facilities"
+   ],
+   "key": {
+    "date": "2026-08-24",
+    "board": "Planning Board",
+    "phrase": "Create a moratorium on AI data centers",
+    "url": "https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Minutes/_08242026-160"
+   },
+   "last_date": "2026-08-24"
+  },
+  {
+   "town": "Greenland",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Hampstead",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Hampton",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "State senator briefed Select Board on SB 439",
+   "thinking": "A senator's update described a bill creating a statewide data center zoning category with water and grid responsibilities. No local proposal or position appears in the record.",
+   "good": [],
+   "bad": [
+    "state bill"
+   ],
+   "key": {
+    "date": "2026-03-23",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://www.hamptonnh.gov/AgendaCenter/ViewFile/Minutes/_03232026-1987"
+   },
+   "last_date": "2026-03-23"
+  },
+  {
+   "town": "Hampton Falls",
+   "relevant": true,
+   "stance": "against",
+   "confidence": "medium",
+   "headline": "Planning Board wants Master Plan to say data centers are not acceptable",
+   "thinking": "A member urged the town to state proactively that a data center is not acceptable, and the board moved to add language to the Industrial section. A statement in the plan rather than a ban so far.",
+   "good": [],
+   "bad": [
+    "community character"
+   ],
+   "key": {
+    "date": "2026-06-23",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.hamptonfalls.org/AgendaCenter/ViewFile/Minutes/_06232026-147"
+   },
+   "last_date": "2026-06-23"
+  },
+  {
+   "town": "Haverhill",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Hebron",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Hill",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Holderness",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Hollis",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Hooksett",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "medium",
+   "headline": "Planning Board member proposes moratorium, no vote yet",
+   "thinking": "In September a member asked whether the town wants data centers and another suggested a moratorium; in November a data center email was sent to the land use subcommittee. The Economic Development Committee also discussed the Bow proposal's water, electrical and regional impacts while courting other large employers.",
+   "good": [
+    "Interest in large commercial prospects"
+   ],
+   "bad": [
+    "Water",
+    "Electric demand",
+    "Spillover from Bow"
+   ],
+   "key": {
+    "date": "2026-09-21",
+    "board": "Planning Board",
+    "phrase": "do we want them or not?",
+    "url": "https://www.hooksett.gov/9.21.2026 PB Minutes Official.pdf?t=202610231039550"
+   },
+   "last_date": "2026-11-02"
+  },
+  {
+   "town": "Hudson",
+   "relevant": true,
+   "stance": "for",
+   "confidence": "medium",
+   "headline": "Zoning amendment would add data centers as an industrial-zone use",
+   "thinking": "A proposed amendment would add a defined data center use to the Industrial Zone. The Planning Board suggested making it a special exception so applications go through the Zoning Board of Adjustment. This reads as a controlled opening for industrial land, probably with tax base in mind.",
+   "good": [
+    "Allowed in Industrial Zone",
+    "Defined use"
+   ],
+   "bad": [
+    "Special exception review suggested"
+   ],
+   "key": {
+    "date": "2026-01-22",
+    "board": "Zoning Board of Adjustment",
+    "phrase": null,
+    "url": "https://www.hudsonnh.gov/AgendaCenter/ViewFile/Agenda/_01222026-290"
+   },
+   "last_date": "2026-01-22"
+  },
+  {
+   "town": "Jaffrey",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Keene",
+   "relevant": true,
+   "stance": "against",
+   "confidence": "high",
+   "headline": "City Council moves one-year data center moratorium forward",
+   "thinking": "The Council asked the Planning Board for findings supporting a temporary moratorium on large-scale data centers and crypto mining, citing rapid growth of facilities with unfamiliar impacts. The ordinance was introduced and referred to a joint committee on Nov. 5. It looks headed for a hearing and likely adoption while rules are written.",
+   "good": [
+    "Time to write regulations"
+   ],
+   "bad": [
+    "Unfamiliar large-scale impacts",
+    "Crypto mining facilities"
+   ],
+   "key": {
+    "date": "2026-11-05",
+    "board": "City Council",
+    "phrase": null,
+    "url": "https://keenenh.gov/wp-content/uploads/2026/11/2026_11_05_City-Council-Referral-Packet-with-Signature-line_optimized.pdf"
+   },
+   "last_date": "2026-11-05"
+  },
+  {
+   "town": "Laconia",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Conservation Commission gathering information on data centers",
+   "thinking": "A commissioner is collecting information on data centers and their potential impact, and the chair has suggested the city take notice. No proposal, hearing or rule appears in the records.",
+   "good": [],
+   "bad": [
+    "Environmental impact questions"
+   ],
+   "key": {
+    "date": "2026-08-05",
+    "board": "Conservation Commission",
+    "phrase": null,
+    "url": "https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_08052026-8246?packet=true"
+   },
+   "last_date": "2026-08-05"
+  },
+  {
+   "town": "Lebanon",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Litchfield",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Littleton",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Town and utility weigh large-load rules; moratorium judged premature",
+   "thinking": "The Planning Board got legal advice on a moratorium, which would need a town vote, but members felt it was too much for now. The Littleton Water and Light utility drafted large-load application rules covering fees, studies and bonds. Officials stress that cheap local power is an asset and limited zoning tools exist.",
+   "good": [
+    "Utility large-load policy",
+    "Impact fees possible"
+   ],
+   "bad": [
+    "Noise",
+    "Water and generators",
+    "Grid and rate impacts",
+    "Limited zoning tools"
+   ],
+   "key": {
+    "date": "2026-08-18",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.townoflittleton.org/AgendaCenter/ViewFile/Minutes/_08182026-186"
+   },
+   "last_date": "2026-10-26"
+  },
+  {
+   "town": "Londonderry",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board asked staff to draft data center rules",
+   "thinking": "At its Sept 2 meeting the board took up data centers, steering toward industrial districts, and the Select Board earlier discussed their power needs.",
+   "good": [],
+   "bad": [
+    "power requirements"
+   ],
+   "key": {
+    "date": "2026-09-02",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_09022026-1272"
+   },
+   "last_date": "2026-09-02"
+  },
+  {
+   "town": "Lyndeborough",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Madbury",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Middleton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Nashua",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "New Durham",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "New London",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Newfields",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Boards asked whether a data center statement is needed",
+   "thinking": "A Planning Board member raised possible future proposals and whether a moratorium or statement was needed. The response was that existing industrial-area rules offer reasonable protection.",
+   "good": [],
+   "bad": [
+    "possible future proposals"
+   ],
+   "key": {
+    "date": "2026-09-10",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.newfieldsnh.gov/AgendaCenter/ViewFile/Minutes/_09102026-188"
+   },
+   "last_date": "2026-09-15"
+  },
+  {
+   "town": "Newington",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Conservation Commission idly asked about a data center site",
+   "thinking": "A commissioner asked whether Arboretum Drive land could host one; others noted water and power draws.",
+   "good": [],
+   "bad": [
+    "Pease site",
+    "brackish river water idea"
+   ],
+   "key": {
+    "date": "2026-08-13",
+    "board": "Conservation Commission",
+    "phrase": null,
+    "url": "https://www.newingtonnh.gov/AgendaCenter/ViewFile/Minutes/_08132026-211"
+   },
+   "last_date": "2026-08-13"
+  },
+  {
+   "town": "Newmarket",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Newport",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Master Plan work and a zoning item on data centers",
+   "thinking": "Planning Board and Commission members asked whether to take a stand and decided to address impacts rather than ban outright. Data Center Zoning is on the October Select Board agenda. Likely an impact-based zoning approach.",
+   "good": [
+    "tolerance of high-tech industry"
+   ],
+   "bad": [
+    "natural resource effects"
+   ],
+   "key": {
+    "date": "2026-07-22",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://newportnh.gov/AgendaCenter/ViewFile/Minutes/_07222026-182"
+   },
+   "last_date": "2026-10-14"
+  },
+  {
+   "town": "Orford",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Pembroke",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "medium",
+   "headline": "Residents and Select Board uneasy about Bow hyperscale proposal",
+   "thinking": "At the Sept. 2 meeting residents raised property values, taxes, noise, water and electric demand tied to the reported Bow proposal. Board members said Pembroke should be ready to press for strong conditions on water, noise, lighting and emissions if it gets a chance to comment. The posture is concern and preparation, not formal action.",
+   "good": [],
+   "bad": [
+    "Property values and taxes",
+    "Noise",
+    "Water use",
+    "Electric demand"
+   ],
+   "key": {
+    "date": "2026-09-02",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://www.pembroke-nh.com/AgendaCenter/ViewFile/Minutes/_09022026-383"
+   },
+   "last_date": "2026-09-02"
+  },
+  {
+   "town": "Peterborough",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board drafting data center zoning with Town Counsel input",
+   "thinking": "Board members raised crypto mining and data centers in late 2025 over power, water evaporation and noise, and a draft limiting them to one district by conditional use was discussed. Town Counsel is now advising and data center regulation is on the fall workshop agendas, pointing to a possible 2027 warrant article.",
+   "good": [],
+   "bad": [
+    "power demand",
+    "water use",
+    "noise"
+   ],
+   "key": {
+    "date": "2026-10-14",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.peterboroughnh.gov/PB Packet 10-14-26 - Redacted.pdf?t=202610071352180"
+   },
+   "last_date": "2026-11-09"
+  },
+  {
+   "town": "Portsmouth",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "low",
+   "headline": "City Council sent an AI data center petition to Legal",
+   "thinking": "A petition on AI data centers went to the Legal Department for a report. The substance is not shown in the excerpts, but it suggests citizen concern.",
+   "good": [],
+   "bad": [
+    "resident petition"
+   ],
+   "key": {
+    "date": "2026-06-08",
+    "board": "City Council",
+    "phrase": null,
+    "url": "https://files.portsmouthnh.gov/minutes/2026/citycouncil/June 8 2026 Minutes and Action Sheet.pdf"
+   },
+   "last_date": "2026-06-22"
+  },
+  {
+   "town": "Raymond",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Rindge",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Rumney",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Salem",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board considering a data center definition",
+   "thinking": "At a councilor's request, the board looked at another town's ordinance and a definition, citing heavy use of public utilities. In 2025 officials also discussed small nuclear reactors that could power data centers.",
+   "good": [
+    "interest in small nuclear power for data centers"
+   ],
+   "bad": [
+    "strain on public utilities"
+   ],
+   "key": {
+    "date": "2026-06-09",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.salemnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_06092026-2294"
+   },
+   "last_date": "2026-06-09"
+  },
+  {
+   "town": "Sanbornton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Stoddard",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "low",
+   "headline": "Select Board cites data centers in complaint about state overriding zoning",
+   "thinking": "Officials voiced concern that large projects such as data centers could proceed without local input under state preemption. This is about local control, not a specific proposal.",
+   "good": [],
+   "bad": [
+    "Loss of local control"
+   ],
+   "key": {
+    "date": "2026-08-10",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://www.stoddardnh.org/AgendaCenter/ViewFile/Minutes/_08102026-332"
+   },
+   "last_date": "2026-08-10"
+  },
+  {
+   "town": "Strafford",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board studying data center rules and planning public session",
+   "thinking": "The board agreed data centers need to be addressed after the Nottingham moratorium, noting energy, water and environmental impact, and collected other towns' regulations. It wants a public session on pros and cons, with one member stressing factual information. Currently possible by special exception; rules look likely.",
+   "good": [],
+   "bad": [
+    "energy and water use",
+    "environmental impact",
+    "facility size"
+   ],
+   "key": {
+    "date": "2026-07-02",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://strafford.nh.gov/wp-content/uploads/2026/08/PB20260702.pdf"
+   },
+   "last_date": "2026-10-01"
+  },
+  {
+   "town": "Stratford",
+   "relevant": true,
+   "stance": "against",
+   "confidence": "high",
+   "headline": "Select Board backs warrant article to prohibit data centers",
+   "thinking": "After a resident's request, the Select Board recommended that the Planning Board pursue a land use ordinance amendment prohibiting data centers. This will likely go to the 2027 Town Meeting.",
+   "good": [],
+   "bad": [
+    "AI data center concerns"
+   ],
+   "key": {
+    "date": "2026-10-05",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://stratfordnh.gov/wp-content/uploads/simple-file-list/Minutes/Selectboard-Meeting-Minutes/2026-Selectboard-Minutes/2026_10_05-SB-Minutes.pdf"
+   },
+   "last_date": "2026-10-05"
+  },
+  {
+   "town": "Stratham",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Select Board heard a senator's update on SB 439",
+   "thinking": "A state senator briefed the board on a bill for statewide data center zoning. No local position recorded.",
+   "good": [],
+   "bad": [
+    "state bill"
+   ],
+   "key": {
+    "date": "2026-04-06",
+    "board": "Select Board",
+    "phrase": null,
+    "url": "https://www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agendas and Minutes/2026/Packets/SB Packet 4 6 2026.pdf?t=202604061443580"
+   },
+   "last_date": "2026-04-06"
+  },
+  {
+   "town": "Sullivan",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of data centers",
+   "good": [],
+   "bad": [],
+   "key": null,
+   "last_date": null
+  },
+  {
+   "town": "Surry",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "low",
+   "headline": "Zoning board flags data centers as use needing definition",
+   "thinking": "In an ordinance update workshop the board listed data centers with solar farms and windmills as uses needing further discussion and definitions.",
+   "good": [],
+   "bad": [
+    "Undefined use"
+   ],
+   "key": {
+    "date": "2026-08-11",
+    "board": "Zoning workshop",
+    "phrase": null,
+    "url": "https://surry.nh.gov/wp-content/uploads/2026/09/2026-Workshop-minutes-August-11.pdf"
+   },
+   "last_date": "2026-08-11"
+  },
+  {
+   "town": "Swanzey",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "low",
+   "headline": "Conservation and energy panels discuss aquifer and grid effects",
+   "thinking": "The Conservation Commission is researching groundwater protections against large users such as data centers, and the economic task force and energy committee have discussed AI demand. Nothing formal has reached the planning or select boards.",
+   "good": [],
+   "bad": [
+    "groundwater drawdown",
+    "grid costs"
+   ],
+   "key": {
+    "date": "2026-02-02",
+    "board": "Conservation Commission",
+    "phrase": null,
+    "url": "https://www.swanzeynh.gov/2026-02-02 Con Comm Draft Minutes.pdf?t=202602091355410"
+   },
+   "last_date": "2026-09-14"
+  },
+  {
+   "town": "Tamworth",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "low",
+   "headline": "Conservation Commission wants groundwater ordinance to cover data centers",
+   "thinking": "Commissioners noted the Groundwater Ordinance does not address data centers and planned to raise it with the Planning Board. Nothing formal yet.",
+   "good": [],
+   "bad": [
+    "groundwater",
+    "state limits on local authority"
+   ],
+   "key": {
+    "date": "2026-07-13",
+    "board": "Conservation Commission",
+    "phrase": null,
+    "url": "https://www.tamworthnh.gov/AgendaCenter/ViewFile/Agenda/_07132026-259"
+   },
+   "last_date": "2026-08-10"
+  },
+  {
+   "town": "Thornton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Warner",
+   "relevant": true,
+   "stance": "leaning_against",
+   "confidence": "medium",
+   "headline": "Residents ask Planning Board for ordinance to keep data centers out",
+   "thinking": "A letter asked the board to draft an ordinance avoiding unwanted uses including data centers. The board has not acted.",
+   "good": [],
+   "bad": [
+    "community character"
+   ],
+   "key": {
+    "date": "2026-09-14",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://warnernh.gov/tow/meetings/minutes/planning/plan-20260914.pdf"
+   },
+   "last_date": "2026-11-02"
+  },
+  {
+   "town": "Wilton",
+   "relevant": false,
+   "stance": "unclear",
+   "confidence": "high",
+   "headline": "Only incidental mentions of a data center",
+   "good": [],
+   "bad": [],
+   "key": {
+    "date": null,
+    "board": null,
+    "phrase": null,
+    "url": null
+   },
+   "last_date": null
+  },
+  {
+   "town": "Winchester",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Planning Board listing data centers as possible warrant article",
+   "thinking": "Members raised data centers while reviewing the use table and as a possible 2027 warrant topic, with one member researching water and resource use and another health effects and noise. A work session was planned; no draft rule is shown.",
+   "good": [],
+   "bad": [
+    "Water use",
+    "Noise",
+    "Health concerns"
+   ],
+   "key": {
+    "date": "2026-06-15",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.winchester-nh.gov/AgendaCenter/ViewFile/Minutes/_06152026-307"
+   },
+   "last_date": "2026-06-15"
+  },
+  {
+   "town": "Windham",
+   "relevant": true,
+   "stance": "regulating",
+   "confidence": "medium",
+   "headline": "Planning Board finds no prohibition, considers treating data centers as utilities",
+   "thinking": "Nothing in the ordinance prohibits data centers, which currently fall under industrial. The board is considering folding them into the utilities definition and learning where they might be allowed, possibly limited industrial areas. An earlier resident concern about a property possibly becoming one points to neighbor worry about inputs.",
+   "good": [],
+   "bad": [
+    "No current prohibition",
+    "Utility and resource inputs"
+   ],
+   "key": {
+    "date": "2026-09-23",
+    "board": "Planning Board",
+    "phrase": null,
+    "url": "https://www.windhamnh.gov/AgendaCenter/ViewFile/Minutes/_09232026-3045"
+   },
+   "last_date": "2026-09-23"
+  },
+  {
+   "town": "Wolfeboro",
+   "relevant": true,
+   "stance": "unclear",
+   "confidence": "low",
+   "headline": "Conservation Commission notes no ordinance addresses data centers",
+   "thinking": "The commission found no ordinance directly covering data centers, so developers could argue they are not prohibited, and noted local power lines are too light to support one. It can only offer input; the Planning Board would decide.",
+   "good": [],
+   "bad": [
+    "No specific ordinance",
+    "Insufficient grid capacity"
+   ],
+   "key": {
+    "date": "2026-10-19",
+    "board": "Conservation Commission",
+    "phrase": null,
+    "url": "https://www.wolfeboronh.us/AgendaCenter/ViewFile/Minutes/_10192026-419"
+   },
+   "last_date": "2026-10-19"
+  }
+ ]
+}

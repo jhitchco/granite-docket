@@ -205,6 +205,10 @@ def main():
         housing_site.build(OUT, sorted(towns), page, write, slug, e)
         write("housing/map/index.html", page(f"Big housing builds map · {NAME}", 2, maps.housing_map(sqlite3.connect(os.path.join(ROOT, "housing.db")), e),
                                              "Map of New Hampshire housing projects over 15 units and permitted multifamily construction by town."))
+        import willing
+        wbody, _ = willing.page_body(conn, sqlite3.connect(os.path.join(ROOT, "housing.db")), e, slug)
+        write("housing/willingness/index.html", page(f"Housing willingness heatmap · {NAME}", 2, wbody,
+                                                     "Which New Hampshire towns are most open to new housing, scored 0-100 from permits, projects and policy."))
     print(f"site written to {OUT}: {len(events)} events, {len(towns)} towns")
 
 

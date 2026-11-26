@@ -1,0 +1,16 @@
+{
+  "_note": "Town records pilot (civic.py). towns: pages built; pilot: highlighted on /civic/. gaps: plain-language note shown on a town page.",
+  "pilot": ["Manchester", "Nashua", "Bow"],
+  "towns": ["Manchester", "Nashua", "Bow", "Concord", "Durham", "Portsmouth", "Merrimack", "Londonderry", "Bedford", "Hooksett"],
+  "gaps": {
+    "Manchester": "Manchester's website asks crawlers to stay out of its Planning Board and Zoning Board pages, so this page covers the Board of Mayor and Aldermen record posted on CivicClerk. Planning and zoning decisions are not here yet."
+  },
+  "default_examples": ["zoning amendment", "budget", "housing"],
+  "examples": {
+    "Bow": ["data center", "Merrimack Station", "budget"],
+    "Nashua": ["Pennichuck", "zoning amendment", "downtown"],
+    "Manchester": ["housing", "budget", "school"],
+    "Durham": ["UNH", "solar", "housing"],
+    "Portsmouth": ["parking", "housing", "Pease"]
+  }
+}

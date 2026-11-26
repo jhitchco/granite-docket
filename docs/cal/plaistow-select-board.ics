@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plaistow Select board / council
+X-WR-CALDESC:Select board / council meetings in Plaistow\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:99234845a53855e02808@granite-docket
+DTSTAMP:20261103T100034Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_09282026-290
+DESCRIPTION:Agenda: BOS Agenda\nhttps://www.plaistow.com/AgendaCenter/ViewF
+ ile/Agenda/_09282026-290\n\nMinutes: Sep 28\, 2026 BOS Agenda\nhttps://www
+ .plaistow.com/AgendaCenter/ViewFile/Minutes/_09282026-290\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2842214eb10cb5d52eef@granite-docket
+DTSTAMP:20261103T100136Z
+DTSTART;TZID=America/New_York:20260929T100000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_09292026-288
+DESCRIPTION:Agenda: Highway Safety Advisory Committe Agenda\nhttps://www.pl
+ aistow.com/AgendaCenter/ViewFile/Agenda/_09292026-288\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:34317a666417fa08d457@granite-docket
+DTSTAMP:20261103T100108Z
+DTSTART;TZID=America/New_York:20260930T170000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_09302026-289
+DESCRIPTION:Agenda: CIP Committee\nhttps://www.plaistow.com/AgendaCenter/Vi
+ ewFile/Agenda/_09302026-289\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0a6cc832ad92016c03@granite-docket
+DTSTAMP:20261103T100113Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10012026-291
+DESCRIPTION:Agenda: ConCom Agenda\nhttps://www.plaistow.com/AgendaCenter/Vi
+ ewFile/Agenda/_10012026-291\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f35999be529c031c7398@granite-docket
+DTSTAMP:20261103T100033Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10052026-294
+DESCRIPTION:Agenda: BOS Agenda\nhttps://www.plaistow.com/AgendaCenter/ViewF
+ ile/Agenda/_10052026-294\n\nMinutes: Oct 5\, 2026 BOS Agenda\nhttps://www.
+ plaistow.com/AgendaCenter/ViewFile/Minutes/_10052026-294\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f619b22eb896f0f6070@granite-docket
+DTSTAMP:20261103T100128Z
+DTSTART;TZID=America/New_York:20261007T170000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10072026-293
+DESCRIPTION:Agenda: Energy Committee/Community Power Committee - Canceled\n
+ https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10072026-293\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8303c329386b6f09d73d@granite-docket
+DTSTAMP:20261109T083345Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10192026-297
+DESCRIPTION:Agenda: BOS Agenda\nhttps://www.plaistow.com/AgendaCenter/ViewF
+ ile/Agenda/_10192026-297\n\nMinutes: Oct 19\, 2026 BOS Agenda\nhttps://www
+ .plaistow.com/AgendaCenter/ViewFile/Minutes/_10192026-297\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fad3c4b28da7e58f2f71@granite-docket
+DTSTAMP:20261123T083102Z
+DTSTART;TZID=America/New_York:20261026T170000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10262026-301
+DESCRIPTION:Agenda: BOS Agenda\nhttps://www.plaistow.com/AgendaCenter/ViewF
+ ile/Agenda/_10262026-301\n\nAgenda: BOS Agenda\nhttps://www.plaistow.com/A
+ gendaCenter/ViewFile/ArchivedAgenda/_10262026-207\n\nMinutes: Oct 26\, 202
+ 6 — Amended Oct 26\, 2026 11:41 AM BOS Agenda\nhttps://www.plaistow.com/
+ AgendaCenter/ViewFile/Minutes/_10262026-301\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:773be37f843ca87aa3a4@granite-docket
+DTSTAMP:20261103T100102Z
+DTSTART;TZID=America/New_York:20261027T183000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10272026-300
+DESCRIPTION:Agenda: Budget Committe\nhttps://www.plaistow.com/AgendaCenter/
+ ViewFile/Agenda/_10272026-300\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0ea92a768b7238033e1@granite-docket
+DTSTAMP:20261103T100108Z
+DTSTART;TZID=America/New_York:20261028T173000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10282026-302
+DESCRIPTION:Agenda: CIP Committee\nhttps://www.plaistow.com/AgendaCenter/Vi
+ ewFile/Agenda/_10282026-302\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe2d913c34bdc87d3ba@granite-docket
+DTSTAMP:20261109T094707Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/DocumentCenter/View/4684/-Plaistow-2026-State-
+ General-Election-results
+DESCRIPTION:Other: Plaistow 2026 State General Election Results Additional 
+ Info... Town Clerk Posted on November 03\, 20\nhttps://www.plaistow.com/Do
+ cumentCenter/View/4684/-Plaistow-2026-State-General-Election-results\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a103d608beb55c35c0b@granite-docket
+DTSTAMP:20261103T100128Z
+DTSTART;TZID=America/New_York:20261104T170000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11042026-305
+DESCRIPTION:Agenda: Energy Committee/Community Power Committee\nhttps://www
+ .plaistow.com/AgendaCenter/ViewFile/Agenda/_11042026-305\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf587d815692210cfbd0@granite-docket
+DTSTAMP:20261109T083415Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11052026-306
+DESCRIPTION:Agenda: ConCom Agenda\nhttps://www.plaistow.com/AgendaCenter/Vi
+ ewFile/Agenda/_11052026-306\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c4bee13d87a575d2095@granite-docket
+DTSTAMP:20261109T083425Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11092026-309
+DESCRIPTION:Agenda: BOS Agenda\nhttps://www.plaistow.com/AgendaCenter/ViewF
+ ile/Agenda/_11092026-309\n\nAgenda: Town Report Committee Meeting\nhttps:/
+ /www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11092026-308\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:94f3d3517171e80ec9b0@granite-docket
+DTSTAMP:20261109T083356Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11102026-307
+DESCRIPTION:Agenda: Budget Committee 11/10/2026 Agenda\nhttps://www.plaisto
+ w.com/AgendaCenter/ViewFile/Agenda/_11102026-307\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ec2ddd91890efbac67c@granite-docket
+DTSTAMP:20261116T083430Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11172026-311
+DESCRIPTION:Agenda: Budget Committee meeting\nhttps://www.plaistow.com/Agen
+ daCenter/ViewFile/Agenda/_11172026-311\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b30c7bfb43496dd4a075@granite-docket
+DTSTAMP:20261123T083132Z
+DTSTART;TZID=America/New_York:20261119T173000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11192026-313
+DESCRIPTION:Agenda: CIP Committee - CANCELED\nhttps://www.plaistow.com/Agen
+ daCenter/ViewFile/Agenda/_11192026-313\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:77b8aa3060f58d543d89@granite-docket
+DTSTAMP:20261123T083052Z
+DTSTART;TZID=America/New_York:20261123T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11232026-316
+DESCRIPTION:Agenda: BOS Agenda\nhttps://www.plaistow.com/AgendaCenter/ViewF
+ ile/Agenda/_11232026-316\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e2fa81677ea2aa686ae5@granite-docket
+DTSTAMP:20261123T083112Z
+DTSTART;TZID=America/New_York:20261124T183000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11242026-314
+DESCRIPTION:Agenda: Budget Committe 11/24/2026 agenda\nhttps://www.plaistow
+ .com/AgendaCenter/ViewFile/Agenda/_11242026-314\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:98741484f5297c58aa46@granite-docket
+DTSTAMP:20261123T083122Z
+DTSTART;TZID=America/New_York:20261130T173000
+DURATION:PT2H
+SUMMARY:Plaistow Select board / council
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11302026-315
+DESCRIPTION:Agenda: CIP Committee\nhttps://www.plaistow.com/AgendaCenter/Vi
+ ewFile/Agenda/_11302026-315\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

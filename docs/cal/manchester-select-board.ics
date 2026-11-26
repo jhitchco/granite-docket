@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manchester Select board / council
+X-WR-CALDESC:Select board / council meetings in Manchester\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8b0e6f0667fdc31399fe@granite-docket
+DTSTAMP:20261109T072635Z
+DTSTART;TZID=America/New_York:20261006T190000
+DURATION:PT2H
+SUMMARY:Manchester Select board / council
+LOCATION:Manchester\, NH
+URL:https://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStrea
+ m(fileId=5294,plainText=false)
+DESCRIPTION:Agenda: Board of Mayor and Aldermen Agenda 2026-10-06 10-06-26 
+ BMA\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStr
+ eam(fileId=5294\,plainText=false)\n\nAgenda: Board of Mayor and Aldermen A
+ genda 2026-10-06 10-06-26 FIN\nhttps://manchesternh.api.civicclerk.com/v1/
+ Meetings/GetMeetingFileStream(fileId=5259\,plainText=false)\n\nMinutes: Bo
+ ard of Mayor and Aldermen Minutes 2026-10-06 10-06-26 BMA MIN\nhttps://man
+ chesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5366\
+ ,plainText=false)\n\nMinutes: Board of Mayor and Aldermen Minutes 2026-10-
+ 06 10-06-26 FIN MIN\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/G
+ etMeetingFileStream(fileId=5367\,plainText=false)\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3cb3158edf1b406fb530@granite-docket
+DTSTAMP:20261109T072627Z
+DTSTART;TZID=America/New_York:20261013T170000
+DURATION:PT2H
+SUMMARY:Manchester Select board / council
+LOCATION:Manchester\, NH
+URL:https://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStrea
+ m(fileId=5308,plainText=false)
+DESCRIPTION:Agenda: Board of Mayor and Aldermen Agenda 2026-10-13 10-13-26 
+ JSB\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStr
+ eam(fileId=5308\,plainText=false)\n\nMinutes: Board of Mayor and Aldermen 
+ Minutes 2026-10-13 10-13-26 JSB MIN\nhttps://manchesternh.api.civicclerk.c
+ om/v1/Meetings/GetMeetingFileStream(fileId=5363\,plainText=false)\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b6d77b4e71da903db7@granite-docket
+DTSTAMP:20261123T072756Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Manchester Select board / council
+LOCATION:Manchester\, NH
+URL:https://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStrea
+ m(fileId=5351,plainText=false)
+DESCRIPTION:Agenda: Board of Mayor and Aldermen Agenda 2026-10-20 10-20-26 
+ BMA\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStr
+ eam(fileId=5351\,plainText=false)\n\nAgenda: Board of Mayor and Aldermen A
+ genda 2026-10-20 10-20-26 FIN\nhttps://manchesternh.api.civicclerk.com/v1/
+ Meetings/GetMeetingFileStream(fileId=5318\,plainText=false)\n\nAgenda: Boa
+ rd of Mayor and Aldermen Agenda 2026-10-20 10-20-26 Admin\nhttps://manches
+ ternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5329\,pla
+ inText=false)\n\nAgenda: Board of Mayor and Aldermen Agenda 2026-10-20 10-
+ 20-26 L&B\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingF
+ ileStream(fileId=5339\,plainText=false)\n\nAgenda: Board of Mayor and Alde
+ rmen Agenda 2026-10-20 10-20-26 CIP\nhttps://manchesternh.api.civicclerk.c
+ om/v1/Meetings/GetMeetingFileStream(fileId=5336\,plainText=false)\n\nAgend
+ a: Board of Mayor and Aldermen Agenda 2026-10-20 10-20-26 Accts\nhttps://m
+ anchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=535
+ 4\,plainText=false)\n\nAgenda: Board of Mayor and Aldermen Agenda 2026-10-
+ 20 10-20-26 Airport\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/G
+ etMeetingFileStream(fileId=5312\,plainText=false)\n\nMinutes: Board of May
+ or and Aldermen Minutes 2026-10-20 10-20-26 ADMIN MIN\nhttps://manchestern
+ h.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5370\,plainTe
+ xt=false)\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f59b2c8e7e0b1a78a54e@granite-docket
+DTSTAMP:20261123T072752Z
+DTSTART;TZID=America/New_York:20261110T170000
+DURATION:PT2H
+SUMMARY:Manchester Select board / council
+LOCATION:Manchester\, NH
+URL:https://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStrea
+ m(fileId=5383,plainText=false)
+DESCRIPTION:Agenda: Board of Mayor and Aldermen Agenda 2026-11-10 11-10-26 
+ JSB\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStr
+ eam(fileId=5383\,plainText=false)\n\nMinutes: Board of Mayor and Aldermen 
+ Minutes 2026-11-10 11-10-26 JSB MIN\nhttps://manchesternh.api.civicclerk.c
+ om/v1/Meetings/GetMeetingFileStream(fileId=5409\,plainText=false)\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f9e6b89a8068d6b85f2@granite-docket
+DTSTAMP:20261116T072743Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Manchester Select board / council
+LOCATION:Manchester\, NH
+URL:https://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStrea
+ m(fileId=5407,plainText=false)
+DESCRIPTION:Agenda: Board of Mayor and Aldermen Agenda 2026-11-16 11-16-26 
+ ADYS\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileSt
+ ream(fileId=5407\,plainText=false)\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2e6d5c1a61c38b8853@granite-docket
+DTSTAMP:20261123T072750Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Manchester Select board / council
+LOCATION:Manchester\, NH
+URL:https://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStrea
+ m(fileId=5404,plainText=false)
+DESCRIPTION:Agenda: Board of Mayor and Aldermen Agenda 2026-11-17 11-17-26 
+ BMA\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStr
+ eam(fileId=5404\,plainText=false)\n\nAgenda: Board of Mayor and Aldermen A
+ genda 2026-11-17 11-17-26 Admin\nhttps://manchesternh.api.civicclerk.com/v
+ 1/Meetings/GetMeetingFileStream(fileId=5381\,plainText=false)\n\nAgenda: B
+ oard of Mayor and Aldermen Agenda 2026-11-17 11-17-26 HR\nhttps://manchest
+ ernh.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5400\,plai
+ nText=false)\n\nAgenda: Board of Mayor and Aldermen Agenda 2026-11-17 11-1
+ 7-26 CIP\nhttps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFi
+ leStream(fileId=5393\,plainText=false)\n\nAgenda: Board of Mayor and Alder
+ men Agenda 2026-11-17 11-17-26 Accts\nhttps://manchesternh.api.civicclerk.
+ com/v1/Meetings/GetMeetingFileStream(fileId=5397\,plainText=false)\n\nMinu
+ tes: Board of Mayor and Aldermen Minutes 2026-11-17 11-17-26 Admin MIN\nht
+ tps://manchesternh.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fil
+ eId=5422\,plainText=false)\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lincoln Planning board
+X-WR-CALDESC:Planning board meetings in Lincoln\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bd1bb5696902049f20c8@granite-docket
+DTSTAMP:20261103T120914Z
+DTSTART;TZID=America/New_York:20260928T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-230
+DESCRIPTION:Agenda: Select Board Meeting & Public Hearing(s)\nhttps://linco
+ lnnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-230\n\nMinutes: Sep 28\, 2
+ 026 Select Board Meeting & Public Hearing(s)\nhttps://lincolnnh.gov/Agenda
+ Center/ViewFile/Minutes/_09282026-230\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:21afda3901e175d1ffa0@granite-docket
+DTSTAMP:20261103T120913Z
+DTSTART;TZID=America/New_York:20261005T173000
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-231
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://lincolnnh.gov/AgendaCente
+ r/ViewFile/Agenda/_10052026-231\n\nMinutes: Oct 5\, 2026 Select Board Meet
+ ing\nhttps://lincolnnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-231\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:436880e5c14ac0ffc4eb@granite-docket
+DTSTAMP:20261103T120837Z
+DTSTART;TZID=America/New_York:20261014T180000
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-238
+DESCRIPTION:Agenda: Impact Fee Committee Meeting\nhttps://lincolnnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_10142026-238\n\nAgenda: Planning Board Meeting\
+ nhttps://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-236\n\nMinut
+ es: Oct 14\, 2026 Impact Fee Committee Meeting\nhttps://lincolnnh.gov/Agen
+ daCenter/ViewFile/Minutes/_10142026-238\n\nMinutes: Oct 14\, 2026 Planning
+  Board Meeting\nhttps://lincolnnh.gov/AgendaCenter/ViewFile/Minutes/_10142
+ 026-236\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9cb229b646a8a4585c42@granite-docket
+DTSTAMP:20261103T120947Z
+DTSTART;TZID=America/New_York:20261015T090500
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-237
+DESCRIPTION:Agenda: JLMC Meeting\nhttps://lincolnnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_10152026-237\n\nAgenda: Trustees of the Trust Fund Meeting\nhtt
+ ps://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-233\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0cd41c52db32e69302f@granite-docket
+DTSTAMP:20261103T120912Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-239
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://lincolnnh.gov/AgendaCente
+ r/ViewFile/Agenda/_10192026-239\n\nMinutes: Oct 19\, 2026 Select Board Mee
+ ting\nhttps://lincolnnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-239\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3365dcb523bf953b8c6f@granite-docket
+DTSTAMP:20261103T120825Z
+DTSTART;TZID=America/New_York:20261022T173000
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-242
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://lincolnnh.gov/AgendaC
+ enter/ViewFile/Agenda/_10222026-242\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d90bffd7458db20c8aa3@granite-docket
+DTSTAMP:20261103T120836Z
+DTSTART;TZID=America/New_York:20261026T171500
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-243
+DESCRIPTION:Agenda: Impact Fee Committee\nhttps://lincolnnh.gov/AgendaCente
+ r/ViewFile/Agenda/_10262026-243\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:46f78269190e80e0349e@granite-docket
+DTSTAMP:20261103T120835Z
+DTSTART;TZID=America/New_York:20261028T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-244
+DESCRIPTION:Agenda: Planning Board\nhttps://lincolnnh.gov/AgendaCenter/View
+ File/Agenda/_10282026-244\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:10d53304c0551ca40ae0@granite-docket
+DTSTAMP:20261103T120832Z
+DTSTART;TZID=America/New_York:20261029T090000
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_10292026-241
+DESCRIPTION:Agenda: Joint Loss Management Committee Meeting\nhttps://lincol
+ nnh.gov/AgendaCenter/ViewFile/Agenda/_10292026-241\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb17ec503a0a764b1e1@granite-docket
+DTSTAMP:20261103T120912Z
+DTSTART;TZID=America/New_York:20261102T173000
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-246
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://lincolnnh.gov/AgendaCente
+ r/ViewFile/Agenda/_11022026-246\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b13834e51f0ac9a4fc58@granite-docket
+DTSTAMP:20261116T110144Z
+DTSTART;TZID=America/New_York:20261116T173000
+DURATION:PT2H
+SUMMARY:Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-248
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://lincolnnh.gov/AgendaCente
+ r/ViewFile/Agenda/_11162026-248\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec70768f094d5d5f8fa@granite-docket
+DTSTAMP:20261116T110134Z
+DTSTART;TZID=America/New_York:20261118T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Lincoln Planning board
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-247
+DESCRIPTION:Agenda: Planning Board\nhttps://lincolnnh.gov/AgendaCenter/View
+ File/Agenda/_11182026-247\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

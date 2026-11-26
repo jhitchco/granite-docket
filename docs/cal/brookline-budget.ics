@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brookline Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Brookline\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b947a98c2d427e865ef5@granite-docket
+DTSTAMP:20261103T131453Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Budget / CIP
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Capital Improvement Committee/Agenda and Minutes/2026/2026.10.08.Meeting N
+ otice.pdf?t=202610061451250
+DESCRIPTION:Minutes: 10/08/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Capital Improvement Committee/Agenda and
+  Minutes/2026/2026.10.08.Meeting Notice.pdf?t=202610061451250\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:e151e7db97b7a986b9d0@granite-docket
+DTSTAMP:20261103T131608Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookline Budget / CIP
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Finance Committee/Agenda and Minutes/2026/Finance committee agenda 10.21 &
+  10.22.26.pdf?t=202610201626410
+DESCRIPTION:Minutes: 10/22/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Finance Committee/Agenda and Minutes/202
+ 6/Finance committee agenda 10.21 & 10.22.26.pdf?t=202610201626410\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d35e273fd540a1148b19@granite-docket
+DTSTAMP:20261103T135839Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Budget / CIP
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Capital Improvement Committee/Capital Improvment Plans/CIP_2027_2032_draft
+ _20261026.pdf?t=202610261641570
+DESCRIPTION:Other: 2027-2032 Capital Improvements Plan Draft\nhttps://www.b
+ rooklinenh.gov/Documents/Government/Boards and Committees/Capital Improvem
+ ent Committee/Capital Improvment Plans/CIP_2027_2032_draft_20261026.pdf?t=
+ 202610261641570\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f1556615123daf3ff741@granite-docket
+DTSTAMP:20261109T084355Z
+DTSTART;TZID=America/New_York:20261202T180000
+DURATION:PT2H
+SUMMARY:Brookline Budget / CIP
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Community Residents/Recreation Co
+ mmission/Dec 2,2026 agenda.docx?t=202611051259380
+DESCRIPTION:Agenda: 12/02/26 Regular Meeting Agenda\nhttps://www.brooklinen
+ h.gov/Documents/Community Residents/Recreation Commission/Dec 2\,2026 agen
+ da.docx?t=202611051259380\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:51b954d0a2245c1a3958@granite-docket
+DTSTAMP:20261116T084725Z
+DTSTART;TZID=America/New_York:20261210T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Brookline Budget / CIP
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Departments/Public Wor
+ ks Department/SRLD/NOTICE OF PUBLIC HEARING.pdf?t=202611130940510
+DESCRIPTION:Notice: 2027 Public Budget Hearing Notice document seq 0.00 202
+ 7 Public Budget Hearing Notice\nhttps://www.brooklinenh.gov/Documents/Gove
+ rnment/Departments/Public Works Department/SRLD/NOTICE OF PUBLIC HEARING.p
+ df?t=202611130940510\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

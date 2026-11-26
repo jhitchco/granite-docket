@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Orange NH meetings
+X-WR-CALDESC:Public meetings of Orange\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e47ce89b87c828909a18@granite-docket
+DTSTAMP:20261103T131255Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Orange Select board / council
+LOCATION:Orange\, NH
+URL:https://www.orangenh.us/s/Minutes-of-October-6-2026.pdf
+DESCRIPTION:Minutes: Selectboard Minutes October 6\, 2026\nhttps://www.oran
+ genh.us/s/Minutes-of-October-6-2026.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d9f76c3b9818746c5ae@granite-docket
+DTSTAMP:20261123T100654Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Orange Select board / council
+LOCATION:Orange\, NH
+URL:https://www.orangenh.us/s/Minutes-of-October-20-2026-r7g6.pdf
+DESCRIPTION:Minutes: Selectboard Minutes October 20\, 2026\nhttps://www.ora
+ ngenh.us/s/Minutes-of-October-20-2026-r7g6.pdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bedc9389b853f83fd3b6@granite-docket
+DTSTAMP:20261103T131407Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Orange Checklist Minutes October 28\, 2026
+LOCATION:Orange\, NH
+URL:https://www.orangenh.us/s/Super-Checklist-minutes-102826.pdf
+DESCRIPTION:Minutes: Checklist Minutes October 28\, 2026\nhttps://www.orang
+ enh.us/s/Super-Checklist-minutes-102826.pdf\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c125363ef195e1e5772e@granite-docket
+DTSTAMP:20261123T100654Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Orange Select board / council
+LOCATION:Orange\, NH
+URL:https://www.orangenh.us/s/Minutes-of-Novmeber-3-2026.pdf
+DESCRIPTION:Minutes: Selectboard Minutes November 3\, 2026\nhttps://www.ora
+ ngenh.us/s/Minutes-of-Novmeber-3-2026.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:60e055e751b0bd724094@granite-docket
+DTSTAMP:20261123T100654Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Orange Select board / council
+LOCATION:Orange\, NH
+URL:https://www.orangenh.us/s/Minutes-of-November-9-2026.pdf
+DESCRIPTION:Minutes: Selectboard Minutes November 9\, 2026\nhttps://www.ora
+ ngenh.us/s/Minutes-of-November-9-2026.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

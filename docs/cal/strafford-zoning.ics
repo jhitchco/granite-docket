@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Strafford Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Strafford\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:29fa679bce3c62805a08@granite-docket
+DTSTAMP:20261116T092512Z
+DTSTART;TZID=America/New_York:20261001T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Strafford Zoning / ZBA
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/11/PB20261001.pdf
+DESCRIPTION:Notice: October 1\, 2026 · January 6\, 2026 Public Hearing Jan
+ uary 8\, 2026 January 21\, 2026 Public Hearing 202\nhttps://strafford.nh.g
+ ov/wp-content/uploads/2026/11/PB20261001.pdf\n\nNotice: October 1\, 2026 
+ · January 6\, 2026 Public Hearing January 8\, 2026 January 21\, 2026 Publ
+ ic Hearing 202\nhttps://strafford.nh.gov/wp-content/uploads/2026/11/PB2026
+ 1001v2.pdf\n\nNotice: October 1\, 2026 Draft · January 6\, 2026 Public He
+ aring January 8\, 2026 January 21\, 2026 Public Heari\nhttps://strafford.n
+ h.gov/wp-content/uploads/2026/10/PB20261001Draft.pdf\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6cce752cb200ea738ba4@granite-docket
+DTSTAMP:20261123T084353Z
+DTSTART;TZID=America/New_York:20261015T183000
+DURATION:PT2H
+SUMMARY:Strafford Zoning / ZBA
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/10/ZBA20261015Agenda.p
+ df
+DESCRIPTION:Agenda: October 15\, 2026 Agenda\nhttps://strafford.nh.gov/wp-c
+ ontent/uploads/2026/10/ZBA20261015Agenda.pdf\n\nMinutes: October 15\, 2026
+  · January 15\, 2026 Meeting Cancelled February 19\, 2026 Meeting Cancell
+ ed March 19\, \nhttps://strafford.nh.gov/wp-content/uploads/2026/11/ZBA202
+ 61015.pdf\n\nMinutes: October 15\, 2026 Draft · January 15\, 2026 Meeting
+  Cancelled February 19\, 2026 Meeting Cancelled Marc\nhttps://strafford.nh
+ .gov/wp-content/uploads/2026/10/ZBA20261015Draft.pdf\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eed4867ecc78396ab1a1@granite-docket
+DTSTAMP:20261109T092303Z
+DTSTART;TZID=America/New_York:20261022T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Strafford Zoning / ZBA
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/11/PB20261022.pdf
+DESCRIPTION:Notice: October 22\, 2026 · January 6\, 2026 Public Hearing Ja
+ nuary 8\, 2026 January 21\, 2026 Public Hearing 20\nhttps://strafford.nh.g
+ ov/wp-content/uploads/2026/11/PB20261022.pdf\n\nNotice: October 22\, 2026 
+ Draft · January 6\, 2026 Public Hearing January 8\, 2026 January 21\, 202
+ 6 Public Hear\nhttps://strafford.nh.gov/wp-content/uploads/2026/10/PB20261
+ 022Draft.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:db56a0fbb52cf8da1d1f@granite-docket
+DTSTAMP:20261116T092512Z
+DTSTART;TZID=America/New_York:20261105T153000
+DURATION:PT2H
+SUMMARY:Public hearing: Strafford Zoning / ZBA
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/10/PB20261105SiteWlk.p
+ df
+DESCRIPTION:Agenda: AGENDA\nhttps://strafford.nh.gov/wp-content/uploads/202
+ 6/10/PB20261105SiteWlk.pdf\n\nAgenda: AGENDA\nhttps://strafford.nh.gov/wp-
+ content/uploads/2026/10/PB20261105_Agenda_v2.pdf\n\nNotice: November 5\, 2
+ 026 Draft · January 6\, 2026 Public Hearing January 8\, 2026 January 21\,
+  2026 Public Hear\nhttps://strafford.nh.gov/wp-content/uploads/2026/11/PB2
+ 0261105v2Draft.pdf\n\nNotice: November 5\, 2026 Site Walk Draft · January
+  6\, 2026 Public Hearing January 8\, 2026 January 21\, 2026 P\nhttps://str
+ afford.nh.gov/wp-content/uploads/2026/11/PB20261105SiteWalkDraft.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6cc0a7757500fb06beea@granite-docket
+DTSTAMP:20261123T084353Z
+DTSTART;TZID=America/New_York:20261119T183000
+DURATION:PT2H
+SUMMARY:Strafford Zoning / ZBA
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/11/ZBA20261119Agenda.p
+ df
+DESCRIPTION:Agenda: November 19\, 2026 Agenda\nhttps://strafford.nh.gov/wp-
+ content/uploads/2026/11/ZBA20261119Agenda.pdf\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

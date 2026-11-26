@@ -1,0 +1,506 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sandown NH meetings
+X-WR-CALDESC:Public meetings of Sandown\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a968833b8aee4ba690c0@granite-docket
+DTSTAMP:20261103T100857Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_09282026-303
+DESCRIPTION:Agenda: Board of Selectmen Agenda Sep 28\, 2026 Board of Select
+ men Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_0
+ 9282026-303\n\nMinutes: Board of Selectmen Minutes Sep 28\, 2026 Board of 
+ Selectmen Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Min
+ utes/_09282026-303\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c94069dbd655ae195215@granite-docket
+DTSTAMP:20261103T101122Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_09282026-304
+DESCRIPTION:Agenda: Oktoberfest Committee Agenda Sep 28\, 2026 Oktoberfest 
+ Committee Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Age
+ nda/_09282026-304\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ddbc4dbc02a86d2e6c5@granite-docket
+DTSTAMP:20261103T101323Z
+DTSTART;TZID=America/New_York:20260930T080000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_09302026-306
+DESCRIPTION:Agenda: Recreation Agenda Sep 30\, 2026 Here is the agenda for 
+ the 2026 recreation commission meeting\nhttps://www.sandown.us/AgendaCente
+ r/ViewFile/Agenda/_09302026-306\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4527d03d6485ecead2e@granite-docket
+DTSTAMP:20261103T101039Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Sandown Historic district
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10012026-305
+DESCRIPTION:Agenda: Heritage Commission Agenda Oct 1\, 2026 Heritage Commis
+ sion Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_
+ 10012026-305\n\nMinutes: Heritage Commission Minutes Oct 1\, 2026 Heritage
+  Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/M
+ inutes/_10012026-305\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe18da588cb6a7570e99@granite-docket
+DTSTAMP:20261103T100853Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10052026-307
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 5\, 2026 Board of Selectm
+ en Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10
+ 052026-307\n\nMinutes: Board of Selectmen Minutes Oct 5\, 2026 Board of Se
+ lectmen Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minut
+ es/_10052026-307\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee95e2efcc8ad6a9a88@granite-docket
+DTSTAMP:20261103T101122Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10062026-308
+DESCRIPTION:Agenda: Oktoberfest Committee Agenda Oct 6\, 2026 Oktoberfest C
+ ommittee Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_1006
+ 2026-308\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8952da69e253104d257c@granite-docket
+DTSTAMP:20261103T102134Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Sandown Conservation commission
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10082026-309
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 8\, 2026 Conservatio
+ n Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/
+ Agenda/_10082026-309\n\nMinutes: Conservation Commission Minutes Oct 8\, 2
+ 026 Conservation Commission Meeting Agenda\nhttps://www.sandown.us/AgendaC
+ enter/ViewFile/Minutes/_10082026-309\n\nMinutes: Oct 8\, 2026 Conservation
+  Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/A
+ rchivedMinutes/_10082026-99\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:595286d91071399fbe26@granite-docket
+DTSTAMP:20261103T101452Z
+DTSTART;TZID=America/New_York:20261019T080000
+DURATION:PT2H
+SUMMARY:Sandown Trustees of the Trust Funds Agenda Oct 19\, 2026 Trustees o
+ f the Trust 
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10192026-312
+DESCRIPTION:Agenda: Trustees of the Trust Funds Agenda Oct 19\, 2026 Truste
+ es of the Trust Funds Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile
+ /Agenda/_10192026-312\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e826da6448c7e7a91dac@granite-docket
+DTSTAMP:20261103T100851Z
+DTSTART;TZID=America/New_York:20261019T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10192026-313
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 19\, 2026 Board of Select
+ men Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_1
+ 0192026-313\n\nMinutes: Board of Selectmen Minutes Oct 19\, 2026 Board of 
+ Selectmen Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Min
+ utes/_10192026-313\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b46bcd3869b81e33256@granite-docket
+DTSTAMP:20261103T102659Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Sandown Planning board
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10202026-314
+DESCRIPTION:Agenda: Planning Board Agenda Oct 20\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10202026-
+ 314\n\nAgenda: Planning Board Meeting Agenda\nhttps://www.sandown.us/Agend
+ aCenter/ViewFile/ArchivedAgenda/_10202026-103\n\nNotice: 10-20-26 - Bobcat
+  Way\, M2 L33\nhttps://www.sandown.us/DocumentCenter/View/3820/10-20-26---
+ Bobcat-Way-M2-L33\n\nMinutes: Planning Board Minutes Oct 20\, 2026 Plannin
+ g Board Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minut
+ es/_10202026-314\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:40258e033c83e5675dd0@granite-docket
+DTSTAMP:20261103T102448Z
+DTSTART;TZID=America/New_York:20261020T080000
+DURATION:PT2H
+SUMMARY:Sandown Senior Affairs Transportation Committee Agenda
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-9
+ 5
+DESCRIPTION:Agenda: Senior Affairs Transportation Committee Agenda\nhttps:/
+ /www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-95\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e79c5fa1a068de67a5@granite-docket
+DTSTAMP:20261103T102449Z
+DTSTART;TZID=America/New_York:20261020T080000
+DURATION:PT2H
+SUMMARY:Sandown Senior Affairs Transportation Committee
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-1
+ 1
+DESCRIPTION:Agenda: Senior Affairs Transportation Committee\nhttps://www.sa
+ ndown.us/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-11\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:66315fe313fd9b1e49f0@granite-docket
+DTSTAMP:20261103T101322Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Sandown Recreation Minutes Oct 21\, 2026 This is the agenda for our
+  10/21/2026 
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Minutes/_10212026-315
+DESCRIPTION:Minutes: Recreation Minutes Oct 21\, 2026 This is the agenda fo
+ r our 10/21/2026 meeting\nhttps://www.sandown.us/AgendaCenter/ViewFile/Min
+ utes/_10212026-315\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b452488f0d303d005d55@granite-docket
+DTSTAMP:20261103T101322Z
+DTSTART;TZID=America/New_York:20261021T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10212026-311
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 21\, 2026 Budget Committee 
+ Meeting\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10212026-311
+ \n\nAgenda: Recreation Agenda Oct 21\, 2026 This is the agenda for our 10/
+ 21/2026 meeting\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_1021
+ 2026-315\n\nMinutes: Budget Committee Minutes Oct 21\, 2026 Budget Committ
+ ee Meeting\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minutes/_10212026
+ -311\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4020816b4b70c127a06d@granite-docket
+DTSTAMP:20261103T100802Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10222026-316
+DESCRIPTION:Agenda: Board of Fire Engineers Agenda Oct 22\, 2026 Board of F
+ ire Engineers Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/
+ _10222026-316\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b779183607def2461bd@granite-docket
+DTSTAMP:20261103T102126Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Sandown Conservation commission
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10222026-317
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 22\, 2026 Conservati
+ on Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile
+ /Agenda/_10222026-317\n\nAgenda: Conservation Commission Meeting Agenda\nh
+ ttps://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_10222026-105\n
+ \nMinutes: Conservation Commission Minutes Oct 22\, 2026 Conservation Comm
+ ission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minute
+ s/_10222026-317\n\nMinutes: Oct 22\, 2026 Conservation Commission Meeting 
+ Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/ArchivedMinutes/_1022
+ 2026-111\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1de2433a2f80a100a04@granite-docket
+DTSTAMP:20261103T100802Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Sandown Board of Fire Engineers Minutes Oct 22\, 2026 Board of Fire
+  Engineers A
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Minutes/_10222026-316
+DESCRIPTION:Minutes: Board of Fire Engineers Minutes Oct 22\, 2026 Board of
+  Fire Engineers Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minut
+ es/_10222026-316\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:42c75152ed649ef5fd44@granite-docket
+DTSTAMP:20261109T083836Z
+DTSTART;TZID=America/New_York:20261027T190000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10272026-318
+DESCRIPTION:Agenda: Cable Access Board Agenda Oct 27\, 2026 Oct CAB Agenda\
+ nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10272026-318\n\nMinu
+ tes: Cable Access Board Minutes Oct 27\, 2026 Oct CAB Agenda\nhttps://www.
+ sandown.us/AgendaCenter/ViewFile/Minutes/_10272026-318\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c68089eae9b81353429@granite-docket
+DTSTAMP:20261103T101358Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Sandown Senior Affairs Transportation Committee Minutes Oct 27\, 20
+ 26 — Amended
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Minutes/_10272026-224
+DESCRIPTION:Minutes: Senior Affairs Transportation Committee Minutes Oct 27
+ \, 2026 — Amended Oct 7\, 2026 11:55 AM Senior A\nhttps://www.sandown.us
+ /AgendaCenter/ViewFile/Minutes/_10272026-224\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c14223db90763b243c50@granite-docket
+DTSTAMP:20261103T101357Z
+DTSTART;TZID=America/New_York:20261027T080000
+DURATION:PT2H
+SUMMARY:Sandown Senior Affairs Transportation Committee Agenda Oct 27\, 202
+ 6 — Amended 
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10272026-224
+DESCRIPTION:Agenda: Senior Affairs Transportation Committee Agenda Oct 27\,
+  2026 — Amended Oct 7\, 2026 11:55 AM Senior Af\nhttps://www.sandown.us/
+ AgendaCenter/ViewFile/Agenda/_10272026-224\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee456b53d6add6210c88@granite-docket
+DTSTAMP:20261103T102448Z
+DTSTART;TZID=America/New_York:20261027T080000
+DURATION:PT2H
+SUMMARY:Sandown Senior Affairs Transportation Committee Agenda
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-9
+ 6
+DESCRIPTION:Agenda: Senior Affairs Transportation Committee Agenda\nhttps:/
+ /www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-96\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:cff703d9afa252c9d1a2@granite-docket
+DTSTAMP:20261103T104449Z
+DTSTART;TZID=America/New_York:20261029T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Sandown Zoning / ZBA
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10292026-319
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 29\, 2026 Zoning 
+ Board of Adjustment Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/Vi
+ ewFile/Agenda/_10292026-319\n\nNotice: 10/29/26 - 41 North Shore Road (M29
+  L51)\nhttps://www.sandown.us/DocumentCenter/View/3834/102926---41-North-S
+ hore-Road-M29-L51\n\nMinutes: Zoning Board of Adjustment Minutes Oct 29\, 
+ 2026 Zoning Board of Adjustment Meeting Agenda\nhttps://www.sandown.us/Age
+ ndaCenter/ViewFile/Minutes/_10292026-319\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5aabb70bcfc5a968fd@granite-docket
+DTSTAMP:20261116T084108Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11022026-320
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 2\, 2026 Board of Selectm
+ en Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11
+ 022026-320\n\nMinutes: Board of Selectmen Minutes Nov 2\, 2026 Board of Se
+ lectmen Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minut
+ es/_11022026-320\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:db09dfc12a98917d42a3@granite-docket
+DTSTAMP:20261116T084118Z
+DTSTART;TZID=America/New_York:20261104T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11042026-288
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 4\, 2026 — Amended Nov 2\
+ , 2026 9:34 AM Budget Committee Schedule\nhttps://www.sandown.us/AgendaCen
+ ter/ViewFile/Agenda/_11042026-288\n\nAgenda: Recreation Agenda Nov 4\, 202
+ 6 This is our meeting agenda for 11/4\nhttps://www.sandown.us/AgendaCenter
+ /ViewFile/Agenda/_11042026-321\n\nAgenda: Budget Committee Schedule\nhttps
+ ://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-107\n\nMi
+ nutes: Budget Committee Minutes Nov 4\, 2026 — Amended Nov 2\, 2026 9:34
+  AM Budget Committee Schedule\nhttps://www.sandown.us/AgendaCenter/ViewFil
+ e/Minutes/_11042026-288\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:93ee1850e58973f20d31@granite-docket
+DTSTAMP:20261116T084128Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Sandown Conservation commission
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11052026-322
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 5\, 2026 Conservatio
+ n Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/
+ Agenda/_11052026-322\n\nMinutes: Conservation Commission Minutes Nov 5\, 2
+ 026 Conservation Commission Meeting Agenda\nhttps://www.sandown.us/AgendaC
+ enter/ViewFile/Minutes/_11052026-322\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8aeaf9c1e314a221b416@granite-docket
+DTSTAMP:20261116T084148Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11102026-323
+DESCRIPTION:Agenda: Oktoberfest Committee Agenda Nov 10\, 2026 Oktoberfest 
+ Committee Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Age
+ nda/_11102026-323\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd66e3180fa71440340@granite-docket
+DTSTAMP:20261116T084138Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Sandown Historic district
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11122026-324
+DESCRIPTION:Agenda: Heritage Commission Agenda Nov 12\, 2026 Heritage Commi
+ ssion Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/
+ _11122026-324\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e18bb051e93c5b4e983b@granite-docket
+DTSTAMP:20261116T084058Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11162026-326
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 16\, 2026 Board of Select
+ men Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_1
+ 1162026-326\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b19699c8cebb560436c3@granite-docket
+DTSTAMP:20261116T084158Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Sandown Planning board
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11172026-325
+DESCRIPTION:Agenda: Planning Board Agenda Nov 17\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11172026-
+ 325\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:05f35e31fafb9b5f10dc@granite-docket
+DTSTAMP:20261103T102107Z
+DTSTART;TZID=America/New_York:20261118T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11182026-289
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 18\, 2026 — Amended Nov 2
+ \, 2026 9:34 AM Budget Committee Agenda\nhttps://www.sandown.us/AgendaCent
+ er/ViewFile/Agenda/_11182026-289\n\nAgenda: Budget Committee Agenda\nhttps
+ ://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-108\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8684112ac602391c4eb9@granite-docket
+DTSTAMP:20261103T102059Z
+DTSTART;TZID=America/New_York:20261202T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_12022026-290
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 2\, 2026 — Amended Nov 2\
+ , 2026 9:35 AM Budget Committee Agenda\nhttps://www.sandown.us/AgendaCente
+ r/ViewFile/Agenda/_12022026-290\n\nAgenda: Budget Committee Agenda\nhttps:
+ //www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_12022026-109\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f43c159d1a029eebb3e9@granite-docket
+DTSTAMP:20261103T102055Z
+DTSTART;TZID=America/New_York:20261216T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_12162026-291
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 16\, 2026 — Amended Nov 2
+ \, 2026 9:35 AM Budget Committee Agenda\nhttps://www.sandown.us/AgendaCent
+ er/ViewFile/Agenda/_12162026-291\n\nAgenda: Budget Committee Agenda\nhttps
+ ://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_12162026-110\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+END:VCALENDAR

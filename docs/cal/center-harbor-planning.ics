@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Center Harbor Planning board
+X-WR-CALDESC:Planning board meetings in Center Harbor\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0ed363faabd0373e778c@granite-docket
+DTSTAMP:20261103T122225Z
+DTSTART;TZID=America/New_York:20261002T180000
+DURATION:PT2H
+SUMMARY:Center Harbor Planning board
+LOCATION:Center Harbor\, NH
+URL:https://towncloud.io/go/center-harbor-nh/agendas/311/PDF/get_agenda_doc
+ ument_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/center-harbor-nh/ag
+ endas/311/PDF/get_agenda_document_link\n\nAgenda: Agenda PDF\nhttps://town
+ cloud.io/go/center-harbor-nh/agendas/310/PDF/get_agenda_document_link\n\nA
+ genda: Packet PDF\nhttps://towncloud.io/go/center-harbor-nh/agendas/311/pd
+ f_packet/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud
+ .io/go/center-harbor-nh/agendas/310/pdf_packet/get_agenda_document_link\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c194feb2db3c443c397a@granite-docket
+DTSTAMP:20261123T095657Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Center Harbor Planning board
+LOCATION:Center Harbor\, NH
+URL:https://towncloud.io/go/center-harbor-nh/agendas/312/PDF/get_agenda_doc
+ ument_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/center-harbor-nh/ag
+ endas/312/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://town
+ cloud.io/go/center-harbor-nh/agendas/312/pdf_packet/get_agenda_document_li
+ nk\n\nMinutes: Minutes PDF\nhttps://towncloud.io/go/center-harbor-nh/agend
+ as/311/minutes/get_agenda_document_link\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a4d857c5dee014bdd22f@granite-docket
+DTSTAMP:20261103T122217Z
+DTSTART;TZID=America/New_York:20261013T090000
+DURATION:PT2H
+SUMMARY:Center Harbor Planning board
+LOCATION:Center Harbor\, NH
+URL:https://towncloud.io/go/center-harbor-nh/agendas/317/PDF/get_agenda_doc
+ ument_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/center-harbor-nh/ag
+ endas/317/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://town
+ cloud.io/go/center-harbor-nh/agendas/317/pdf_packet/get_agenda_document_li
+ nk\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dcde5939ab301195e347@granite-docket
+DTSTAMP:20261123T095656Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Center Harbor Planning board
+LOCATION:Center Harbor\, NH
+URL:https://towncloud.io/go/center-harbor-nh/agendas/317/minutes/get_agenda
+ _document_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/center-harbor-nh/
+ agendas/317/minutes/get_agenda_document_link\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:97eee2fff7f2f598eb0d@granite-docket
+DTSTAMP:20261123T095655Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Center Harbor Planning board
+LOCATION:Center Harbor\, NH
+URL:https://towncloud.io/go/center-harbor-nh/agendas/325/PDF/get_agenda_doc
+ ument_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/center-harbor-nh/ag
+ endas/325/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://town
+ cloud.io/go/center-harbor-nh/agendas/325/pdf_packet/get_agenda_document_li
+ nk\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

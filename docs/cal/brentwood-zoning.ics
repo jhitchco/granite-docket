@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brentwood Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Brentwood\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5c0b8e9c75c571e96947@granite-docket
+DTSTAMP:20261103T105310Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brentwood Zoning / ZBA
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14871
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14871\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:99779fe0287039529ec7@granite-docket
+DTSTAMP:20261109T092105Z
+DTSTART;TZID=America/New_York:20261026T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Brentwood Zoning / ZBA
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14893
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14893\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b992d840a7c01f47b35a@granite-docket
+DTSTAMP:20261123T084342Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Brentwood Zoning / ZBA
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14887
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14887\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

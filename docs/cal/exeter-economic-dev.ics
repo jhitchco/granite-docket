@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Economic development
+X-WR-CALDESC:Economic development meetings in Exeter\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4f61f376fdd306ca1a68@granite-docket
+DTSTAMP:20261103T093112Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Economic development
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/E
+ DC/2011/agenda/EDCAG110726.pdf
+DESCRIPTION:Minutes: EDCAG110726.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/EDC/2011/agenda/EDCAG110726.pdf\n\nMinute
+ s: EDCMN110726.pdf\nhttps://www.exeternh.gov/sites/default/files/archives/
+ Meeting Minutes/EDC/2011/minutes/EDCMN110726.pdf\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

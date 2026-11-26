@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hill Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Hill\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a88dabfd7b0f7d956eff@granite-docket
+DTSTAMP:20261103T122820Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Hill Budget / CIP
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/10/budget-committee-mi
+ nutes-DRAFT20261015.pdf
+DESCRIPTION:Minutes: October 15 DRAFT February 11 Public Hearing January 21
+  January 14 January 7\nhttps://townofhillnh.org/wp-content/uploads/2026/10
+ /budget-committee-minutes-DRAFT20261015.pdf\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1e290e368999866a4bf3@granite-docket
+DTSTAMP:20261103T124827Z
+DTSTART;TZID=America/New_York:20261021T093000
+DURATION:PT2H
+SUMMARY:Hill Budget / CIP
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2020/11/2026.10.21-Hill-Pub
+ lic-Library-Agenda.pdf
+DESCRIPTION:Agenda: Agenda: 2026.10.21 Hill Public Library Agenda\nhttps://
+ townofhillnh.org/wp-content/uploads/2020/11/2026.10.21-Hill-Public-Library
+ -Agenda.pdf\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:865b8da4a1cafebe3371@granite-docket
+DTSTAMP:20261123T095830Z
+DTSTART;TZID=America/New_York:20261118T093000
+DURATION:PT2H
+SUMMARY:Hill Budget / CIP
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/2026.11.18-Hill-Pub
+ lic-Library-Agenda-1.pdf
+DESCRIPTION:Agenda: Meeting Agenda: 2026.11.18 Hill Public Library Agenda (
+ 1)\nhttps://townofhillnh.org/wp-content/uploads/2026/11/2026.11.18-Hill-Pu
+ blic-Library-Agenda-1.pdf\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

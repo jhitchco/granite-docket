@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hebron Select board / council
+X-WR-CALDESC:Select board / council meetings in Hebron\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c6c46012d0b04c70e7fb@granite-docket
+DTSTAMP:20261103T124850Z
+DTSTART;TZID=America/New_York:20261001T143000
+DURATION:PT2H
+SUMMARY:Hebron Select board / council
+LOCATION:Hebron\, NH
+URL:https://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-154
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://hebronnh.gov/Agend
+ aCenter/ViewFile/Agenda/_10012026-154\n\nMinutes: Oct 1\, 2026 Select Boar
+ d Meeting Agenda\nhttps://hebronnh.gov/AgendaCenter/ViewFile/Minutes/_1001
+ 2026-154\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc4ebb67cb68ecc58235@granite-docket
+DTSTAMP:20261103T124850Z
+DTSTART;TZID=America/New_York:20261015T143000
+DURATION:PT2H
+SUMMARY:Hebron Select board / council
+LOCATION:Hebron\, NH
+URL:https://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-158
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://hebronnh.gov/Agend
+ aCenter/ViewFile/Agenda/_10152026-158\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f08f7e6aa438721b7709@granite-docket
+DTSTAMP:20261103T124850Z
+DTSTART;TZID=America/New_York:20261105T143000
+DURATION:PT2H
+SUMMARY:Hebron Select board / council
+LOCATION:Hebron\, NH
+URL:https://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-162
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://hebronnh.gov/Agend
+ aCenter/ViewFile/Agenda/_11052026-162\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

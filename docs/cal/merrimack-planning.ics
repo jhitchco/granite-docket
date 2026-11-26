@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Merrimack Planning board
+X-WR-CALDESC:Planning board meetings in Merrimack\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6feb63fd1d1fcb47f7a6@granite-docket
+DTSTAMP:20261103T093001Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Merrimack Planning board
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_10062026-358
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.merr
+ imacknh.gov/AgendaCenter/ViewFile/Agenda/_10062026-358\n\nAgenda: Planning
+  Board Regular Meeting Agenda\nhttps://www.merrimacknh.gov/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_10062026-222\n\nMinutes: Oct 6\, 2026 Planning Boar
+ d Regular Meeting Agenda\nhttps://www.merrimacknh.gov/AgendaCenter/ViewFil
+ e/Minutes/_10062026-358\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3a66d779fb3fde3ef49a@granite-docket
+DTSTAMP:20261123T070605Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Merrimack Planning board
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_10202026-374
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.merr
+ imacknh.gov/AgendaCenter/ViewFile/Agenda/_10202026-374\n\nMinutes: Oct 20\
+ , 2026 Planning Board Regular Meeting Agenda\nhttps://www.merrimacknh.gov/
+ AgendaCenter/ViewFile/Minutes/_10202026-374\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fd767f41349ba61dc606@granite-docket
+DTSTAMP:20261123T072327Z
+DTSTART;TZID=America/New_York:20261023T120000
+DURATION:PT2H
+SUMMARY:Merrimack Planning board
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10232
+ 026-278
+DESCRIPTION:Agenda: Town Center Committee Regular Meeting Agenda\nhttps://w
+ ww.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10232026-278\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dec8a0af1520708ffb7e@granite-docket
+DTSTAMP:20261103T092244Z
+DTSTART;TZID=America/New_York:20261027T180000
+DURATION:PT2H
+SUMMARY:Merrimack Planning board
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_10272026-387
+DESCRIPTION:Agenda: Appointment Committee for the Master Plan Steering Comm
+ ittee Meeting Agenda\nhttps://www.merrimacknh.gov/AgendaCenter/ViewFile/Ag
+ enda/_10272026-387\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6556e07c45c78df1f9cf@granite-docket
+DTSTAMP:20261103T092508Z
+DTSTART;TZID=America/New_York:20261103T183000
+DURATION:PT2H
+SUMMARY:Merrimack Planning board
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_11032026-372
+DESCRIPTION:Agenda: Planning Board Meeting Cancelled\nhttps://www.merrimack
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11032026-372\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:85701abe1ec4e4edf150@granite-docket
+DTSTAMP:20261103T092507Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Merrimack Planning board
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_11172026-391
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.merr
+ imacknh.gov/AgendaCenter/ViewFile/Agenda/_11172026-391\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7213de66ea4fcd21ce88@granite-docket
+DTSTAMP:20261123T070555Z
+DTSTART;TZID=America/New_York:20261201T183000
+DURATION:PT2H
+SUMMARY:Merrimack Planning board
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_12012026-401
+DESCRIPTION:Agenda: Planning Board Regular Meeting - Cancelled\nhttps://www
+ .merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_12012026-401\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Greenland Select board / council
+X-WR-CALDESC:Select board / council meetings in Greenland\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:161993bc7ab665d24526@granite-docket
+DTSTAMP:20261103T105724Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-138
+DESCRIPTION:Agenda: Board of Selectmen\nhttps://greenland.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_10052026-138\n\nMinutes: Oct 5\, 2026 Board of Selectm
+ en\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_10052026-138\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e98eebd8fc1c3166c99b@granite-docket
+DTSTAMP:20261103T105738Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-139
+DESCRIPTION:Agenda: Conservation Commission\nhttps://greenland.nh.gov/Agend
+ aCenter/ViewFile/Agenda/_10142026-139\n\nMinutes: Oct 14\, 2026 Conservati
+ on Commission\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_101
+ 42026-139\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b6ab93a081f4ba8ab8@granite-docket
+DTSTAMP:20261103T105723Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-141
+DESCRIPTION:Agenda: Board of Selectmen\nhttps://greenland.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_10192026-141\n\nMinutes: Oct 19\, 2026 Board of Select
+ men\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_10192026-141\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:30ce9fc897f95a929794@granite-docket
+DTSTAMP:20261116T093746Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-143
+DESCRIPTION:Agenda: Board of Selectmen\nhttps://greenland.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_11022026-143\n\nMinutes: Nov 2\, 2026 Board of Selectm
+ en\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_11022026-143\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1809a5cb1b0aba06bdc7@granite-docket
+DTSTAMP:20261109T092445Z
+DTSTART;TZID=America/New_York:20261111T183000
+DURATION:PT2H
+SUMMARY:Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_11112026-145
+DESCRIPTION:Agenda: Conservation Commission\nhttps://greenland.nh.gov/Agend
+ aCenter/ViewFile/Agenda/_11112026-145\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:67381475e7ada0b74162@granite-docket
+DTSTAMP:20261116T093736Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-146
+DESCRIPTION:Agenda: Board of Selectmen\nhttps://greenland.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_11162026-146\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

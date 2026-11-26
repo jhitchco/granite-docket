@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Freedom Select board / council
+X-WR-CALDESC:Select board / council meetings in Freedom\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:31cf49346342a0505b7c@granite-docket
+DTSTAMP:20261103T120729Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+TRANSP:TRANSPARENT
+SUMMARY:Freedom Select board / council
+LOCATION:Freedom\, NH
+URL:https://townoffreedomnh.gov/wp-content/uploads/2026/10/09.21.2026-BOS-M
+ inutes.pdf
+DESCRIPTION:Minutes: 9-21.26\nhttps://townoffreedomnh.gov/wp-content/upload
+ s/2026/10/09.21.2026-BOS-Minutes.pdf\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:edf51af288f83228ee3f@granite-docket
+DTSTAMP:20261109T104747Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Freedom Select board / council
+LOCATION:Freedom\, NH
+URL:https://townoffreedomnh.gov/wp-content/uploads/2026/11/09.28.2026-BOS-M
+ inutes.pdf
+DESCRIPTION:Minutes: 9-28-26\nhttps://townoffreedomnh.gov/wp-content/upload
+ s/2026/11/09.28.2026-BOS-Minutes.pdf\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc0de74525b7e53e252a@granite-docket
+DTSTAMP:20261109T104756Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Freedom Select board / council
+LOCATION:Freedom\, NH
+URL:https://townoffreedomnh.gov/wp-content/uploads/2026/11/10.05.2026-BOS-M
+ inutes.pdf
+DESCRIPTION:Minutes: 10-05-26\nhttps://townoffreedomnh.gov/wp-content/uploa
+ ds/2026/11/10.05.2026-BOS-Minutes.pdf\n\nMinutes: 10-19-2026\nhttps://town
+ offreedomnh.gov/wp-content/uploads/2026/11/10.19.2026-BOS-Minutes.pdf\n\nM
+ inutes: 10-26-2026\nhttps://townoffreedomnh.gov/wp-content/uploads/2026/11
+ /10.26.2026-BOS-Minutes.pdf\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

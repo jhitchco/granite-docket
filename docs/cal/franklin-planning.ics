@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Franklin Planning board
+X-WR-CALDESC:Planning board meetings in Franklin\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:871254db221d28ec0493@granite-docket
+DTSTAMP:20261116T084415Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Franklin Planning board
+LOCATION:Franklin\, NH
+URL:https://franklinnh.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(
+ fileId=352,plainText=false)
+DESCRIPTION:Agenda: Planning Board Agenda 2026-10-05 202a-2026-10-05 Public
+  Meeting RAP Stanley Mill Clean\nhttps://franklinnh.api.civicclerk.com/v1/
+ Meetings/GetMeetingFileStream(fileId=352\,plainText=false)\n\nMinutes: Pla
+ nning Board Minutes 2026-10-05 202m-10-5-2026 Minutes from Stanley Mill Pu
+ blic Hearing\nhttps://franklinnh.api.civicclerk.com/v1/Meetings/GetMeeting
+ FileStream(fileId=353\,plainText=false)\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6a76801bd5541e99f9c5@granite-docket
+DTSTAMP:20261103T104912Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Franklin Planning board
+LOCATION:Franklin\, NH
+URL:https://franklinnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-200
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://franklinnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_10072026-200\n\nNotice: 10/07/2026 Planning Board Mee
+ ting Notice Click to Open\nhttps://www.franklinnh.gov/DocumentCenter/View/
+ 3077\n\nMinutes: Oct 7\, 2026 Planning Board Agenda\nhttps://franklinnh.go
+ v/AgendaCenter/ViewFile/Minutes/_10072026-200\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:dd4d5644fd0c454d1b97@granite-docket
+DTSTAMP:20261103T101100Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Franklin Planning board
+LOCATION:Franklin\, NH
+URL:https://franklinnh.gov/DocumentCenter/View/3136/Site-Plan-Review-Regula
+ tions
+DESCRIPTION:Other: Site Plan Review Regulations\nhttps://franklinnh.gov/Doc
+ umentCenter/View/3136/Site-Plan-Review-Regulations\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a490fbdd3a2213650be3@granite-docket
+DTSTAMP:20261103T104909Z
+DTSTART;TZID=America/New_York:20261028T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Franklin Planning board
+LOCATION:Franklin\, NH
+URL:https://www.franklinnh.gov/DocumentCenter/View/3833
+DESCRIPTION:Notice: 10/28/2026 Planning Board Meeting Canceled Notice Click
+  to Open\nhttps://www.franklinnh.gov/DocumentCenter/View/3833\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b4f42627f8266aff47@granite-docket
+DTSTAMP:20261123T084619Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Franklin Planning board
+LOCATION:Franklin\, NH
+URL:https://franklinnh.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(
+ fileId=427,plainText=false)
+DESCRIPTION:Minutes: Planning Board Minutes 2026-11-18 2026-11-18 PB Minute
+ s- Draft\nhttps://franklinnh.api.civicclerk.com/v1/Meetings/GetMeetingFile
+ Stream(fileId=427\,plainText=false)\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

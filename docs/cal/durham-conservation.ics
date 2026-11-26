@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Durham Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Durham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a2eeb51624540ed80799@granite-docket
+DTSTAMP:20261103T092256Z
+DTSTART;TZID=America/New_York:20260929T190000
+DURATION:PT2H
+SUMMARY:Durham Conservation commission
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-414
+DESCRIPTION:Agenda: Conservation Commission Meeting\nhttps://www.durhamnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_09292026-414\n\nMinutes: Sep 29\, 2026 Co
+ nservation Commission Meeting\nhttps://www.durhamnh.gov/AgendaCenter/ViewF
+ ile/Minutes/_09292026-414\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:14227ba99999f9c7b114@granite-docket
+DTSTAMP:20261123T070519Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Durham Conservation commission
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026
+ -221
+DESCRIPTION:Agenda: Conservation Commission Meeting\nhttps://www.durhamnh.g
+ ov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026-221\n\nAgenda: Packet\nh
+ ttps://www.durhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026-221
+ ?packet=true\n\nMinutes: Oct 26\, 2026 Conservation Commission Meeting\nht
+ tps://www.durhamnh.gov/AgendaCenter/ViewFile/Minutes/_10262026-427\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:f23bc4fa4573c6d36aaf@granite-docket
+DTSTAMP:20261116T075713Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Durham Conservation commission
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/DocumentCenter/View/20734/1-Riverview-Court-Le
+ tter-Dated-October-27-2026-to-Conservation-Commission-from-Attorney-Manzel
+ li
+DESCRIPTION:Other: 1 Riverview Court Letter Dated October 27\, 2026\, to Co
+ nservation Commission from Attorney Manzelli\nhttps://www.durhamnh.gov/Doc
+ umentCenter/View/20734/1-Riverview-Court-Letter-Dated-October-27-2026-to-C
+ onservation-Commission-from-Attorney-Manzelli\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7898b14918bb1365e16b@granite-docket
+DTSTAMP:20261123T070459Z
+DTSTART;TZID=America/New_York:20261123T190000
+DURATION:PT2H
+SUMMARY:Durham Conservation commission
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_11232026-442
+DESCRIPTION:Agenda: Conservation Commission Meeting\nhttps://www.durhamnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11232026-442\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef508b0961ed388afeb3@granite-docket
+DTSTAMP:20261123T072721Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Durham Conservation commission
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_12022026-443
+DESCRIPTION:Agenda: Conservation Commission Subcommittee Meeting\nhttps://w
+ ww.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_12022026-443\n\nNotice: Publ
+ ic Hearing Notice - Conservation Commission Subcommittee - WSOD Review Dec
+ ember 2\, 2026\nhttps://www.durhamnh.gov/DocumentCenter/View/20948/Public-
+ Hearing-Notice---Conservation-Commission-Subcommittee---WSOD-Review-Decemb
+ er-2-2026\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b47422821cb66447a878@granite-docket
+DTSTAMP:20261123T072731Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Durham Conservation commission
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_12162026-444
+DESCRIPTION:Agenda: Conservation Commission Subcommittee Meeting\nhttps://w
+ ww.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_12162026-444\n\nNotice: Publ
+ ic Hearing Notice - Conservation Commission Subcommittee - WSOD Review Dec
+ ember 16\, 2026\nhttps://www.durhamnh.gov/DocumentCenter/View/20949/Public
+ -Hearing-Notice---Conservation-Commission-Subcommittee---WSOD-Review-Decem
+ ber-16-2026\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

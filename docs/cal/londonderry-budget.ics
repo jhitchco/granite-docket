@@ -1,0 +1,177 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Londonderry Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Londonderry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:91b43bf32cee376a91d1@granite-docket
+DTSTAMP:20261103T133421Z
+DTSTART;TZID=America/New_York:20260929T180000
+DURATION:PT2H
+SUMMARY:Londonderry Budget / CIP
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_09292026-13
+ 03
+DESCRIPTION:Agenda: Capital Improvements Program (CIP) Committee Agenda Sep
+  29\, 2026 Capital Improvements Program (CIP) \nhttps://www.londonderrynh.
+ gov/AgendaCenter/ViewFile/Agenda/_09292026-1303\n\nAgenda: Capital Improve
+ ments Program (CIP) Committee Regular Meeting Agenda\nhttps://www.londonde
+ rrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09292026-1167\n\nAgenda: P
+ acket\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/
+ _09292026-1167?packet=true\n\nMinutes: Capital Improvements Program (CIP) 
+ Committee Minutes Sep 29\, 2026 Capital Improvements Program (CIP)\nhttps:
+ //www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_09292026-1303\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2615c635467bf4ca95b9@granite-docket
+DTSTAMP:20261103T093552Z
+DTSTART;TZID=America/New_York:20261019T193000
+DURATION:PT2H
+SUMMARY:Londonderry Budget / CIP
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10192026-13
+ 13
+DESCRIPTION:Agenda: Recreation Commission Agenda Oct 19\, 2026 — Amended 
+ Oct 19\, 2026 2:53 PM Recreation Commission Regul\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1313\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8bcb1e42064e8325f1af@granite-docket
+DTSTAMP:20261116T081436Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Londonderry Budget / CIP
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/DocumentCenter/View/3309/FY28-TIF-Distric
+ t-Budget-PDF
+DESCRIPTION:Other: FY28 TIF District Budget (PDF)\nhttps://www.londonderryn
+ h.gov/DocumentCenter/View/3309/FY28-TIF-District-Budget-PDF\n\nOther: 2026
+ -11-07 FY28 DPW Budget Presentation (PDF)\nhttps://www.londonderrynh.gov/D
+ ocumentCenter/View/3385/2026-11-07-FY28-DPW-Budget-Presentation-PDF\n\nOth
+ er: 2026-11-07 FY28 Fire Budget Presentation (PDF)\nhttps://www.londonderr
+ ynh.gov/DocumentCenter/View/3383/2026-11-07-FY28-Fire-Budget-Presentation-
+ PDF\n\nOther: 2026-11-07 FY28 Police Budget Presentation (PDF)\nhttps://ww
+ w.londonderrynh.gov/DocumentCenter/View/3224/2026-11-07-FY28-Police-Budget
+ -Presentation-PDF\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2dcd25bf70c2396bb892@granite-docket
+DTSTAMP:20261116T081036Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Londonderry Budget / CIP
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/DocumentCenter/View/3414/2026-11-09-FY28-
+ Administration-Presentation-PDF
+DESCRIPTION:Other: 2026-11-09 FY28 Administration Presentation (PDF)\nhttps
+ ://www.londonderrynh.gov/DocumentCenter/View/3414/2026-11-09-FY28-Administ
+ ration-Presentation-PDF\n\nOther: 2026-11-09 FY28 Human Resources Budget P
+ resentation (PDF)\nhttps://www.londonderrynh.gov/DocumentCenter/View/3405/
+ 2026-11-09-FY28-Human-Resources-Budget-Presentation-PDF\n\nOther: 2026-11-
+ 09 FY28 Finance Department Budget Presentation (PDF)\nhttps://www.londonde
+ rrynh.gov/DocumentCenter/View/3403/2026-11-09-FY28-Finance-Department-Budg
+ et-Presentation-PDF\n\nOther: 2026-11-09 FY28 Assessing Department Budget 
+ Presentation (PDF)\nhttps://www.londonderrynh.gov/DocumentCenter/View/3410
+ /2026-11-09-FY28-Assessing-Department-Budget-Presentation-PDF\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc40c1af13b996f93cf5@granite-docket
+DTSTAMP:20261123T070539Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Londonderry Budget / CIP
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11102026-13
+ 36
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 10\, 2026 Budget Committee 
+ Meeting - Budget Workshop (No agenda)\nhttps://www.londonderrynh.gov/Agend
+ aCenter/ViewFile/Agenda/_11102026-1336\n\nAgenda: Budget Committee Meeting
+  - Budget Workshop (No agenda)\nhttps://www.londonderrynh.gov/AgendaCenter
+ /ViewFile/ArchivedAgenda/_11102026-1206\n\nAgenda: Packet\nhttps://www.lon
+ donderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-1206?packet=
+ true\n\nMinutes: Budget Committee Minutes Nov 10\, 2026 Budget Committee M
+ eeting - Budget Workshop (No agenda)\nhttps://www.londonderrynh.gov/Agenda
+ Center/ViewFile/Minutes/_11102026-1336\n\nOther: Download a PDF of the Bud
+ get Workshop schedule by the department.\nhttps://www.londonderrynh.gov/Do
+ cumentCenter/View/3400\n\nOther: 2026-11-10 FY28 IT Budget Presentation (P
+ DF)\nhttps://www.londonderrynh.gov/DocumentCenter/View/3406/2026-11-10-FY2
+ 8-IT-Budget-Presentation-PDF\n\nOther: 2026-11-10 FY28 PED Budget Presenta
+ tion (PDF)\nhttps://www.londonderrynh.gov/DocumentCenter/View/3411/2026-11
+ -10-FY28-PED-Budget-Presentation-PDF\n\nOther: 2026-11-10 FY28 Building De
+ partment Budget Presentation (PDF)\nhttps://www.londonderrynh.gov/Document
+ Center/View/3404/2026-11-10-FY28-Building-Department-Budget-Presentation-P
+ DF\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c37c0245cbd7ee3501d@granite-docket
+DTSTAMP:20261123T075948Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Londonderry Budget / CIP
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/DocumentCenter/View/3427/2026-11-16-FY28-
+ Library-Budget-Presentation
+DESCRIPTION:Other: 2026-11-16 FY28 Library Budget Presentation\nhttps://www
+ .londonderrynh.gov/DocumentCenter/View/3427/2026-11-16-FY28-Library-Budget
+ -Presentation\n\nOther: 2026-11-16 FY28 Recreation Budget Presentation\nht
+ tps://www.londonderrynh.gov/DocumentCenter/View/3428/2026-11-16-FY28-Recre
+ ation-Budget-Presentation\n\nOther: 2026-11-16 FY28 Senior Affairs Budget 
+ Presentation\nhttps://www.londonderrynh.gov/DocumentCenter/View/3429/2026-
+ 11-16-FY28-Senior-Affairs-Budget-Presentation\n\nOther: 2026-11-16 FY28 Ca
+ ble Department Budget Presentation\nhttps://www.londonderrynh.gov/Document
+ Center/View/3426/2026-11-16-FY28-Cable-Department-Budget-Presentation\n\nO
+ ther: 2026-11-16 FY 28 Solid Waste and Sewer Budget Presentation\nhttps://
+ www.londonderrynh.gov/DocumentCenter/View/3431/2026-11-16-FY-28-Solid-Wast
+ e-and-Sewer-Budget-Presentation\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5876394b301118181537@granite-docket
+DTSTAMP:20261123T072036Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Londonderry Budget / CIP
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11172026-13
+ 41
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 17\, 2026 Budget Committee 
+ Meeting - Budget Workshop\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_11172026-1341\n\nAgenda: Budget Committee Meeting - Budget Wo
+ rkshop\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11172026-1216\n\nAgenda: Packet\nhttps://www.londonderrynh.gov/AgendaCen
+ ter/ViewFile/ArchivedAgenda/_11172026-1216?packet=true\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

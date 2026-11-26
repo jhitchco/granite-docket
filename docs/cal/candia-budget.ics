@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Candia Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Candia\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:66cf8ccecb737e4e5910@granite-docket
+DTSTAMP:20261103T110330Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10142026-615
+DESCRIPTION:Agenda: Budget Committee Agenda\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Agenda/_10142026-615\n\nMinutes: Oct 14\, 2026 Budget Com
+ mittee Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_101
+ 42026-615\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f491baf13e6c70683c@granite-docket
+DTSTAMP:20261109T093539Z
+DTSTART;TZID=America/New_York:20261015T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10152026-616
+DESCRIPTION:Agenda: Cemetery Trustees Meeting Agenda\nhttps://www.candianh.
+ org/AgendaCenter/ViewFile/Agenda/_10152026-616\n\nMinutes: Oct 15\, 2026 C
+ emetery Trustees Meeting Agenda\nhttps://www.candianh.org/AgendaCenter/Vie
+ wFile/Minutes/_10152026-616\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e40b2f567ab439bfe3@granite-docket
+DTSTAMP:20261103T110326Z
+DTSTART;TZID=America/New_York:20261019T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10192026-618
+DESCRIPTION:Agenda: Budget Committee Agenda\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Agenda/_10192026-618\n\nMinutes: Oct 19\, 2026 Budget Com
+ mittee Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_101
+ 92026-618\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:20034d2eb42786ea762f@granite-docket
+DTSTAMP:20261123T084720Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11122026-628
+DESCRIPTION:Agenda: Budget Committee Agenda\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Agenda/_11122026-628\n\nAgenda: Budget Committee Agenda\n
+ https://www.candianh.org/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-48
+ 2\n\nMinutes: Nov 12\, 2026 Budget Committee Agenda\nhttps://www.candianh.
+ org/AgendaCenter/ViewFile/Minutes/_11122026-628\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9670cdc55d573960c415@granite-docket
+DTSTAMP:20261123T084719Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11162026-634
+DESCRIPTION:Agenda: Budget Committee Agenda\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Agenda/_11162026-634\n\nAgenda: Nov 16\, 2026 Budget Comm
+ ittee Agenda\nhttps://www.candianh.org/DocumentCenter/View/7437/2026-11-16
+ -Budget-Committee-Meeting-Audio-File\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chatham NH meetings
+X-WR-CALDESC:Public meetings of Chatham\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e7bc88cf1b0f576e4d5e@granite-docket
+DTSTAMP:20261123T100617Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Chatham Select board / council
+LOCATION:Chatham\, NH
+URL:https://www.chathamnh.org/wp-content/uploads/2026/11/October-Meeting-No
+ tes_20261110_0001.pdf
+DESCRIPTION:Minutes: Docs Docs Minutes October 2026\nhttps://www.chathamnh.
+ org/wp-content/uploads/2026/11/October-Meeting-Notes_20261110_0001.pdf\n\n
+ Minutes: Docs Docs Minutes September 2026\nhttps://www.chathamnh.org/wp-co
+ ntent/uploads/2026/11/September-Meeting-Notes_20261110_0001.pdf\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+END:VCALENDAR

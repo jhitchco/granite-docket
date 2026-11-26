@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hampton Select board / council
+X-WR-CALDESC:Select board / council meetings in Hampton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1166fdeb4322de1c9684@granite-docket
+DTSTAMP:20261103T140229Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-2079
+DESCRIPTION:Agenda: Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_09282026-2079\n\nMinutes: Sep 28\, 2026 Select Board\nhttps://h
+ amptonnh.gov/AgendaCenter/ViewFile/Minutes/_09282026-2079\n\nMinutes: Sep 
+ 28\, 2026 Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Archiv
+ edMinutes/_09282026-2778\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6c4414fa60d82f6fa01@granite-docket
+DTSTAMP:20261103T140221Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-2082
+DESCRIPTION:Agenda: Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_10052026-2082\n\nMinutes: Oct 5\, 2026 Select Board\nhttps://ha
+ mptonnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-2082\n\nMinutes: Oct 5
+ \, 2026 Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Archived
+ Minutes/_10052026-2791\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b06dc6a453caeb3ba3d0@granite-docket
+DTSTAMP:20261103T140211Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-2092
+DESCRIPTION:Agenda: Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_10192026-2092\n\nMinutes: Oct 19\, 2026 Select Board\nhttps://h
+ amptonnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-2092\n\nMinutes: Oct 
+ 19\, 2026 Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Archiv
+ edMinutes/_10192026-2796\n\nMinutes: Oct 19\, 2026 Select Board\nhttps://h
+ amptonnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10192026-2795\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7f1a346a6e189b8c7890@granite-docket
+DTSTAMP:20261103T093537Z
+DTSTART;TZID=America/New_York:20261020T150000
+DURATION:PT2H
+SUMMARY:Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://www.hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-2042
+DESCRIPTION:Agenda: Trustees of the Trust Fund Agenda Oct 20\, 2026 Trustee
+ s of the Trust Funds\nhttps://www.hamptonnh.gov/AgendaCenter/ViewFile/Agen
+ da/_10202026-2042\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:911d0b237679b52df358@granite-docket
+DTSTAMP:20261103T140759Z
+DTSTART;TZID=America/New_York:20261026T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-2095
+DESCRIPTION:Agenda: Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_10262026-2095\n\nAgenda: View the Select Board current agenda\n
+ https://hamptonnh.gov/AgendaCenter/MostRecent/Board-of-Selectmen-4-4\n\nNo
+ tice: Suppression of Assessing Ownership Records\nhttps://www.hamptonnh.go
+ v/DocumentCenter/View/13320/Suppression-of-Assessing-Ownership-Records\n\n
+ Minutes: Oct 26\, 2026 Select Board\nhttps://hamptonnh.gov/AgendaCenter/Vi
+ ewFile/Minutes/_10262026-2095\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:372e50d90d2ea89928cf@granite-docket
+DTSTAMP:20261116T073732Z
+DTSTART;TZID=America/New_York:20261028T180000
+DURATION:PT2H
+SUMMARY:Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-2104
+DESCRIPTION:Agenda: 2026 October Rec Advisory Council Meeting Agenda\nhttps
+ ://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-2104\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba4facf1c0d2987ca2a@granite-docket
+DTSTAMP:20261109T073624Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-2099
+DESCRIPTION:Agenda: Select Board agenda\nhttps://hamptonnh.gov/AgendaCenter
+ /ViewFile/Agenda/_11022026-2099\n\nAgenda: Select Board agenda Nov 2\, 202
+ 6 - posted Oct 30\, 2026 11:05 am\nhttps://hamptonnh.gov/AgendaCenter/View
+ File/ArchivedAgenda/_11022026-2799\n\nMinutes: Nov 2\, 2026 Select Board a
+ genda\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Minutes/_11022026-2099\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb486587501d6f9b653@granite-docket
+DTSTAMP:20261123T074138Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-2102
+DESCRIPTION:Agenda: Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_11092026-2102\n\nMinutes: Nov 9\, 2026 Select Board\nhttps://ha
+ mptonnh.gov/AgendaCenter/ViewFile/Minutes/_11092026-2102\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e55b0f863d79239274@granite-docket
+DTSTAMP:20261123T074129Z
+DTSTART;TZID=America/New_York:20261123T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_11232026-2109
+DESCRIPTION:Agenda: Select Board\nhttps://hamptonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_11232026-2109\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b2fe11e3352b474a9ec7@granite-docket
+DTSTAMP:20261123T075838Z
+DTSTART;TZID=America/New_York:20261228T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Select board / council
+LOCATION:Hampton\, NH
+URL:https://www.hamptonnh.gov/DocumentCenter/View/13430/Public-Hearing-Noti
+ ce-Service-Road-Reclassification-to-Class-V-Highway
+DESCRIPTION:Notice: View Document...\nhttps://www.hamptonnh.gov/DocumentCen
+ ter/View/13430/Public-Hearing-Notice-Service-Road-Reclassification-to-Clas
+ s-V-Highway\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

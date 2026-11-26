@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bow Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Bow\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f2466ce7b89b49ea1d2e@granite-docket
+DTSTAMP:20261103T141954Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Bow Zoning / ZBA
+LOCATION:Bow\, NH
+URL:http://bownh.gov/AgendaCenter/ViewFile/Agenda/_10012026-2778
+DESCRIPTION:Agenda: Planning Board Zoning Amendment Review - CANCELED\nhttp
+ ://bownh.gov/AgendaCenter/ViewFile/Agenda/_10012026-2778\n\nAgenda: Planni
+ ng Board Zoning Amendment Review\nhttp://bownh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10012026-2652\n\nAgenda: Planning Board Zoning Amendment Re
+ view\nhttp://bownh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10012026-2650
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6745bf416db989f6ace@granite-docket
+DTSTAMP:20261116T094018Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Bow Zoning / ZBA
+LOCATION:Bow\, NH
+URL:http://bownh.gov/AgendaCenter/ViewFile/Agenda/_11052026-2793
+DESCRIPTION:Agenda: Planning Board Zoning Amendment Review\nhttp://bownh.go
+ v/AgendaCenter/ViewFile/Agenda/_11052026-2793\n\nAgenda: Planning Board Zo
+ ning Amendment Review\nhttp://bownh.gov/AgendaCenter/ViewFile/ArchivedAgen
+ da/_11052026-2669\n\nMinutes: Nov 5\, 2026 Planning Board Zoning Amendment
+  Review\nhttp://bownh.gov/AgendaCenter/ViewFile/Minutes/_11052026-2793\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2dec5cc054f84f61f172@granite-docket
+DTSTAMP:20261103T122145Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:Bow Zoning / ZBA
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_11142026-2796
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 14\, 2026 Zoning 
+ Board of Adjustments Site Visit Public Notice\nhttps://www.bownh.gov/Agend
+ aCenter/ViewFile/Agenda/_11142026-2796\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1fbbae1b05a7b0fe80d9@granite-docket
+DTSTAMP:20261103T141418Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Bow Zoning / ZBA
+LOCATION:Bow\, NH
+URL:http://bownh.gov/AgendaCenter/ViewFile/Agenda/_11172026-2795
+DESCRIPTION:Agenda: Zoning Board of Adjustment Meeting\nhttp://bownh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11172026-2795\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

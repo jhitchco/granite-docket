@@ -1,0 +1,389 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Effingham NH meetings
+X-WR-CALDESC:Public meetings of Effingham\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:541de139ee0680bbe980@granite-docket
+DTSTAMP:20261103T120509Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/670/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/670/PDF/get_agenda_document_link\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59d1e4761522ce6dd766@granite-docket
+DTSTAMP:20261103T120545Z
+DTSTART;TZID=America/New_York:20260928T160000
+DURATION:PT2H
+SUMMARY:Public hearing: Effingham Zoning / ZBA
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/671/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/671/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/671/pdf_packet/get_agenda_document_link\n\nAg
+ enda: Packet PDF\nhttps://towncloud.io/go/effingham-nh/agendas/670/pdf_pac
+ ket/get_agenda_document_link\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:61b288fe80a47515f6f6@granite-docket
+DTSTAMP:20261103T120543Z
+DTSTART;TZID=America/New_York:20261001T090000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/672/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/672/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/672/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9216f90f854e48044e25@granite-docket
+DTSTAMP:20261103T120544Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Effingham Zoning / ZBA
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/673/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/673/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/673/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:491f83272cbfcd54aecf@granite-docket
+DTSTAMP:20261103T120543Z
+DTSTART;TZID=America/New_York:20261007T160000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/676/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/676/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/676/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:037a24612f28cf4e3b8f@granite-docket
+DTSTAMP:20261103T120543Z
+DTSTART;TZID=America/New_York:20261012T180000
+DURATION:PT2H
+SUMMARY:Effingham Historic district
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/677/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/677/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/677/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:335c29fecfc9e3d8802d@granite-docket
+DTSTAMP:20261103T120542Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/678/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/678/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/678/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:734b6ee177a558496a9a@granite-docket
+DTSTAMP:20261103T120542Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Effingham Zoning / ZBA
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/679/pdf_packet/get_agenda_
+ document_link
+DESCRIPTION:Agenda: Packet PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/679/pdf_packet/get_agenda_document_link\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f30d3ff360f61fdc8c@granite-docket
+DTSTAMP:20261103T120507Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Effingham Planning board
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/679/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/679/PDF/get_agenda_document_link\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:009ee99a69d1d3802e78@granite-docket
+DTSTAMP:20261103T120544Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/671/minutes/get_agenda_doc
+ ument_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/effingham-nh/agen
+ das/671/minutes/get_agenda_document_link\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:682faf2460c7d2a9e28e@granite-docket
+DTSTAMP:20261103T120541Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Effingham Budget / CIP
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/680/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/680/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/680/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:32d33535c0593a1c9d8d@granite-docket
+DTSTAMP:20261103T120540Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Effingham Historic district
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/684/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/684/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/684/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba4526c4557d5f46013@granite-docket
+DTSTAMP:20261103T120541Z
+DTSTART;TZID=America/New_York:20261026T150000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/686/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/686/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/686/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d830c7bd0c6717f66211@granite-docket
+DTSTAMP:20261103T120541Z
+DTSTART;TZID=America/New_York:20261027T160000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/683/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/683/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/683/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:127bd29e69dcb8434b50@granite-docket
+DTSTAMP:20261103T120540Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Effingham Planning board
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/687/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/687/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/687/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0053c41f9771b3a3b2a8@granite-docket
+DTSTAMP:20261103T120540Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Effingham Budget / CIP
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/688/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/688/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/688/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:075e430f85e6c17f189d@granite-docket
+DTSTAMP:20261109T104635Z
+DTSTART;TZID=America/New_York:20261103T180000
+DURATION:PT2H
+SUMMARY:Effingham Historic district
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/689/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/689/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/689/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c1bbf7d522dec31da8f4@granite-docket
+DTSTAMP:20261116T105928Z
+DTSTART;TZID=America/New_York:20261109T150000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/692/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/692/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/692/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:89346bbf25c603ee3c91@granite-docket
+DTSTAMP:20261123T095148Z
+DTSTART;TZID=America/New_York:20261110T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/691/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/691/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/691/pdf_packet/get_agenda_document_link\n\nMi
+ nutes: Minutes PDF\nhttps://towncloud.io/go/effingham-nh/agendas/683/minut
+ es/get_agenda_document_link\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:66184f2fed8f605e35f8@granite-docket
+DTSTAMP:20261123T095148Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Effingham Budget / CIP
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/726/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/726/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/726/pdf_packet/get_agenda_document_link\n\nMi
+ nutes: Minutes PDF\nhttps://towncloud.io/go/effingham-nh/agendas/726/minut
+ es/get_agenda_document_link\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d5c586693d23d711fbe@granite-docket
+DTSTAMP:20261116T105927Z
+DTSTART;TZID=America/New_York:20261118T213000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/693/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/693/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/693/pdf_packet/get_agenda_document_link\n\nMi
+ nutes: Minutes PDF\nhttps://towncloud.io/go/effingham-nh/agendas/693/minut
+ es/get_agenda_document_link\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:faa62a9e66f68b015d83@granite-docket
+DTSTAMP:20261123T095147Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/728/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/728/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/728/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:57277138a161ad087627@granite-docket
+DTSTAMP:20261123T095149Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/676/minutes/get_agenda_doc
+ ument_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/effingham-nh/agen
+ das/676/minutes/get_agenda_document_link\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a02f6d56f21bbb2788c5@granite-docket
+DTSTAMP:20261123T095147Z
+DTSTART;TZID=America/New_York:20261124T160000
+DURATION:PT2H
+SUMMARY:Effingham Select board / council
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/727/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/727/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/727/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+END:VCALENDAR

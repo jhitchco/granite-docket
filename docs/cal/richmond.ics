@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Richmond NH meetings
+X-WR-CALDESC:Public meetings of Richmond\, NH boards\, from posted agendas 
+ and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4df44e1a298a8558b423@granite-docket
+DTSTAMP:20261103T122635Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Select board / council
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/BOSMInutes92826.pdf
+DESCRIPTION:Minutes: BOS Minutes 09/28/26\nhttp://www.richmond.nh.gov/verti
+ cal/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/BOSMInutes928
+ 26.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:818324fd04d53cb9ea80@granite-docket
+DTSTAMP:20261123T103508Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Library Minutes 10/01/26
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/2_MinutesOctober2026FI.pdf
+DESCRIPTION:Minutes: Library Minutes 10/01/26\nhttp://www.richmond.nh.gov/v
+ ertical/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/2_Minutes
+ October2026FI.pdf\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ca52b9e803fc74df11@granite-docket
+DTSTAMP:20261123T103448Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Conservation commission
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/Oct_2026_meeting_minutes_APPROVED.pdf
+DESCRIPTION:Minutes: Richmond Conservation Commission Meeting Minutes Octob
+ er 2026 Approved\nhttp://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7
+ A3-4A6F-8C05-C74435D0CF15%7D/uploads/Oct_2026_meeting_minutes_APPROVED.pdf
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:082ee1d8d052e864fa55@granite-docket
+DTSTAMP:20261103T122635Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Select board / council
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/BOS_Minutes_10.05.26.pdf
+DESCRIPTION:Minutes: BOS Minutes 10/05/26\nhttp://www.richmond.nh.gov/verti
+ cal/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/BOS_Minutes_1
+ 0.05.26.pdf\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4fbdfde61cc9ead9afa@granite-docket
+DTSTAMP:20261103T122744Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Planning board
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/Planning_Board_Final_Minutes_10-6_Planning_Board_Min
+ utes.pdf
+DESCRIPTION:Minutes: Planning Board Meeting 10/06/26 Final Minutes\nhttp://
+ www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15
+ %7D/uploads/Planning_Board_Final_Minutes_10-6_Planning_Board_Minutes.pdf\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d17af4f33ca238f73777@granite-docket
+DTSTAMP:20261103T122636Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Select board / council
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/NO_MEETING-Columbus_Day_101226.pdf
+DESCRIPTION:Minutes: NO MEETING-Columbus Day 10/12/26\nhttp://www.richmond.
+ nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/N
+ O_MEETING-Columbus_Day_101226.pdf\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:da234c835a5ec7bf9628@granite-docket
+DTSTAMP:20261103T122636Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Select board / council
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/BOS_Minutes_101926.pdf
+DESCRIPTION:Minutes: BOS Minutes 10/19/26\nhttp://www.richmond.nh.gov/verti
+ cal/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/BOS_Minutes_1
+ 01926.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aaae79d9dd5a209ae03e@granite-docket
+DTSTAMP:20261103T131356Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Richmond PRC Minutes 10/21/26 Draft
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/RPRC_21_October_2026_draft.pdf
+DESCRIPTION:Minutes: PRC Minutes 10/21/26 Draft\nhttp://www.richmond.nh.gov
+ /vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/RPRC_21
+ _October_2026_draft.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fae3fd74c7700b8eaf0c@granite-docket
+DTSTAMP:20261123T103338Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Cemetery Trustee Minutes 10/21/26 Draft
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/RCC_21_October_2026_draft.pdf
+DESCRIPTION:Minutes: Cemetery Trustee Minutes 10/21/26 Draft\nhttp://www.ri
+ chmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/up
+ loads/RCC_21_October_2026_draft.pdf\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:96253a702a52ab5bc785@granite-docket
+DTSTAMP:20261103T122636Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Select board / council
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/BOSMinutes102626.pdf
+DESCRIPTION:Minutes: BOS Minutes 10/26/26\nhttp://www.richmond.nh.gov/verti
+ cal/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/BOSMinutes102
+ 626.pdf\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:75a6e9e3b97289014f44@granite-docket
+DTSTAMP:20261103T122637Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Select board / council
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/BOSMinutes110226.pdf
+DESCRIPTION:Minutes: BOS Minutes 11/02/26\nhttp://www.richmond.nh.gov/verti
+ cal/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/BOSMinutes110
+ 226.pdf\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:960d0892b482374d5033@granite-docket
+DTSTAMP:20261123T102518Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Select board / council
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/BOSMinutes110926.pdf
+DESCRIPTION:Minutes: BOS Minutes 11/09/26\nhttp://www.richmond.nh.gov/verti
+ cal/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/BOSMinutes110
+ 926.pdf\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:24a24b7ca3a72cbbdb81@granite-docket
+DTSTAMP:20261123T102528Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Richmond Select board / council
+LOCATION:Richmond\, NH
+URL:http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C7
+ 4435D0CF15%7D/uploads/SKMBT_42326111710480.pdf
+DESCRIPTION:Minutes: BOS Minutes 11/16/26\nhttp://www.richmond.nh.gov/verti
+ cal/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/SKMBT_4232611
+ 1710480.pdf\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atkinson Planning board
+X-WR-CALDESC:Planning board meetings in Atkinson\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c45164ffeed327603e5b@granite-docket
+DTSTAMP:20261103T100800Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Atkinson Planning board
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10152026-
+ 266
+DESCRIPTION:Agenda: Recreation Commission Agenda Oct 15\, 2026 Recreation C
+ ommission Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_10152026-266\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea2848c79ab9e95d38b@granite-docket
+DTSTAMP:20261103T100643Z
+DTSTART;TZID=America/New_York:20261021T183000
+DURATION:PT2H
+SUMMARY:Atkinson Planning board
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10212026-
+ 268
+DESCRIPTION:Agenda: Planning Board Agenda Oct 21\, 2026 Planning Board Agen
+ da (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10
+ 212026-268\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d601bee1b6496af0c09@granite-docket
+DTSTAMP:20261103T100643Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Atkinson Planning board
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11042026-
+ 280
+DESCRIPTION:Agenda: Planning Board Agenda Nov 4\, 2026 Planning Board Agend
+ a (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_110
+ 42026-280\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

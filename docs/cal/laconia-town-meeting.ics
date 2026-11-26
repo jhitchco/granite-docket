@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Laconia Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Laconia\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cc18085836e44833a343@granite-docket
+DTSTAMP:20261123T073318Z
+DTSTART;TZID=America/New_York:20261119T090000
+DURATION:PT2H
+SUMMARY:Laconia Town meeting / warrant
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11192026-3278
+DESCRIPTION:Agenda: Board of Assessors Agenda Nov 19\, 2026 — Amended Nov
+  18\, 2026 10:40 AM ****CANCELLED******Board of A\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11192026-3278\n\nAgenda: Board of Assesso
+ rs Regular Meeting (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_11192026-8492\n\nAgenda: Packet\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11192026-8492?packet=true\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:efc54630f2b95e9d3687@granite-docket
+DTSTAMP:20261123T070502Z
+DTSTART;TZID=America/New_York:20261125T140000
+DURATION:PT2H
+SUMMARY:Laconia Town meeting / warrant
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11252026-3283
+DESCRIPTION:Agenda: Board of Assessors Agenda Nov 25\, 2026 Board of Assess
+ ors Regular Meeting (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_11252026-3283\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

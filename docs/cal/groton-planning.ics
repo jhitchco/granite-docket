@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Groton Planning board
+X-WR-CALDESC:Planning board meetings in Groton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:be827a290290c9c185ba@granite-docket
+DTSTAMP:20261103T124337Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Groton Planning board
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/planningboard/2010/100526pb.pdf
+DESCRIPTION:Minutes: May 26\, 2010\nhttps://grotonnh.gov/planningboard/2010
+ /100526pb.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d85a10a1bbce202e92c7@granite-docket
+DTSTAMP:20261103T124339Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:Groton Planning board
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/planningboard/2011/110126pb.pdf
+DESCRIPTION:Other: January 26\, 2011\nhttps://grotonnh.gov/planningboard/20
+ 11/110126pb.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4984614f648974f5ef@granite-docket
+DTSTAMP:20261103T124337Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Groton Planning board
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/planningboard/2011/111026pb.pdf
+DESCRIPTION:Other: October 26\, 2011\nhttps://grotonnh.gov/planningboard/20
+ 11/111026pb.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e585d564c6766c0aea@granite-docket
+DTSTAMP:20261103T124341Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Groton Planning board
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/planningboard/2012/120926pb.pdf
+DESCRIPTION:Minutes: January 25\, 2012 February 29\, 2012 March 28\, 2012 A
+ pril 25\, 2012 May 30\, 2012 June 27\, 2012 July 25\,\nhttps://grotonnh.go
+ v/planningboard/2012/120926pb.pdf\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

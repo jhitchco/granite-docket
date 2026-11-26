@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canterbury Historic district
+X-WR-CALDESC:Historic district meetings in Canterbury\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6de988cb5a81154a4ab1@granite-docket
+DTSTAMP:20261103T131922Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Canterbury Historic district
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-21-Hist
+ oric-District-Commission-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-21-Historic-District-Commission-Agenda.pdf\nhtt
+ ps://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-21-Historic-D
+ istrict-Commission-Agenda.pdf\n\nMinutes: 2026-10-21-Historic-District-Com
+ mission-Minutes-DRAFT.pdf\nhttps://www.canterburynh.gov/wp-content/uploads
+ /2026/10/2026-10-21-Historic-District-Commission-Minutes-DRAFT.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

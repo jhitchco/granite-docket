@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hill Planning board
+X-WR-CALDESC:Planning board meetings in Hill\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8ffae7f5cf464efd6784@granite-docket
+DTSTAMP:20261123T095808Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Hill Planning board
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2018/06/parks-rec-agenda202
+ 61102.pdf
+DESCRIPTION:Agenda: Agenda: parks-rec-agenda20261102\nhttps://townofhillnh.
+ org/wp-content/uploads/2018/06/parks-rec-agenda20261102.pdf\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c13564e6c600dc66bad7@granite-docket
+DTSTAMP:20261123T095821Z
+DTSTART;TZID=America/New_York:20261119T191500
+DURATION:PT2H
+SUMMARY:Public hearing: Hill Planning board
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/PUBLIC-Notices-Boot
+ jack-LLC-sub-division-of-land.pdf
+DESCRIPTION:Notice: Public Notice Posting PUBLIC Notices – Bootjack\, LLC
+  sub-division of land\nhttps://townofhillnh.org/wp-content/uploads/2026/11
+ /PUBLIC-Notices-Bootjack-LLC-sub-division-of-land.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

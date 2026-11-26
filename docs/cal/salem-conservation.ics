@@ -1,0 +1,161 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Salem Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Salem\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8b5a9a7808832feddedd@granite-docket
+DTSTAMP:20261103T152107Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5168
+DESCRIPTION:Minutes: CC-10-5-26 (Site Walk) - Draft Minutes.pdf\nhttps://ww
+ w.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5168\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:61f5593b7d6ac0482186@granite-docket
+DTSTAMP:20261103T145142Z
+DTSTART;TZID=America/New_York:20261007T170000
+DURATION:PT2H
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1811
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 7\, 2026 10/7/26 Con
+ servation Commission Agenda & Meeting Material\nhttps://www.salemnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10072026-1811\n\nAgenda: 10/7/26 Conservation 
+ Commission Agenda & Meeting Materials\nhttps://salemnh.gov/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_10072026-2681\n\nAgenda: Packet\nhttps://salemnh.go
+ v/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-2681?packet=true\n\nMinut
+ es: Oct 7\, 2026 10/7/26 Conservation Commission Agenda & Meeting Material
+ s\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-1811\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb1b142df29c59a00eb4@granite-docket
+DTSTAMP:20261103T152111Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5174
+DESCRIPTION:Agenda: 8926 WOLK wetlands permit plan (10-14-26).pdf\nhttps://
+ www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5174\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:de700edd80780dec744e@granite-docket
+DTSTAMP:20261103T152108Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5172
+DESCRIPTION:Agenda: Salem Fire Station 3 NHDES Minimum Impact EXP Applicati
+ on Package.pdf\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fi
+ leID=5172\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4fec22f83e94ceecaced@granite-docket
+DTSTAMP:20261103T152110Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5171
+DESCRIPTION:Agenda: Salem Fire Station 3 - Wetlands Permitting Letter.pdf\n
+ https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5171\n\nAge
+ nda: Salem Fire Station 3 - Site Redevelopment Plans 10-20-26.pdf\nhttps:/
+ /www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5170\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:31a32bd1d016036d389f@granite-docket
+DTSTAMP:20261103T152112Z
+DTSTART;TZID=America/New_York:20261026T141700
+DURATION:PT2H
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5178
+DESCRIPTION:Agenda: Norwood Email DPW.pdf\nhttps://www.salemnh.gov/AgendaCe
+ nter/ViewFile/Item/1182?fileID=5178\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:94f8e9f90fc0effa7fce@granite-docket
+DTSTAMP:20261109T083433Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1185?fileID=5183
+DESCRIPTION:Agenda: 20261029_SalemStandardPlantList_Final.pdf\nhttps://www.
+ salemnh.gov/AgendaCenter/ViewFile/Item/1185?fileID=5183\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b734e36c41804755eb5@granite-docket
+DTSTAMP:20261109T083453Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1185?fileID=5184
+DESCRIPTION:Agenda: 20261030_SalemPlantList.pdf\nhttps://www.salemnh.gov/Ag
+ endaCenter/ViewFile/Item/1185?fileID=5184\n\nAgenda: 20261030_SalemPlantLi
+ st.xlsx\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Item/1185?fileID=51
+ 85\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a11532df6708b8b1aafa@granite-docket
+DTSTAMP:20261109T075027Z
+DTSTART;TZID=America/New_York:20261104T170000
+DURATION:PT2H
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-1828
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 4\, 2026 11/4/26 Con
+ servation Commission Agenda & Meeting Material\nhttps://www.salemnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11042026-1828\n\nAgenda: 11/4/26 Conservation 
+ Commission Agenda & Meeting Materials\nhttps://www.salemnh.gov/AgendaCente
+ r/ViewFile/Agenda/1828?html=true\n\nAgenda: CC 11-4-26 Agenda.pdf\nhttps:/
+ /www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5167\n\nAgenda: Pa
+ cket\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-2
+ 711?packet=true\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+END:VCALENDAR

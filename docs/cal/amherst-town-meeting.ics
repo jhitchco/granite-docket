@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amherst Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Amherst\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ce62f77b4c308bf47742@granite-docket
+DTSTAMP:20261123T070642Z
+DTSTART;TZID=America/New_York:20261015T073000
+DURATION:PT2H
+SUMMARY:Amherst Town meeting / warrant
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-458
+DESCRIPTION:Agenda: Cemetery Trustee Special Meeting Agenda\nhttps://www.am
+ herstnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-458\n\nMinutes: Oct 15\
+ , 2026 Cemetery Trustee Special Meeting Agenda\nhttps://www.amherstnh.gov/
+ AgendaCenter/ViewFile/Minutes/_10152026-458\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0f51a8bcdc69debe66d7@granite-docket
+DTSTAMP:20261103T093923Z
+DTSTART;TZID=America/New_York:20261021T073000
+DURATION:PT2H
+SUMMARY:Amherst Town meeting / warrant
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-473
+DESCRIPTION:Agenda: Cemetery Trustee Special Meeting Agenda\nhttps://www.am
+ herstnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-473\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e5d62b3d39cd3292faf@granite-docket
+DTSTAMP:20261116T072426Z
+DTSTART;TZID=America/New_York:20261109T173000
+DURATION:PT2H
+SUMMARY:Amherst Town meeting / warrant
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1109202
+ 6-233
+DESCRIPTION:Agenda: Ways & Means Meeting\nhttps://www.amherstnh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11092026-233\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rindge Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Rindge\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4070604a07a23b8a6c7a@granite-docket
+DTSTAMP:20261103T101737Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Rindge Zoning / ZBA
+LOCATION:Rindge\, NH
+URL:https://rindgenh.gov/Documents/Boards Commission/Zoning Board of Adjust
+ ment/Agenda Minutes/2026/Minutes/v2_10.27.26_ZBA Minutes_DRAFT.pdf?t=20261
+ 1021231060
+DESCRIPTION:Minutes: 10/27/26 DRAFT_ZBA Minutes October 27\, 2026 Minutes\n
+ https://rindgenh.gov/Documents/Boards Commission/Zoning Board of Adjustmen
+ t/Agenda Minutes/2026/Minutes/v2_10.27.26_ZBA Minutes_DRAFT.pdf?t=20261102
+ 1231060\n\nMinutes: 10/27/26 ZBA October Agenda Agenda\nhttps://rindgenh.g
+ ov/Documents/Boards Commission/Zoning Board of Adjustment/Agenda Minutes/2
+ 026/Agendas/10.27.26_AgendaZoning Board of Adjustment_Agenda.pdf?t=2026102
+ 61440030\n\nMinutes: 10/27/26 Public Notice - October ZBA Public Hearing A
+ genda\nhttps://rindgenh.gov/Documents/Boards Commission/Zoning Board of Ad
+ justment/Agenda Minutes/2026/Public Notices/10.27.26_Zoning Board of Adjus
+ tment_PUBLICNOTICE.docx?t=202610191206010\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:954a359336da8d2be5d8@granite-docket
+DTSTAMP:20261116T084101Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Rindge Zoning / ZBA
+LOCATION:Rindge\, NH
+URL:https://rindgenh.gov/Documents/Boards Commission/Zoning Board of Adjust
+ ment/Agenda Minutes/2026/Public Notices/11.24.26_Zoning Board of Adjustmen
+ t_PUBLICNOTICE.pdf?t=202611101400580
+DESCRIPTION:Minutes: 11/24/26 November Public Hearing - ZBA Agenda\nhttps:/
+ /rindgenh.gov/Documents/Boards Commission/Zoning Board of Adjustment/Agend
+ a Minutes/2026/Public Notices/11.24.26_Zoning Board of Adjustment_PUBLICNO
+ TICE.pdf?t=202611101400580\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

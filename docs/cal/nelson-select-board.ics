@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nelson Select board / council
+X-WR-CALDESC:Select board / council meetings in Nelson\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:637285f837fa52507797@granite-docket
+DTSTAMP:20261103T124146Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Select board / council
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/10-7-2026-SELECTMENS-AGENDA.p
+ df
+DESCRIPTION:Minutes: 10-7-2026 SELECTMEN’S AGENDA\nhttp://minutes.townofn
+ elson.org/documents/10-7-2026-SELECTMENS-AGENDA.pdf\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9f115c4bd86274da57@granite-docket
+DTSTAMP:20261103T124145Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Select board / council
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/10-14-2026-SELECTMENS-AGENDA.
+ pdf
+DESCRIPTION:Minutes: 10-14-2026 SELECTMEN’S AGENDA\nhttp://minutes.townof
+ nelson.org/documents/10-14-2026-SELECTMENS-AGENDA.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f495dc30963d6808e37a@granite-docket
+DTSTAMP:20261103T124145Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Select board / council
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/11-03-2026-SELECTMENS-AGENDA.
+ pdf
+DESCRIPTION:Minutes: 11-03-2026 SELECTMEN’S AGENDA\nhttp://minutes.townof
+ nelson.org/documents/11-03-2026-SELECTMENS-AGENDA.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3c4fb8905e5e8808f3@granite-docket
+DTSTAMP:20261123T100402Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Select board / council
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/11-11-2026-SELECTMENS-AGENDA.
+ pdf
+DESCRIPTION:Minutes: 11-11-2026 SELECTMEN’S AGENDA\nhttp://minutes.townof
+ nelson.org/documents/11-11-2026-SELECTMENS-AGENDA.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f35da84acf9d390a0de@granite-docket
+DTSTAMP:20261123T100401Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Select board / council
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/11-18-2026-SELECTMENS-AGENDA-
+ 1.pdf
+DESCRIPTION:Minutes: 11-18-2026 SELECTMEN’S AGENDA\nhttp://minutes.townof
+ nelson.org/documents/11-18-2026-SELECTMENS-AGENDA-1.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

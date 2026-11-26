@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newington Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Newington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:771c9d890dbd598afe7a@granite-docket
+DTSTAMP:20261103T131212Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Zoning / ZBA
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-236
+DESCRIPTION:Agenda: Board of Adjustment Agenda Oct 28\, 2026 Public Hearing
+  Notice & Zoning Board of Adjustment\nhttps://www.newingtonnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10282026-236\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e4975ff9bf7ebaa52c@granite-docket
+DTSTAMP:20261103T131211Z
+DTSTART;TZID=America/New_York:20261104T163000
+DURATION:PT2H
+SUMMARY:Newington Zoning / ZBA
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-242
+DESCRIPTION:Agenda: Board of Adjustment Agenda Nov 4\, 2026 Board of Fire E
+ ngineers at Fire Department\nhttps://www.newingtonnh.gov/AgendaCenter/View
+ File/Agenda/_11042026-242\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fff0a26fdcc00192f13b@granite-docket
+DTSTAMP:20261103T131416Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Newington Zoning / ZBA
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-238?
+ packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_11092026-238?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

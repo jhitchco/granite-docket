@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deering Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Deering\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e1b9609005d687e94732@granite-docket
+DTSTAMP:20261103T120149Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Deering Conservation commission
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10052026-442
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 5\, 2026 Conservatio
+ n Commission Meeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFi
+ le/Agenda/_10052026-442\n\nAgenda: Conservation Commission Agenda Oct 5\, 
+ 2026 Public Hearing Notice\nhttps://www.deering.nh.us/AgendaCenter/ViewFil
+ e/Agenda/_10052026-443\n\nMinutes: Conservation Commission Minutes Oct 5\,
+  2026 Conservation Commission Meeting Agenda\nhttps://www.deering.nh.us/Ag
+ endaCenter/ViewFile/Minutes/_10052026-442\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1672d138411ac1abf1e1@granite-docket
+DTSTAMP:20261109T102619Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Deering Conservation commission
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11092026-460
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 9\, 2026 Conservatio
+ n Commission November meeting\nhttps://www.deering.nh.us/AgendaCenter/View
+ File/Agenda/_11092026-460\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

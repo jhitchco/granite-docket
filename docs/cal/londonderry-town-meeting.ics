@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Londonderry Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Londonderry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e53bb86d1371a7820405@granite-docket
+DTSTAMP:20261103T135242Z
+DTSTART;TZID=America/New_York:20260930T190000
+DURATION:PT2H
+SUMMARY:Londonderry Town meeting / warrant
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_09302026-13
+ 01
+DESCRIPTION:Agenda: Leach Library Trustees Agenda Sep 30\, 2026 — Amended
+  Sep 28\, 2026 4:40 PM Leach Library Trustees Spe\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_09302026-1301\n\nAgenda: Leach Librar
+ y Trustees Special Meeting Agenda (PDF)\nhttps://www.londonderrynh.gov/Age
+ ndaCenter/ViewFile/ArchivedAgenda/_09302026-1164\n\nMinutes: Leach Library
+  Trustees Minutes Sep 30\, 2026 — Amended Sep 28\, 2026 4:40 PM Leach Li
+ brary Trustees Sp\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Min
+ utes/_09302026-1301\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:74dfb3e72c2d75ff0eb4@granite-docket
+DTSTAMP:20261109T070406Z
+DTSTART;TZID=America/New_York:20261027T190000
+DURATION:PT2H
+SUMMARY:Londonderry Town meeting / warrant
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10272026-13
+ 22
+DESCRIPTION:Agenda: Leach Library Trustees Agenda Oct 27\, 2026 — Amended
+  Oct 26\, 2026 1:00 PM Leach Library Trustees Spe\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10272026-1322\n\nAgenda: Leach Librar
+ y Trustees Special Meeting Agenda (PDF)\nhttps://www.londonderrynh.gov/Age
+ ndaCenter/ViewFile/ArchivedAgenda/_10272026-1192\n\nMinutes: Leach Library
+  Trustees Minutes Oct 27\, 2026 — Amended Oct 26\, 2026 1:00 PM Leach Li
+ brary Trustees Sp\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Min
+ utes/_10272026-1322\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6fc11a0115800593aa4@granite-docket
+DTSTAMP:20261123T070419Z
+DTSTART;TZID=America/New_York:20261123T180000
+DURATION:PT2H
+SUMMARY:Londonderry Town meeting / warrant
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11232026-13
+ 44
+DESCRIPTION:Agenda: Town Council Agenda Nov 23\, 2026 Town Council Special 
+ Meeting Materials\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Age
+ nda/_11232026-1344\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+END:VCALENDAR

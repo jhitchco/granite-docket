@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Londonderry Planning board
+X-WR-CALDESC:Planning board meetings in Londonderry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:02805df466bf72c27115@granite-docket
+DTSTAMP:20261123T070559Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Planning board
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10072026-12
+ 99
+DESCRIPTION:Agenda: Planning Board Agenda Oct 7\, 2026 — Amended Oct 2\, 
+ 2026 9:27 AM Planning Board Regular Meeting Mater\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1299\n\nAgenda: Planning Boa
+ rd Regular Meeting Materials\nhttps://www.londonderrynh.gov/AgendaCenter/V
+ iewFile/ArchivedAgenda/_10072026-1173\n\nAgenda: Planning Board Regular Me
+ eting Materials\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_10072026-1165\n\nAgenda: Packet\nhttps://www.londonderrynh.gov/
+ AgendaCenter/ViewFile/ArchivedAgenda/_10072026-1173?packet=true\n\nAgenda:
+  Packet\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgend
+ a/_10072026-1165?packet=true\n\nMinutes: Planning Board Minutes Oct 7\, 20
+ 26 — Amended Oct 2\, 2026 9:27 AM Planning Board Regular Meeting Mate\nh
+ ttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_10072026-1299\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b6a5a88c7ea665bbf791@granite-docket
+DTSTAMP:20261123T070549Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Planning board
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10142026-13
+ 05
+DESCRIPTION:Agenda: Planning Board Agenda Oct 14\, 2026 — Amended Oct 13\
+ , 2026 1:35 PM Planning Board Agenda and Material\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-1305\n\nAgenda: Planning Boa
+ rd Agenda and Materials\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFi
+ le/ArchivedAgenda/_10142026-1182\n\nAgenda: Planning Board Agenda and Mate
+ rials\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/
+ _10142026-1179\n\nAgenda: Planning Board Agenda and Materials\nhttps://www
+ .londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-1178\n\n
+ Agenda: Planning Board Agenda and Materials\nhttps://www.londonderrynh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_10142026-1177\n\nAgenda: Planning B
+ oard Agenda and Materials\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/ArchivedAgenda/_10142026-1176\n\nAgenda: Planning Board Agenda and Ma
+ terials\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgend
+ a/_10142026-1175\n\nMinutes: Planning Board Minutes Oct 14\, 2026 — Amen
+ ded Oct 13\, 2026 1:35 PM Planning Board Agenda and Materia\nhttps://www.l
+ ondonderrynh.gov/AgendaCenter/ViewFile/Minutes/_10142026-1305\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c51b51baa063ea41cb36@granite-docket
+DTSTAMP:20261103T093445Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Planning board
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11042026-13
+ 24
+DESCRIPTION:Agenda: Planning Board Agenda Nov 4\, 2026 Planning Board Agend
+ a and Materials\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Agend
+ a/_11042026-1324\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

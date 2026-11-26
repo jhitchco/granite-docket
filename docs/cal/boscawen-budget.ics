@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boscawen Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Boscawen\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:08da3d960133c78959e8@granite-docket
+DTSTAMP:20261103T110615Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_09282026-337
+DESCRIPTION:Agenda: Brownfields Advisory Committee (PDF) - Canceled\nhttps:
+ //boscawennh.gov/AgendaCenter/ViewFile/Agenda/_09282026-337\n\nAgenda: Dus
+ ton Island Task Force (PDF) - Canceled\nhttps://boscawennh.gov/AgendaCente
+ r/ViewFile/Agenda/_09282026-334\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ae14e255034da5c44a@granite-docket
+DTSTAMP:20261103T110752Z
+DTSTART;TZID=America/New_York:20261006T150000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10062026-341
+DESCRIPTION:Agenda: Town Park Committee (PDF)\nhttps://boscawennh.gov/Agend
+ aCenter/ViewFile/Agenda/_10062026-341\n\nMinutes: Oct 6\, 2026 Town Park C
+ ommittee (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_1006
+ 2026-341\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd21e1f895a7ffb72e0e@granite-docket
+DTSTAMP:20261103T110525Z
+DTSTART;TZID=America/New_York:20261008T183000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10082026-343
+DESCRIPTION:Agenda: Agricultural Commission (PDF)\nhttps://boscawennh.gov/A
+ gendaCenter/ViewFile/Agenda/_10082026-343\n\nMinutes: Oct 8\, 2026 Agricul
+ tural Commission (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minut
+ es/_10082026-343\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:63ea615fd2e66f3bdedf@granite-docket
+DTSTAMP:20261103T110715Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10132026-344
+DESCRIPTION:Agenda: Public Safety Advisory Committee (PDF)\nhttps://boscawe
+ nnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-344\n\nMinutes: Oct 13\, 20
+ 26 Public Safety Advisory Committee (PDF)\nhttps://boscawennh.gov/AgendaCe
+ nter/ViewFile/Minutes/_10132026-344\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:25da1c1698b1dd34bc84@granite-docket
+DTSTAMP:20261103T110649Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10192026-346
+DESCRIPTION:Agenda: Old Home Day Committee (PDF)\nhttps://boscawennh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10192026-346\n\nMinutes: Oct 19\, 2026 Old Hom
+ e Day Committee (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minute
+ s/_10192026-346\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c66104f366b3c5bd4a74@granite-docket
+DTSTAMP:20261103T110614Z
+DTSTART;TZID=America/New_York:20261026T170000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10262026-349
+DESCRIPTION:Agenda: Duston Island Task Force (PDF)\nhttps://boscawennh.gov/
+ AgendaCenter/ViewFile/Agenda/_10262026-349\n\nMinutes: Oct 26\, 2026 Dusto
+ n Island Task Force (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Mi
+ nutes/_10262026-349\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bff644ac6909d49e2787@granite-docket
+DTSTAMP:20261109T094847Z
+DTSTART;TZID=America/New_York:20261104T160000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11042026-352
+DESCRIPTION:Agenda: Town Park Committee (pdf)\nhttps://boscawennh.gov/Agend
+ aCenter/ViewFile/Agenda/_11042026-352\n\nMinutes: Nov 4\, 2026 Town Park C
+ ommittee (pdf)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_1104
+ 2026-352\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac8c5da272109c497835@granite-docket
+DTSTAMP:20261103T110436Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/DocumentCenter/View/6090/111026-CIP-PH-and-P
+ kg-2026-2036
+DESCRIPTION:Notice: Capital Improvement Plan 11.10.26\nhttps://www.boscawen
+ nh.gov/DocumentCenter/View/6090/111026-CIP-PH-and-Pkg-2026-2036\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d6a19778c2003ce2e6d6@granite-docket
+DTSTAMP:20261116T095326Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11122026-356
+DESCRIPTION:Agenda: Agricultural Commission (pdf)\nhttps://boscawennh.gov/A
+ gendaCenter/ViewFile/Agenda/_11122026-356\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a04378b488429a2ecd40@granite-docket
+DTSTAMP:20261103T110801Z
+DTSTART;TZID=America/New_York:20270125T100000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_01252027-347
+DESCRIPTION:Agenda: Trustees of the Trust Fund (PDF)\nhttps://boscawennh.go
+ v/AgendaCenter/ViewFile/Agenda/_01252027-347\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

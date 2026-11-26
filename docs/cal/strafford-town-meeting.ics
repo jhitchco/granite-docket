@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Strafford Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Strafford\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bd11d248125af2b48c10@granite-docket
+DTSTAMP:20261103T105727Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Strafford Town meeting / warrant
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/10/SB20260929.pdf
+DESCRIPTION:Warrant: September 29\, 2026 · January 6\, 2026 January 20\, 2
+ 026 February 3\, 2026 February 10\, 2026 Budget Hear\nhttps://strafford.nh
+ .gov/wp-content/uploads/2026/10/SB20260929.pdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:83ead76c763fbdb2b03c@granite-docket
+DTSTAMP:20261103T105727Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Strafford Town meeting / warrant
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/10/SB20261013.pdf
+DESCRIPTION:Warrant: October 13\, 2026 · January 6\, 2026 January 20\, 202
+ 6 February 3\, 2026 February 10\, 2026 Budget Hearin\nhttps://strafford.nh
+ .gov/wp-content/uploads/2026/10/SB20261013.pdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c97187802f5ec4d0409c@granite-docket
+DTSTAMP:20261123T084351Z
+DTSTART;TZID=America/New_York:20261027T173000
+DURATION:PT2H
+SUMMARY:Strafford Town meeting / warrant
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/10/SB20261027Agenda.pd
+ f
+DESCRIPTION:Agenda: October 27\, 2026 Agenda · January 6\, 2026 January 20
+ \, 2026 February 3\, 2026 February 10\, 2026 Budget\nhttps://strafford.nh.
+ gov/wp-content/uploads/2026/10/SB20261027Agenda.pdf\n\nWarrant: October 27
+ \, 2026 · January 6\, 2026 January 20\, 2026 February 3\, 2026 February 1
+ 0\, 2026 Budget Hearin\nhttps://strafford.nh.gov/wp-content/uploads/2026/1
+ 1/SB20261027.pdf\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1871d8db1aa87c622124@granite-docket
+DTSTAMP:20261123T084351Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Strafford Town meeting / warrant
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/11/SB20261102WS.pdf
+DESCRIPTION:Warrant: November 3\, 2026 Work Session · January 6\, 2026 Jan
+ uary 20\, 2026 February 3\, 2026 February 10\, 2026 \nhttps://strafford.nh
+ .gov/wp-content/uploads/2026/11/SB20261102WS.pdf\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:37cb85ef754aa1b3a92f@granite-docket
+DTSTAMP:20261116T092511Z
+DTSTART;TZID=America/New_York:20261109T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Strafford Town meeting / warrant
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/11/SB11092026Agenda.pd
+ f
+DESCRIPTION:Agenda: November 10\, 2026 Agenda · January 6\, 2026 January 2
+ 0\, 2026 February 3\, 2026 February 10\, 2026 Budge\nhttps://strafford.nh.
+ gov/wp-content/uploads/2026/11/SB11092026Agenda.pdf\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

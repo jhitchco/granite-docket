@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New London Conservation commission
+X-WR-CALDESC:Conservation commission meetings in New London\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:247f2c2b6653aa96a437@granite-docket
+DTSTAMP:20261103T105435Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:New London Conservation commission
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/CC_agenda10-14-26.pdf
+DESCRIPTION:Agenda: CC Agenda 10-14-26\nhttps://newlondon.nh.gov/vertical/s
+ ites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/CC_agenda10-14-26.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:710f826c5d1c2f79315a@granite-docket
+DTSTAMP:20261103T105435Z
+DTSTART;TZID=America/New_York:20261021T083000
+DURATION:PT2H
+SUMMARY:New London Conservation commission
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10-21-2026_CC_Agenda.pdf
+DESCRIPTION:Agenda: CC Agenda 10-21-26\nhttps://newlondon.nh.gov/vertical/s
+ ites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/10-21-2026_CC_Agen
+ da.pdf\n\nMinutes: Conservation Commission Meeting Minutes: October 21\, 2
+ 026 - DRAFT\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423
+ -95D7-E1EECBB7F549%7D/uploads/Conservation_Commission_Minutes_10-21-26_(1)
+ Draft.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a43907e9c10a1f605c66@granite-docket
+DTSTAMP:20261103T105406Z
+DTSTART;TZID=America/New_York:20261022T170000
+DURATION:PT2H
+SUMMARY:New London Conservation commission
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10-22-2026_Agenda.pdf
+DESCRIPTION:Agenda: Bicycle & Pedestrian Advisory Committee Agenda: October
+  22\, 2026\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-
+ 95D7-E1EECBB7F549%7D/uploads/10-22-2026_Agenda.pdf\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7181fc23a0a6f67da5df@granite-docket
+DTSTAMP:20261123T084338Z
+DTSTART;TZID=America/New_York:20261118T083000
+DURATION:PT2H
+SUMMARY:New London Conservation commission
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/11-18-2026_Meeting_Agenda.pdf
+DESCRIPTION:Agenda: Conservation Commission Meeting Agenda: November 18\, 2
+ 026\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1
+ EECBB7F549%7D/uploads/11-18-2026_Meeting_Agenda.pdf\n\nMinutes: Conservati
+ on Commission Meeting Minutes: November 18\, 2026 - DRAFT\nhttps://newlond
+ on.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/upload
+ s/Conservation_Commission_Minutes_11-18-26_(1)Draft-.pdf\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

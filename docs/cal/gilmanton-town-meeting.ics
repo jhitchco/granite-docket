@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gilmanton Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Gilmanton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a6148c0d84c385e73240@granite-docket
+DTSTAMP:20261103T130848Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Gilmanton Town meeting / warrant
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/DocumentCenter/View/3812/OUTSIDE-AGENY-PACK
+ ET---FY27---11-02-26-V3
+DESCRIPTION:Agenda: OUTSIDE AGENY PACKET - FY27 - 11-02-26 V3\nhttps://www.
+ gilmantonnh.gov/DocumentCenter/View/3812/OUTSIDE-AGENY-PACKET---FY27---11-
+ 02-26-V3\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9905e13f16d82bd1492a@granite-docket
+DTSTAMP:20261109T104546Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Gilmanton Town meeting / warrant
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/DocumentCenter/View/3829/OUTSIDE-AGENCY-PAC
+ KET---2027-Public-Packet---11-18-26-V3
+DESCRIPTION:Agenda: OUTSIDE AGENCY PACKET - 2027 Public Packet - 11-18-26 V
+ 3\nhttps://www.gilmantonnh.gov/DocumentCenter/View/3829/OUTSIDE-AGENCY-PAC
+ KET---2027-Public-Packet---11-18-26-V3\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb9879d78ad5fed11f0a@granite-docket
+DTSTAMP:20261103T113640Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+SUMMARY:Gilmanton Town meeting / warrant
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/DocumentCenter/View/3307
+DESCRIPTION:Warrant: Warrant Amended - Signed by the Selectmen\nhttps://www
+ .gilmantonnh.gov/DocumentCenter/View/3307\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4c64582c690da16af5a8@granite-docket
+DTSTAMP:20261103T111924Z
+DTSTART;TZID=America/New_York:20270130T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Town meeting / warrant
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_01302027-412
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Deliberative Session\
+ nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_01302027-412\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e765b53d8638e3c4da@granite-docket
+DTSTAMP:20261103T111924Z
+DTSTART;TZID=America/New_York:20270206T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Town meeting / warrant
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_02062027-413
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Rain/Snow date - Deli
+ berative Session\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda
+ /_02062027-413\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

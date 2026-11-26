@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mont Vernon Planning board
+X-WR-CALDESC:Planning board meetings in Mont Vernon\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e517a72e40d59a5833a4@granite-docket
+DTSTAMP:20261116T101923Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Planning board
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10132026-408
+DESCRIPTION:Agenda: Planning Board Public Meeting (Poisson Conditional Use 
+ Permit (Brook Rd.) and San-Ken Homes Mason Rd\nhttps://www.montvernonnh.us
+ /AgendaCenter/ViewFile/Agenda/_10132026-408\n\nMinutes: Oct 13\, 2026 Plan
+ ning Board Public Meeting (Poisson Conditional Use Permit (Brook Rd.) and 
+ San-Ken H\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_1013
+ 2026-408\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b399394ed840bed853b5@granite-docket
+DTSTAMP:20261116T101913Z
+DTSTART;TZID=America/New_York:20261027T170000
+DURATION:PT2H
+SUMMARY:Mont Vernon Planning board
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10272026-432
+DESCRIPTION:Agenda: Planning Board Meeting (Poisson Conditional Use Permit 
+ Brook and Herlihy Rd.)\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/
+ Agenda/_10272026-432\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b1c545772053e8c70f20@granite-docket
+DTSTAMP:20261116T101903Z
+DTSTART;TZID=America/New_York:20261110T170000
+DURATION:PT2H
+SUMMARY:Mont Vernon Planning board
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11102026-431
+DESCRIPTION:Agenda: Planning Board Meeting (San-Ken 5-lot subdivision Mason
+  Rd. and Poisson Conditional Use Permit Brook\nhttps://www.montvernonnh.us
+ /AgendaCenter/ViewFile/Agenda/_11102026-431\n\nAgenda: Library Trustees Mo
+ nthly Meeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/ArchivedA
+ genda/_11102026-118\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

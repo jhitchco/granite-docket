@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portsmouth Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Portsmouth\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8b9a35d45b9c3379168f@granite-docket
+DTSTAMP:20261103T092928Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Portsmouth Zoning / ZBA
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/City Council/Second Reading
+  Zoning Amendment 10132026.pdf
+DESCRIPTION:Agenda: Proposed Zoning Amendment Presentation\nhttps://files.p
+ ortsmouthnh.gov/agendas/2026/City Council/Second Reading Zoning Amendment 
+ 10132026.pdf\n\nNotice: Download Zoning Maps (As Amended 10/13/2026)\nhttp
+ s://files.portsmouthnh.gov/files/planning/Final+Zoning+Map+04062026.pdf\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:720275623ba7d85b91be@granite-docket
+DTSTAMP:20261103T093009Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Zoning / ZBA
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Planning+Board/10-15-2026+M
+ eeting/Article10_DRAFT_pb_08202026_09172026_10152026.pdf
+DESCRIPTION:Agenda: DRAFT Article 10 Zoning Amendments\nhttps://files.ports
+ mouthnh.gov/agendas/2026/Planning+Board/10-15-2026+Meeting/Article10_DRAFT
+ _pb_08202026_09172026_10152026.pdf\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3089c1b3ea039886db2b@granite-docket
+DTSTAMP:20261123T070519Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Portsmouth Zoning / ZBA
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Zoning+Board+of+Adjustment/
+ 10-20-2026+Meeting/10-20-2026_boa_as.pdf
+DESCRIPTION:Agenda: Action Sheet\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/Zoning+Board+of+Adjustment/10-20-2026+Meeting/10-20-2026_boa_as.pdf\n\n
+ Agenda: Legal Notice\nhttps://files.portsmouthnh.gov/agendas/2026/Zoning+B
+ oard+of+Adjustment/10-20-2026+Meeting/10-20_10-27-2026_boa_ln.pdf\n\nAgend
+ a: Revised Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/Zoning+Boar
+ d+of+Adjustment/10-20-2026+Meeting/10-20-2026_boa_ag_revised.pdf\n\nAgenda
+ : Letters of Decision with Findings of Fact\nhttps://files.portsmouthnh.go
+ v/agendas/2026/Zoning+Board+of+Adjustment/10-20-2026+Meeting/10-20-2026_LO
+ D_FOF_Combined_final.pdf\n\nAgenda: Public Comment\nhttps://files.portsmou
+ thnh.gov/agendas/2026/Zoning+Board+of+Adjustment/10-20-2026+Meeting/10-20-
+ 2026_public_Comment_rollover.pdf\n\nMinutes: Meeting Minutes\nhttps://file
+ s.portsmouthnh.gov/agendas/2026/Zoning Board of Adjustment/10-20-2026 Meet
+ ing/10-20-2026 BOA Final Minutes_approved and amended 11-17.pdf\n\nOther: 
+ 30 Salem St\nhttps://files.portsmouthnh.gov/files/planning/apps/SalemSt_30
+ /SalemSt_30_BOA_10202026.pdf\n\nOther: 100 Albany St\, Unit C\nhttps://fil
+ es.portsmouthnh.gov/files/planning/apps/AlbanySt_100/AlbanySt_100_BOA_1020
+ 26.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae34a54fb72ba3c5d79b@granite-docket
+DTSTAMP:20261123T070518Z
+DTSTART;TZID=America/New_York:20261027T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Portsmouth Zoning / ZBA
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/files/planning/apps/SheafeSt_9/SheafeSt_
+ 9_BOA_102726.pdf
+DESCRIPTION:Agenda: 9 Sheafe St\nhttps://files.portsmouthnh.gov/files/plann
+ ing/apps/SheafeSt_9/SheafeSt_9_BOA_102726.pdf\n\nAgenda: Agenda\nhttps://f
+ iles.portsmouthnh.gov/agendas/2026/Zoning Board of Adjustment/10-27-2026 M
+ eeting/10-27-2026 BOA AG.pdf\n\nAgenda: Staff Memo\nhttps://files.portsmou
+ thnh.gov/agendas/2026/Zoning Board of Adjustment/10-27-2026 Meeting/BOA ME
+ MO 10-27-26.pdf\n\nAgenda: Meeting Packet\nhttps://files.portsmouthnh.gov/
+ agendas/2026/Zoning Board of Adjustment/10-27-2026 Meeting/10-27-2026 BOA_
+ Packet.pdf\n\nAgenda: Legal Notice\nhttps://files.portsmouthnh.gov/agendas
+ /2026/Zoning+Board+of+Adjustment/10-27-2026+Meeting/10-20_10-27-2026_boa_l
+ n.pdf\n\nAgenda: Letters of Decision with Findings of Fact\nhttps://files.
+ portsmouthnh.gov/agendas/2026/Zoning Board of Adjustment/10-27-2026 Meetin
+ g/10-27-2026_LOD_FOF_Combined.pdf\n\nAgenda: Public Comment\nhttps://files
+ .portsmouthnh.gov/agendas/2026/Zoning+Board+of+Adjustment/10-27-2026+Meeti
+ ng/10-27-2026_boa_pub-comment_rev.pdf\n\nNotice: 28 Blossom St - Rehearing
+  Request\nhttps://files.portsmouthnh.gov/files/planning/apps/BlossomSt_28/
+ BlossomSt_28_Rehearing_Request_BOA_102726.pdf\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b99fbfaee314399b6b6a@granite-docket
+DTSTAMP:20261123T070518Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Portsmouth Zoning / ZBA
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Zoning Board of Adjustment/
+ 11-17-2026 Meeting/11-17-2026 BOA LN.pdf
+DESCRIPTION:Agenda: Legal Notice\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/Zoning Board of Adjustment/11-17-2026 Meeting/11-17-2026 BOA LN.pdf\n\n
+ Agenda: Action Sheet\nhttps://files.portsmouthnh.gov/agendas/2026/Zoning B
+ oard of Adjustment/11-17-2026 Meeting/11-17-2026 BOA AS.pdf\n\nAgenda: Mee
+ ting Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/Zoning Board of A
+ djustment/11-17-2026 Meeting/11-17-2026 BOA AG..pdf\n\nAgenda: Public Comm
+ ent\nhttps://files.portsmouthnh.gov/agendas/2026/Zoning Board of Adjustmen
+ t/11-17-2026 Meeting/11-17-2026_boa_public-comment.pdf\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8492c4b617851a9f3ad8@granite-docket
+DTSTAMP:20261116T071038Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Zoning / ZBA
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Planning+Board/11-19-2026+M
+ eeting+/WFH_Options_DRAFT_pb_11192026__Zoning-amend.pdf
+DESCRIPTION:Agenda: DRAFT Zoning Amendment: Child Care Centers & Residentia
+ l in Commercial Districts\nhttps://files.portsmouthnh.gov/agendas/2026/Pla
+ nning+Board/11-19-2026+Meeting+/WFH_Options_DRAFT_pb_11192026__Zoning-amen
+ d.pdf\n\nAgenda: DRAFT Zoning Amendment: Expansion of Workforce Housing\nh
+ ttps://files.portsmouthnh.gov/agendas/2026/Planning+Board/11-19-2026+Meeti
+ ng+/DRAFT_RSA_Ordinance_pb_11192026_Childcarecenters_Zoning-amend.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c7db0bdb4fa1f666dc0@granite-docket
+DTSTAMP:20261123T070417Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Zoning / ZBA
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/files/planning/apps/CoakleyRd_19/Coakley
+ Rd_19_BOA_11242026.pdf
+DESCRIPTION:Other: 19 Coakley Road\nhttps://files.portsmouthnh.gov/files/pl
+ anning/apps/CoakleyRd_19/CoakleyRd_19_BOA_11242026.pdf\n\nOther: 197 Richa
+ rds Avenue\nhttps://files.portsmouthnh.gov/files/planning/apps/RichardsAve
+ _197/RichardsAve_197_BOA_11242026.pdf\n\nOther: 175 Middle Road - Postpone
+ d\nhttps://files.portsmouthnh.gov/files/planning/apps/MiddleRd_175/MiddleR
+ d_175_BOA_11242026_Postponement.pdf\n\nOther: 350 Hanover Street - Postpon
+ ed\nhttps://files.portsmouthnh.gov/files/planning/apps/HanoverSt_350/Hanov
+ erSt_350_BOA_11242026_Postponement.pdf\n\nOther: 103 Bartlett Street - Pos
+ tponed\nhttps://files.portsmouthnh.gov/files/planning/apps/BartlettSt_103/
+ BartlettSt_103_BOA_11242026_Postponement.pdf\n\nOther: 635 Lincoln Avenue 
+ - Postponed\nhttps://files.portsmouthnh.gov/files/planning/apps/LincolnAve
+ _635/LincolnAve_635_BOA_11242026_Postponement.pdf\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

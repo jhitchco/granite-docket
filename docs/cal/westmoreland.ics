@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Westmoreland NH meetings
+X-WR-CALDESC:Public meetings of Westmoreland\, NH boards\, from posted agen
+ das and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a0ae119501fc1b466830@granite-docket
+DTSTAMP:20261103T120510Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Planning board
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/ffcb1c44-aec4-476a-9e19-205b61dc84a6/Planning%20Board%20October%2
+ 05%2C%202026.pdf?ver=1793655658020
+DESCRIPTION:Minutes: Planning Board October 5\, 2026 (pdf) Download\nhttps:
+ //img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downloads/
+ ffcb1c44-aec4-476a-9e19-205b61dc84a6/Planning%20Board%20October%205%2C%202
+ 026.pdf?ver=1793655658020\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e529788b087b3ac3730@granite-docket
+DTSTAMP:20261103T120604Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Select board / council
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/8cd9ebef-9ded-4184-aba3-aae13ca0cdeb/October%206%2C%202026%20(1).
+ pdf?ver=1793655658903
+DESCRIPTION:Minutes: Board of Selectmen October 6\, 2026 (pdf) Download\nht
+ tps://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downlo
+ ads/8cd9ebef-9ded-4184-aba3-aae13ca0cdeb/October%206%2C%202026%20(1).pdf?v
+ er=1793655658903\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cfcfdd248ecfca3b0d26@granite-docket
+DTSTAMP:20261103T120605Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Select board / council
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/54512710-d095-4df7-9f1c-b44bf7412c0a/October%2020%2C%202026.pdf?v
+ er=1793655658903
+DESCRIPTION:Minutes: Board of Selectmen October 20\, 2026 (pdf) Download\nh
+ ttps://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downl
+ oads/54512710-d095-4df7-9f1c-b44bf7412c0a/October%2020%2C%202026.pdf?ver=1
+ 793655658903\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b8320499ef943d96cf@granite-docket
+DTSTAMP:20261103T120533Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Westmoreland Zoning / ZBA
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/b082b2e9-b109-453b-b832-bdff83f30430/Zoning%20Board%20October%202
+ 1%2C%202026.pdf?ver=1793655656915
+DESCRIPTION:Minutes: Zoning Board October 21\, 2026 (pdf) Download\nhttps:/
+ /img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downloads/b
+ 082b2e9-b109-453b-b832-bdff83f30430/Zoning%20Board%20October%2021%2C%20202
+ 6.pdf?ver=1793655656915\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe16a3e7464e36750fe@granite-docket
+DTSTAMP:20261109T104444Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Trustees of the Trust Funds October 30\, 2026 (pdf) Do
+ wnload
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/8cb8d2e4-f3cc-4ce4-9ff3-3cee1cc68d3b/Trustees%20of%20the%20Trust%
+ 20Funds%20October%2030%2C%202026.pdf?ver=1793902476444
+DESCRIPTION:Minutes: Trustees of the Trust Funds October 30\, 2026 (pdf) Do
+ wnload\nhttps://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4
+ 796/downloads/8cb8d2e4-f3cc-4ce4-9ff3-3cee1cc68d3b/Trustees%20of%20the%20T
+ rust%20Funds%20October%2030%2C%202026.pdf?ver=1793902476444\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8dc333354d7b197806ca@granite-docket
+DTSTAMP:20261109T104428Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Planning board
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/a32ebc73-ae8d-4d11-950b-1fd0a9909d3f/Planning%20Board%20November%
+ 202%2C%202026.docx.pdf?ver=1793902472895
+DESCRIPTION:Minutes: Planning Board November 2\, 2026.docx (pdf) Download\n
+ https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/down
+ loads/a32ebc73-ae8d-4d11-950b-1fd0a9909d3f/Planning%20Board%20November%202
+ %2C%202026.docx.pdf?ver=1793902472895\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:947b4247b3a480a4901e@granite-docket
+DTSTAMP:20261116T105822Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Select board / council
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/20587bfa-5f77-4fff-9bc8-9a7b11297c4a/Board%20of%20Selectmen%20Nov
+ ember%203%2C5%20%26%209%2C%202026.pdf?ver=1794508014451
+DESCRIPTION:Minutes: Board of Selectmen November 3\,5 & 9\, 2026 (pdf) Down
+ load\nhttps://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a479
+ 6/downloads/20587bfa-5f77-4fff-9bc8-9a7b11297c4a/Board%20of%20Selectmen%20
+ November%203%2C5%20%26%209%2C%202026.pdf?ver=1794508014451\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7809214a5662328a9a@granite-docket
+DTSTAMP:20261103T121020Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Westmoreland doc02034720260930141436 (pdf) Download
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/bb1fdab8-ee2c-431b-b71d-d8915e769b54/doc02034720260930141436.pdf?
+ ver=1793655661441
+DESCRIPTION:Notice: doc02034720260930141436 (pdf) Download\nhttps://img1.ws
+ img.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downloads/bb1fdab8-
+ ee2c-431b-b71d-d8915e769b54/doc02034720260930141436.pdf?ver=1793655661441\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:bbca0b9b40e2844093e4@granite-docket
+DTSTAMP:20261123T095111Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Planning board
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/f68746b3-89fb-454a-a7fe-ed504a22cc7a/Planning%20Board%20November%
+ 2016%2C%202026.docx.pdf?ver=1795202274601
+DESCRIPTION:Minutes: Planning Board November 16\, 2026.docx (pdf) Download\
+ nhttps://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/dow
+ nloads/f68746b3-89fb-454a-a7fe-ed504a22cc7a/Planning%20Board%20November%20
+ 16%2C%202026.docx.pdf?ver=1795202274601\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:578801ba483a8f4768a4@granite-docket
+DTSTAMP:20261103T120846Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Capital Reserves 2nd Quarter 2026 (pdf) Download
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/33b67928-1717-4539-aee7-de4c56f86533/CapReserves%202Q2026d.pdf?ve
+ r=1793655661783
+DESCRIPTION:Minutes: Capital Reserves 2nd Quarter 2026 (pdf) Download\nhttp
+ s://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/download
+ s/33b67928-1717-4539-aee7-de4c56f86533/CapReserves%202Q2026d.pdf?ver=17936
+ 55661783\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ea13e3bf4c96703040@granite-docket
+DTSTAMP:20261103T120847Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Capital Reserves 3rd Quarter 2026 (pdf) Download
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/665caca0-0cfe-4863-b139-b4c9e1e96ce8/Capital%20Reserves%203rd%20Q
+ uarter%202026.pdf?ver=1793655661783
+DESCRIPTION:Minutes: Capital Reserves 3rd Quarter 2026 (pdf) Download\nhttp
+ s://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/download
+ s/665caca0-0cfe-4863-b139-b4c9e1e96ce8/Capital%20Reserves%203rd%20Quarter%
+ 202026.pdf?ver=1793655661783\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

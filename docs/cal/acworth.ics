@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Acworth NH meetings
+X-WR-CALDESC:Public meetings of Acworth\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:92e68dca40a3108cd42e@granite-docket
+DTSTAMP:20261103T131138Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Acworth Planning board
+LOCATION:Acworth\, NH
+URL:https://www.acworthnh.net/_files/ugd/a327e9_7928c444b23e4351b87e66e46d6
+ c1c39.pdf
+DESCRIPTION:Minutes: September 28\, 2026\nhttps://www.acworthnh.net/_files/
+ ugd/a327e9_7928c444b23e4351b87e66e46d6c1c39.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc07db7896c3f0af774@granite-docket
+DTSTAMP:20261103T122809Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Acworth Select board / council
+LOCATION:Acworth\, NH
+URL:https://www.acworthnh.net/_files/ugd/a327e9_6b4283a9b6314237a2601b2de1f
+ 14aed.pdf
+DESCRIPTION:Minutes: October 5\, 2026\nhttps://www.acworthnh.net/_files/ugd
+ /a327e9_6b4283a9b6314237a2601b2de1f14aed.pdf\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:38218fc5a79159b8b8bf@granite-docket
+DTSTAMP:20261103T122809Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Acworth Select board / council
+LOCATION:Acworth\, NH
+URL:https://www.acworthnh.net/_files/ugd/a327e9_dedec28a98a84f1ca138fcaba6c
+ 8917a.pdf
+DESCRIPTION:Minutes: October 19\, 2026\nhttps://www.acworthnh.net/_files/ug
+ d/a327e9_dedec28a98a84f1ca138fcaba6c8917a.pdf\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:90513fad5034a2f76a10@granite-docket
+DTSTAMP:20261123T095944Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Acworth Select board / council
+LOCATION:Acworth\, NH
+URL:https://www.acworthnh.net/_files/ugd/a327e9_ea0a871bad4244948296fdcbce3
+ 5b61e.pdf
+DESCRIPTION:Minutes: November 2\, 2026\nhttps://www.acworthnh.net/_files/ug
+ d/a327e9_ea0a871bad4244948296fdcbce35b61e.pdf\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

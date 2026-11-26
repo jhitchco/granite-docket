@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Salisbury Planning board
+X-WR-CALDESC:Planning board meetings in Salisbury\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f1f56f13ad27cbc3df35@granite-docket
+DTSTAMP:20261103T122157Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Salisbury Planning board
+LOCATION:Salisbury\, NH
+URL:https://www.salisburynh.org/AgendaCenter/ViewFile/Agenda/_10052026-178
+DESCRIPTION:Minutes: Planning Board Agendas Agenda Oct 5\, 2026 SPB Meeting
+  Agenda and Approved Minutes\nhttps://www.salisburynh.org/AgendaCenter/Vie
+ wFile/Agenda/_10052026-178\n\nMinutes: Planning Board Agendas Minutes Oct 
+ 5\, 2026 SPB Meeting Agenda and Approved Minutes\nhttps://www.salisburynh.
+ org/AgendaCenter/ViewFile/Minutes/_10052026-178\n\nMinutes: Oct 5\, 2026 S
+ PB Meeting Agenda and Draft Minutes\nhttps://www.salisburynh.org/AgendaCen
+ ter/ViewFile/ArchivedMinutes/_10052026-232\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e38b1353fcbfc7d1955@granite-docket
+DTSTAMP:20261109T105949Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Salisbury Planning board
+LOCATION:Salisbury\, NH
+URL:https://www.salisburynh.org/AgendaCenter/ViewFile/Agenda/_11022026-186
+DESCRIPTION:Agenda: Planning Board Agendas Agenda Nov 2\, 2026 SPB Agenda\n
+ https://www.salisburynh.org/AgendaCenter/ViewFile/Agenda/_11022026-186\n\n
+ Minutes: Planning Board Agendas Minutes Nov 2\, 2026 SPB Agenda and Draft 
+ Minutes\nhttps://www.salisburynh.org/AgendaCenter/ViewFile/Minutes/_110220
+ 26-186\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

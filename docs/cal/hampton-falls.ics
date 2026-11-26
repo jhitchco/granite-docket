@@ -1,0 +1,305 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hampton Falls NH meetings
+X-WR-CALDESC:Public meetings of Hampton Falls\, NH boards\, from posted age
+ ndas and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:895b6eb0d83cdc56f502@granite-docket
+DTSTAMP:20261103T113853Z
+DTSTART;TZID=America/New_York:20260928T150000
+DURATION:PT2H
+SUMMARY:Hampton Falls Energy committee
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_09282026-167
+DESCRIPTION:Agenda: Energy Committee Agenda Sep 28\, 2026 Energy Committee 
+ Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_092820
+ 26-167\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7c5ce902340d8c2180e5@granite-docket
+DTSTAMP:20261103T113728Z
+DTSTART;TZID=America/New_York:20260930T080000
+DURATION:PT2H
+SUMMARY:Hampton Falls Select board / council
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_09302026-176
+DESCRIPTION:Agenda: Board of Selectmen Agenda Sep 30\, 2026 Selectmen's Bud
+ get Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_09
+ 302026-176\n\nMinutes: Board of Selectmen Minutes Sep 30\, 2026 Selectmen'
+ s Budget Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Minut
+ es/_09302026-176\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc1ca8143ee83f9699d@granite-docket
+DTSTAMP:20261103T113804Z
+DTSTART;TZID=America/New_York:20261001T160000
+DURATION:PT2H
+SUMMARY:Hampton Falls Cemetery Trustees Agenda Oct 1\, 2026 Cemetery Truste
+ e Meeting
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10012026-177
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Oct 1\, 2026 Cemetery Trustee 
+ Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_100120
+ 26-177\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:922c2a3f7c9e0009796a@granite-docket
+DTSTAMP:20261103T113823Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Hampton Falls Conservation commission
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10132026-182
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 13\, 2026 Conservati
+ on Commission Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/
+ Agenda/_10132026-182\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e978b5ba72f7c95ec436@granite-docket
+DTSTAMP:20261103T113728Z
+DTSTART;TZID=America/New_York:20261014T170000
+DURATION:PT2H
+SUMMARY:Hampton Falls Select board / council
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10142026-183
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 14\, 2026 Board of Select
+ men Meeting and Budget Review\nhttps://www.hamptonfalls.org/AgendaCenter/V
+ iewFile/Agenda/_10142026-183\n\nMinutes: Board of Selectmen Minutes Oct 14
+ \, 2026 Board of Selectmen Meeting and Budget Review\nhttps://www.hamptonf
+ alls.org/AgendaCenter/ViewFile/Minutes/_10142026-183\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:64ef3089ab0a885ec705@granite-docket
+DTSTAMP:20261109T101717Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Hampton Falls Select board / council
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Minutes/_10192026-18
+ 5
+DESCRIPTION:Minutes: Recreation Commission Minutes Oct 19\, 2026 Recreation
+  Commission Agenda\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Min
+ utes/_10192026-185\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e014ffb0b5cf1921b210@granite-docket
+DTSTAMP:20261103T113954Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Hampton Falls Recreation Commission Agenda Oct 19\, 2026 Recreation
+  Commission Agenda
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10192026-185
+DESCRIPTION:Agenda: Recreation Commission Agenda Oct 19\, 2026 Recreation C
+ ommission Agenda\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agend
+ a/_10192026-185\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd2e1f1a7d31f4ea9c81@granite-docket
+DTSTAMP:20261109T102737Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Hampton Falls Recreation Commission Agenda
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/ArchivedAgenda/_1019
+ 2026-143
+DESCRIPTION:Agenda: Recreation Commission Agenda\nhttps://www.hamptonfalls.
+ org/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-143\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a10efbe6cb42017e99b@granite-docket
+DTSTAMP:20261103T114651Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Falls Zoning / ZBA
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10222026-184
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 22\, 2026 Zoning 
+ Board of Adjustment\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Ag
+ enda/_10222026-184\n\nAgenda: Zoning Board of Adjustment\nhttps://www.hamp
+ tonfalls.org/AgendaCenter/ViewFile/ArchivedAgenda/_10222026-125\n\nMinutes
+ : Zoning Board of Adjustment Minutes Oct 22\, 2026 Zoning Board of Adjustm
+ ent\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Minutes/_10222026-
+ 184\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0da4cb5b6cfb8ca0b4ca@granite-docket
+DTSTAMP:20261103T113852Z
+DTSTART;TZID=America/New_York:20261026T150000
+DURATION:PT2H
+SUMMARY:Hampton Falls Energy committee
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10262026-186
+DESCRIPTION:Agenda: Energy Committee Agenda Oct 26\, 2026 Energy Committee 
+ Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_102620
+ 26-186\n\nMinutes: Energy Committee Minutes Oct 26\, 2026 Energy Committee
+  Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Minutes/_1026
+ 2026-186\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac502217eab4c5e7643e@granite-docket
+DTSTAMP:20261103T114457Z
+DTSTART;TZID=America/New_York:20261027T220000
+DURATION:PT2H
+SUMMARY:Hampton Falls Planning board
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10272026-187
+DESCRIPTION:Agenda: Planning Board Agenda Oct 27\, 2026 Ords & Regs Meeting
+ \nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10272026-187\
+ n\nAgenda: Planning Board Agenda Oct 27\, 2026 Planning Board Meeting\nhtt
+ ps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10272026-188\n\nAg
+ enda: Planning Board Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_10272026-134\n\nAgenda: Planning Board Meeting\nhtt
+ ps://www.hamptonfalls.org/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-1
+ 33\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:477ac517f1e6e3a74dde@granite-docket
+DTSTAMP:20261103T114042Z
+DTSTART;TZID=America/New_York:20261028T080000
+DURATION:PT2H
+SUMMARY:Hampton Falls Select board / council
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10282026-189
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 28\, 2026 Board of Select
+ men Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10
+ 282026-189\n\nAgenda: Board of Selectmen Meeting\nhttps://www.hamptonfalls
+ .org/AgendaCenter/ViewFile/ArchivedAgenda/_10282026-135\n\nMinutes: Board 
+ of Selectmen Minutes Oct 28\, 2026 Board of Selectmen Meeting\nhttps://www
+ .hamptonfalls.org/AgendaCenter/ViewFile/Minutes/_10282026-189\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:95066f517078f535a1c0@granite-docket
+DTSTAMP:20261103T113903Z
+DTSTART;TZID=America/New_York:20261028T150000
+DURATION:PT2H
+SUMMARY:Hampton Falls Town meeting / warrant
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10282026-190
+DESCRIPTION:Agenda: Farmers Market Agenda Oct 28\, 2026 Farmers Market Meet
+ ing\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10282026-1
+ 90\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fae0360b75bb198e8d91@granite-docket
+DTSTAMP:20261109T101707Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:Hampton Falls Select board / council
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11042026-191
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 4\, 2026 Board of Selectm
+ en meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_110
+ 42026-191\n\nAgenda: Board of Selectmen Agenda Nov 4\, 2026 Board of Selec
+ tmen meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_1
+ 1042026-192\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:470521ae7a1f9c4ceecf@granite-docket
+DTSTAMP:20261116T102141Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Hampton Falls Conservation commission
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11102026-193
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 10\, 2026 Conservati
+ on Commission Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/
+ Agenda/_11102026-193\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:13089b28119dbc5bae33@granite-docket
+DTSTAMP:20261116T102131Z
+DTSTART;TZID=America/New_York:20261112T160000
+DURATION:PT2H
+SUMMARY:Hampton Falls Select board / council
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11122026-194
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Nov 12\, 2026 Cemetery Committ
+ ee Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_111
+ 22026-194\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4b2baa48720e356c1b@granite-docket
+DTSTAMP:20261116T103031Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Falls Planning board
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-195
+DESCRIPTION:Agenda: Planning Board Agenda Nov 17\, 2026 Planning Board Meet
+ ing\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-1
+ 95\n\nAgenda: Planning Board Meeting\nhttps://www.hamptonfalls.org/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11172026-144\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:61236a8dab473690549c@granite-docket
+DTSTAMP:20261116T102121Z
+DTSTART;TZID=America/New_York:20261118T080000
+DURATION:PT2H
+SUMMARY:Hampton Falls Select board / council
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11182026-197
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 18\, 2026 Board of Select
+ men Meeting and Budget Review\nhttps://www.hamptonfalls.org/AgendaCenter/V
+ iewFile/Agenda/_11182026-197\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b6cfe6799a566dbc235e@granite-docket
+DTSTAMP:20261116T102201Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Falls Zoning / ZBA
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11192026-196
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 19\, 2026 Zoning 
+ Board of Adjustment Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/Vie
+ wFile/Agenda/_11192026-196\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,382 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dublin NH meetings
+X-WR-CALDESC:Public meetings of Dublin\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:25aadc7f48cba2def356@granite-docket
+DTSTAMP:20261103T121930Z
+DTSTART;TZID=America/New_York:20260928T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_09282026-236
+DESCRIPTION:Agenda: Select Board Agenda Sep 28\, 2026 Select Board Agenda\n
+ https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_09282026-236\n\
+ nMinutes: Select Board Minutes Sep 28\, 2026 Select Board Agenda\nhttps://
+ www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_09282026-236\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:5041fb742c70660b6ae6@granite-docket
+DTSTAMP:20261103T122153Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Dublin Planning board
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10012026-247
+DESCRIPTION:Agenda: Planning Board Agenda Oct 1\, 2026 Planning Board Agend
+ a\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10012026-247
+ \n\nAgenda: Planning Board Agenda\nhttps://www.townofdublin.org/AgendaCent
+ er/ViewFile/ArchivedAgenda/_10012026-74\n\nMinutes: Planning Board Minutes
+  Oct 1\, 2026 Planning Board Agenda\nhttps://www.townofdublin.org/AgendaCe
+ nter/ViewFile/Minutes/_10012026-247\n\nMinutes: Oct 1\, 2026 Planning Boar
+ d Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/ArchivedMinut
+ es/_10012026-73\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:14b7274ccdc3990f3aba@granite-docket
+DTSTAMP:20261103T121724Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Dublin Cemetery Trustees Minutes Oct 5\, 2026 Cemetery Trustees Age
+ nda
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10052026-24
+ 6
+DESCRIPTION:Minutes: Cemetery Trustees Minutes Oct 5\, 2026 Cemetery Truste
+ es Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_100
+ 52026-246\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1df0023ed7a5582cfe18@granite-docket
+DTSTAMP:20261103T121828Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Dublin Library Trustees Agenda Oct 5\, 2026 Library Trustees Agenda
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10052026-251
+DESCRIPTION:Agenda: Library Trustees Agenda Oct 5\, 2026 Library Trustees A
+ genda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10052026
+ -251\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f1bf9817aba2678ba6f@granite-docket
+DTSTAMP:20261103T121828Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Dublin Town meeting / warrant
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10052026-25
+ 1
+DESCRIPTION:Minutes: Library Trustees Minutes Oct 5\, 2026 Library Trustees
+  Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10052
+ 026-251\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:798b6b269d5b9a7d76cb@granite-docket
+DTSTAMP:20261103T121930Z
+DTSTART;TZID=America/New_York:20261005T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10052026-240
+DESCRIPTION:Agenda: Select Board Agenda Oct 5\, 2026 Select Board Agenda\nh
+ ttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10052026-240\n\n
+ Minutes: Select Board Minutes Oct 5\, 2026 Select Board Agenda\nhttps://ww
+ w.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10052026-240\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e95368f0f9ed4865bd7@granite-docket
+DTSTAMP:20261103T121724Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Dublin Cemetery Trustees Agenda Oct 5\, 2026 Cemetery Trustees Agen
+ da
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10052026-246
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Oct 5\, 2026 Cemetery Trustees
+  Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_100520
+ 26-246\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:00584046c4aa81d90a31@granite-docket
+DTSTAMP:20261103T121714Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Dublin Budget / CIP
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10132026-242
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 13\, 2026 Budget Committee 
+ Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_1013202
+ 6-242\n\nMinutes: Budget Committee Minutes Oct 13\, 2026 Budget Committee 
+ Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_101320
+ 26-242\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8669be075984f5a70b18@granite-docket
+DTSTAMP:20261103T121854Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Dublin Planning board
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10152026-243
+DESCRIPTION:Agenda: Planning Board Agenda Oct 15\, 2026 Planning Board Agen
+ da\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10152026-24
+ 3\n\nMinutes: Planning Board Minutes Oct 15\, 2026 Planning Board Agenda\n
+ https://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10152026-243\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:355794da5042980dc93b@granite-docket
+DTSTAMP:20261103T122008Z
+DTSTART;TZID=America/New_York:20261019T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10192026-244
+DESCRIPTION:Agenda: Select Board Agenda Oct 19\, 2026 Select Board Agenda\n
+ https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10192026-244\n\
+ nMinutes: Select Board Minutes Oct 19\, 2026 Select Board Agenda\nhttps://
+ www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10192026-244\n\nMinute
+ s: Waste Reduction and Recycling Committee Minutes Oct 19\, 2026 Waste and
+  Recycling Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Minu
+ tes/_10192026-254\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef9f3b34953f16fe5d3d@granite-docket
+DTSTAMP:20261103T122008Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Dublin Waste Reduction and Recycling Committee Agenda Oct 19\, 2026
+  Waste and 
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10192026-254
+DESCRIPTION:Agenda: Waste Reduction and Recycling Committee Agenda Oct 19\,
+  2026 Waste and Recycling Agenda\nhttps://www.townofdublin.org/AgendaCente
+ r/ViewFile/Agenda/_10192026-254\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:81afe99c166531803c43@granite-docket
+DTSTAMP:20261103T121929Z
+DTSTART;TZID=America/New_York:20261026T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10262026-249
+DESCRIPTION:Agenda: Select Board Agenda Oct 26\, 2026 Select Board Meeting\
+ nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10262026-249\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:88b74116f88d1a09ffb0@granite-docket
+DTSTAMP:20261103T124057Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Dublin July 28\, 2026 September 1\, 2026 October 27\, 2026
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/DocumentCenter/View/1796/Supervisors-of-th
+ e-Checklist-Public-Session-Oct-272026
+DESCRIPTION:Minutes: July 28\, 2026 September 1\, 2026 October 27\, 2026\nh
+ ttps://www.townofdublin.org/DocumentCenter/View/1796/Supervisors-of-the-Ch
+ ecklist-Public-Session-Oct-272026\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c206b0b54c912d0798f@granite-docket
+DTSTAMP:20261103T121952Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Dublin Supervisors of the Checklist Minutes Oct 27\, 2026 Superviso
+ r of the Ch
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10272026-25
+ 3
+DESCRIPTION:Minutes: Supervisors of the Checklist Minutes Oct 27\, 2026 Sup
+ ervisor of the Check List Agenda\nhttps://www.townofdublin.org/AgendaCente
+ r/ViewFile/Minutes/_10272026-253\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:92b8cfb523578af9e812@granite-docket
+DTSTAMP:20261103T121827Z
+DTSTART;TZID=America/New_York:20261027T170000
+DURATION:PT2H
+SUMMARY:Dublin Town meeting / warrant
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10272026-252
+DESCRIPTION:Agenda: Library Trustees Agenda Oct 27\, 2026 Library Trustee A
+ genda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10272026
+ -252\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9860fa6f7a40199c5a4@granite-docket
+DTSTAMP:20261103T121952Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Dublin Supervisors of the Checklist Agenda Oct 27\, 2026 Supervisor
+  of the Che
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10272026-253
+DESCRIPTION:Agenda: Supervisors of the Checklist Agenda Oct 27\, 2026 Super
+ visor of the Check List Agenda\nhttps://www.townofdublin.org/AgendaCenter/
+ ViewFile/Agenda/_10272026-253\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eced12c2c7dfd223c97e@granite-docket
+DTSTAMP:20261103T121713Z
+DTSTART;TZID=America/New_York:20261027T183000
+DURATION:PT2H
+SUMMARY:Dublin Budget / CIP
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10272026-245
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 27\, 2026 Budget Committee 
+ Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_1027202
+ 6-245\n\nMinutes: Budget Committee Minutes Oct 27\, 2026 Budget Committee 
+ Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_102720
+ 26-245\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:563f383d590e8369a524@granite-docket
+DTSTAMP:20261103T121929Z
+DTSTART;TZID=America/New_York:20261102T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11022026-255
+DESCRIPTION:Agenda: Select Board Agenda Nov 2\, 2026 Select Board Meeting\n
+ https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11022026-255\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:93eab9c77514a5788cbc@granite-docket
+DTSTAMP:20261103T121759Z
+DTSTART;TZID=America/New_York:20261104T130000
+DURATION:PT2H
+SUMMARY:Dublin Energy committee
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11042026-256
+DESCRIPTION:Agenda: Energy Committee Agenda Nov 4\, 2026 Energy Committee A
+ genda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11042026
+ -256\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aecd91b642c5e1ce0f5b@granite-docket
+DTSTAMP:20261109T105659Z
+DTSTART;TZID=America/New_York:20261109T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11092026-258
+DESCRIPTION:Agenda: Select Board Agenda Nov 9\, 2026 Select Board Agenda\nh
+ ttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11092026-258\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a08890d5ae0361b09f9d@granite-docket
+DTSTAMP:20261116T110838Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Dublin Budget / CIP
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11102026-259
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 10\, 2026 Budget Committee 
+ Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_1110202
+ 6-259\n\nMinutes: Budget Committee Minutes Nov 10\, 2026 Budget Committee 
+ Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_111020
+ 26-259\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:411101c8ee0cd564b787@granite-docket
+DTSTAMP:20261103T122020Z
+DTSTART;TZID=America/New_York:20261111T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Dublin Zoning / ZBA
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11112026-250
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 11\, 2026 ZBA Hea
+ ring\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11112026-
+ 250\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:56a760eae3b7b994cfa0@granite-docket
+DTSTAMP:20261109T105529Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Dublin Budget / CIP
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11172026-260
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 17\, 2026 Budget Committee 
+ Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_1117202
+ 6-260\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f58d2d3c8e4d977abca@granite-docket
+DTSTAMP:20261116T110848Z
+DTSTART;TZID=America/New_York:20261118T180000
+DURATION:PT2H
+SUMMARY:Dublin Budget / CIP
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11182026-262
+DESCRIPTION:Agenda: Capital Improvement Committee Agenda Nov 18\, 2026 CIP 
+ Meeting Notice\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/
+ _11182026-262\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+END:VCALENDAR

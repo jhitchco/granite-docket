@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newport Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Newport\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:81015c93d81f2143ddad@granite-docket
+DTSTAMP:20261103T103042Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Newport Conservation commission
+LOCATION:Newport\, NH
+URL:https://newportnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-46
+DESCRIPTION:Agenda: Conservation Commission Public Notice\nhttps://newportn
+ h.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-46\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:86fc38575526fb2d39e1@granite-docket
+DTSTAMP:20261103T103039Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Newport Conservation commission
+LOCATION:Newport\, NH
+URL:https://newportnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11112026-50
+DESCRIPTION:Agenda: CANCELED — Conservation Commission Meeting — Novemb
+ er 11\, 2026\nhttps://newportnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_
+ 11112026-50\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:95c77bf036cdd5dd8362@granite-docket
+DTSTAMP:20261116T084632Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Newport Conservation commission
+LOCATION:Newport\, NH
+URL:https://newportnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11172026-53
+DESCRIPTION:Agenda: Conservation Committee Meeting\nhttps://newportnh.gov/A
+ gendaCenter/ViewFile/ArchivedAgenda/_11172026-53\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

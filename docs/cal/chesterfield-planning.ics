@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chesterfield Planning board
+X-WR-CALDESC:Planning board meetings in Chesterfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2f1704815d9078903fd5@granite-docket
+DTSTAMP:20261103T140808Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Chesterfield Planning board
+LOCATION:Chesterfield\, NH
+URL:https://chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-654
+DESCRIPTION:Agenda: Planning Board Meeting Agenda (PDF)\nhttps://chesterfie
+ ld.nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-654\n\nAgenda: Planning B
+ oard Meeting Agenda Oct 5\, 2026 Planning Board Meeting NP (PDF)\nhttps://
+ www.chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-669\n\nAgen
+ da: Planning Board Meeting NP\nhttps://chesterfield.nh.gov/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_10052026-578\n\nAgenda: Packet\nhttps://chesterfiel
+ d.nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-578?packet=true\n\
+ nMinutes: Oct 5\, 2026 Planning Board Meeting NP (PDF)\nhttps://chesterfie
+ ld.nh.gov/AgendaCenter/ViewFile/Minutes/_10052026-669\n\nMinutes: Oct 5\, 
+ 2026 Planning Board Meeting Agenda (PDF)\nhttps://chesterfield.nh.gov/Agen
+ daCenter/ViewFile/Minutes/_10052026-654\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfa513a6e0fa0d4b0da@granite-docket
+DTSTAMP:20261109T101941Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Chesterfield Planning board
+LOCATION:Chesterfield\, NH
+URL:https://chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-668
+DESCRIPTION:Agenda: Planning Board Meeting Agenda (PDF)\nhttps://chesterfie
+ ld.nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-668\n\nMinutes: Oct 19\, 
+ 2026 Planning Board Meeting Agenda (PDF)\nhttps://chesterfield.nh.gov/Agen
+ daCenter/ViewFile/Minutes/_10192026-668\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4decee7e7e2c37190113@granite-docket
+DTSTAMP:20261103T113711Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Chesterfield Planning board
+LOCATION:Chesterfield\, NH
+URL:https://chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-671
+DESCRIPTION:Agenda: Planning Board Meeting Agenda (PDF)\nhttps://chesterfie
+ ld.nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-671\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:05be3ef24b5902512fa9@granite-docket
+DTSTAMP:20261109T101932Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Chesterfield Planning board
+LOCATION:Chesterfield\, NH
+URL:https://chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-674
+DESCRIPTION:Agenda: Planning Board Meeting Agenda (PDF)\nhttps://chesterfie
+ ld.nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-674\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

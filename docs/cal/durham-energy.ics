@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Durham Energy committee
+X-WR-CALDESC:Energy committee meetings in Durham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:96dab1115751802898dd@granite-docket
+DTSTAMP:20261109T070437Z
+DTSTART;TZID=America/New_York:20261006T190000
+DURATION:PT2H
+SUMMARY:Durham Energy committee
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-435
+DESCRIPTION:Agenda: Energy Committee Meeting\nhttps://www.durhamnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10062026-435\n\nMinutes: Oct 6\, 2026 Energy Com
+ mittee Meeting\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Minutes/_10
+ 062026-435\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb6265ef051d1f64d11@granite-docket
+DTSTAMP:20261103T092735Z
+DTSTART;TZID=America/New_York:20261103T190000
+DURATION:PT2H
+SUMMARY:Durham Energy committee
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-424
+DESCRIPTION:Agenda: Energy Committee Agenda\nhttps://www.durhamnh.gov/Agend
+ aCenter/ViewFile/Agenda/_11032026-424\n\nAgenda: Energy Committee Agenda\n
+ https://www.durhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11032026-22
+ 7\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+END:VCALENDAR

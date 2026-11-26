@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sanbornton Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Sanbornton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7b3c4967804da4e7dbe5@granite-docket
+DTSTAMP:20261103T113517Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Sanbornton Budget / CIP
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_09282026-452
+DESCRIPTION:Agenda: Capital Improvements Committee Agenda Sep 28\, 2026 CIP
+  Committee Meeting Agenda (PDF)\nhttps://www.sanborntonnh.org/AgendaCenter
+ /ViewFile/Agenda/_09282026-452\n\nMinutes: Capital Improvements Committee 
+ Minutes Sep 28\, 2026 CIP Committee Meeting Agenda (PDF)\nhttps://www.sanb
+ orntonnh.org/AgendaCenter/ViewFile/Minutes/_09282026-452\n\nMinutes: Sep 2
+ 8\, 2026 CIP Committee Meeting Agenda (PDF)\nhttps://www.sanborntonnh.org/
+ AgendaCenter/ViewFile/ArchivedMinutes/_09282026-694\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a6a824136588d95544@granite-docket
+DTSTAMP:20261103T112413Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Sanbornton Budget / CIP
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_10192026-459
+DESCRIPTION:Agenda: Capital Improvements Committee Agenda Oct 19\, 2026 CIP
+  Meeting Agenda (PDF)\nhttps://www.sanborntonnh.org/AgendaCenter/ViewFile/
+ Agenda/_10192026-459\n\nMinutes: Capital Improvements Committee Minutes Oc
+ t 19\, 2026 CIP Meeting Agenda (PDF)\nhttps://www.sanborntonnh.org/AgendaC
+ enter/ViewFile/Minutes/_10192026-459\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Littleton Select board / council
+X-WR-CALDESC:Select board / council meetings in Littleton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:41e1d9b0db79f512c01a@granite-docket
+DTSTAMP:20261103T103622Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Littleton Select board / council
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/AgendaCenter/ViewFile/Agenda/_09282026-
+ 201
+DESCRIPTION:Minutes: Select Board Meeting - Minutes & Agenda Agenda Sep 28\
+ , 2026 Select Board Meeting\nhttps://www.townoflittleton.org/AgendaCenter/
+ ViewFile/Agenda/_09282026-201\n\nMinutes: Select Board Meeting - Minutes &
+  Agenda Minutes Sep 28\, 2026 Select Board Meeting\nhttps://www.townoflitt
+ leton.org/AgendaCenter/ViewFile/Minutes/_09282026-201\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:22f08a038dfd0adcbcfa@granite-docket
+DTSTAMP:20261103T103621Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Littleton Select board / council
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/AgendaCenter/ViewFile/Agenda/_10052026-
+ 205
+DESCRIPTION:Minutes: Select Board Meeting - Minutes & Agenda Agenda Oct 5\,
+  2026 Select Board Meeting\nhttps://www.townoflittleton.org/AgendaCenter/V
+ iewFile/Agenda/_10052026-205\n\nMinutes: Select Board Meeting - Minutes & 
+ Agenda Minutes Oct 5\, 2026 Select Board Meeting\nhttps://www.townoflittle
+ ton.org/AgendaCenter/ViewFile/Minutes/_10052026-205\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8ce8be79531f629610cd@granite-docket
+DTSTAMP:20261103T104448Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Littleton Select board / council
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/AgendaCenter/ViewFile/Agenda/_10082026-
+ 206
+DESCRIPTION:Minutes: Select Board Meeting - Minutes & Agenda Agenda Oct 8\,
+  2026 Select Board Meeting\nhttps://www.townoflittleton.org/AgendaCenter/V
+ iewFile/Agenda/_10082026-206\n\nMinutes: Select Board Meeting - Minutes & 
+ Agenda Minutes Oct 8\, 2026 Select Board Meeting\nhttps://www.townoflittle
+ ton.org/AgendaCenter/ViewFile/Minutes/_10082026-206\n\nMinutes: Oct 8\, 20
+ 26 Select Board Meeting\nhttps://www.townoflittleton.org/AgendaCenter/View
+ File/ArchivedMinutes/_10082026-84\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bbb9a184d69f80edf6@granite-docket
+DTSTAMP:20261103T104446Z
+DTSTART;TZID=America/New_York:20261021T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Littleton Select board / council
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0212026-88
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://www.townoflittleton.org/A
+ gendaCenter/ViewFile/ArchivedAgenda/_10212026-88\n\nAgenda: Select Board M
+ eeting\nhttps://www.townoflittleton.org/AgendaCenter/ViewFile/ArchivedAgen
+ da/_10212026-87\n\nAgenda: Select Board Meeting\nhttps://www.townoflittlet
+ on.org/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-86\n\nMinutes: Selec
+ t Board Meeting - Minutes & Agenda Agenda Oct 21\, 2026 Select Board Meeti
+ ng\nhttps://www.townoflittleton.org/AgendaCenter/ViewFile/Agenda/_10212026
+ -204\n\nMinutes: Select Board Meeting - Minutes & Agenda Minutes Oct 21\, 
+ 2026 Select Board Meeting\nhttps://www.townoflittleton.org/AgendaCenter/Vi
+ ewFile/Minutes/_10212026-204\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5779737673ee08746a2d@granite-docket
+DTSTAMP:20261103T103619Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Littleton Select board / council
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/AgendaCenter/ViewFile/Agenda/_10262026-
+ 213
+DESCRIPTION:Minutes: Select Board Meeting - Minutes & Agenda Agenda Oct 26\
+ , 2026 Select Board Meeting\nhttps://www.townoflittleton.org/AgendaCenter/
+ ViewFile/Agenda/_10262026-213\n\nMinutes: Select Board Meeting - Minutes &
+  Agenda Minutes Oct 26\, 2026 Select Board Meeting\nhttps://www.townoflitt
+ leton.org/AgendaCenter/ViewFile/Minutes/_10262026-213\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b14806c3758d98e570bc@granite-docket
+DTSTAMP:20261109T084238Z
+DTSTART;TZID=America/New_York:20261109T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Littleton Select board / council
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/DocumentCenter/View/1288
+DESCRIPTION:Agenda: Select Board Agenda for 11/9/26\nhttps://www.townoflitt
+ leton.org/DocumentCenter/View/1288\n\nMinutes: Select Board Meeting - Minu
+ tes & Agenda Agenda Nov 9\, 2026 Select Board Meeting\nhttps://www.townofl
+ ittleton.org/AgendaCenter/ViewFile/Agenda/_11092026-216\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

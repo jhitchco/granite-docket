@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alexandria Select board / council
+X-WR-CALDESC:Select board / council meetings in Alexandria\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:182726a832279250c424@granite-docket
+DTSTAMP:20261103T120247Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Alexandria Select board / council
+LOCATION:Alexandria\, NH
+URL:http://alexandrianh.com/wp-content/uploads/2026/09/09292026-BOS-1.pdf
+DESCRIPTION:Minutes: September 29\, 2026\nhttp://alexandrianh.com/wp-conten
+ t/uploads/2026/09/09292026-BOS-1.pdf\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:037a8a3f14c21490889e@granite-docket
+DTSTAMP:20261103T120247Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Alexandria Select board / council
+LOCATION:Alexandria\, NH
+URL:http://alexandrianh.com/wp-content/uploads/2026/10/10062026-BOS.pdf
+DESCRIPTION:Minutes: October 6\, 2026\nhttp://alexandrianh.com/wp-content/u
+ ploads/2026/10/10062026-BOS.pdf\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f45525a0844873079411@granite-docket
+DTSTAMP:20261103T120247Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Alexandria Select board / council
+LOCATION:Alexandria\, NH
+URL:http://alexandrianh.com/wp-content/uploads/2026/10/10202026-BOS.pdf
+DESCRIPTION:Minutes: October 20\, 2026\nhttp://alexandrianh.com/wp-content/
+ uploads/2026/10/10202026-BOS.pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:03f28d1411dc4b4ee0bb@granite-docket
+DTSTAMP:20261123T095002Z
+DTSTART;TZID=America/New_York:20261110T170000
+DURATION:PT2H
+SUMMARY:Alexandria Select board / council
+LOCATION:Alexandria\, NH
+URL:http://alexandrianh.com/wp-content/uploads/2026/11/11102026-AGENDA.pdf
+DESCRIPTION:Agenda: November 10\, 2026\nhttp://alexandrianh.com/wp-content/
+ uploads/2026/11/11102026-AGENDA.pdf\n\nMinutes: November 10\, 2026\nhttp:/
+ /alexandrianh.com/wp-content/uploads/2026/11/11102026-BOS.pdf\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a748b15b4ab68c833f9@granite-docket
+DTSTAMP:20261123T095002Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Alexandria Select board / council
+LOCATION:Alexandria\, NH
+URL:http://alexandrianh.com/wp-content/uploads/2026/11/11172026-bos.pdf
+DESCRIPTION:Minutes: November 17\, 2026\nhttp://alexandrianh.com/wp-content
+ /uploads/2026/11/11172026-bos.pdf\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bedford Planning board
+X-WR-CALDESC:Planning board meetings in Bedford\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:407fd57acecfd5cf6f60@granite-docket
+DTSTAMP:20261103T092928Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Bedford Planning board
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-3011
+DESCRIPTION:Agenda: October 5\, 2026 Planning Board Agenda\nhttps://bedford
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-3011\n\nAgenda: October 5\, 
+ 2026 Planning Board Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_10052026-3206\n\nMinutes: Oct 5\, 2026 — Amended Oct 2\, 2
+ 026 1:57 PM October 5\, 2026 Planning Board Agenda\nhttps://bedfordnh.gov/
+ AgendaCenter/ViewFile/Minutes/_10052026-3011\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d015a936cfc73dfd1fb@granite-docket
+DTSTAMP:20261103T093548Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Planning board
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/DocumentCenter/View/9620/2027-Planning-Board-Meet
+ ing-Dates-and-Deadlines-FINAL
+DESCRIPTION:Other: Please click HERE to display 2027 Planning Board Meeting
+  Dates & Deadlines\nhttps://bedfordnh.gov/DocumentCenter/View/9620/2027-Pl
+ anning-Board-Meeting-Dates-and-Deadlines-FINAL\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b64cb93f5200c97fbe12@granite-docket
+DTSTAMP:20261109T070514Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Bedford Planning board
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-3020
+DESCRIPTION:Agenda: November 2\, 2026 Planning Board Agenda\nhttps://bedfor
+ dnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-3020\n\nAgenda: November 2\
+ , 2026 Planning Board Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_11022026-3224\n\nMinutes: Nov 2\, 2026 — Amended Oct 30\
+ , 2026 11:13 AM November 2\, 2026 Planning Board Agenda\nhttps://bedfordnh
+ .gov/AgendaCenter/ViewFile/Minutes/_11022026-3020\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a7247b663d185cacd62@granite-docket
+DTSTAMP:20261123T071852Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Bedford Planning board
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3030
+DESCRIPTION:Agenda: November 16\, 2026 Planning Board Agenda\nhttps://bedfo
+ rdnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3030\n\nAgenda: November 1
+ 6\, 2026 Planning Board Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFil
+ e/ArchivedAgenda/_11162026-3239\n\nAgenda: November 16\, 2026 Planning Boa
+ rd Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_111
+ 62026-3241\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+END:VCALENDAR

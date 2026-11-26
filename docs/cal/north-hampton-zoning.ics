@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:North Hampton Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in North Hampton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:34c8b7c78944578de65b@granite-docket
+DTSTAMP:20261103T110115Z
+DTSTART;TZID=America/New_York:20261029T153000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0292026-407
+DESCRIPTION:Agenda: LBH Planning Board Zoning Ordinance Working Group — W
+ ork Session\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Archive
+ dAgenda/_10292026-407\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e966ebe32d45dceecef@granite-docket
+DTSTAMP:20261109T091919Z
+DTSTART;TZID=America/New_York:20261030T103000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10302026-
+ 557
+DESCRIPTION:Agenda: LBH Planning Board Zoning Ordinance Working Group — W
+ ork Session\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/
+ _10302026-557\n\nMinutes: Oct 30\, 2026 LBH Planning Board Zoning Ordinanc
+ e Working Group — Work Session\nhttps://www.northhampton-nh.gov/AgendaCe
+ nter/ViewFile/Minutes/_10302026-557\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa7257433396bcc8d141@granite-docket
+DTSTAMP:20261103T110110Z
+DTSTART;TZID=America/New_York:20261104T143000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11042026-
+ 563
+DESCRIPTION:Agenda: LBH Planning Board Zoning Ordinance Working Group — W
+ ork Session\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/
+ _11042026-563\n\nAgenda: LBH Planning Board Zoning Ordinance Working Group
+  — Work Session\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_11042026-410\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:65f27c11a620dfec161d@granite-docket
+DTSTAMP:20261109T091909Z
+DTSTART;TZID=America/New_York:20261109T140000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-
+ 574
+DESCRIPTION:Agenda: LBH Planning Board Zoning Ordinance Working Group — W
+ ork Session Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/
+ Agenda/_11092026-574\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc83d2bce1aa9c41775@granite-docket
+DTSTAMP:20261123T084655Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1122026-424
+DESCRIPTION:Agenda: LBH Zoning Board of Adjustment Meeting Agenda\nhttps://
+ www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-424
+ \n\nAgenda: LBH Zoning Board of Adjustment Meeting Agenda\nhttps://www.nor
+ thhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-423\n\nAge
+ nda: LBH Zoning Board of Adjustment Meeting Agenda\nhttps://www.northhampt
+ on-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-427\n\nAgenda: LB
+ H Zoning Board of Adjustment Meeting Agenda\nhttps://www.northhampton-nh.g
+ ov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-426\n\nAgenda: Packet\nh
+ ttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11122
+ 026-424?packet=true\n\nAgenda: Packet\nhttps://www.northhampton-nh.gov/Age
+ ndaCenter/ViewFile/ArchivedAgenda/_11122026-423?packet=true\n\nAgenda: Pac
+ ket\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/
+ _11122026-427?packet=true\n\nAgenda: Packet\nhttps://www.northhampton-nh.g
+ ov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-426?packet=true\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:aab68b4a75d7a8670495@granite-docket
+DTSTAMP:20261109T091359Z
+DTSTART;TZID=America/New_York:20261124T183000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/DocumentCenter/View/5480/20261124-Zonin
+ g-Board-Public-Hearing-Notice
+DESCRIPTION:Notice: 2026/11/24 Zoning Board Public Hearing Notice\nhttps://
+ www.northhampton-nh.gov/DocumentCenter/View/5480/20261124-Zoning-Board-Pub
+ lic-Hearing-Notice\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

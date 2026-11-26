@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Madison Select board / council
+X-WR-CALDESC:Select board / council meetings in Madison\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f9fb632a706e269ab8ef@granite-docket
+DTSTAMP:20261103T113327Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Madison Select board / council
+LOCATION:Madison\, NH
+URL:https://www.madison-nh.org/wp-content/uploads/2026/09/2026-09-29-Agenda
+ .pdf
+DESCRIPTION:Agenda: September 29\, 2026\nhttps://www.madison-nh.org/wp-cont
+ ent/uploads/2026/09/2026-09-29-Agenda.pdf\n\nMinutes: September 29\, 2026 
+ September 17\, 2026 September 1\, 2026 – made public September 1\, 2026 
+ August 18\, 2\nhttps://www.madison-nh.org/wp-content/uploads/2026/10/BOS-9
+ -29-26.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0eebf66c8e3ada1f9a13@granite-docket
+DTSTAMP:20261103T113259Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Madison Select board / council
+LOCATION:Madison\, NH
+URL:https://www.madison-nh.org/wp-content/uploads/2026/10/2026-10-13-Agenda
+ .pdf
+DESCRIPTION:Agenda: October 13\, 2026\nhttps://www.madison-nh.org/wp-conten
+ t/uploads/2026/10/2026-10-13-Agenda.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2a58b63c1c041290404f@granite-docket
+DTSTAMP:20261103T113259Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Madison Select board / council
+LOCATION:Madison\, NH
+URL:https://www.madison-nh.org/wp-content/uploads/2026/10/2026-10-27-Agenda
+ .pdf
+DESCRIPTION:Agenda: October 27\, 2026\nhttps://www.madison-nh.org/wp-conten
+ t/uploads/2026/10/2026-10-27-Agenda.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:73e30298aed42a1c1fe1@granite-docket
+DTSTAMP:20261123T090716Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Madison Select board / council
+LOCATION:Madison\, NH
+URL:https://www.madison-nh.org/wp-content/uploads/2026/11/2026-11-10-Agenda
+ .pdf
+DESCRIPTION:Agenda: November 10\, 2026\nhttps://www.madison-nh.org/wp-conte
+ nt/uploads/2026/11/2026-11-10-Agenda.pdf\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:731dba57a6c00fa16f41@granite-docket
+DTSTAMP:20261103T113346Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+TRANSP:TRANSPARENT
+SUMMARY:Madison Select board / council
+LOCATION:Madison\, NH
+URL:https://www.madison-nh.org/wp-content/uploads/2026/01/2026-12-23-JS-WCo
+ mp.pdf
+DESCRIPTION:Minutes: 2025 December 23\, 2025 – made public December 23\, 
+ 2025 – made public December 23\, 2025 December 9\, 2\nhttps://www.madiso
+ n-nh.org/wp-content/uploads/2026/01/2026-12-23-JS-WComp.pdf\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

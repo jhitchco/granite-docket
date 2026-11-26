@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bow Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Bow\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dd9af4ff81f156a33b3a@granite-docket
+DTSTAMP:20261103T121912Z
+DTSTART;TZID=America/New_York:20260928T173000
+DURATION:PT2H
+SUMMARY:Bow Budget / CIP
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_09282026-2781
+DESCRIPTION:Agenda: Capital Improvements Plan (CIP) Committee Agenda Sep 28
+ \, 2026 CIP Committee Meeting\nhttps://www.bownh.gov/AgendaCenter/ViewFile
+ /Agenda/_09282026-2781\n\nMinutes: Capital Improvements Plan (CIP) Committ
+ ee Minutes Sep 28\, 2026 CIP Committee Meeting\nhttps://www.bownh.gov/Agen
+ daCenter/ViewFile/Minutes/_09282026-2781\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf5f9994703e68b97b3b@granite-docket
+DTSTAMP:20261103T121911Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Bow Budget / CIP
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_10142026-2784
+DESCRIPTION:Agenda: Capital Improvements Plan (CIP) Committee Agenda Oct 14
+ \, 2026 CIP Committee Meeting\nhttps://www.bownh.gov/AgendaCenter/ViewFile
+ /Agenda/_10142026-2784\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aa8a771e901231e364f9@granite-docket
+DTSTAMP:20261103T121840Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Bow Budget / CIP
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_10202026-2792
+DESCRIPTION:Agenda: Buildings & Facilities Advisory Committe Agenda Oct 20\
+ , 2026 Buildings and Facilities Meeting\nhttps://www.bownh.gov/AgendaCente
+ r/ViewFile/Agenda/_10202026-2792\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

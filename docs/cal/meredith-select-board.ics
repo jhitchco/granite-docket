@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meredith Select board / council
+X-WR-CALDESC:Select board / council meetings in Meredith\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9c978842829429cce4df@granite-docket
+DTSTAMP:20261103T101857Z
+DTSTART;TZID=America/New_York:20260928T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1415
+DESCRIPTION:Agenda: Select Board Agenda Sep 28\, 2026 Select Board Agenda a
+ nd Packet\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_092820
+ 26-1415\n\nAgenda: Prescott Park Committee Agenda Sep 28\, 2026 Prescott P
+ ark Committee Meeting\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Ag
+ enda/_09282026-1416\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5313e27d9b204f7f5331@granite-docket
+DTSTAMP:20261103T100827Z
+DTSTART;TZID=America/New_York:20261001T103000
+DURATION:PT2H
+SUMMARY:Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-1418
+DESCRIPTION:Agenda: Select Board Agenda Oct 1\, 2026 Meredith Select Board 
+ Non-Public Meeting\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10012026-1418\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c514d8b534066bcec44@granite-docket
+DTSTAMP:20261103T100827Z
+DTSTART;TZID=America/New_York:20261019T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1428
+DESCRIPTION:Agenda: Select Board Agenda Oct 19\, 2026 Selectboard Meeting &
+  Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10192026
+ -1428\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5c2971290d2e92f3d7da@granite-docket
+DTSTAMP:20261103T100810Z
+DTSTART;TZID=America/New_York:20261026T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-1431
+DESCRIPTION:Agenda: Select Board Agenda Oct 26\, 2026 Selectboard Agenda & 
+ Packet\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-
+ 1431\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e3ce5d883ef72ff50f74@granite-docket
+DTSTAMP:20261109T083856Z
+DTSTART;TZID=America/New_York:20261109T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-1437
+DESCRIPTION:Agenda: Select Board Agenda Nov 9\, 2026 — Amended Nov 5\, 20
+ 26 2:07 PM Select Board Agenda - 11/9/2026\nhttps://www.meredithnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_11092026-1437\n\nAgenda: Select Board Agenda - 
+ 11/9/2026\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11092026-574\n\nAgenda: Select Board Agenda - 11/9/2026\nhttps://www.mer
+ edithnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-573\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a62b554c1f560443c1ad@granite-docket
+DTSTAMP:20261103T102206Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1425?
+ packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.meredithnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_11122026-1425?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d990f60dfda2d7a0c873@granite-docket
+DTSTAMP:20261103T102206Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
+SUMMARY:Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_12102026-1434?
+ packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.meredithnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_12102026-1434?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

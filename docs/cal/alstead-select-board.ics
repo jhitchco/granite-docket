@@ -1,0 +1,167 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alstead Select board / council
+X-WR-CALDESC:Select board / council meetings in Alstead\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:400db8fdc000141022dc@granite-docket
+DTSTAMP:20261103T120120Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5b6ebe_1b9621d8342248979159933c66e
+ 1e57f.pdf
+DESCRIPTION:Minutes: Tue Sep 29​\nhttps://www.alsteadnh.org/_files/ugd/5b
+ 6ebe_1b9621d8342248979159933c66e1e57f.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6abd30a85f9ab96cf639@granite-docket
+DTSTAMP:20261103T120121Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5b6ebe_20cef5ebd7d24e8686652011ace
+ 18c67.pdf
+DESCRIPTION:Minutes: ​ Tue Oct 6\nhttps://www.alsteadnh.org/_files/ugd/5b
+ 6ebe_20cef5ebd7d24e8686652011ace18c67.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:02f660c62867bfa870da@granite-docket
+DTSTAMP:20261103T120121Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5b6ebe_6030e65d123342b5a0860a46768
+ 29ac6.pdf
+DESCRIPTION:Minutes: Tue Oct 14\nhttps://www.alsteadnh.org/_files/ugd/5b6eb
+ e_6030e65d123342b5a0860a4676829ac6.pdf\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:12c1a5af81f666fa6be6@granite-docket
+DTSTAMP:20261103T115852Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5c506e_dd9b82cd853b44e49e90ce76113
+ 95473.pdf
+DESCRIPTION:Minutes: 8-6-2026 8-20-2026 9-3-2026 10-1-2026 10-15-2026 10-29
+ -2026\nhttps://www.alsteadnh.org/_files/ugd/5c506e_dd9b82cd853b44e49e90ce7
+ 611395473.pdf\n\nMinutes: 8-6-2026 8-20-2026 9-3-2026 10-1-2026 10-15-2026
+  10-29-2026\nhttps://www.alsteadnh.org/_files/ugd/5c506e_49ae8f0eb7c44c6f8
+ a59341c486fed71.pdf\n\nMinutes: 8-6-2026 8-20-2026 9-3-2026 10-1-2026 10-1
+ 5-2026 10-29-2026\nhttps://www.alsteadnh.org/_files/ugd/5c506e_e9281118253
+ 04e7c85fce5060728d465.pdf\n\nMinutes: 8-6-2026 8-20-2026 9-3-2026 10-1-202
+ 6 10-15-2026 10-29-2026\nhttps://www.alsteadnh.org/_files/ugd/5c506e_b45f9
+ a73e150468e9b70f7c194177aa9.pdf\n\nMinutes: 8-6-2026 8-20-2026 9-3-2026 10
+ -1-2026 10-15-2026 10-29-2026\nhttps://www.alsteadnh.org/_files/ugd/5c506e
+ _00120dffaf154ef0b593d0a32a9baace.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e98d92cd61febe3aced7@granite-docket
+DTSTAMP:20261103T120122Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5b6ebe_6a4a6860eb4f4f7d887b0f56ecd
+ 04310.pdf
+DESCRIPTION:Minutes: Tue Oct 20\nhttps://www.alsteadnh.org/_files/ugd/5b6eb
+ e_6a4a6860eb4f4f7d887b0f56ecd04310.pdf\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d58d92a8e3a9a13bd769@granite-docket
+DTSTAMP:20261116T105108Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5b6ebe_b993768eb0784ad2ae357cba58c
+ 72637.pdf
+DESCRIPTION:Minutes: Tue Oct 27\nhttps://www.alsteadnh.org/_files/ugd/5b6eb
+ e_b993768eb0784ad2ae357cba58c72637.pdf\n\nMinutes: Tue Oct 27\nhttps://www
+ .alsteadnh.org/_files/ugd/5b6ebe_bf584a1a2a9349ce91dffb561ce37c6f.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5aad019e4f3f6d696960@granite-docket
+DTSTAMP:20261123T094956Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5b6ebe_4888bb5824ee4275a98170df281
+ a2074.pdf
+DESCRIPTION:Minutes: Police Committee Presentation ​\nhttps://www.alstead
+ nh.org/_files/ugd/5b6ebe_4888bb5824ee4275a98170df281a2074.pdf\n\nMinutes: 
+ Tue Nov 10\nhttps://www.alsteadnh.org/_files/ugd/5b6ebe_263cb872a1c04d5daf
+ 605568e99954c2.pdf\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bed8dfad6dfa38c89d87@granite-docket
+DTSTAMP:20261116T105108Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5b6ebe_a2348ef304a14933bb80e0c50d2
+ b97ea.pdf
+DESCRIPTION:Minutes: Tue Nov 10\nhttps://www.alsteadnh.org/_files/ugd/5b6eb
+ e_a2348ef304a14933bb80e0c50d2b97ea.pdf\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:834e435394019417139e@granite-docket
+DTSTAMP:20261123T094956Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Alstead Select board / council
+LOCATION:Alstead\, NH
+URL:https://www.alsteadnh.org/_files/ugd/5b6ebe_728ed8698f9c436abe876684a88
+ ae6fa.pdf
+DESCRIPTION:Minutes: ​Tue Nov 17\nhttps://www.alsteadnh.org/_files/ugd/5b
+ 6ebe_728ed8698f9c436abe876684a88ae6fa.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

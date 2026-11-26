@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chesterfield Economic development
+X-WR-CALDESC:Economic development meetings in Chesterfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0f5c77024fc9001fc8d1@granite-docket
+DTSTAMP:20261103T111856Z
+DTSTART;TZID=America/New_York:20261008T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Chesterfield Economic development
+LOCATION:Chesterfield\, NH
+URL:https://www.chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_10082026-
+ 658
+DESCRIPTION:Agenda: Economic Development Committee Meeting Agendas Agenda O
+ ct 8\, 2026 Economic Development Committee Mee\nhttps://www.chesterfield.n
+ h.gov/AgendaCenter/ViewFile/Agenda/_10082026-658\n\nMinutes: Economic Deve
+ lopment Committee Meeting Agendas Minutes Oct 8\, 2026 Economic Developmen
+ t Committee Me\nhttps://www.chesterfield.nh.gov/AgendaCenter/ViewFile/Minu
+ tes/_10082026-658\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d596af4e59247201a82b@granite-docket
+DTSTAMP:20261103T111855Z
+DTSTART;TZID=America/New_York:20261012T170000
+DURATION:PT2H
+SUMMARY:Chesterfield Economic development
+LOCATION:Chesterfield\, NH
+URL:https://www.chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_10122026-
+ 660
+DESCRIPTION:Agenda: Economic Development Committee Meeting Agendas Agenda O
+ ct 12\, 2026 Chesterfield Revitalization Group\nhttps://www.chesterfield.n
+ h.gov/AgendaCenter/ViewFile/Agenda/_10122026-660\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e371e84420dfad2ed1f7@granite-docket
+DTSTAMP:20261103T111855Z
+DTSTART;TZID=America/New_York:20261109T170000
+DURATION:PT2H
+SUMMARY:Chesterfield Economic development
+LOCATION:Chesterfield\, NH
+URL:https://www.chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-
+ 673
+DESCRIPTION:Agenda: Economic Development Committee Meeting Agendas Agenda N
+ ov 9\, 2026 Chesterfield Revitalization Group \nhttps://www.chesterfield.n
+ h.gov/AgendaCenter/ViewFile/Agenda/_11092026-673\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5cc1a8ed5727d39eb08d@granite-docket
+DTSTAMP:20261109T095611Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:Chesterfield Economic development
+LOCATION:Chesterfield\, NH
+URL:https://www.chesterfield.nh.gov/AgendaCenter/ViewFile/Agenda/_11122026-
+ 666
+DESCRIPTION:Agenda: Economic Development Committee Meeting Agendas Agenda N
+ ov 12\, 2026 Economic Development Committee Me\nhttps://www.chesterfield.n
+ h.gov/AgendaCenter/ViewFile/Agenda/_11122026-666\n\nAgenda: Economic Devel
+ opment Committee Meeting Agendas Agenda Nov 12\, 2026 Economic Development
+  Committee (P\nhttps://www.chesterfield.nh.gov/AgendaCenter/ViewFile/Agend
+ a/_11122026-675\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+END:VCALENDAR

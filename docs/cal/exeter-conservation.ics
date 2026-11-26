@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Exeter\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:738c94e80b3cef49a0da@granite-docket
+DTSTAMP:20261116T072102Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Conservation commission
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10132026-540
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10132026-540\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_10132026-540?packet=true\n\nAgenda: Agenda\nhttps://www.
+ exeternh.gov/sites/default/files/fileattachments/conservation_commission/m
+ eeting/64225/10-13-26_cc-mtg.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.g
+ ov/sites/default/files/fileattachments/conservation_commission/meeting/644
+ 57/10-13-26_tree-mtg.pdf\n\nAgenda: 10/13/2026 - 7:00pm Conservation Commi
+ ssion Agenda Packet \, Packet Video View Details\nhttps://www.exeternh.gov
+ /sites/default/files/fileattachments/conservation_commission/meeting/packe
+ ts/64225/full_packet.pdf\n\nAgenda: 10/13/2026 - 7:00pm Conservation Commi
+ ssion Agenda Packet \, Packet Video View Details\nhttps://www.exeternh.gov
+ /sites/default/files/fileattachments/conservation_commission/meeting/packe
+ ts/64225/combined_files.pdf\n\nMinutes: Oct 13\, 2026 Conservation Commiss
+ ion Meeting 10-13-26\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Minut
+ es/_10132026-540\n\nMinutes: Oct 13\, 2026 Conservation Commission Meeting
+  10-13-26\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedMinutes/
+ _10132026-293\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e3184c32473361a2ff2a@granite-docket
+DTSTAMP:20261123T070605Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Exeter Conservation commission
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11102026-538
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11102026-538\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_11102026-538?packet=true\n\nAgenda: Packet\nhttps://www.
+ exeternh.gov/AgendaCenter/ViewFile/Agenda/_11102026-539?packet=true\n\nMin
+ utes: Nov 10\, 2026 Conservation Commission 11-10-26\nhttps://www.exeternh
+ .gov/AgendaCenter/ViewFile/Minutes/_11102026-538\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

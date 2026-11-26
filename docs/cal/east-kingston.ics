@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:East Kingston NH meetings
+X-WR-CALDESC:Public meetings of East Kingston\, NH boards\, from posted age
+ ndas and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0d72d7b9dff5a0b2fc35@granite-docket
+DTSTAMP:20261116T102543Z
+DTSTART;TZID=America/New_York:20261012T170000
+DURATION:PT2H
+SUMMARY:East Kingston Conservation commission
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10122026-95
+DESCRIPTION:Agenda: Conservation Commission Regular Meeting Agenda\nhttps:/
+ /www.eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10122026-95\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:57707e74e4ad817e93f9@granite-docket
+DTSTAMP:20261116T102053Z
+DTSTART;TZID=America/New_York:20261012T170000
+DURATION:PT2H
+SUMMARY:East Kingston Select board / council
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_10122026-132
+DESCRIPTION:Agenda: Conservation Commission Regular Meeting Agenda\nhttps:/
+ /www.eknh.org/AgendaCenter/ViewFile/Agenda/_10122026-132\n\nMinutes: Oct 1
+ 2\, 2026 — Amended Nov 10\, 2026 7:28 AM EKCC Regular Meeting Agenda\nht
+ tps://www.eknh.org/AgendaCenter/ViewFile/Minutes/_10122026-132\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:03baa36046ff0503e5be@granite-docket
+DTSTAMP:20261103T113853Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:East Kingston Packet
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-78?
+ packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.eknh.org/AgendaCenter/ViewFile/Arch
+ ivedAgenda/_10132026-78?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2b49e4ebbb00111af867@granite-docket
+DTSTAMP:20261103T113853Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:East Kingston Trustees of the Trust Fund Meeting Agenda
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-78
+DESCRIPTION:Agenda: Trustees of the Trust Fund Meeting Agenda\nhttps://www.
+ eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-78\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7223a978e40b8c771856@granite-docket
+DTSTAMP:20261103T113608Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:East Kingston Select board / council
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_10132026-123
+DESCRIPTION:Agenda: Trustees of the Trust Fund Meeting Agenda\nhttps://www.
+ eknh.org/AgendaCenter/ViewFile/Agenda/_10132026-123\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2c073aa642d45dc5c6@granite-docket
+DTSTAMP:20261103T113854Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:East Kingston Planning board
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-77
+DESCRIPTION:Agenda: Trustees of the Trust Fund Meeting Agenda\nhttps://www.
+ eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-77\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:462aa26d276b10bf36b3@granite-docket
+DTSTAMP:20261103T113620Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Public hearing: East Kingston Select board / council
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_10142026-131
+DESCRIPTION:Agenda: BOS Meeting Agenda - Department Head Meeting\nhttps://w
+ ww.eknh.org/AgendaCenter/ViewFile/Agenda/_10142026-131\n\nMinutes: Oct 14\
+ , 2026 BOS Meeting Agenda - Department Head Meeting\nhttps://www.eknh.org/
+ AgendaCenter/ViewFile/Minutes/_10142026-131\n\nMinutes: Oct 14\, 2026 BOS 
+ Meeting Agenda - Department Head Meeting\nhttps://www.eknh.org/AgendaCente
+ r/ViewFile/ArchivedMinutes/_10142026-92\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f7100e1dc21cc1701b9c@granite-docket
+DTSTAMP:20261103T113543Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Public hearing: East Kingston Planning board
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_10152026-122
+DESCRIPTION:Agenda: Planning Board Meeting Agenda\nhttps://www.eknh.org/Age
+ ndaCenter/ViewFile/Agenda/_10152026-122\n\nMinutes: Oct 15\, 2026 Planning
+  Board Meeting Agenda\nhttps://www.eknh.org/AgendaCenter/ViewFile/Minutes/
+ _10152026-122\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:41f1761ccc05be3cf822@granite-docket
+DTSTAMP:20261103T114017Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:East Kingston Planning board
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/DocumentCenter/View/2074/PB-Case-Master
+DESCRIPTION:Minutes: PB Case Master\nhttps://www.eknh.org/DocumentCenter/Vi
+ ew/2074/PB-Case-Master\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7246a787a122c622b12@granite-docket
+DTSTAMP:20261103T113523Z
+DTSTART;TZID=America/New_York:20261026T183000
+DURATION:PT2H
+SUMMARY:Public hearing: East Kingston Select board / council
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_10262026-139
+DESCRIPTION:Agenda: BOS Meeting Agenda\nhttps://www.eknh.org/AgendaCenter/V
+ iewFile/Agenda/_10262026-139\n\nMinutes: Oct 26\, 2026 BOS Meeting Agenda\
+ nhttps://www.eknh.org/AgendaCenter/ViewFile/Minutes/_10262026-139\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6a012ec8ef66b442b9@granite-docket
+DTSTAMP:20261103T113833Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:East Kingston Supervisors of the Checklist Regular Meeting
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10282026-86
+DESCRIPTION:Agenda: Supervisors of the Checklist Regular Meeting\nhttps://w
+ ww.eknh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10282026-86\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a4583e23c14cd1ada81@granite-docket
+DTSTAMP:20261103T113555Z
+DTSTART;TZID=America/New_York:20261028T170000
+DURATION:PT2H
+SUMMARY:East Kingston Select board / council
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_10282026-135
+DESCRIPTION:Agenda: Supervisors of the Checklist Regular Meeting\nhttps://w
+ ww.eknh.org/AgendaCenter/ViewFile/Agenda/_10282026-135\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c3556558da794554f7a@granite-docket
+DTSTAMP:20261109T101705Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:Public hearing: East Kingston Planning board
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_11042026-143
+DESCRIPTION:Agenda: Planning Board Meeting Agenda - Work Session\nhttps://w
+ ww.eknh.org/AgendaCenter/ViewFile/Agenda/_11042026-143\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:86698c15fa3db5436cf2@granite-docket
+DTSTAMP:20261116T102043Z
+DTSTART;TZID=America/New_York:20261109T183000
+DURATION:PT2H
+SUMMARY:Public hearing: East Kingston Select board / council
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_11092026-152
+DESCRIPTION:Agenda: BOS Meeting Agenda\nhttps://www.eknh.org/AgendaCenter/V
+ iewFile/Agenda/_11092026-152\n\nAgenda: EKCC Regular Meeting Agenda\nhttps
+ ://www.eknh.org/AgendaCenter/ViewFile/Agenda/_11092026-153\n\nMinutes: Nov
+  9\, 2026 BOS Meeting Agenda\nhttps://www.eknh.org/AgendaCenter/ViewFile/M
+ inutes/_11092026-152\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:92806d441d3aa5d972b5@granite-docket
+DTSTAMP:20261116T102133Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:Public hearing: East Kingston Planning board
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_11122026-143
+DESCRIPTION:Agenda: Planning Board Meeting Agenda - Work Session\nhttps://w
+ ww.eknh.org/AgendaCenter/ViewFile/Agenda/_11122026-143\n\nMinutes: Nov 12\
+ , 2026 Planning Board Meeting Agenda - Work Session\nhttps://www.eknh.org/
+ AgendaCenter/ViewFile/Minutes/_11122026-143\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e5be1445ad5cb44dfbef@granite-docket
+DTSTAMP:20261116T103013Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:East Kingston Zoning / ZBA
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/DocumentCenter/View/2165/Proposed-Zoning-Amendment
+ s-for-November-12th-Work-Session---DRAFT
+DESCRIPTION:Minutes: Proposed Zoning Amendments for November 12th Work Sess
+ ion - DRAFT\nhttps://www.eknh.org/DocumentCenter/View/2165/Proposed-Zoning
+ -Amendments-for-November-12th-Work-Session---DRAFT\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:571816bc298893e78558@granite-docket
+DTSTAMP:20261103T113608Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:East Kingston Select board / council
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_11172026-124
+DESCRIPTION:Agenda: PDF\nhttps://www.eknh.org/AgendaCenter/ViewFile/Agenda/
+ _11172026-124\n\nAgenda: Packet\nhttps://www.eknh.org/AgendaCenter/ViewFil
+ e/Agenda/_11172026-124?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4610086b2b448e46e3de@granite-docket
+DTSTAMP:20261109T101655Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Public hearing: East Kingston Planning board
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_11192026-144
+DESCRIPTION:Agenda: Planning Board Meeting Agenda\nhttps://www.eknh.org/Age
+ ndaCenter/ViewFile/Agenda/_11192026-144\n\nNotice: EK Groundwater Protecti
+ on Ordinance for November 19\, 2026 Public Hearing\nhttps://www.eknh.org/D
+ ocumentCenter/View/2152/EK-Groundwater-Protection-Ordinance-for-November-1
+ 9-2026-Public-Hearing\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0a71fc1ee8f0a6809cf1@granite-docket
+DTSTAMP:20261109T101715Z
+DTSTART;TZID=America/New_York:20270119T190000
+DURATION:PT2H
+SUMMARY:East Kingston Select board / council
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_01192027-140
+DESCRIPTION:Agenda: Supervisors of the Checklist Regular Meeting\nhttps://w
+ ww.eknh.org/AgendaCenter/ViewFile/Agenda/_01192027-140\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:99135c4abecebfca6431@granite-docket
+DTSTAMP:20261103T115826Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: East Kingston Zoning / ZBA
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/DocumentCenter/View/394/Application-Submission-Dat
+ es-for-2026
+DESCRIPTION:Minutes: Application Submission Dates for 2026\nhttps://www.ekn
+ h.org/DocumentCenter/View/394/Application-Submission-Dates-for-2026\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a446e1a61b8d49c75aa5@granite-docket
+DTSTAMP:20261103T120059Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: East Kingston Zoning / ZBA
+LOCATION:East Kingston\, NH
+URL:https://www.eknh.org/DocumentCenter/View/328/2004-Notices-of-Decision
+DESCRIPTION:Notice: 2004 Notices of Decision\nhttps://www.eknh.org/Document
+ Center/View/328/2004-Notices-of-Decision\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

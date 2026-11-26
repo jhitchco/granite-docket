@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pembroke Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Pembroke\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:39e5862bdd61972f7193@granite-docket
+DTSTAMP:20261103T100741Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Pembroke Conservation commission
+LOCATION:Pembroke\, NH
+URL:https://www.pembroke-nh.com/AgendaCenter/ViewFile/ArchivedAgenda/_10192
+ 026-185
+DESCRIPTION:Agenda: Conservation Commission Meeting Agenda\nhttps://www.pem
+ broke-nh.com/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-185\n\nAgenda:
+  Conservation Commission Meeting Agenda\nhttps://www.pembroke-nh.com/Agend
+ aCenter/ViewFile/ArchivedAgenda/_10192026-180\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

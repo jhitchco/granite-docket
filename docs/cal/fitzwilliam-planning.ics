@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fitzwilliam Planning board
+X-WR-CALDESC:Planning board meetings in Fitzwilliam\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:716963f494026ff316dd@granite-docket
+DTSTAMP:20261103T120048Z
+DTSTART;TZID=America/New_York:20261006T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Planning board
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/PB_Agenda_2026-10-06.pdf
+DESCRIPTION:Agenda: PB Agenda - 10/06/26\nhttps://fitzwilliam-nh.gov/vertic
+ al/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/PB_Agenda_2026
+ -10-06.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6644a7c50e5488059239@granite-docket
+DTSTAMP:20261103T120048Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Planning board
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/PB_Agenda_2026-10-20.pdf
+DESCRIPTION:Agenda: PB Agenda - 10/20/26\nhttps://fitzwilliam-nh.gov/vertic
+ al/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/PB_Agenda_2026
+ -10-20.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2cc92904a62869cfb4@granite-docket
+DTSTAMP:20261123T094540Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Planning board
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/PB_Agenda_2026-11-17.pdf
+DESCRIPTION:Agenda: PB Agenda - 11/17/26\nhttps://fitzwilliam-nh.gov/vertic
+ al/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/PB_Agenda_2026
+ -11-17.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

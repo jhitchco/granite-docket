@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newton Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Newton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8f2760ee47f3bab806f3@granite-docket
+DTSTAMP:20261109T085954Z
+DTSTART;TZID=America/New_York:20261007T183000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-245
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 7\, 2026 ZBA Publ
+ ic Meeting\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_100720
+ 26-245\n\nMinutes: Zoning Board of Adjustment Minutes Oct 7\, 2026 ZBA Pub
+ lic Meeting\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Minutes/_1007
+ 2026-245\n\nMinutes: Oct 7\, 2026 ZBA Public Meeting\nhttps://www.newton-n
+ h.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10072026-145\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:30b8510a21abc2a4ad38@granite-docket
+DTSTAMP:20261103T104736Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-249
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 14\, 2026 — Ame
+ nded Oct 13\, 2026 12:51 PM Meeting canceled per \nhttps://www.newton-nh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10142026-249\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd384723b59bf5eacf96@granite-docket
+DTSTAMP:20261103T105343Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/4028
+DESCRIPTION:Other: 12-4-9 +12-4-9-1- 11 Merrimac Rd\, Lot Line Adjustment w
+ ith the creation of NO new Lots\nhttps://www.newton-nh.gov/DocumentCenter/
+ View/4028\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9179dc5cccca6cf252c1@granite-docket
+DTSTAMP:20261103T105107Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11042026-252
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 4\, 2026 — Amen
+ ded Nov 2\, 2026 11:02 AM Public ZBA meeting Nove\nhttps://www.newton-nh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11042026-252\n\nAgenda: Public ZBA meetin
+ g November\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11042026-142\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1051ef623e2ac79db79d@granite-docket
+DTSTAMP:20261103T104956Z
+DTSTART;TZID=America/New_York:20261109T150000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-254
+DESCRIPTION:Agenda: Joint Loss Management Committee Agenda Nov 9\, 2026 —
+  Amended Nov 2\, 2026 10:27 AM meeting at fire st\nhttps://www.newton-nh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11092026-254\n\nAgenda: meeting at fire s
+ tation 3pm\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11092026-141\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8963b20c5f3f6078e7b@granite-docket
+DTSTAMP:20261103T104956Z
+DTSTART;TZID=America/New_York:20261110T150000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1110202
+ 6-140
+DESCRIPTION:Agenda: meeting at fire station 3pm\nhttps://www.newton-nh.gov/
+ AgendaCenter/ViewFile/ArchivedAgenda/_11102026-140\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b075be90ab1fc97a2bea@granite-docket
+DTSTAMP:20261103T110731Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/3830/2-04-27-McSweeney---
+ 8-9-21---NOD
+DESCRIPTION:Notice: 2-04-27 McSweeney - 8-9-21 - NOD\nhttps://www.newton-nh
+ .gov/DocumentCenter/View/3830/2-04-27-McSweeney---8-9-21---NOD\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

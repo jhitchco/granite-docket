@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canaan Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Canaan\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:192a02d356c887cbc592@granite-docket
+DTSTAMP:20261103T112221Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Town meeting / warrant
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026
+ -485
+DESCRIPTION:Agenda: Historic District Commission Special Meeting Agenda\nht
+ tps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-485\
+ n\nAgenda: Historic District Commission Special Meeting\nhttps://www.canaa
+ nnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-473\n\nAgenda: Hist
+ oric District Commission Special Meeting\nhttps://www.canaannh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_10072026-472\n\nMinutes: Oct 7\, 2026 Histo
+ ric District Commission Special Meeting Agenda\nhttps://www.canaannh.gov/A
+ gendaCenter/ViewFile/Minutes/_10072026-478\n\nMinutes: Oct 7\, 2026 Histor
+ ic District Commission Special Meeting Agenda\nhttps://www.canaannh.gov/Ag
+ endaCenter/ViewFile/ArchivedMinutes/_10072026-485\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd6c59c57abe8ba7f446@granite-docket
+DTSTAMP:20261103T113119Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Town meeting / warrant
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/DocumentCenter/View/1520
+DESCRIPTION:Warrant: 👉 View the 2026 Signed MS737 👉 View the 2026 Sig
+ ned MS-DTB 👉 View the 2026 Warrant Explantory Notes\nhttps://www.canaan
+ nh.gov/DocumentCenter/View/1520\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

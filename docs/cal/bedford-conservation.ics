@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bedford Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Bedford\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8ee035a6c462f671e135@granite-docket
+DTSTAMP:20261123T070432Z
+DTSTART;TZID=America/New_York:20261027T190000
+DURATION:PT2H
+SUMMARY:Bedford Conservation commission
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-3019
+DESCRIPTION:Agenda: October 27\, 2026 Conservation Commission - WORKSHOP\nh
+ ttps://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-3019\n\nMinute
+ s: Oct 27\, 2026 October 27\, 2026 Conservation Commission - WORKSHOP\nhtt
+ ps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10272026-3019\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d2041e65ef05ad4ec0f@granite-docket
+DTSTAMP:20261123T071019Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Bedford Conservation commission
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3031
+DESCRIPTION:Agenda: November 12\, 2026 Conservation Commission Agenda\nhttp
+ s://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3031\n\nAgenda: C
+ onservation Commission agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_11122026-3233\n\nAgenda: November 12\, 2026 Conservation 
+ Commission Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/ArchivedAge
+ nda/_11122026-3236\n\nAgenda: November 12\, 2026 Conservation Commission A
+ genda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1112202
+ 6-3242\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8bef08324b1eca2c6a66@granite-docket
+DTSTAMP:20261103T095126Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Conservation commission
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/DocumentCenter/View/9081/2026-ConCom-Meeting-Date
+ s_Deadlines---FINAL
+DESCRIPTION:Other: Please click HERE to display Conservation Commission Mee
+ ting Dates & Deadlines.\nhttps://bedfordnh.gov/DocumentCenter/View/9081/20
+ 26-ConCom-Meeting-Dates_Deadlines---FINAL\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

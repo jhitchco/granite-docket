@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hooksett Historic district
+X-WR-CALDESC:Historic district meetings in Hooksett\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6630037dd44fcf6a5de5@granite-docket
+DTSTAMP:20261103T094906Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Historic district
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Hooksett Heritage Commission 9.29.26.pdf?t=202
+ 609280900210
+DESCRIPTION:Minutes: Heritage Commission CANCELLED document seq 0.00 9/29/2
+ 026\nhttps://www.hooksett.gov/Hooksett Heritage Commission 9.29.26.pdf?t=2
+ 02609280900210\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:da97f14b4e75961af6db@granite-docket
+DTSTAMP:20261103T094906Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Historic district
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Heritage Commission meeting posting 2026.10.pd
+ f?t=202609280901190
+DESCRIPTION:Minutes: Heritage Commission document seq 0.00 10/6/2026\nhttps
+ ://www.hooksett.gov/Heritage Commission meeting posting 2026.10.pdf?t=2026
+ 09280901190\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb499a67d43de37bc8d3@granite-docket
+DTSTAMP:20261103T094917Z
+DTSTART;TZID=America/New_York:20261027T170000
+DURATION:PT2H
+SUMMARY:Hooksett Historic district
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/HHC Agenda 20261027.pdf?t=202610220825340
+DESCRIPTION:Agenda: Heritage Commission document seq 0.00 10/27/2026\nhttps
+ ://www.hooksett.gov/HHC Agenda 20261027.pdf?t=202610220825340\n\nMinutes: 
+ Heritage Commission document seq 0.00 10/27/2026\nhttps://www.hooksett.gov
+ /HHC MINUTES 20261027.pdf?t=202611030755200\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac75415aa9bbf2ac8901@granite-docket
+DTSTAMP:20261123T070521Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Historic district
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Heritage Commission meeting posting 2026.11.18
+ .pdf?t=202611171036110
+DESCRIPTION:Minutes: Heritage Commission document seq 0.00 11/18/2026\nhttp
+ s://www.hooksett.gov/Heritage Commission meeting posting 2026.11.18.pdf?t=
+ 202611171036110\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+END:VCALENDAR

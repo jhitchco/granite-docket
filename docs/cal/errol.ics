@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Errol NH meetings
+X-WR-CALDESC:Public meetings of Errol\, NH boards\, from posted agendas and
+  minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:73295e08fe0149cf84dc@granite-docket
+DTSTAMP:20261123T100809Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Errol Select board / council
+LOCATION:Errol\, NH
+URL:https://www.errolnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-62
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting Agenda\nhttps://www.
+ errolnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-62\n\nMinutes: Oct 5\, 
+ 2026 Board of Selectmen Regular Meeting Agenda\nhttps://www.errolnh.gov/Ag
+ endaCenter/ViewFile/Minutes/_10052026-62\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b7b8563b24e36ac4578@granite-docket
+DTSTAMP:20261123T100749Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Errol Select board / council
+LOCATION:Errol\, NH
+URL:https://www.errolnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-63
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting Agenda\nhttps://www.
+ errolnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-63\n\nMinutes: Oct 19\,
+  2026 Board of Selectmen Regular Meeting Agenda\nhttps://www.errolnh.gov/A
+ gendaCenter/ViewFile/Minutes/_10192026-63\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2423bd6d2d1daae3e636@granite-docket
+DTSTAMP:20261123T100729Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Errol Select board / council
+LOCATION:Errol\, NH
+URL:https://www.errolnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-64
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting Agenda\nhttps://www.
+ errolnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-64\n\nMinutes: Nov 2\, 
+ 2026 Board of Selectmen Regular Meeting Agenda\nhttps://www.errolnh.gov/Ag
+ endaCenter/ViewFile/Minutes/_11022026-64\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1686813bb62a83a6556d@granite-docket
+DTSTAMP:20261123T100709Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Errol Select board / council
+LOCATION:Errol\, NH
+URL:https://www.errolnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-65
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting Agenda\nhttps://www.
+ errolnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-65\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc4bcf4e2c7259dbdfc@granite-docket
+DTSTAMP:20261123T100919Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Errol Select board / council
+LOCATION:Errol\, NH
+URL:https://www.errolnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026-
+ 1
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting Agenda\nhttps://www.
+ errolnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026-1\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+END:VCALENDAR

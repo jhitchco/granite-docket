@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brookline Economic development
+X-WR-CALDESC:Economic development meetings in Brookline\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:df2ae79fecec73f0c1b0@granite-docket
+DTSTAMP:20261116T084606Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Economic development
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Economic Development Committee/Agenda and Minutes/2026/2026.10.08.Agenda.p
+ df?t=202611101545350
+DESCRIPTION:Minutes: 10/08/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Economic Development Committee/Agenda an
+ d Minutes/2026/2026.10.08.Agenda.pdf?t=202611101545350\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a7029caa4ced70c6bd5b@granite-docket
+DTSTAMP:20261116T084606Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Economic development
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Economic Development Committee/Agenda and Minutes/2026/2026.11.12.Agenda.p
+ df?t=202611101546250
+DESCRIPTION:Minutes: 11/12/26 - no quorum/no meeting - Agenda\nhttps://www.
+ brooklinenh.gov/Documents/Government/Boards and Committees/Economic Develo
+ pment Committee/Agenda and Minutes/2026/2026.11.12.Agenda.pdf?t=2026111015
+ 46250\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+END:VCALENDAR

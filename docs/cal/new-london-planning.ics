@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New London Planning board
+X-WR-CALDESC:Planning board meetings in New London\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:61c53c5cc5f6c7f19a06@granite-docket
+DTSTAMP:20261103T115840Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/9-29-26_SHEET_1__KELLETT.pdf
+DESCRIPTION:Other: SHEET 1 Trail Haven\nhttps://newlondon.nh.gov/vertical/s
+ ites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/9-29-26_SHEET_1__K
+ ELLETT.pdf\n\nOther: SHEET 2 Trail Haven\nhttps://newlondon.nh.gov/vertica
+ l/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/9-29-26_SHEET_2
+ __KELLETT.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:142403e3824b0399827d@granite-docket
+DTSTAMP:20261103T114659Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10-13-2026_PB_Agenda.pdf
+DESCRIPTION:Agenda: Planning Board Meeting Agenda: October 13\, 2026\nhttps
+ ://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549
+ %7D/uploads/10-13-2026_PB_Agenda.pdf\n\nNotice: 10-13-2026 PB Public Heari
+ ng Notice\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-9
+ 5D7-E1EECBB7F549%7D/uploads/10-13-2026_PB_Public_Hearing_Notice.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:110fbde5a4c77ce18b7f@granite-docket
+DTSTAMP:20261103T115842Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Support_Letter.pdf
+DESCRIPTION:Other: Support Letter\nhttps://newlondon.nh.gov/vertical/sites/
+ %7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Support_Letter.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a96f316074c8ca1bd4@granite-docket
+DTSTAMP:20261103T114700Z
+DTSTART;TZID=America/New_York:20261027T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10-27-2026_PB_Agenda.pdf
+DESCRIPTION:Agenda: Planning Board Meeting Agenda: October 27\, 2026\nhttps
+ ://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549
+ %7D/uploads/10-27-2026_PB_Agenda.pdf\n\nNotice: 10-27-2026 PB Public Heari
+ ng Notice\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-9
+ 5D7-E1EECBB7F549%7D/uploads/10-27-2026_PB_Public_Hearing_Notice.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec9aca8e09bf9da4db9@granite-docket
+DTSTAMP:20261103T115819Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Letter_of_Support_-_Kellett-10-28-2026.pdf
+DESCRIPTION:Other: Letter of Support - Kellett\nhttps://newlondon.nh.gov/ve
+ rtical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Letter_of_
+ Support_-_Kellett-10-28-2026.pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc82878814bee15acd5@granite-docket
+DTSTAMP:20261116T104425Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Sogaard_Site_Plan_10-30-26.pdf
+DESCRIPTION:Other: Sogaard_Site_Plan_10-30-26.pdf\nhttps://newlondon.nh.gov
+ /vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Sogaard
+ _Site_Plan_10-30-26.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f78a849b882fb5a47114@granite-docket
+DTSTAMP:20261123T100233Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/95550-12_Site_Plans_R01.pdf
+DESCRIPTION:Other: Bar Harbor Site Plans\nhttps://newlondon.nh.gov/vertical
+ /sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/95550-12_Site_Pl
+ ans_R01.pdf\n\nOther: Bar Harbor Waiver Request\nhttps://newlondon.nh.gov/
+ vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Bar_Harb
+ or-Waiver_Request.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:122aa6aa2b4d1ca44a82@granite-docket
+DTSTAMP:20261103T111924Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/11-10-2026_PB_Agenda.pdf
+DESCRIPTION:Agenda: Planning Board Meeting Agenda: November 10\, 2026\nhttp
+ s://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F54
+ 9%7D/uploads/11-10-2026_PB_Agenda.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fa21f277c9dd39ff3ef9@granite-docket
+DTSTAMP:20261123T095940Z
+DTSTART;TZID=America/New_York:20261208T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/12-08-2026_PB_Public_Hearing_Notice.pdf
+DESCRIPTION:Notice: 12-08-2026 PB Public Hearing Notice\nhttps://newlondon.
+ nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/1
+ 2-08-2026_PB_Public_Hearing_Notice.pdf\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

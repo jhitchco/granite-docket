@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Goffstown Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Goffstown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d4bad44e097d27601456@granite-docket
+DTSTAMP:20261103T093145Z
+DTSTART;TZID=America/New_York:20261006T190000
+DURATION:PT2H
+SUMMARY:Goffstown Zoning / ZBA
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-1570
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 6\, 2026 Zoning B
+ oard of Adjustment October 6\, 2026\, Meeting Ag\nhttps://goffstownnh.gov/
+ AgendaCenter/ViewFile/Agenda/_10062026-1570\n\nMinutes: Zoning Board of Ad
+ justment Minutes Oct 6\, 2026 Zoning Board of Adjustment October 6\, 2026\
+ , Meeting A\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_100620
+ 26-1570\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d088ff0dd67af73e03f9@granite-docket
+DTSTAMP:20261116T071235Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Goffstown Zoning / ZBA
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-1598
+DESCRIPTION:Agenda: Planning Board Agenda Nov 5\, 2026 Planning Board Novem
+ ber 5\, 2026\, Planning Board Zoning Amendments \nhttps://goffstownnh.gov/
+ AgendaCenter/ViewFile/Agenda/_11052026-1598\n\nMinutes: Planning Board Min
+ utes Nov 5\, 2026 Planning Board November 5\, 2026\, Planning Board Zoning
+  Amendments\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_110520
+ 26-1598\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8cfe69e213d1b23f8da8@granite-docket
+DTSTAMP:20261123T070612Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Goffstown Zoning / ZBA
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-1601
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 10\, 2026 Zoning 
+ Board of Adjustment November 10\, 2026\, Meeting\nhttps://goffstownnh.gov/
+ AgendaCenter/ViewFile/Agenda/_11102026-1601\n\nMinutes: Zoning Board of Ad
+ justment Minutes Nov 10\, 2026 Zoning Board of Adjustment November 10\, 20
+ 26\, Meetin\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_111020
+ 26-1601\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4a31d89f153f74f61afe@granite-docket
+DTSTAMP:20261123T070602Z
+DTSTART;TZID=America/New_York:20261201T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Goffstown Zoning / ZBA
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-1626
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Dec 1\, 2026 December
+  1\, 2026\, Zoning Board of Adjustment Meeting A\nhttps://goffstownnh.gov/
+ AgendaCenter/ViewFile/Agenda/_12012026-1626\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

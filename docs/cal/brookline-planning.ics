@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brookline Planning board
+X-WR-CALDESC:Planning board meetings in Brookline\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0f3fc977dc21eeddf87b@granite-docket
+DTSTAMP:20261109T084426Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Planning board
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Planning Board/Agenda and Minutes/2026/2026.10.01.Agenda.pdf?t=20260930130
+ 2510
+DESCRIPTION:Minutes: 10/01/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Planning Board/Agenda and Minutes/2026/2
+ 026.10.01.Agenda.pdf?t=202609301302510\n\nMinutes: 10/01/26 Minutes\nhttps
+ ://www.brooklinenh.gov/Documents/Government/Boards and Committees/Planning
+  Board/Agenda and Minutes/2026/2026.10.01.Meeting Minutes.pdf?t=2026102214
+ 38580\n\nMinutes: 10/01/26 Agenda Minutes\nhttps://www.brooklinenh.gov/Doc
+ uments/Government/Boards and Committees/Planning Board/Agenda and Minutes/
+ 2026/2026.10.01.Meeting Minutes.Approved.pdf?t=202611031546350\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1dd0aa2857008d7779d@granite-docket
+DTSTAMP:20261103T130826Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Planning board
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Planning Board/Agenda and Minutes/2026/2026.10.15.Agenda.pdf?t=20261013144
+ 9120
+DESCRIPTION:Minutes: 10/15/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Planning Board/Agenda and Minutes/2026/2
+ 026.10.15.Agenda.pdf?t=202610131449120\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9486012a6d64b11ada7@granite-docket
+DTSTAMP:20261103T130811Z
+DTSTART;TZID=America/New_York:20261021T183000
+DURATION:PT2H
+SUMMARY:Brookline Planning board
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Melendy Pond Planning Comm/MPPC Agenda 102126 v 0 00.pdf?t=202610191536230
+DESCRIPTION:Agenda: 10/21/26 Agenda\nhttps://www.brooklinenh.gov/Documents/
+ Government/Boards and Committees/Melendy Pond Planning Comm/MPPC Agenda 10
+ 2126 v 0 00.pdf?t=202610191536230\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4c46f1ad03f3723a6da7@granite-docket
+DTSTAMP:20261116T084544Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Brookline Planning board
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/2026.11.05 Agenda.docx?t=202611031200400
+DESCRIPTION:Agenda: 11/05/26 Agenda\nhttps://www.brooklinenh.gov/2026.11.05
+  Agenda.docx?t=202611031200400\n\nMinutes: 11/05/26 Agenda\nhttps://www.br
+ ooklinenh.gov/Documents/Government/Boards and Committees/Planning Board/Ag
+ enda and Minutes/2026/2026.11.05 Agenda.pdf?t=202611031500300\n\nOther: Se
+ ction 600.00 proposed changes\nhttps://www.brooklinenh.gov/Documents/Gover
+ nment/Boards and Committees/Planning Board/Other Docs/2027 ZO/Section 603.
+ 11.05.2026.pdf?t=202611091142430\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a243f22ee3223dc8bee@granite-docket
+DTSTAMP:20261116T084543Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Planning board
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Planning Board/Other Docs/2027 ZO/Definitions.2026.11.06.pdf?t=20261109113
+ 1190
+DESCRIPTION:Other: Proposed changes to Section 200.00\nhttps://www.brooklin
+ enh.gov/Documents/Government/Boards and Committees/Planning Board/Other Do
+ cs/2027 ZO/Definitions.2026.11.06.pdf?t=202611091131190\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:abced6dc7e13dc4e63d2@granite-docket
+DTSTAMP:20261116T084545Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookline Planning board
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Planning Board/Other Docs/2027 ZO/Section 1100.2026.11.09.showing changes.
+ pdf?t=202611091147070
+DESCRIPTION:Other: Proposed changes to Section 1100.00\nhttps://www.brookli
+ nenh.gov/Documents/Government/Boards and Committees/Planning Board/Other D
+ ocs/2027 ZO/Section 1100.2026.11.09.showing changes.pdf?t=202611091147070\
+ n\nOther: Proposed changes to Section 1500.00\nhttps://www.brooklinenh.gov
+ /Documents/Government/Boards and Committees/Planning Board/Other Docs/2027
+  ZO/Section 1500 - Open Space SD.2026.11.09.pdf?t=202611091150090\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc4a4961e0afe5a20c4@granite-docket
+DTSTAMP:20261123T084111Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Planning board
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Melendy Pond Planning Comm/2026 Agendas & Minutes/MPPC Agenda 111826 v 0 0
+ 0.docx?t=202611160842330
+DESCRIPTION:Minutes: 11/18/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Melendy Pond Planning Comm/2026 Agendas 
+ & Minutes/MPPC Agenda 111826 v 0 00.docx?t=202611160842330\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0ad8d56db11509a75d6@granite-docket
+DTSTAMP:20261123T084112Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Brookline Planning board
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Planning Board/Other Docs/2027 ZO/Public Hearing Notice.2026.11.19.200.pdf
+ ?t=202611091239390
+DESCRIPTION:Notice: Public Hearing Notice for Nov 19\, 2026\nhttps://www.br
+ ooklinenh.gov/Documents/Government/Boards and Committees/Planning Board/Ot
+ her Docs/2027 ZO/Public Hearing Notice.2026.11.19.200.pdf?t=20261109123939
+ 0\n\nNotice: Public Hearing Nov 19\, 2026\nhttps://www.brooklinenh.gov/Doc
+ uments/Government/Boards and Committees/Planning Board/Other Docs/2027 ZO/
+ Public Hearing Notice.2026.11.19.600.pdf?t=202611091143590\n\nNotice: Publ
+ ic Hearing Notice November 19\, 2026\nhttps://www.brooklinenh.gov/Document
+ s/Government/Boards and Committees/Planning Board/Other Docs/2027 ZO/Publi
+ c Hearing Notice.2026.11.19.1100.pdf?t=202611091147570\n\nNotice: Public H
+ earing November 19\, 2026\nhttps://www.brooklinenh.gov/Documents/Governmen
+ t/Boards and Committees/Planning Board/Other Docs/2027 ZO/Public Hearing N
+ otice.2026.11.19.1500.pdf?t=202611091150580\n\nNotice: Public Hearing Noti
+ ce for November 19\, 2026\nhttps://www.brooklinenh.gov/Documents/Governmen
+ t/Boards and Committees/Planning Board/Other Docs/2027 ZO/Public Hearing N
+ otice.2026.11.19.Child Care.pdf?t=202611091154570\n\nMinutes: 11/19/26 Age
+ nda\nhttps://www.brooklinenh.gov/Documents/Government/Boards and Committee
+ s/Planning Board/Agenda and Minutes/2026/2026.11.19 Agenda.pdf?t=202611171
+ 213360\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

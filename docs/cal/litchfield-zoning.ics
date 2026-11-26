@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Litchfield Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Litchfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d2cad9ace521a09d3a7a@granite-docket
+DTSTAMP:20261123T072335Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Litchfield Zoning / ZBA
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-973
+DESCRIPTION:Agenda: Zoning Board Meeting\nhttps://litchfieldnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10192026-973\n\nMinutes: Oct 19\, 2026 Zoning Board 
+ Meeting\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-
+ 973\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8c63f4d6e266b2dd3a@granite-docket
+DTSTAMP:20261103T095635Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Litchfield Zoning / ZBA
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-976
+DESCRIPTION:Agenda: Zoning Board Meeting\nhttps://litchfieldnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_11162026-976\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

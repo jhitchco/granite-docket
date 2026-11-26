@@ -1,0 +1,331 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mont Vernon Select board / council
+X-WR-CALDESC:Select board / council meetings in Mont Vernon\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:580aa0d3fedcc591d846@granite-docket
+DTSTAMP:20261109T101438Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_09282026-405
+DESCRIPTION:Agenda: Selectmen's Meeting\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_09282026-405\n\nAgenda: Library Trustees Monthly M
+ eeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_09282026
+ -406\n\nMinutes: Sep 28\, 2026 Selectmen's Meeting\nhttps://www.montvernon
+ nh.us/AgendaCenter/ViewFile/Minutes/_09282026-405\n\nMinutes: Sep 28\, 202
+ 6 Library Trustees Monthly Meeting\nhttps://www.montvernonnh.us/AgendaCent
+ er/ViewFile/Minutes/_09282026-406\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:db5c3ec26be1b895f139@granite-docket
+DTSTAMP:20261103T113309Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_09302026-422
+DESCRIPTION:Agenda: PDF\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/
+ Agenda/_09302026-422\n\nAgenda: Packet\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_09302026-422?packet=true\n\nMinutes: Sep 30\, 2026
+  Selectmen's Advisory Committee\nhttps://www.montvernonnh.us/AgendaCenter/
+ ViewFile/Minutes/_09302026-422\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3589a24edc02bae20bfe@granite-docket
+DTSTAMP:20261103T113308Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10052026-409
+DESCRIPTION:Agenda: Selectmen's Meeting\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_10052026-409\n\nMinutes: Oct 5\, 2026 Selectmen's 
+ Meeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_100520
+ 26-409\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e22276d7bf96fe6395a1@granite-docket
+DTSTAMP:20261103T113551Z
+DTSTART;TZID=America/New_York:20261008T170000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10082026-407
+DESCRIPTION:Agenda: SRLD Meeting Agenda\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_10082026-407\n\nMinutes: Oct 8\, 2026 SRLD Meeting
+  Agenda\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_100820
+ 26-407\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0688ad8bfdade7f25f0@granite-docket
+DTSTAMP:20261103T113602Z
+DTSTART;TZID=America/New_York:20261013T090000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10132026-410
+DESCRIPTION:Agenda: Selectmen's Work Session\nhttps://www.montvernonnh.us/A
+ gendaCenter/ViewFile/Agenda/_10132026-410\n\nAgenda: PDF\nhttps://www.mont
+ vernonnh.us/AgendaCenter/ViewFile/Agenda/_10132026-419\n\nAgenda: Packet\n
+ https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10132026-419?pac
+ ket=true\n\nMinutes: Oct 13\, 2026 Selectmen's Work Session\nhttps://www.m
+ ontvernonnh.us/AgendaCenter/ViewFile/Minutes/_10132026-410\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c0c560be1feb6e8216@granite-docket
+DTSTAMP:20261116T101842Z
+DTSTART;TZID=America/New_York:20261014T193000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10142026-423
+DESCRIPTION:Agenda: PDF\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/
+ Agenda/_10142026-423\n\nAgenda: Conservation Commission Mtg.\nhttps://www.
+ montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10142026-420\n\nAgenda: Heri
+ tage Commission Meeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile
+ /Agenda/_10142026-413\n\nAgenda: Packet\nhttps://www.montvernonnh.us/Agend
+ aCenter/ViewFile/Agenda/_10142026-423?packet=true\n\nMinutes: Oct 14\, 202
+ 6 Selectmen's Advisory Committee\nhttps://www.montvernonnh.us/AgendaCenter
+ /ViewFile/Minutes/_10142026-423\n\nMinutes: Oct 14\, 2026 Conservation Com
+ mission Mtg.\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_1
+ 0142026-421\n\nMinutes: Oct 14\, 2026 Heritage Commission Meeting\nhttps:/
+ /www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_10142026-413\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d4932d048e9e6f6a09@granite-docket
+DTSTAMP:20261103T113305Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10192026-416
+DESCRIPTION:Agenda: Selectmen's Meeting\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_10192026-416\n\nMinutes: Oct 19\, 2026 Selectmen's
+  Meeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_10192
+ 026-416\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe5cfe8dbea8903c274a@granite-docket
+DTSTAMP:20261123T090805Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10202026-415
+DESCRIPTION:Agenda: Library Trustees Monthly Meeting\nhttps://www.montverno
+ nnh.us/AgendaCenter/ViewFile/Agenda/_10202026-415\n\nMinutes: Oct 20\, 202
+ 6 Library Trustees Monthly Meeting\nhttps://www.montvernonnh.us/AgendaCent
+ er/ViewFile/Minutes/_10202026-415\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5b24a218134f0e914893@granite-docket
+DTSTAMP:20261103T113255Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10212026-418
+DESCRIPTION:Agenda: America 250 Agenda\nhttps://www.montvernonnh.us/AgendaC
+ enter/ViewFile/Agenda/_10212026-418\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4133eee9da1a031b0679@granite-docket
+DTSTAMP:20261109T101348Z
+DTSTART;TZID=America/New_York:20261026T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10262026-424
+DESCRIPTION:Agenda: Selectmen's Meeting\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_10262026-424\n\nMinutes: Oct 26\, 2026 Selectmen's
+  Meeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_10262
+ 026-424\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:13aa1152ff0f3c200dfb@granite-docket
+DTSTAMP:20261123T090704Z
+DTSTART;TZID=America/New_York:20261028T193000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10282026-427
+DESCRIPTION:Agenda: Conservation Commission Oct. Special Session Mtg.\nhttp
+ s://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_10282026-427\n\nAgen
+ da: PDF\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_1028202
+ 6-437\n\nAgenda: Packet\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile
+ /Agenda/_10282026-437?packet=true\n\nMinutes: Conservation Commission Oct.
+  Special Session Minutes\nhttps://www.montvernonnh.us/AgendaCenter/ViewFil
+ e/Agenda/_10282026-428\n\nMinutes: Oct 28\, 2026 Conservation Commission O
+ ct. Special Session Minutes\nhttps://www.montvernonnh.us/AgendaCenter/View
+ File/Minutes/_10282026-428\n\nMinutes: Oct 28\, 2026 2026-2027 Organizatio
+ nal Meeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_10
+ 282026-437\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:40ec75fa313392c890aa@granite-docket
+DTSTAMP:20261103T113633Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/ArchivedAgenda/_10302
+ 026-114
+DESCRIPTION:Agenda: Selectmen's Advisory Committee\nhttps://www.montvernonn
+ h.us/AgendaCenter/ViewFile/ArchivedAgenda/_10302026-114\n\nAgenda: Packet\
+ nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/ArchivedAgenda/_1030202
+ 6-114?packet=true\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a52c2e27e93569d73575@granite-docket
+DTSTAMP:20261123T090534Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11022026-426
+DESCRIPTION:Agenda: Selectmen's Meeting\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_11022026-426\n\nMinutes: Nov 2\, 2026 Selectmen's 
+ Meeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_110220
+ 26-426\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee8976490fd4eb0b742c@granite-docket
+DTSTAMP:20261109T101458Z
+DTSTART;TZID=America/New_York:20261105T170000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11052026-425
+DESCRIPTION:Agenda: SRLD Meeting Agenda\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_11052026-425\n\nMinutes: Nov 5\, 2026 SRLD Meeting
+  Agenda\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_110520
+ 26-425\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e09d1ea772b39b534d04@granite-docket
+DTSTAMP:20261123T090524Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11092026-430
+DESCRIPTION:Agenda: Selectmen's Meeting\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_11092026-430\n\nMinutes: Nov 9\, 2026 Selectmen's 
+ Meeting\nhttps://www.montvernonnh.us/AgendaCenter/ViewFile/Minutes/_110920
+ 26-430\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a06d26d164910a814a6f@granite-docket
+DTSTAMP:20261123T090755Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11102026-429
+DESCRIPTION:Agenda: Library Trustees Monthly Meeting\nhttps://www.montverno
+ nnh.us/AgendaCenter/ViewFile/Agenda/_11102026-429\n\nMinutes: Nov 10\, 202
+ 6 Library Trustees Monthly Meeting\nhttps://www.montvernonnh.us/AgendaCent
+ er/ViewFile/Minutes/_11102026-429\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4fbf376c5e2b9889a22c@granite-docket
+DTSTAMP:20261123T090725Z
+DTSTART;TZID=America/New_York:20261111T130000
+DURATION:PT2H
+SUMMARY:Public hearing: Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11112026-434
+DESCRIPTION:Agenda: Conservation Commission Mtg.\nhttps://www.montvernonnh.
+ us/AgendaCenter/ViewFile/Agenda/_11112026-434\n\nMinutes: Nov 11\, 2026 Co
+ nservation Commission Mtg.\nhttps://www.montvernonnh.us/AgendaCenter/ViewF
+ ile/Minutes/_11112026-434\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6598bf43542389205492@granite-docket
+DTSTAMP:20261123T090514Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11162026-433
+DESCRIPTION:Agenda: Selectmen's Meeting\nhttps://www.montvernonnh.us/Agenda
+ Center/ViewFile/Agenda/_11162026-433\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:14501e63e9882a939f79@granite-docket
+DTSTAMP:20261123T090745Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11172026-435
+DESCRIPTION:Agenda: Library Trustees Monthly Meeting\nhttps://www.montverno
+ nnh.us/AgendaCenter/ViewFile/Agenda/_11172026-435\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:972750333caf9f06ed87@granite-docket
+DTSTAMP:20261123T090625Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:Mont Vernon Select board / council
+LOCATION:Mont Vernon\, NH
+URL:https://www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11182026-436
+DESCRIPTION:Agenda: America 250 Agenda\nhttps://www.montvernonnh.us/AgendaC
+ enter/ViewFile/Agenda/_11182026-436\n\nAgenda: PDF\nhttps://www.montvernon
+ nh.us/AgendaCenter/ViewFile/Agenda/_11182026-438\n\nAgenda: Packet\nhttps:
+ //www.montvernonnh.us/AgendaCenter/ViewFile/Agenda/_11182026-438?packet=tr
+ ue\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+END:VCALENDAR

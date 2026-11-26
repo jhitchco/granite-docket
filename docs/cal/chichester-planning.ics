@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chichester Planning board
+X-WR-CALDESC:Planning board meetings in Chichester\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ba7229451673c4482c9c@granite-docket
+DTSTAMP:20261103T113430Z
+DTSTART;TZID=America/New_York:20261001T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Chichester Planning board
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10012026-264
+DESCRIPTION:Agenda: Planning Board Agenda Oct 1\, 2026 Planning Board Regul
+ ar Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agen
+ da/_10012026-264\n\nMinutes: Planning Board Minutes Oct 1\, 2026 Planning 
+ Board Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/Vi
+ ewFile/Minutes/_10012026-264\n\nMinutes: Oct 1\, 2026 Planning Board Regul
+ ar Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Arch
+ ivedMinutes/_10012026-172\n\nMinutes: Oct 1\, 2026 Planning Board Regular 
+ Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Archive
+ dMinutes/_10012026-171\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1f42ae5fca06982c0e6e@granite-docket
+DTSTAMP:20261116T101820Z
+DTSTART;TZID=America/New_York:20261105T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Chichester Planning board
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_11052026-275
+DESCRIPTION:Agenda: Planning Board Agenda Nov 5\, 2026 Planning Board Regul
+ ar Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agen
+ da/_11052026-275\n\nMinutes: Planning Board Minutes Nov 5\, 2026 Planning 
+ Board Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/Vi
+ ewFile/Minutes/_11052026-275\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

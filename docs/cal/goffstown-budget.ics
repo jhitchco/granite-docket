@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Goffstown Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Goffstown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6acc6dd5a4e39011194e@granite-docket
+DTSTAMP:20261103T092421Z
+DTSTART;TZID=America/New_York:20260929T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-1574
+DESCRIPTION:Agenda: Budget Committee Agenda Sep 29\, 2026 Budget Committee 
+ Meeting Agenda 09/29/26 (PDF)\nhttps://goffstownnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_09292026-1574\n\nMinutes: Budget Committee Minutes Sep 29\, 202
+ 6 Budget Committee Meeting Agenda 09/29/26 (PDF)\nhttps://goffstownnh.gov/
+ AgendaCenter/ViewFile/Minutes/_09292026-1574\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e09464a4dc0a9cce2f4d@granite-docket
+DTSTAMP:20261103T132922Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-1582
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 5\, 2026 JOINT Budget Commi
+ ttee & School Board Meeting Agenda 10/05/26 (P\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10052026-1582\n\nMinutes: Budget Committee Min
+ utes Oct 5\, 2026 JOINT Budget Committee & School Board Meeting Agenda 10/
+ 05/26 (\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-1
+ 582\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f69accb2c8f71ee9681@granite-docket
+DTSTAMP:20261103T132922Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1583
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 7\, 2026 JOINT Budget Commi
+ ttee & School Board Meeting Agenda 10/07/26 (P\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10072026-1583\n\nMinutes: Budget Committee Min
+ utes Oct 7\, 2026 JOINT Budget Committee & School Board Meeting Agenda 10/
+ 07/26 (\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-1
+ 583\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f2b72b2231b0c2d23f06@granite-docket
+DTSTAMP:20261103T092828Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-1590
+DESCRIPTION:Agenda: Parks & Recreation Commission Agenda Oct 21\, 2026 Park
+ s and Recreation Commission 10/21/26 Agenda (p\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10212026-1590\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd3872a26de0ac60a7c8@granite-docket
+DTSTAMP:20261123T070450Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-1607
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 10\, 2026 Budget Committee 
+ Meeting Agenda - Town Deliberations 11/10/26 (\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11102026-1607\n\nMinutes: Budget Committee Min
+ utes Nov 10\, 2026 Budget Committee Meeting Agenda - Town Deliberations 11
+ /10/26 \nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_11102026-1
+ 607\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ac0dabb6df37738b4b@granite-docket
+DTSTAMP:20261123T070439Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1608
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 12\, 2026 Budget Committee 
+ Meeting Agenda - Town Deliberations 11/12/26 (\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11122026-1608\n\nMinutes: Budget Committee Min
+ utes Nov 12\, 2026 Budget Committee Meeting Agenda - Town Deliberations 11
+ /12/26 \nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_11122026-1
+ 608\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d18f687e778d9019674@granite-docket
+DTSTAMP:20261123T070429Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-1615
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 17\, 2026 Budget Committee 
+ Meeting Agenda - Town Deliberations 11/17/26 (\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11172026-1615\n\nMinutes: Budget Committee Min
+ utes Nov 17\, 2026 Budget Committee Meeting Agenda - Town Deliberations 11
+ /17/26 \nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_11172026-1
+ 615\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd594681909c18d93312@granite-docket
+DTSTAMP:20261116T072018Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-1616
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 19\, 2026 Budget Committee 
+ Meeting Agenda - Town Deliberations 11/19/26 (\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11192026-1616\n\nAgenda: Budget Committee Meet
+ ing Agenda - Town Deliberations 11/19/26 (PDF)\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_11192026-1526\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:abb408bdd92d5709ada6@granite-docket
+DTSTAMP:20261116T071105Z
+DTSTART;TZID=America/New_York:20261124T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-1617
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 24\, 2026 Budget Committee 
+ Meeting Agenda - Town Deliberations 11/24/26 (\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11242026-1617\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:07c9c8d77dc9dd91fa96@granite-docket
+DTSTAMP:20261116T071055Z
+DTSTART;TZID=America/New_York:20261201T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-1618
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 1\, 2026 Budget Committee M
+ eeting Agenda - Town Deliberations 12/01/26 (P\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_12012026-1618\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4d45d0d74d2a24cb0095@granite-docket
+DTSTAMP:20261116T071045Z
+DTSTART;TZID=America/New_York:20261203T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12032026-1619
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 3\, 2026 Budget Committee M
+ eeting Agenda - Town Deliberations 12/03/26 (P\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_12032026-1619\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e8af3059e969f8fe5038@granite-docket
+DTSTAMP:20261116T071035Z
+DTSTART;TZID=America/New_York:20261208T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12082026-1620
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 8\, 2026 Budget Committee M
+ eeting Agenda - Town Deliberations 12/08/26 (P\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_12082026-1620\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe0dbadfd0e1e4017024@granite-docket
+DTSTAMP:20261116T071025Z
+DTSTART;TZID=America/New_York:20261210T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12102026-1621
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 10\, 2026 Budget Committee 
+ Meeting Agenda - Town Deliberations 12/10/26 (\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_12102026-1621\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9dbc78c7d90d595c0e27@granite-docket
+DTSTAMP:20261116T071015Z
+DTSTART;TZID=America/New_York:20261215T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12152026-1622
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 15\, 2026 Budget Committee 
+ Meeting Agenda - Town Deliberations 12/15/26 (\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_12152026-1622\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b88521d37a2843cff5d4@granite-docket
+DTSTAMP:20261116T071005Z
+DTSTART;TZID=America/New_York:20261217T190000
+DURATION:PT2H
+SUMMARY:Goffstown Budget / CIP
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12172026-1623
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 17\, 2026 Budget Committee 
+ Meeting Agenda - Town Deliberations 12/17/26 (\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_12172026-1623\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

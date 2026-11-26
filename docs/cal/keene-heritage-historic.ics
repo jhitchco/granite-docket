@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keene Historic district
+X-WR-CALDESC:Historic district meetings in Keene\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:34ff8b489493c76a9a5c@granite-docket
+DTSTAMP:20261103T092235Z
+DTSTART;TZID=America/New_York:20261014T163000
+DURATION:PT2H
+SUMMARY:Keene Historic district
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/HC-Agenda-Packet_10-14-2
+ 6.pdf
+DESCRIPTION:Agenda: Heritage Commission Agendas for October 14\, 2026\nhttp
+ s://keenenh.gov/wp-content/uploads/2026/10/HC-Agenda-Packet_10-14-26.pdf\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb053b8c366a5a5d5aa9@granite-docket
+DTSTAMP:20261103T092230Z
+DTSTART;TZID=America/New_York:20261021T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Keene Historic district
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/2026_10_21_HDC_Agenda.pd
+ f
+DESCRIPTION:Agenda: Historic District Commission Agendas for October 21\, 2
+ 026\nhttps://keenenh.gov/wp-content/uploads/2026/10/2026_10_21_HDC_Agenda.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:14c2b94980d0c90ac64d@granite-docket
+DTSTAMP:20261103T134933Z
+DTSTART;TZID=America/New_York:20261111T163000
+DURATION:PT2H
+SUMMARY:Keene Historic district
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/11/Meeting-Not-Scheduled_11
+ -11-26.pdf
+DESCRIPTION:Agenda: Heritage Commission Not Scheduled Agendas for November 
+ 11\, 2026 – Not Scheduled\nhttps://keenenh.gov/wp-content/uploads/2026/1
+ 1/Meeting-Not-Scheduled_11-11-26.pdf\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:15017a08e1cd983196bd@granite-docket
+DTSTAMP:20261116T070925Z
+DTSTART;TZID=America/New_York:20261118T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Keene Historic district
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/11/2026_11_18_HDC_Agenda.pd
+ f
+DESCRIPTION:Agenda: Historic District Commission Agendas for November 18\, 
+ 2026\nhttps://keenenh.gov/wp-content/uploads/2026/11/2026_11_18_HDC_Agenda
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

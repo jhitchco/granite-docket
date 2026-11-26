@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wolfeboro Historic district
+X-WR-CALDESC:Historic district meetings in Wolfeboro\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e8ce723508788236d841@granite-docket
+DTSTAMP:20261103T104612Z
+DTSTART;TZID=America/New_York:20261014T170000
+DURATION:PT2H
+SUMMARY:Wolfeboro Historic district
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgenda/_101420
+ 26-469
+DESCRIPTION:Agenda: Heritage Meeting\nhttps://www.wolfeboronh.us/AgendaCent
+ er/ViewFile/ArchivedAgenda/_10142026-469\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:00969e1605f3b8733de6@granite-docket
+DTSTAMP:20261109T084708Z
+DTSTART;TZID=America/New_York:20261104T170000
+DURATION:PT2H
+SUMMARY:Wolfeboro Historic district
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgenda/_110420
+ 26-481
+DESCRIPTION:Agenda: Heritage Commission Meeting\nhttps://www.wolfeboronh.us
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11042026-481\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

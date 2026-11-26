@@ -1,0 +1,155 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Farmington Select board / council
+X-WR-CALDESC:Select board / council meetings in Farmington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:956b953b875a09ec7610@granite-docket
+DTSTAMP:20261103T102938Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Farmington Select board / council
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_09282026-262
+DESCRIPTION:Agenda: Trustees of the Trust Fund Agenda Sep 28\, 2026 Trustee
+ s of the Trust Fund Meeting Agenda (PDF)\nhttps://www.farmington.nh.us/Age
+ ndaCenter/ViewFile/Agenda/_09282026-262\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d99f0deada73e9f15d3@granite-docket
+DTSTAMP:20261103T103209Z
+DTSTART;TZID=America/New_York:20261005T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Farmington Select board / council
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_10052026-268
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 5\, 2026 Board of Selectm
+ en Meeting Agenda (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewFil
+ e/Agenda/_10052026-268\n\nAgenda: Board of Selectmen Meeting Agenda (PDF)\
+ nhttps://www.farmington.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_100520
+ 26-253\n\nAgenda: Board of Selectmen Meeting Agenda (PDF)\nhttps://www.far
+ mington.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-252\n\nMinute
+ s: Board of Selectmen Minutes Oct 5\, 2026 Board of Selectmen Meeting Agen
+ da (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_1005
+ 2026-268\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b8db06fda66d5d11e58a@granite-docket
+DTSTAMP:20261109T083715Z
+DTSTART;TZID=America/New_York:20261019T170000
+DURATION:PT2H
+SUMMARY:Farmington Select board / council
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_10192026-272
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 19\, 2026 — Amended Oct
+  19\, 2026 2:22 PM Board of Selectmen Meeting Age\nhttps://www.farmington.
+ nh.us/AgendaCenter/ViewFile/Agenda/_10192026-272\n\nAgenda: Board of Selec
+ tmen Meeting Agenda (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewF
+ ile/ArchivedAgenda/_10192026-263\n\nMinutes: Board of Selectmen Minutes Oc
+ t 19\, 2026 — Amended Oct 19\, 2026 2:22 PM Board of Selectmen Meeting A
+ g\nhttps://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10192026-27
+ 2\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:53b794282b84166919fa@granite-docket
+DTSTAMP:20261103T130714Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:Farmington Select board / council
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_10222026-275
+DESCRIPTION:Agenda: Trustees of the Trust Fund Agenda Oct 22\, 2026 Trustee
+ s of the Trust Fund Meeting Agenda (CANCELLED)\nhttps://www.farmington.nh.
+ us/AgendaCenter/ViewFile/Agenda/_10222026-275\n\nAgenda: Trustees of the T
+ rust Fund Meeting Agenda (CANCELLED)(PDF)\nhttps://www.farmington.nh.us/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_10222026-264\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3adf0b45c35aaf6f7ec@granite-docket
+DTSTAMP:20261109T083705Z
+DTSTART;TZID=America/New_York:20261026T173000
+DURATION:PT2H
+SUMMARY:Farmington Select board / council
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_10262026-276
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 26\, 2026 Board of Select
+ men Meeting Agenda (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewFi
+ le/Agenda/_10262026-276\n\nMinutes: Board of Selectmen Minutes Oct 26\, 20
+ 26 Board of Selectmen Meeting Agenda (PDF)\nhttps://www.farmington.nh.us/A
+ gendaCenter/ViewFile/Minutes/_10262026-276\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:caa5bf90de695dc4f192@granite-docket
+DTSTAMP:20261103T131346Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Farmington Select board / council
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_11022026-279
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 2\, 2026 Board of Selectm
+ en Meeting Agenda (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewFil
+ e/Agenda/_11022026-279\n\nAgenda: Board of Selectmen Agenda Nov 2\, 2026 P
+ UBLIC HEARING NOTICE - BREEZELINE AGREEMENT\nhttps://www.farmington.nh.us/
+ AgendaCenter/ViewFile/Agenda/_11022026-264\n\nAgenda: Board of Selectmen M
+ eeting Agenda (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_11022026-290\n\nNotice: Board of Selectmen Public Hearing 11
+ /2/26\nhttps://www.farmington.nh.us/DocumentCenter/View/3115\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:294eb04f9be0caa51450@granite-docket
+DTSTAMP:20261109T083655Z
+DTSTART;TZID=America/New_York:20261109T173000
+DURATION:PT2H
+SUMMARY:Farmington Select board / council
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_11092026-281
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 9\, 2026 Board of Selectm
+ en Meeting Agenda (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewFil
+ e/Agenda/_11092026-281\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:df4f90ae50c3b06b9840@granite-docket
+DTSTAMP:20261116T083859Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Farmington Select board / council
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_11162026-284
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 16\, 2026 Board of Select
+ men Meeting Agenda (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewFi
+ le/Agenda/_11162026-284\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wolfeboro Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Wolfeboro\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:11018e24442b2a6c86c3@granite-docket
+DTSTAMP:20261103T103246Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Wolfeboro Zoning / ZBA
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_10192026-418
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda\nhttps://www.wolfebor
+ onh.us/AgendaCenter/ViewFile/Agenda/_10192026-418\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3959f6f943b709660fba@granite-docket
+DTSTAMP:20261116T091600Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Wolfeboro Zoning / ZBA
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1793/Planning--Zoning
+DESCRIPTION:Other: Planning & Zoning\nhttps://www.wolfeboronh.us/DocumentCe
+ nter/View/1793/Planning--Zoning\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:343afe86e954f33640d3@granite-docket
+DTSTAMP:20261116T084429Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Wolfeboro Zoning / ZBA
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_11092026-426
+DESCRIPTION:Agenda: Zoning Board of Adjustment Meeting Agenda\nhttps://www.
+ wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_11092026-426\n\nMinutes: Nov 
+ 9\, 2026 Zoning Board of Adjustment Meeting Agenda\nhttps://www.wolfeboron
+ h.us/AgendaCenter/ViewFile/Minutes/_11092026-426\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:61cdf8a8ce102c93fe17@granite-docket
+DTSTAMP:20261116T084419Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Wolfeboro Zoning / ZBA
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_11162026-446
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda\nhttps://www.wolfebor
+ onh.us/AgendaCenter/ViewFile/Agenda/_11162026-446\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

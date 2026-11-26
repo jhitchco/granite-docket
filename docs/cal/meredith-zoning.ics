@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meredith Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Meredith\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f053228c139144535b2e@granite-docket
+DTSTAMP:20261103T102114Z
+DTSTART;TZID=America/New_York:20261008T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-1412
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 8\, 2026 Zoning B
+ oard of Adjustment\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10082026-1412\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:21218f1f9a6bf7d891b9@granite-docket
+DTSTAMP:20261103T102114Z
+DTSTART;TZID=America/New_York:20261015T103000
+DURATION:PT2H
+SUMMARY:Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-1426
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 15\, 2026 Zoning 
+ Amendment Workshop\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10152026-1426\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:20639b2936a5e283ae49@granite-docket
+DTSTAMP:20261103T102113Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1425
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 12\, 2026 Zoning 
+ Board of Adjustment\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agen
+ da/_11122026-1425\n\nAgenda: Zoning Board of Adjustment Agenda Nov 12\, 20
+ 26 Zoning Board of Adjustment Agenda\nhttps://www.meredithnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_11122026-1433\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:cd6f442f8e555a104844@granite-docket
+DTSTAMP:20261116T084853Z
+DTSTART;TZID=America/New_York:20261124T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-1439
+DESCRIPTION:Agenda: Planning Board Agenda Nov 24\, 2026 Public Hearing - Zo
+ ning Amendments and Rules of Procedure\nhttps://www.meredithnh.gov/AgendaC
+ enter/ViewFile/Agenda/_11242026-1439\n\nAgenda: Public Hearing - Zoning Am
+ endments and Rules of Procedure\nhttps://www.meredithnh.gov/AgendaCenter/V
+ iewFile/ArchivedAgenda/_11242026-578\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ed9028c5886806fc59ab@granite-docket
+DTSTAMP:20261103T102113Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
+SUMMARY:Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_12102026-1434
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Dec 10\, 2026 Zoning 
+ Board of Adjustment\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agen
+ da/_12102026-1434\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+END:VCALENDAR

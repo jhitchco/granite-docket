@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Merrimack Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Merrimack\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3a264d6de150c56d09fb@granite-docket
+DTSTAMP:20261103T092847Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Merrimack Conservation commission
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282
+ 026-233
+DESCRIPTION:Agenda: Conservation Commission Regular Meeting Agenda\nhttps:/
+ /www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-233\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:81962153d0c747c435a2@granite-docket
+DTSTAMP:20261103T092844Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Merrimack Conservation commission
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052
+ 026-219
+DESCRIPTION:Agenda: Sklar Subcommittee Regular Meeting Agenda - CANCELLED\n
+ https://www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026
+ -219\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2bdd7f2b6d2d6c09b37@granite-docket
+DTSTAMP:20261103T094453Z
+DTSTART;TZID=America/New_York:20261012T183000
+DURATION:PT2H
+SUMMARY:Merrimack Conservation commission
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10122
+ 026-232
+DESCRIPTION:Agenda: Conservation Commission Regular Meeting Agenda\nhttps:/
+ /www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10122026-232\n\
+ nOther: 2026 Conservation Commission Rules of Procedure\nhttps://www.merri
+ macknh.gov/889/2026-Conservation-Commission-Rules-of-Pr\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d4191afb640ad6bda29@granite-docket
+DTSTAMP:20261103T092838Z
+DTSTART;TZID=America/New_York:20261024T100000
+DURATION:PT2H
+SUMMARY:Merrimack Conservation commission
+LOCATION:Merrimack\, NH
+URL:https://www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10242
+ 026-237
+DESCRIPTION:Agenda: Conservation Commission Annual LCIP Site Walk\nhttps://
+ www.merrimacknh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10242026-237\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+END:VCALENDAR

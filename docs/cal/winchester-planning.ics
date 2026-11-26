@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Winchester Planning board
+X-WR-CALDESC:Planning board meetings in Winchester\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b0001f907eb13920e87b@granite-docket
+DTSTAMP:20261103T110003Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Winchester Planning board
+LOCATION:Winchester\, NH
+URL:https://www.winchester-nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-35
+ 9
+DESCRIPTION:Agenda: Planning Board Agenda Oct 5\, 2026 10-05-2026 Agenda Hu
+ rt PB\nhttps://www.winchester-nh.gov/AgendaCenter/ViewFile/Agenda/_1005202
+ 6-359\n\nAgenda: Planning Board Agenda Oct 5\, 2026 10-05-2026 Hurt 60 For
+ est Lake PH PB\nhttps://www.winchester-nh.gov/AgendaCenter/ViewFile/Agenda
+ /_10052026-360\n\nAgenda: Planning Board Agenda Oct 5\, 2026 10-05-2026 Hu
+ rt 60 Forest Lake Rd Map PB\nhttps://www.winchester-nh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10052026-362\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:997a9482b564160b87ea@granite-docket
+DTSTAMP:20261116T092633Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Winchester Planning board
+LOCATION:Winchester\, NH
+URL:https://www.winchester-nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-38
+ 9
+DESCRIPTION:Agenda: Planning Board Agenda Nov 16\, 2026 11-16-2026 Agenda B
+ laze\, San-Ken\, Warrant Articles PB\nhttps://www.winchester-nh.gov/Agenda
+ Center/ViewFile/Agenda/_11162026-389\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

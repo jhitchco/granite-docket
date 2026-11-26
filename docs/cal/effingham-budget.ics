@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Effingham Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Effingham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:682faf2460c7d2a9e28e@granite-docket
+DTSTAMP:20261103T120541Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Effingham Budget / CIP
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/680/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/680/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/680/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0053c41f9771b3a3b2a8@granite-docket
+DTSTAMP:20261103T120540Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Effingham Budget / CIP
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/688/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/688/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/688/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:66184f2fed8f605e35f8@granite-docket
+DTSTAMP:20261123T095148Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Effingham Budget / CIP
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/726/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/726/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/726/pdf_packet/get_agenda_document_link\n\nMi
+ nutes: Minutes PDF\nhttps://towncloud.io/go/effingham-nh/agendas/726/minut
+ es/get_agenda_document_link\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

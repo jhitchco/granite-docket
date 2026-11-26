@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Warner Planning board
+X-WR-CALDESC:Planning board meetings in Warner\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:328f6a668effda30d3db@granite-docket
+DTSTAMP:20261103T120642Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Warner Planning board
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/tow/meetings/agendas/plan/agenda-plan-20260928.pdf
+DESCRIPTION:Agenda: 09/28/2026: agenda-plan-20260928.pdf\nhttps://warnernh.
+ gov/tow/meetings/agendas/plan/agenda-plan-20260928.pdf\n\nMinutes: 09/28/2
+ 026: Minutes\nhttps://warnernh.gov/meetings/minutes/planning/plan-20260928
+ .pdf\n\nOther: 09/28/2026 : Map10Lots19-1and20AddlInfoforSept282026PBMeeti
+ ng_092326.pdf \, Map3Lot40_AddlInfoSept282\nhttps://warnernh.gov/tow/meeti
+ ngs/mtgdocs/plan/20260928/Map3Lot40_AddlInfoSept282026PBMtg_092326.pdf\n\n
+ Other: 09/28/2026 : Map10Lots19-1and20AddlInfoforSept282026PBMeeting_09232
+ 6.pdf \, Map3Lot40_AddlInfoSept282\nhttps://warnernh.gov/tow/meetings/mtgd
+ ocs/plan/20260928/Map3Lot40_RevPlanSet_Deed_AddInfo_FDResp_Sept28_092826.p
+ df\n\nOther: 09/28/2026 : Map10Lots19-1and20AddlInfoforSept282026PBMeeting
+ _092326.pdf \, Map3Lot40_AddlInfoSept282\nhttps://warnernh.gov/tow/meeting
+ s/mtgdocs/plan/20260928/Map10Lots19-1and20AddlInfoforSept282026PBMeeting_0
+ 92326.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6c027e0a86dc410748@granite-docket
+DTSTAMP:20261103T112911Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Warner Planning board
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/tow/meetings/agendas/plan/agenda-plan-20261005.pdf
+DESCRIPTION:Agenda: 10/05/2026: agenda-plan-20261005.pdf\nhttps://warnernh.
+ gov/tow/meetings/agendas/plan/agenda-plan-20261005.pdf\n\nMinutes: 10/05/2
+ 026: Minutes\nhttps://warnernh.gov/meetings/minutes/planning/plan-20261005
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:36529faf9c83d3527d98@granite-docket
+DTSTAMP:20261103T120617Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Warner Planning board
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/tow/meetings/agendas/plan/agenda-plan-20261019.pdf
+DESCRIPTION:Agenda: 10/19/2026: agenda-plan-20261019.pdf\nhttps://warnernh.
+ gov/tow/meetings/agendas/plan/agenda-plan-20261019.pdf\n\nMinutes: 10/19/2
+ 026: Minutes\nhttps://warnernh.gov/meetings/minutes/planning/plan-20261019
+ .pdf\n\nOther: 10/19/2026 : Oct192026PBMtgPackMap15Lots4242-1MorganConsult
+ _101426.pdf \, Oct192026PBMtgPackMap35Lot4\nhttps://warnernh.gov/tow/meeti
+ ngs/mtgdocs/plan/20261019/Oct192026PBMtgPackMap35Lot4-3CATCHSPR-101426.pdf
+ \n\nOther: 10/19/2026 : Oct192026PBMtgPackMap15Lots4242-1MorganConsult_101
+ 426.pdf \, Oct192026PBMtgPackMap35Lot4\nhttps://warnernh.gov/tow/meetings/
+ mtgdocs/plan/20261019/Oct192026PBMtgPackMap15Lots4242-1MorganConsult_10142
+ 6.pdf\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:eeac10fc73d12e3104db@granite-docket
+DTSTAMP:20261116T101131Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Warner Planning board
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/meetings/minutes/hc/hc-20261028.pdf
+DESCRIPTION:Minutes: 10/28/2026: Minutes\nhttps://warnernh.gov/meetings/min
+ utes/hc/hc-20261028.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:31b891e3a8de6a8e405a@granite-docket
+DTSTAMP:20261116T101115Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Warner Planning board
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/tow/meetings/agendas/plan/agenda-plan-20261102.pdf
+DESCRIPTION:Agenda: 11/02/2026: agenda-plan-20261102.pdf\nhttps://warnernh.
+ gov/tow/meetings/agendas/plan/agenda-plan-20261102.pdf\n\nMinutes: 11/02/2
+ 026: Minutes\nhttps://warnernh.gov/meetings/minutes/planning/plan-20261102
+ .pdf\n\nMinutes: 11/02/2026 : Nov22026PBMtgPackage.pdf \, Nov22026PBMtgPac
+ kageAgendaandDraftMinutes.pdf\nhttps://warnernh.gov/tow/meetings/mtgdocs/p
+ lan/20261102/Nov22026PBMtgPackage.pdf\n\nMinutes: 11/02/2026 : Nov22026PBM
+ tgPackage.pdf \, Nov22026PBMtgPackageAgendaandDraftMinutes.pdf\nhttps://wa
+ rnernh.gov/tow/meetings/mtgdocs/plan/20261102/Nov22026PBMtgPackageAgendaan
+ dDraftMinutes.pdf\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0f6bbbc2552ef7bbf7a9@granite-docket
+DTSTAMP:20261116T101131Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Warner Planning board
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/meetings/minutes/hc/hc-20261103.pdf
+DESCRIPTION:Minutes: 11/03/2026: Minutes\nhttps://warnernh.gov/meetings/min
+ utes/hc/hc-20261103.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3eda85055170befa4071@granite-docket
+DTSTAMP:20261116T101411Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Warner Planning board
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/tow/meetings/agendas/plan/agenda-plan-20261116.pdf
+DESCRIPTION:Agenda: 11/16/2026: agenda-plan-20261116.pdf\nhttps://warnernh.
+ gov/tow/meetings/agendas/plan/agenda-plan-20261116.pdf\n\nAgenda: 11/16/20
+ 26 : Nov162026PBMtgPackage.pdf\nhttps://warnernh.gov/tow/meetings/mtgdocs/
+ plan/20261116/Nov162026PBMtgPackage.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

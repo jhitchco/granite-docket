@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bow Historic district
+X-WR-CALDESC:Historic district meetings in Bow\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ae4a7a1eeed9ec72ad6f@granite-docket
+DTSTAMP:20261123T105147Z
+DTSTART;TZID=America/New_York:20261013T140000
+DURATION:PT2H
+SUMMARY:Bow Historic district
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_10132026-2791
+DESCRIPTION:Agenda: Heritage Commission Agenda Oct 13\, 2026 Heritage Commi
+ ssion Meeting\nhttps://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_1013202
+ 6-2791\n\nMinutes: Heritage Commission Minutes Oct 13\, 2026 Heritage Comm
+ ission Meeting\nhttps://www.bownh.gov/AgendaCenter/ViewFile/Minutes/_10132
+ 026-2791\n\nMinutes: Oct 13\, 2026 Heritage Commission Meeting\nhttps://bo
+ wnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10132026-2679\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:9482c4101b35446125b8@granite-docket
+DTSTAMP:20261116T082933Z
+DTSTART;TZID=America/New_York:20261110T090000
+DURATION:PT2H
+SUMMARY:Bow Historic district
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_11102026-2802
+DESCRIPTION:Agenda: Heritage Commission Agenda Nov 10\, 2026 Heritage Commi
+ ssion November 10\, 2026 meeting\nhttps://www.bownh.gov/AgendaCenter/ViewF
+ ile/Agenda/_11102026-2802\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

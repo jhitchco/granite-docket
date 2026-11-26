@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sanbornton Select board / council
+X-WR-CALDESC:Select board / council meetings in Sanbornton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b6566b49342a81269da6@granite-docket
+DTSTAMP:20261103T113405Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Minutes/_09302026-45
+ 4
+DESCRIPTION:Minutes: Buildings\, Grounds & Maintenance Committee Minutes Se
+ p 30\, 2026 Buildings\, Grounds & Maintenance Com\nhttps://www.sanborntonn
+ h.org/AgendaCenter/ViewFile/Minutes/_09302026-454\n\nMinutes: Sep 30\, 202
+ 6 Buildings\, Grounds & Maintenance Committee Agenda (PDF)\nhttps://www.sa
+ nborntonnh.org/AgendaCenter/ViewFile/ArchivedMinutes/_09302026-700\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d25ec8b66cec8740e1f@granite-docket
+DTSTAMP:20261103T112252Z
+DTSTART;TZID=America/New_York:20261001T163000
+DURATION:PT2H
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_10012026-453
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 1\, 2026 10.1.2023 Sanbor
+ nton Selectboard Notice of Meeting and Agenda\nhttps://www.sanborntonnh.or
+ g/AgendaCenter/ViewFile/Agenda/_10012026-453\n\nMinutes: Board of Selectme
+ n Minutes Oct 1\, 2026 10.1.2023 Sanbornton Selectboard Notice of Meeting 
+ and Agenda\nhttps://www.sanborntonnh.org/AgendaCenter/ViewFile/Minutes/_10
+ 012026-453\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d1244488d3afac1ff5bc@granite-docket
+DTSTAMP:20261103T112251Z
+DTSTART;TZID=America/New_York:20261007T160000
+DURATION:PT2H
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_10072026-456
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 7\, 2026 — Amended Oct 
+ 23\, 2026 2:25 PM 10.7.2026 Sanbornton Selectboar\nhttps://www.sanborntonn
+ h.org/AgendaCenter/ViewFile/Agenda/_10072026-456\n\nMinutes: Board of Sele
+ ctmen Minutes Oct 7\, 2026 — Amended Oct 23\, 2026 2:25 PM 10.7.2026 San
+ bornton Selectboa\nhttps://www.sanborntonnh.org/AgendaCenter/ViewFile/Minu
+ tes/_10072026-456\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:024ae297d00b4710e738@granite-docket
+DTSTAMP:20261109T100240Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Minutes/_10202026-44
+ 4
+DESCRIPTION:Minutes: Recreation Commission Minutes Oct 20\, 2026 Recreation
+  Commission Meeting\nhttps://www.sanborntonnh.org/AgendaCenter/ViewFile/Mi
+ nutes/_10202026-444\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e846ba9a9ef9ebafa90e@granite-docket
+DTSTAMP:20261109T100210Z
+DTSTART;TZID=America/New_York:20261021T160000
+DURATION:PT2H
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_10212026-460
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 21\, 2026 10.21.2026 Sanb
+ ornton Selectboard Notice of Workshop\, Meeting\nhttps://www.sanborntonnh.
+ org/AgendaCenter/ViewFile/Agenda/_10212026-460\n\nMinutes: Board of Select
+ men Minutes Oct 21\, 2026 10.21.2026 Sanbornton Selectboard Notice of Work
+ shop\, Meetin\nhttps://www.sanborntonnh.org/AgendaCenter/ViewFile/Minutes/
+ _10212026-460\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a451860d84ae5868c6c0@granite-docket
+DTSTAMP:20261103T112348Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Minutes/_10282026-46
+ 1
+DESCRIPTION:Minutes: Buildings\, Grounds & Maintenance Committee Minutes Oc
+ t 28\, 2026 Buildings\, Grounds & Maintenance Com\nhttps://www.sanborntonn
+ h.org/AgendaCenter/ViewFile/Minutes/_10282026-461\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fba47265c4501a47ae77@granite-docket
+DTSTAMP:20261103T112250Z
+DTSTART;TZID=America/New_York:20261104T153000
+DURATION:PT2H
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_11042026-466
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 4\, 2026 11.4.2026 Sanbor
+ nton Selectboard Notice of Workshop\, Meeting a\nhttps://www.sanborntonnh.
+ org/AgendaCenter/ViewFile/Agenda/_11042026-466\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e306dc137f0c66cee433@granite-docket
+DTSTAMP:20261109T100200Z
+DTSTART;TZID=America/New_York:20261109T150000
+DURATION:PT2H
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_11092026-469
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 9\, 2026 11.9.2026 Notice
+  of Selectboard Meeting\nhttps://www.sanborntonnh.org/AgendaCenter/ViewFil
+ e/Agenda/_11092026-469\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a1aa1d820f39a877d5d@granite-docket
+DTSTAMP:20261116T100959Z
+DTSTART;TZID=America/New_York:20261110T150000
+DURATION:PT2H
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_11102026-470
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 10\, 2026 11.10.2026 Noti
+ ce of Selectboard Meeting\nhttps://www.sanborntonnh.org/AgendaCenter/ViewF
+ ile/Agenda/_11102026-470\n\nMinutes: Recreation Commission Minutes Nov 10\
+ , 2026 Recreation Commission Meeting\nhttps://www.sanborntonnh.org/AgendaC
+ enter/ViewFile/Minutes/_11102026-467\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f8cdf43e836a7fd6b27@granite-docket
+DTSTAMP:20261109T100140Z
+DTSTART;TZID=America/New_York:20261113T150000
+DURATION:PT2H
+SUMMARY:Sanbornton Select board / council
+LOCATION:Sanbornton\, NH
+URL:https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_11132026-471
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 13\, 2026 11.13.2026 Noti
+ ce of Selectboard Meeting\nhttps://www.sanborntonnh.org/AgendaCenter/ViewF
+ ile/Agenda/_11132026-471\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

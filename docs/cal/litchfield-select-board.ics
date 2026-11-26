@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Litchfield Select board / council
+X-WR-CALDESC:Select board / council meetings in Litchfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1b1726dcc97f064835b1@granite-docket
+DTSTAMP:20261103T100616Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-963
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting (PDF)\nhttps://litch
+ fieldnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-963\n\nNotice: Re-Cap a
+ nd Actions\nhttps://litchfieldnh.gov/DocumentCenter/View/1163/Board-of-Sel
+ ectmen-Recap-Sept-28-2026\n\nMinutes: Sep 28\, 2026 Board of Selectmen Reg
+ ular Meeting (PDF)\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/Minutes
+ /_09282026-963\n\nMinutes: Sep 28\, 2026 Board of Selectmen Regular Meetin
+ g (PDF)\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_0
+ 9282026-733\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:9c61cf77d9732e3d01b9@granite-docket
+DTSTAMP:20261109T072125Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-964
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://litchfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10012026-964\n\nAgenda: Conservation Commission 
+ Meeting\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-9
+ 65\n\nMinutes: Oct 1\, 2026 Budget Committee Meeting\nhttps://litchfieldnh
+ .gov/AgendaCenter/ViewFile/Minutes/_10012026-964\n\nMinutes: Oct 1\, 2026 
+ Conservation Commission Meeting\nhttps://litchfieldnh.gov/AgendaCenter/Vie
+ wFile/Minutes/_10012026-965\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:79109325896b3503edff@granite-docket
+DTSTAMP:20261103T095534Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-966
+DESCRIPTION:Agenda: Capital Improvement Committee Regular Meeting (PDF)\nht
+ tps://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-966\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:747ad836bb1f43d1fc32@granite-docket
+DTSTAMP:20261103T095525Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-967
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://litchfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10082026-967\n\nMinutes: Oct 8\, 2026 Budget Com
+ mittee Meeting\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10
+ 082026-967\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:33eee740dadc0a2c7677@granite-docket
+DTSTAMP:20261103T095623Z
+DTSTART;TZID=America/New_York:20261013T193000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-970
+DESCRIPTION:Agenda: Recreation Commission Regular Meeting (PDF)\nhttps://li
+ tchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-970\n\nMinutes: Oct 
+ 13\, 2026 Recreation Commission Regular Meeting (PDF)\nhttps://litchfieldn
+ h.gov/AgendaCenter/ViewFile/Minutes/_10132026-970\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cf35a14c7a237954e92c@granite-docket
+DTSTAMP:20261103T095654Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-971
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting (PDF)\nhttps://litch
+ fieldnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-971\n\nMinutes: Oct 14\
+ , 2026 Board of Selectmen Regular Meeting (PDF)\nhttps://litchfieldnh.gov/
+ AgendaCenter/ViewFile/Minutes/_10142026-971\n\nMinutes: Oct 14\, 2026 Boar
+ d of Selectmen Regular Meeting (PDF)\nhttps://litchfieldnh.gov/AgendaCente
+ r/ViewFile/ArchivedMinutes/_10142026-734\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c855de449828a54625d5@granite-docket
+DTSTAMP:20261103T095601Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-969
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://litchfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10152026-969\n\nAgenda: Heritage Commission Meet
+ ing\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-968\n
+ \nMinutes: Oct 15\, 2026 Budget Committee Meeting\nhttps://litchfieldnh.go
+ v/AgendaCenter/ViewFile/Minutes/_10152026-969\n\nMinutes: Oct 15\, 2026 He
+ ritage Commission Meeting\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/
+ Minutes/_10152026-968\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b934bb53d3f5e133b5a1@granite-docket
+DTSTAMP:20261103T095457Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-974
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting (PDF)\nhttps://litch
+ fieldnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-974\n\nMinutes: Oct 26\
+ , 2026 Board of Selectmen Regular Meeting (PDF)\nhttps://litchfieldnh.gov/
+ AgendaCenter/ViewFile/Minutes/_10262026-974\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:336c239f2b008b3b2f1e@granite-docket
+DTSTAMP:20261116T072434Z
+DTSTART;TZID=America/New_York:20261027T193000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-975
+DESCRIPTION:Agenda: Recreation Commission Meeting\nhttps://litchfieldnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10272026-975\n\nMinutes: Oct 27\, 2026 Recr
+ eation Commission Meeting\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/
+ Minutes/_10272026-975\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e2185181a1982d63df41@granite-docket
+DTSTAMP:20261103T095534Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-977
+DESCRIPTION:Agenda: Capital Improvement Committee Regular Meeting\nhttps://
+ litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-977\n\nMinutes: Oc
+ t 28\, 2026 Capital Improvement Committee Regular Meeting\nhttps://litchfi
+ eldnh.gov/AgendaCenter/ViewFile/Minutes/_10282026-977\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c3b770fb1191adacf62a@granite-docket
+DTSTAMP:20261116T072404Z
+DTSTART;TZID=America/New_York:20261105T183000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-979
+DESCRIPTION:Agenda: Conservation Commission Meeting\nhttps://litchfieldnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11052026-979\n\nMinutes: Nov 5\, 2026 Con
+ servation Commission Meeting\nhttps://litchfieldnh.gov/AgendaCenter/ViewFi
+ le/Minutes/_11052026-979\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1dee1365bf8b53f8c6c4@granite-docket
+DTSTAMP:20261116T072345Z
+DTSTART;TZID=America/New_York:20261109T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-980
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting (PDF)\nhttps://litch
+ fieldnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-980\n\nMinutes: Nov 9\,
+  2026 Board of Selectmen Regular Meeting (PDF)\nhttps://litchfieldnh.gov/A
+ gendaCenter/ViewFile/Minutes/_11092026-980\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f8eb12fdd861fae2bb11@granite-docket
+DTSTAMP:20261123T072325Z
+DTSTART;TZID=America/New_York:20261110T193000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-981
+DESCRIPTION:Agenda: Recreation Commission Meeting\nhttps://litchfieldnh.gov
+ /AgendaCenter/ViewFile/Agenda/_11102026-981\n\nMinutes: Nov 10\, 2026 Recr
+ eation Commission Meeting\nhttps://litchfieldnh.gov/AgendaCenter/ViewFile/
+ Minutes/_11102026-981\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7474b6a128c860133ba9@granite-docket
+DTSTAMP:20261123T072305Z
+DTSTART;TZID=America/New_York:20261111T183000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11112026-983
+DESCRIPTION:Agenda: Circumferential HWY Exploratory Comm.\nhttps://litchfie
+ ldnh.gov/AgendaCenter/ViewFile/Agenda/_11112026-983\n\nMinutes: Nov 11\, 2
+ 026 Circumferential HWY Exploratory Comm.\nhttps://litchfieldnh.gov/Agenda
+ Center/ViewFile/Minutes/_11112026-983\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:19b09f6af4835063422e@granite-docket
+DTSTAMP:20261103T095524Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-978
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://litchfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_11122026-978\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e31ef61377186ce888e8@granite-docket
+DTSTAMP:20261123T072315Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-984
+DESCRIPTION:Agenda: Heritage Commission Regular Meeting (PDF)\nhttps://litc
+ hfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-984\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d6fcd7e54c2dc3687be@granite-docket
+DTSTAMP:20261123T072255Z
+DTSTART;TZID=America/New_York:20261123T180000
+DURATION:PT2H
+SUMMARY:Litchfield Select board / council
+LOCATION:Litchfield\, NH
+URL:https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11232026-985
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting (PDF)\nhttps://litch
+ fieldnh.gov/AgendaCenter/ViewFile/Agenda/_11232026-985\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Andover Select board / council
+X-WR-CALDESC:Select board / council meetings in Andover\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cb60d71c22530416307f@granite-docket
+DTSTAMP:20261103T114009Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10012026-414
+DESCRIPTION:Agenda: Select Board Agenda Oct 1\, 2026 Select Board Meeting A
+ genda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10012026-4
+ 14\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:68c4b832f25d89b2db5d@granite-docket
+DTSTAMP:20261103T114009Z
+DTSTART;TZID=America/New_York:20261008T180000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10082026-416
+DESCRIPTION:Agenda: Select Board Agenda Oct 8\, 2026 Select Board Work Sess
+ ion Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10082
+ 026-416\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ad2061f69a836fc8e7@granite-docket
+DTSTAMP:20261103T114009Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-418
+DESCRIPTION:Agenda: Select Board Agenda Oct 15\, 2026 Select Board Meeting 
+ Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-
+ 418\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0d86e202d48cbc235e1@granite-docket
+DTSTAMP:20261103T114008Z
+DTSTART;TZID=America/New_York:20261017T083000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10172026-422
+DESCRIPTION:Agenda: Select Board Agenda Oct 17\, 2026 Select Board Work Ses
+ sion Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_1017
+ 2026-422\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ddec7fdfa4d32ba24361@granite-docket
+DTSTAMP:20261116T105028Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11052026-428
+DESCRIPTION:Agenda: Select Board Agenda Nov 5\, 2026 Select Board Meeting A
+ genda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11052026-4
+ 28\n\nAgenda: Select Board Meeting Agenda\nhttps://www.andover-nh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_11052026-317\n\nOther: FEMA LOMC-VALID L
+ etter - November 5\, 2026\nhttps://www.andover-nh.gov/1687/FEMA-LOMC-VALID
+ -Letter---November-5-2026\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a74fa9b0166ceec0ed3@granite-docket
+DTSTAMP:20261109T101638Z
+DTSTART;TZID=America/New_York:20261106T160000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11062026-429
+DESCRIPTION:Agenda: Select Board Agenda Nov 6\, 2026 Select Board Non-Publi
+ c Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_1106202
+ 6-429\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+END:VCALENDAR

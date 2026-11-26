@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meredith Planning board
+X-WR-CALDESC:Planning board meetings in Meredith\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b875e903587e44958d59@granite-docket
+DTSTAMP:20261103T101422Z
+DTSTART;TZID=America/New_York:20261021T160000
+DURATION:PT2H
+SUMMARY:Meredith Planning board
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-1430
+DESCRIPTION:Agenda: CIP Advisory Committee Agenda Oct 21\, 2026 This meetin
+ g will be to review the Department requests an\nhttps://www.meredithnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10212026-1430\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:95575d9fde4c8b09a8c4@granite-docket
+DTSTAMP:20261103T103703Z
+DTSTART;TZID=America/New_York:20261027T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Planning board
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-1424
+DESCRIPTION:Agenda: Planning Board Agenda Oct 27\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10272
+ 026-1424\n\nAgenda: Planning Board Meeting Agenda\nhttps://www.meredithnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-569\n\nAgenda: Planning
+  Board Meeting Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_10272026-566\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4dc291cf6e4b16eb1be1@granite-docket
+DTSTAMP:20261103T101422Z
+DTSTART;TZID=America/New_York:20261028T160000
+DURATION:PT2H
+SUMMARY:Meredith Planning board
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-1432
+DESCRIPTION:Agenda: CIP Advisory Committee Agenda Oct 28\, 2026 This will b
+ e the final meeting of the CIP committee for t\nhttps://www.meredithnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10282026-1432\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

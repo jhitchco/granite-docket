@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newport Planning board
+X-WR-CALDESC:Planning board meetings in Newport\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6e074c4883b5c667ce02@granite-docket
+DTSTAMP:20261103T110027Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Newport Planning board
+LOCATION:Newport\, NH
+URL:https://newportnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-235
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://newportn
+ h.gov/AgendaCenter/ViewFile/Agenda/_10282026-235\n\nAgenda: Planning Board
+  Regular Meeting Agenda\nhttps://newportnh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_10282026-48\n\nNotice: Planning Board & Master Plan: October 28
+ \, 2026 Additional Info... Home Posted on October 14\, 2026\nhttps://newpo
+ rtnh.gov/DocumentCenter/View/2936/20261028-Planning-Board-NoticeMaster-Pla
+ n\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d66ce6fca6c71c0c36a0@granite-docket
+DTSTAMP:20261109T085446Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Newport Planning board
+LOCATION:Newport\, NH
+URL:https://newportnh.gov/DocumentCenter/View/2795/Board--Committee-Vacanci
+ es
+DESCRIPTION:Other: Board & Committee Vacancies\nhttps://newportnh.gov/Docum
+ entCenter/View/2795/Board--Committee-Vacancies\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,741 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Claremont NH meetings
+X-WR-CALDESC:Public meetings of Claremont\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1a3f32068c70b17908ac@granite-docket
+DTSTAMP:20261103T092605Z
+DTSTART;TZID=America/New_York:20261015T140000
+DURATION:PT2H
+SUMMARY:Claremont 10 19 26 CHA AGENDA
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/10 19 2026 CHA eval mtg_1792097633.pdf
+DESCRIPTION:Agenda: 10 19 26 CHA AGENDA\nhttps://www.claremontnh.com/coreco
+ de/uploads/document6/uploaded_pdfs/corecode/10 19 2026 CHA eval mtg_179209
+ 7633.pdf\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e58c19bd18dfe22812e8@granite-docket
+DTSTAMP:20261103T092730Z
+DTSTART;TZID=America/New_York:20261021T090000
+DURATION:PT2H
+SUMMARY:Claremont attachment1
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/10 21 26 FTH REVISED AGENDA_1792513059.pdf
+DESCRIPTION:Agenda: attachment1\nhttps://www.claremontnh.com/corecode/uploa
+ ds/document6/uploaded_pdfs/corecode/10 21 26 FTH REVISED AGENDA_1792513059
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:36c19f8effb016899a8e@granite-docket
+DTSTAMP:20261103T092635Z
+DTSTART;TZID=America/New_York:20261022T181500
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Historic district
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/10 22 26 HDC MEETING PACKET_1791905332.pdf
+DESCRIPTION:Agenda: October 22\, 2026 HDC Meeting Packet\nhttps://www.clare
+ montnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/10 22 26 HDC 
+ MEETING PACKET_1791905332.pdf\n\nNotice: October 22\, 2026 HDC Public Noti
+ ce\nhttps://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/c
+ orecode/10 22 26 HDC PN _1791807167.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a34dfa4061eaa7bdae65@granite-docket
+DTSTAMP:20261103T092730Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Claremont Planning board
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/10 22 26 CDA MEETING_1793043509.pdf
+DESCRIPTION:Minutes: attachment1\nhttps://www.claremontnh.com/corecode/uplo
+ ads/document6/uploaded_pdfs/corecode/10 22 26 CDA MEETING_1793043509.pdf\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:11fb348e73b074806fd2@granite-docket
+DTSTAMP:20261103T092937Z
+DTSTART;TZID=America/New_York:20261028T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont pdf version
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/pressroom/uploaded_pdfs/co
+ recode/Supervisors meet notice_902.pdf
+DESCRIPTION:Notice: pdf version\nhttps://www.claremontnh.com/corecode/uploa
+ ds/pressroom/uploaded_pdfs/corecode/Supervisors meet notice_902.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a3606d590e72e63de6@granite-docket
+DTSTAMP:20261103T092314Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Select board / council
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/CP 2026-10-28_1793021768.pdf
+DESCRIPTION:Agenda: 2026-10-28 Council Packet\nhttps://www.claremontnh.com/
+ corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-10-28_1793021768
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:603a1257aa141b5076ad@granite-docket
+DTSTAMP:20261123T070637Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:Claremont Frances Tolles Home Financials October 2026
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/Oct 26 Financials_1795035633.pdf
+DESCRIPTION:Other: Frances Tolles Home Financials October 2026\nhttps://www
+ .claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/Oct 26 
+ Financials_1795035633.pdf\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:52f7d7694b7c262e4009@granite-docket
+DTSTAMP:20261103T092249Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Zoning / ZBA
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 2 26  ZB MEETING PACKET_1793112702.pdf
+DESCRIPTION:Agenda: November 2\, 2026 Zoning Board Meeting Packet\nhttps://
+ www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 2
+  26  ZB MEETING PACKET_1793112702.pdf\n\nNotice: November 2\, 2026 Zoning 
+ Board Public Notice\nhttps://www.claremontnh.com/corecode/uploads/document
+ 6/uploaded_pdfs/corecode/11 2 26 ZB PN_1792437610.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1ab5e07d4441197f92@granite-docket
+DTSTAMP:20261103T092904Z
+DTSTART;TZID=America/New_York:20261103T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Conservation commission
+LOCATION:Claremont\, NH
+URL:https://coing-user-docs.s3.eu-central-1.amazonaws.com/user_documents/74
+ 5542/dec2032c166e9b9132b2db27b2f692a4.pdf?X-Amz-Content-Sha256=UNSIGNED-PA
+ YLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVF7B5QLG4KLDMK
+ VN%2F20261103%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20261103T14290
+ 0Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=5431328a77
+ 6425244dc12e0a0eb3978a3cd93de5117ff7f84bff9d0ee5dc75d0
+DESCRIPTION:Agenda: Agenda\nhttps://coing-user-docs.s3.eu-central-1.amazona
+ ws.com/user_documents/745542/dec2032c166e9b9132b2db27b2f692a4.pdf?X-Amz-Co
+ ntent-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Crede
+ ntial=AKIAVF7B5QLG4KLDMKVN%2F20261103%2Feu-central-1%2Fs3%2Faws4_request&X
+ -Amz-Date=20261103T142900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-
+ Amz-Signature=5431328a776425244dc12e0a0eb3978a3cd93de5117ff7f84bff9d0ee5dc
+ 75d0\n\nNotice: Meeting Documents\nhttps://coing-user-docs.s3.eu-central-1
+ .amazonaws.com/user_documents/745542/7c2a98f4fe7c33d74b11aafe83950a25.pdf?
+ X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-A
+ mz-Credential=AKIAVF7B5QLG4KLDMKVN%2F20261103%2Feu-central-1%2Fs3%2Faws4_r
+ equest&X-Amz-Date=20261103T142900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=
+ 10800&X-Amz-Signature=5a044337b4e07cf84561e5e62cf8d91b24c879c33dfc4365322e
+ 975e6d66562e\n\nOther: Meeting Documents\nhttps://coing-user-docs.s3.eu-ce
+ ntral-1.amazonaws.com/user_documents/745542/b184af71a3b7fb3dc36464f9cc6cd1
+ 20.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA
+ 256&X-Amz-Credential=AKIAVF7B5QLG4KLDMKVN%2F20261103%2Feu-central-1%2Fs3%2
+ Faws4_request&X-Amz-Date=20261103T142900Z&X-Amz-SignedHeaders=host&X-Amz-E
+ xpires=10800&X-Amz-Signature=30c2bc4167cb55c5d372b0b7ec414a087a46600ef475e
+ 6ec0c0415606f8f5b9d\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b830512c80baa136f3@granite-docket
+DTSTAMP:20261109T070445Z
+DTSTART;TZID=America/New_York:20261103T133000
+DURATION:PT2H
+SUMMARY:Claremont 11 10 26 CHA AGENDA
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 10 2026 CHA Agenda_1793832363.pdf
+DESCRIPTION:Agenda: 11 10 26 CHA AGENDA\nhttps://www.claremontnh.com/coreco
+ de/uploads/document6/uploaded_pdfs/corecode/11 10 2026 CHA Agenda_17938323
+ 63.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4c583a190d21b66e3703@granite-docket
+DTSTAMP:20261103T092700Z
+DTSTART;TZID=America/New_York:20261104T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Planning board
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 4 26  EPA MEETING PACKET_1792511211.pdf
+DESCRIPTION:Agenda: November 4\, 2026 Steering Committee For EPA Multipurpo
+ se Grant Meeting Packet\nhttps://www.claremontnh.com/corecode/uploads/docu
+ ment6/uploaded_pdfs/corecode/11 4 26  EPA MEETING PACKET_1792511211.pdf\n\
+ nNotice: November 4\, 2026 Steering Committee For EPA Multipurpose Grant P
+ ublic Notice\nhttps://www.claremontnh.com/corecode/uploads/document6/uploa
+ ded_pdfs/corecode/11 4 26 EPA PUBLIC NOTICE_1791395234.pdf\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:01451a859726e94fa41d@granite-docket
+DTSTAMP:20261103T092242Z
+DTSTART;TZID=America/New_York:20261109T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Planning board
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 9 26 PB AGENDA_1793633006.pdf
+DESCRIPTION:Agenda: Planning Board Agenda for November 9\, 2026\nhttps://ww
+ w.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 2
+ 6 PB AGENDA_1793633006.pdf\n\nAgenda: Planning Board Meeting November 9\, 
+ 2026 Packet Part 1\nhttps://www.claremontnh.com/corecode/uploads/document6
+ /uploaded_pdfs/corecode/11 9 26 PB Meeting Packet Part 1_1793655644.pdf\n\
+ nAgenda: Planning Board Meeting November 9\, 2026 Packet Part 2\nhttps://w
+ ww.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 
+ 26 PB Meeting Packet Part 2_1793655689.pdf\n\nNotice: Planning Board Publi
+ c Notice for November 9\, 2026\nhttps://www.claremontnh.com/corecode/uploa
+ ds/document6/uploaded_pdfs/corecode/11 9 26 PB PN_1793105732.pdf\n\nOther:
+  Data Center Discussion Information\nhttps://www.claremontnh.com/corecode/
+ uploads/document6/uploaded_pdfs/corecode/Data Center Definitions for Discu
+ ssion_Planning Board 110926_1793657259.pdf\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b808be73f2ccc5633dc9@granite-docket
+DTSTAMP:20261109T070622Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Conservation commission
+LOCATION:Claremont\, NH
+URL:https://coing-user-docs.s3.eu-central-1.amazonaws.com/user_documents/74
+ 5542/dec2032c166e9b9132b2db27b2f692a4.pdf?X-Amz-Content-Sha256=UNSIGNED-PA
+ YLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVF7B5QLG4KLDMK
+ VN%2F20261109%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20261109T07061
+ 9Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=d4a0d7b7bd
+ a0680144428d8ecc2da1825910f0a4da0c33221ecf80d1b4a49089
+DESCRIPTION:Agenda: Agenda\nhttps://coing-user-docs.s3.eu-central-1.amazona
+ ws.com/user_documents/745542/dec2032c166e9b9132b2db27b2f692a4.pdf?X-Amz-Co
+ ntent-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Crede
+ ntial=AKIAVF7B5QLG4KLDMKVN%2F20261109%2Feu-central-1%2Fs3%2Faws4_request&X
+ -Amz-Date=20261109T070619Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-
+ Amz-Signature=d4a0d7b7bda0680144428d8ecc2da1825910f0a4da0c33221ecf80d1b4a4
+ 9089\n\nNotice: Meeting Documents\nhttps://coing-user-docs.s3.eu-central-1
+ .amazonaws.com/user_documents/745542/7c2a98f4fe7c33d74b11aafe83950a25.pdf?
+ X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-A
+ mz-Credential=AKIAVF7B5QLG4KLDMKVN%2F20261109%2Feu-central-1%2Fs3%2Faws4_r
+ equest&X-Amz-Date=20261109T070619Z&X-Amz-SignedHeaders=host&X-Amz-Expires=
+ 10800&X-Amz-Signature=59082f64f312de2f691b3e8cec04395dcefa5ed784d7accba3db
+ 6f591f6ab401\n\nOther: Meeting Documents\nhttps://coing-user-docs.s3.eu-ce
+ ntral-1.amazonaws.com/user_documents/745542/b184af71a3b7fb3dc36464f9cc6cd1
+ 20.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA
+ 256&X-Amz-Credential=AKIAVF7B5QLG4KLDMKVN%2F20261109%2Feu-central-1%2Fs3%2
+ Faws4_request&X-Amz-Date=20261109T070619Z&X-Amz-SignedHeaders=host&X-Amz-E
+ xpires=10800&X-Amz-Signature=2103cac592af3c34fe47a5bf56abaa034aeeb559a43e9
+ 99c2e30ef4a39173a02\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:124728fa6aa20bfc92af@granite-docket
+DTSTAMP:20261116T070944Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Select board / council
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/CP 2026-11-10_1794321309.pdf
+DESCRIPTION:Agenda: 2026-11-10 Council Packet Part 1\nhttps://www.claremont
+ nh.com/corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-11-10_179
+ 4321309.pdf\n\nAgenda: 2026-11-10 Council Packet Part 2\nhttps://www.clare
+ montnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-11-10
+  Part 2_1794321591.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:63ee765be34a0f9735c8@granite-docket
+DTSTAMP:20261103T092551Z
+DTSTART;TZID=America/New_York:20261110T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont November 10\, 2026 Claremont Arts\, Histo
+ ry & Culture Resources Preserva
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 10 26 CLAREMONT ARTS MEETING PACKET_1793373223.pdf
+DESCRIPTION:Agenda: November 10\, 2026 Claremont Arts\, History & Culture R
+ esources Preservation Commission Meeting Packet\nhttps://www.claremontnh.c
+ om/corecode/uploads/document6/uploaded_pdfs/corecode/11 10 26 CLAREMONT AR
+ TS MEETING PACKET_1793373223.pdf\n\nNotice: November 10\, 2026 Claremont A
+ rts\, History & Culture Resources Preservation Commission Public Notice\nh
+ ttps://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/coreco
+ de/11 10  26  Claremont Arts PN_1791828864.pdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:89a4944e4f736acc712f@granite-docket
+DTSTAMP:20261103T092649Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Claremont November 10\, 2026 PR AGENDA
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 10 26 Rec Commission Meeting Agenda_1793285598.pdf
+DESCRIPTION:Agenda: November 10\, 2026 PR AGENDA\nhttps://www.claremontnh.c
+ om/corecode/uploads/document6/uploaded_pdfs/corecode/11 10 26 Rec Commissi
+ on Meeting Agenda_1793285598.pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9bca02b73113b69eb822@granite-docket
+DTSTAMP:20261116T071200Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Conservation commission
+LOCATION:Claremont\, NH
+URL:https://coing-user-docs.s3.eu-central-1.amazonaws.com/user_documents/74
+ 5542/dec2032c166e9b9132b2db27b2f692a4.pdf?X-Amz-Content-Sha256=UNSIGNED-PA
+ YLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVF7B5QLG4KLDMK
+ VN%2F20261116%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20261116T07115
+ 4Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=59c6c9843d
+ 5923431c7f043979c31522d252eaba250cbdddc570c5621bb38d5a
+DESCRIPTION:Agenda: Agenda\nhttps://coing-user-docs.s3.eu-central-1.amazona
+ ws.com/user_documents/745542/dec2032c166e9b9132b2db27b2f692a4.pdf?X-Amz-Co
+ ntent-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Crede
+ ntial=AKIAVF7B5QLG4KLDMKVN%2F20261116%2Feu-central-1%2Fs3%2Faws4_request&X
+ -Amz-Date=20261116T071154Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-
+ Amz-Signature=59c6c9843d5923431c7f043979c31522d252eaba250cbdddc570c5621bb3
+ 8d5a\n\nNotice: Meeting Documents\nhttps://coing-user-docs.s3.eu-central-1
+ .amazonaws.com/user_documents/745542/7c2a98f4fe7c33d74b11aafe83950a25.pdf?
+ X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-A
+ mz-Credential=AKIAVF7B5QLG4KLDMKVN%2F20261116%2Feu-central-1%2Fs3%2Faws4_r
+ equest&X-Amz-Date=20261116T071154Z&X-Amz-SignedHeaders=host&X-Amz-Expires=
+ 10800&X-Amz-Signature=82244b087b7b97780b3c40982131198aeaebae876267f0a6a46b
+ 0b9f61c5c111\n\nOther: Meeting Documents\nhttps://coing-user-docs.s3.eu-ce
+ ntral-1.amazonaws.com/user_documents/745542/b184af71a3b7fb3dc36464f9cc6cd1
+ 20.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA
+ 256&X-Amz-Credential=AKIAVF7B5QLG4KLDMKVN%2F20261116%2Feu-central-1%2Fs3%2
+ Faws4_request&X-Amz-Date=20261116T071154Z&X-Amz-SignedHeaders=host&X-Amz-E
+ xpires=10800&X-Amz-Signature=14e04de8be9d6661e4d518504c6761e34f57fb9ceebb2
+ 0e51040925755ccf937\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5e62a24472b0923f156e@granite-docket
+DTSTAMP:20261116T071023Z
+DTSTART;TZID=America/New_York:20261117T120000
+DURATION:PT2H
+SUMMARY:Claremont Select board / council
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/AGENDA_DRAFT_CCMC Board Meeting 11-17-2026_1794575154.pdf
+DESCRIPTION:Agenda: 11 17 26 CCMC AGENDA\nhttps://www.claremontnh.com/corec
+ ode/uploads/document6/uploaded_pdfs/corecode/AGENDA_DRAFT_CCMC Board Meeti
+ ng 11-17-2026_1794575154.pdf\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cac69d7b8196722f55dd@granite-docket
+DTSTAMP:20261123T070538Z
+DTSTART;TZID=America/New_York:20261118T090000
+DURATION:PT2H
+SUMMARY:Claremont November 18\, 2026 Frances Tolles Home Agenda
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/Tolles Home November 18 2026 Agenda_1794845490.pdf
+DESCRIPTION:Agenda: November 18\, 2026 Frances Tolles Home Agenda\nhttps://
+ www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/Toll
+ es Home November 18 2026 Agenda_1794845490.pdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec77094ac7c5004fd9a5@granite-docket
+DTSTAMP:20261103T092609Z
+DTSTART;TZID=America/New_York:20261118T173000
+DURATION:PT2H
+SUMMARY:Claremont November 18\, 2026 Claremont Police Commission Meeting Ag
+ enda & Public 
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 18 26 CPC PN & AGENDA_1793016617.pdf
+DESCRIPTION:Agenda: November 18\, 2026 Claremont Police Commission Meeting 
+ Agenda & Public Notice\nhttps://www.claremontnh.com/corecode/uploads/docum
+ ent6/uploaded_pdfs/corecode/11 18 26 CPC PN & AGENDA_1793016617.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba45110b552d3578bb4@granite-docket
+DTSTAMP:20261116T071241Z
+DTSTART;TZID=America/New_York:20261119T073000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Planning board
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 19 26 CDA MEETING PACKET_1794491070.pdf
+DESCRIPTION:Agenda: November 19\, 2026 CDA Meeting Packet\nhttps://www.clar
+ emontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 19 26 CDA
+  MEETING PACKET_1794491070.pdf\n\nNotice: November 19\, 2026 CDA Public No
+ tice\nhttps://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs
+ /corecode/11 19 26 CDA PUBLIC NOTICE_1792770077.pdf\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:76a0bfc2b95c76cc30a8@granite-docket
+DTSTAMP:20261116T071035Z
+DTSTART;TZID=America/New_York:20261119T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Energy committee
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 19 26 EAC MEETING PACKET_1793642073.pdf
+DESCRIPTION:Agenda: 11 19 26 Energy Advisory Committee Meeting Packet\nhttp
+ s://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/
+ 11 19 26 EAC MEETING PACKET_1793642073.pdf\n\nAgenda: 11 19 26 Energy Advi
+ sory Committee Meeting Packet\nhttps://www.claremontnh.com/corecode/upload
+ s/document6/uploaded_pdfs/corecode/11 19 26 EAC MEETING PACKET_1794252020.
+ pdf\n\nNotice: 11 19 26 Energy Advisory Committee Public Notice - STARTING
+  AT 5:00 PM\nhttps://www.claremontnh.com/corecode/uploads/document6/upload
+ ed_pdfs/corecode/11 19 26  EAC PN_1792523219.pdf\n\nNotice: 11 19 26 Energ
+ y Advisory Committee Public Notice\nhttps://www.claremontnh.com/corecode/u
+ ploads/document6/uploaded_pdfs/corecode/11 19 26  EAC PN_1794252122.pdf\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e2dd4abb9c46ab11b803@granite-docket
+DTSTAMP:20261109T070456Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Conservation commission
+LOCATION:Claremont\, NH
+URL:http://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/cor
+ ecode/11 19  26 CC MEETING PACKET_1793820403.pdf
+DESCRIPTION:Agenda: 11 19 26 Conservation Commission Meeting Packet\nhttp:/
+ /www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 
+ 19  26 CC MEETING PACKET_1793820403.pdf\n\nNotice: 11 19 26 Conservation C
+ ommission Public Notice\nhttps://www.claremontnh.com/corecode/uploads/docu
+ ment6/uploaded_pdfs/corecode/11 19  26 CC PN_1791394533.pdf\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0db890e8c6294f502590@granite-docket
+DTSTAMP:20261123T070422Z
+DTSTART;TZID=America/New_York:20261123T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Planning board
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 23 26 PB MEETING PACKET_1794859946.pdf
+DESCRIPTION:Agenda: Planning Board Meeting Packet for November 23\, 2026\nh
+ ttps://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/coreco
+ de/11 23 26 PB MEETING PACKET_1794859946.pdf\n\nNotice: Planning Board Pub
+ lic Notice for November 23\, 2026\nhttps://www.claremontnh.com/corecode/up
+ loads/document6/uploaded_pdfs/corecode/11 23 26 PB PN_1794319195.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:92ca60c390006c1beb45@granite-docket
+DTSTAMP:20261123T070654Z
+DTSTART;TZID=America/New_York:20261123T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Conservation commission
+LOCATION:Claremont\, NH
+URL:https://coing-user-docs.s3.eu-central-1.amazonaws.com/user_documents/74
+ 5542/dec2032c166e9b9132b2db27b2f692a4.pdf?X-Amz-Content-Sha256=UNSIGNED-PA
+ YLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVF7B5QLG4KLDMK
+ VN%2F20261123%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20261123T05455
+ 1Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-Amz-Signature=b04a3eccc9
+ 15aa53e5d72b4cf141f44283403212200360db3b5b6772ca7a0e10
+DESCRIPTION:Agenda: Agenda\nhttps://coing-user-docs.s3.eu-central-1.amazona
+ ws.com/user_documents/745542/dec2032c166e9b9132b2db27b2f692a4.pdf?X-Amz-Co
+ ntent-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Crede
+ ntial=AKIAVF7B5QLG4KLDMKVN%2F20261123%2Feu-central-1%2Fs3%2Faws4_request&X
+ -Amz-Date=20261123T054551Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10800&X-
+ Amz-Signature=b04a3eccc915aa53e5d72b4cf141f44283403212200360db3b5b6772ca7a
+ 0e10\n\nNotice: Meeting Documents\nhttps://coing-user-docs.s3.eu-central-1
+ .amazonaws.com/user_documents/745542/7c2a98f4fe7c33d74b11aafe83950a25.pdf?
+ X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-A
+ mz-Credential=AKIAVF7B5QLG4KLDMKVN%2F20261123%2Feu-central-1%2Fs3%2Faws4_r
+ equest&X-Amz-Date=20261123T054551Z&X-Amz-SignedHeaders=host&X-Amz-Expires=
+ 10800&X-Amz-Signature=e4a5df17ccb55b3a5fc4a4b4ef3c953605726a376c10c1623fbb
+ 665a585c1f2c\n\nOther: Meeting Documents\nhttps://coing-user-docs.s3.eu-ce
+ ntral-1.amazonaws.com/user_documents/745542/b184af71a3b7fb3dc36464f9cc6cd1
+ 20.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA
+ 256&X-Amz-Credential=AKIAVF7B5QLG4KLDMKVN%2F20261123%2Feu-central-1%2Fs3%2
+ Faws4_request&X-Amz-Date=20261123T054551Z&X-Amz-SignedHeaders=host&X-Amz-E
+ xpires=10800&X-Amz-Signature=ae341d3ef3ab3d6b7401ddf81f27795eb4568402b4768
+ fd1f437f0a545e657c0\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:514c0315c9c7369183f6@granite-docket
+DTSTAMP:20261123T070800Z
+DTSTART;TZID=America/New_York:20261201T110000
+DURATION:PT2H
+SUMMARY:Claremont Planning board
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/12 1 26 TTF PN  AGENDA__1795031670.pdf
+DESCRIPTION:Agenda: Trustees of the Trust Funds Public Notice & Agenda for 
+ December 1\,2026\nhttps://www.claremontnh.com/corecode/uploads/document6/u
+ ploaded_pdfs/corecode/12 1 26 TTF PN  AGENDA__1795031670.pdf\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:536026d75499983e2951@granite-docket
+DTSTAMP:20261123T070552Z
+DTSTART;TZID=America/New_York:20261202T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Planning board
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/12 2 26  EPA MEETING PACKET_1795189107.pdf
+DESCRIPTION:Agenda: December 2\, 2026 Steering Committee For EPA Multipurpo
+ se Grant Meeting Packet\nhttps://www.claremontnh.com/corecode/uploads/docu
+ ment6/uploaded_pdfs/corecode/12 2 26  EPA MEETING PACKET_1795189107.pdf\n\
+ nNotice: 2027 Planning Board Meeting Schedule\nhttps://www.claremontnh.com
+ /corecode/uploads/document6/uploaded_pdfs/corecode/2027 PB Meeting Schedul
+ e_1793824068.pdf\n\nNotice: December 2\, 2026 Steering Committee For EPA M
+ ultipurpose Grant Public Notice\nhttps://www.claremontnh.com/corecode/uplo
+ ads/document6/uploaded_pdfs/corecode/12 2 26 EPA PUBLIC NOTICE_1791395280.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:303421670856d3f2b4ba@granite-docket
+DTSTAMP:20261116T071021Z
+DTSTART;TZID=America/New_York:20261208T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont December 8\, 2026 Claremont Arts\, Histor
+ y & Culture Resources Preservat
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/12 8  26  Claremont Arts PN_1794506527.pdf
+DESCRIPTION:Notice: December 8\, 2026 Claremont Arts\, History & Culture Re
+ sources Preservation Commission Public Notice\nhttps://www.claremontnh.com
+ /corecode/uploads/document6/uploaded_pdfs/corecode/12 8  26  Claremont Art
+ s PN_1794506527.pdf\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:913a8487046c11cc88cd@granite-docket
+DTSTAMP:20261109T070514Z
+DTSTART;TZID=America/New_York:20261214T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont 2027 Meeting Schedule
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2027 EPA Meeting Schedule_1793823226.pdf
+DESCRIPTION:Notice: 2027 Meeting Schedule\nhttps://www.claremontnh.com/core
+ code/uploads/document6/uploaded_pdfs/corecode/2027 EPA Meeting Schedule_17
+ 93823226.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2cce7a468c6985a3dfd6@granite-docket
+DTSTAMP:20261123T070527Z
+DTSTART;TZID=America/New_York:20261216T173000
+DURATION:PT2H
+SUMMARY:Claremont December 16\, 2026 Claremont Police Commission Meeting Ag
+ enda & Public 
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/12 16 26 CPC PN & AGENDA_1795190529.pdf
+DESCRIPTION:Agenda: December 16\, 2026 Claremont Police Commission Meeting 
+ Agenda & Public Notice\nhttps://www.claremontnh.com/corecode/uploads/docum
+ ent6/uploaded_pdfs/corecode/12 16 26 CPC PN & AGENDA_1795190529.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:235ea24d88ef8e527d5a@granite-docket
+DTSTAMP:20261123T070529Z
+DTSTART;TZID=America/New_York:20261217T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Conservation commission
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/12 17 26 CC PN_1795192003.pdf
+DESCRIPTION:Notice: 12 17 26 Conservation Commission Public Notice\nhttps:/
+ /www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/12 
+ 17 26 CC PN_1795192003.pdf\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e3edc47c2de6d9d66ba5@granite-docket
+DTSTAMP:20261103T092659Z
+DTSTART;TZID=America/New_York:20261217T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont 2026 Meeting Schedule
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2026 EPA Meeting Schedule_1763656309.pdf
+DESCRIPTION:Notice: 2026 Meeting Schedule\nhttps://www.claremontnh.com/core
+ code/uploads/document6/uploaded_pdfs/corecode/2026 EPA Meeting Schedule_17
+ 63656309.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fdcc8c75a7fc215b1226@granite-docket
+DTSTAMP:20261123T070754Z
+DTSTART;TZID=America/New_York:20261217T073000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Planning board
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/12 17 26 CDA PUBLIC NOTICE_1795192181.pdf
+DESCRIPTION:Notice: December 17\, 2026 CDA Public Notice\nhttps://www.clare
+ montnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/12 17 26 CDA 
+ PUBLIC NOTICE_1795192181.pdf\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:9747e8ca5d9420f8eeb2@granite-docket
+DTSTAMP:20261109T070350Z
+DTSTART;TZID=America/New_York:20261218T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Zoning / ZBA
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2027 Zoning Board Meeting Schedule_1793795632.pdf
+DESCRIPTION:Notice: 2027 Meeting Schedule\nhttps://www.claremontnh.com/core
+ code/uploads/document6/uploaded_pdfs/corecode/2027 Zoning Board Meeting Sc
+ hedule_1793795632.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d119d137bebc230f97d5@granite-docket
+DTSTAMP:20261109T070440Z
+DTSTART;TZID=America/New_York:20261222T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Claremont Arts\, History & Culture Resour
+ ces Preservation Commission 20
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2027 Claremont Arts, History and Culture Resources Preservation Com
+ mission Meeting Schedule_1793823340.pdf
+DESCRIPTION:Notice: Claremont Arts\, History & Culture Resources Preservati
+ on Commission 2027 Meeting Schedule\nhttps://www.claremontnh.com/corecode/
+ uploads/document6/uploaded_pdfs/corecode/2027 Claremont Arts\, History and
+  Culture Resources Preservation Commission Meeting Schedule_1793823340.pdf
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ac5f49c130c1d42fe5cf@granite-docket
+DTSTAMP:20261109T070459Z
+DTSTART;TZID=America/New_York:20270108T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Energy committee
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2027 Energy Advisory Committee_1793823548.pdf
+DESCRIPTION:Notice: 2027 Energy Advisory Committee Meeting Schedule\nhttps:
+ //www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/20
+ 27 Energy Advisory Committee_1793823548.pdf\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ff1fa4cc7cf5549f599d@granite-docket
+DTSTAMP:20261109T070452Z
+DTSTART;TZID=America/New_York:20270108T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Conservation commission
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2027 Con Com Meeting Schedule_1793823101.pdf
+DESCRIPTION:Notice: 2027 Meeting Schedule\nhttps://www.claremontnh.com/core
+ code/uploads/document6/uploaded_pdfs/corecode/2027 Con Com Meeting Schedul
+ e_1793823101.pdf\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:79cba814f84377a92439@granite-docket
+DTSTAMP:20261109T070504Z
+DTSTART;TZID=America/New_York:20270115T181500
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Historic district
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2027 HDC Meeting Schedule_1793824296.pdf
+DESCRIPTION:Notice: 2027 Meeting Schedule\nhttps://www.claremontnh.com/core
+ code/uploads/document6/uploaded_pdfs/corecode/2027 HDC Meeting Schedule_17
+ 93824296.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:87651a03afb61a2ecf3c@granite-docket
+DTSTAMP:20261109T070736Z
+DTSTART;TZID=America/New_York:20270115T073000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont 2027 Meeting Schedule
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2027 CDA MEETING SCHEDULE _1793823707.pdf
+DESCRIPTION:Notice: 2027 Meeting Schedule\nhttps://www.claremontnh.com/core
+ code/uploads/document6/uploaded_pdfs/corecode/2027 CDA MEETING SCHEDULE _1
+ 793823707.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

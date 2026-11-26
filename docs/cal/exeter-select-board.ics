@@ -1,0 +1,231 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Select board / council
+X-WR-CALDESC:Select board / council meetings in Exeter\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:33f7b8de15a2e13dc1d5@granite-docket
+DTSTAMP:20261103T093659Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/select_boa
+ rd/meeting/64272/select_board_agenda_9-28-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/select_board/meeting/64272/select_board_agenda_9-28-26.pdf\n
+ \nMinutes: Select Board FINAL Minutes 9-28-26\nhttps://www.exeternh.gov/si
+ tes/default/files/fileattachments/select_board/meeting/64272/select_board_
+ final_minutes_9-28-2026.pdf\n\nMinutes: 09/28/2026 - 6:30pm Select Board -
+  Regular Business Meeting begins at 7:00 pm Agenda Agenda Agenda S\nhttps:
+ //www.exeternh.gov/sites/default/files/fileattachments/select_board/meetin
+ g/packets/64272/select_board_packet_9-28-26_-_2027_budget_preliminary_comb
+ ined.pdf\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8952f0f30d1bf7818936@granite-docket
+DTSTAMP:20261103T092945Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ oard of Selectman/2010/Minutes/SEL100426.pdf
+DESCRIPTION:Minutes: SEL100426.pdf\nhttps://www.exeternh.gov/sites/default/
+ files/archives/Meeting Minutes/Board of Selectman/2010/Minutes/SEL100426.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0879cf86d063d5ec771@granite-docket
+DTSTAMP:20261103T092951Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ oard of Selectman/2010/Minutes/SEL100726.pdf
+DESCRIPTION:Minutes: SEL100726.pdf\nhttps://www.exeternh.gov/sites/default/
+ files/archives/Meeting Minutes/Board of Selectman/2010/Minutes/SEL100726.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d8e8e62f0dd0f9c1864@granite-docket
+DTSTAMP:20261109T072022Z
+DTSTART;TZID=America/New_York:20261013T185000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10132026-450
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.exeternh.gov/A
+ gendaCenter/ViewFile/Agenda/_10132026-450\n\nAgenda: Select Board Meeting 
+ Agenda\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_101
+ 32026-282\n\nMinutes: Oct 13\, 2026 Select Board Meeting Agenda\nhttps://w
+ ww.exeternh.gov/AgendaCenter/ViewFile/Minutes/_10132026-450\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:bdacbf801d2aaad3340c@granite-docket
+DTSTAMP:20261103T093557Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/train_stat
+ ion_committee/meeting/63980/train_station_committee_draft_minutes_10-15-26
+ .pdf
+DESCRIPTION:Minutes: Train Station Committee Draft Minutes 10-15-26\nhttps:
+ //www.exeternh.gov/sites/default/files/fileattachments/train_station_commi
+ ttee/meeting/63980/train_station_committee_draft_minutes_10-15-26.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0641bef8080f3468e7b8@granite-docket
+DTSTAMP:20261103T092247Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/exeter_250
+ _celebration_commission/meeting/63928/250_celebration_commission_draft_min
+ utes_10-20-26.pdf
+DESCRIPTION:Minutes: 250 Celebration Commission Draft Minutes 10-20-26\nhtt
+ ps://www.exeternh.gov/sites/default/files/fileattachments/exeter_250_celeb
+ ration_commission/meeting/63928/250_celebration_commission_draft_minutes_1
+ 0-20-26.pdf\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:df56759993cb526d8c6b@granite-docket
+DTSTAMP:20261103T092240Z
+DTSTART;TZID=America/New_York:20261026T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/select_boa
+ rd/meeting/64370/select_board_agenda_10-26-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/select_board/meeting/64370/select_board_agenda_10-26-26.pdf\
+ n\nMinutes: 10/26/2026 - 7:00pm Select Board Agenda Agenda Agenda Select B
+ oard Draft Minutes 10-26-2026 Packet \,\nhttps://www.exeternh.gov/sites/de
+ fault/files/fileattachments/select_board/meeting/packets/64370/select_boar
+ d_packet_10-26-26.pdf\n\nMinutes: Select Board Draft Minutes 10-26-2026\nh
+ ttps://www.exeternh.gov/sites/default/files/fileattachments/select_board/m
+ eeting/64370/select_board_draft_minutes_10-26-2026.pdf\n\nMinutes: 10/26/2
+ 026 - 7:00pm Select Board Agenda Agenda Agenda Select Board Draft Minutes 
+ 10-26-2026 Packet \,\nhttps://www.exeternh.gov/sites/default/files/fileatt
+ achments/select_board/meeting/packets/64370/select_board_packet_supplement
+ _10-26-26.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8610df8b6afe5114308d@granite-docket
+DTSTAMP:20261109T072006Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11092026-537
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11092026-537\n\nAgenda: Select Board\nhttps://www.exeternh.gov/Agenda
+ Center/ViewFile/ArchivedAgenda/_11092026-284\n\nAgenda: Select Board\nhttp
+ s://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-283\n\
+ nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 092026-537?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11092026-284?packet=true\n\nAgenda: Packet\
+ nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-2
+ 83?packet=true\n\nMinutes: SEL110926.pdf\nhttps://www.exeternh.gov/sites/d
+ efault/files/archives/Meeting Minutes/Board of Selectman/2011/Minutes/SEL1
+ 10926.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:18fc8c64568e2085eaee@granite-docket
+DTSTAMP:20261123T070624Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11102026-539
+DESCRIPTION:Minutes: Nov 10\, 2026 Tree Committee Meeting 11-10-26\nhttps:/
+ /www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11102026-539\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad03fdde7e889b475d1@granite-docket
+DTSTAMP:20261123T071026Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11122026-555
+DESCRIPTION:Minutes: Nov 12\, 2026 Pairpoint Park Stakeholders Advisory Com
+ mittee\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11122026-5
+ 55\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a17d626883e360ea1a93@granite-docket
+DTSTAMP:20261123T071507Z
+DTSTART;TZID=America/New_York:20261123T185000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11232026-579
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11232026-579\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_11232026-579?packet=true\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:dfbb60bfe12422db586e@granite-docket
+DTSTAMP:20261103T093005Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ oard of Selectman/2012/Minutes/SEL120326.pdf
+DESCRIPTION:Minutes: SEL120326.pdf\nhttps://www.exeternh.gov/sites/default/
+ files/archives/Meeting Minutes/Board of Selectman/2012/Minutes/SEL120326.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+END:VCALENDAR

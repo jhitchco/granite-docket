@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Laconia Historic district
+X-WR-CALDESC:Historic district meetings in Laconia\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7f61e1f58a915a62afa0@granite-docket
+DTSTAMP:20261103T141055Z
+DTSTART;TZID=America/New_York:20261014T160000
+DURATION:PT2H
+SUMMARY:Laconia Historic district
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10142026-3211
+DESCRIPTION:Agenda: Heritage Commission Agenda Oct 14\, 2026 — Amended Oc
+ t 13\, 2026 2:56 PM Heritage Commission Meeting *\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10142026-3211\n\nAgenda: Heritage Commiss
+ ion Meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgend
+ a/_10142026-8373\n\nAgenda: Heritage Commission Meeting\nhttps://www.lacon
+ ianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-8366\n\nAgenda: He
+ ritage Commission Meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_10142026-8364\n\nAgenda: Packet\nhttps://www.laconianh.go
+ v/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-8373?packet=true\n\nAgend
+ a: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/
+ _10142026-8366?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_10142026-8364?packet=true\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:75c6e859cd23bc9bdf70@granite-docket
+DTSTAMP:20261103T145332Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Historic district
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/DocumentCenter/View/12205/Heritage-Commission
+ -Meeting-Schedule-2026
+DESCRIPTION:Other: Heritage Commission Meeting Schedule 2026\nhttps://www.l
+ aconianh.gov/DocumentCenter/View/12205/Heritage-Commission-Meeting-Schedul
+ e-2026\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd4a47ad153d72ef246@granite-docket
+DTSTAMP:20261116T071105Z
+DTSTART;TZID=America/New_York:20261112T160000
+DURATION:PT2H
+SUMMARY:Laconia Historic district
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3270
+DESCRIPTION:Agenda: Heritage Commission Agenda Nov 12\, 2026 Heritage Commi
+ ssion Meeting **CANCELLED**\nhttps://www.laconianh.gov/AgendaCenter/ViewFi
+ le/Agenda/_11122026-3270\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

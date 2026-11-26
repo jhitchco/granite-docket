@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deerfield Planning board
+X-WR-CALDESC:Planning board meetings in Deerfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6e217877a80284b33444@granite-docket
+DTSTAMP:20261103T104701Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-414
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://deerfieldnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10142026-414\n\nMinutes: Oct 14\, 2026 Planning Boar
+ d Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-
+ 414\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b795c27253dc4a0abc73@granite-docket
+DTSTAMP:20261109T085146Z
+DTSTART;TZID=America/New_York:20261028T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-425
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://deerfieldnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10282026-425\n\nMinutes: Oct 28\, 2026 Planning Boar
+ d Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10282026-
+ 425\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d70ab5b78d8af32bb389@granite-docket
+DTSTAMP:20261116T091034Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-
+ 189
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://deerfieldnh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11102026-189\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:831ea4954135ade9ee78@granite-docket
+DTSTAMP:20261116T085434Z
+DTSTART;TZID=America/New_York:20261111T190000
+DURATION:PT2H
+SUMMARY:Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11112026-435
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://deerfieldnh.gov/AgendaC
+ enter/ViewFile/Agenda/_11112026-435\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9a63b42d46f7f9ce5f@granite-docket
+DTSTAMP:20261116T091014Z
+DTSTART;TZID=America/New_York:20261215T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12152026-
+ 185
+DESCRIPTION:Agenda: SNHPC Regional Comprehensive Plan Update Meeting\nhttps
+ ://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12152026-185\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

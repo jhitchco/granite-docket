@@ -1,0 +1,208 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lempster NH meetings
+X-WR-CALDESC:Public meetings of Lempster\, NH boards\, from posted agendas 
+ and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4523471c74380335c28c@granite-docket
+DTSTAMP:20261123T095633Z
+DTSTART;TZID=America/New_York:20261012T190000
+DURATION:PT2H
+SUMMARY:Lempster Planning board
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/10/PB.2026-10-12.Agenda.
+ pdf
+DESCRIPTION:Agenda: PB Agenda 10/12/2026\nhttps://lempsternh.org/wp-content
+ /uploads/2026/10/PB.2026-10-12.Agenda.pdf\n\nMinutes: PB Draft Minutes 10/
+ 12/2026\nhttps://lempsternh.org/wp-content/uploads/2026/11/PB.2026-10-12.D
+ raftMinutes.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d35f6a0c3ca0cd3a496e@granite-docket
+DTSTAMP:20261123T095832Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Lempster Budget / CIP
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/10/Library.2026-10-12.Dr
+ aftMinutes.pdf
+DESCRIPTION:Minutes: October 12\, 2026\nhttps://lempsternh.org/wp-content/u
+ ploads/2026/10/Library.2026-10-12.DraftMinutes.pdf\n\nMinutes: October 12\
+ , 2026\nhttps://lempsternh.org/wp-content/uploads/2026/11/Library.2026-10-
+ 12.ApprovedMinutes.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:edd830ffb8a38e2f3114@granite-docket
+DTSTAMP:20261103T122556Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Lempster October 12\, 2026 Library Director’s Report
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/10/Library.Director.Repo
+ rt.2026-10-12.pdf
+DESCRIPTION:Minutes: October 12\, 2026 Library Director’s Report\nhttps:/
+ /lempsternh.org/wp-content/uploads/2026/10/Library.Director.Report.2026-10
+ -12.pdf\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e65c4622a577d50cc26@granite-docket
+DTSTAMP:20261123T095625Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Lempster Select board / council
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/10/BOS.2026-10-13.Agenda
+ .pdf
+DESCRIPTION:Agenda: BOS Agenda 10/13/2026\nhttps://lempsternh.org/wp-conten
+ t/uploads/2026/10/BOS.2026-10-13.Agenda.pdf\n\nMinutes: BOS Draft Minutes 
+ 10/13/2026\nhttps://lempsternh.org/wp-content/uploads/2026/10/BOS.2026-10-
+ 13.draftminutes.pdf\n\nMinutes: BOS Approved Minutes 10/13/2026\nhttps://l
+ empsternh.org/wp-content/uploads/2026/11/BOS.2026-10-13.ApprovedMinutes.pd
+ f\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:30d0a22a6f37e170e736@granite-docket
+DTSTAMP:20261103T122151Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Lempster Conservation commission
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/10/LCC.26-10-21.Minutesf
+ inal.pdf
+DESCRIPTION:Minutes: October 21\, 2026\nhttps://lempsternh.org/wp-content/u
+ ploads/2026/10/LCC.26-10-21.Minutesfinal.pdf\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f7eae586274026f42f9@granite-docket
+DTSTAMP:20261103T122307Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Lempster Select board / council
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/10/BOS.2026-10-27.Public
+ Notice.MeetingCancelled.pdf
+DESCRIPTION:Notice: October 27\, 2026 Meeting Cancelled\nhttps://lempsternh
+ .org/wp-content/uploads/2026/10/BOS.2026-10-27.PublicNotice.MeetingCancell
+ ed.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2af84fdbe55f0311fc4f@granite-docket
+DTSTAMP:20261123T095832Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Lempster November 9\, 2026 Library Director’s Report
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/11/LibraryDirectorReport
+ .-2026-11-09.pdf
+DESCRIPTION:Minutes: November 9\, 2026 Library Director’s Report\nhttps:/
+ /lempsternh.org/wp-content/uploads/2026/11/LibraryDirectorReport.-2026-11-
+ 09.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8759adcd33f72b6336e9@granite-docket
+DTSTAMP:20261123T095629Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Lempster Planning board
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/11/PB.2026-11-09.Agenda.
+ pdf
+DESCRIPTION:Agenda: PB Agenda 11/09/2026\nhttps://lempsternh.org/wp-content
+ /uploads/2026/11/PB.2026-11-09.Agenda.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d097c584c4433146adbe@granite-docket
+DTSTAMP:20261123T095832Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Lempster Select board / council
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/11/Library.2026-11-09.Dr
+ aftMinutes.pdf
+DESCRIPTION:Minutes: November 9\, 2026\nhttps://lempsternh.org/wp-content/u
+ ploads/2026/11/Library.2026-11-09.DraftMinutes.pdf\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9441b5c763613d83c68c@granite-docket
+DTSTAMP:20261123T095707Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Lempster Select board / council
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/11/BOS.2026-11-10.Agenda
+ .pdf
+DESCRIPTION:Agenda: BOS Agenda 11/10/2026\nhttps://lempsternh.org/wp-conten
+ t/uploads/2026/11/BOS.2026-11-10.Agenda.pdf\n\nMinutes: BOS Draft Minutes 
+ 11/10/2026\nhttps://lempsternh.org/wp-content/uploads/2026/11/BOS.2026-11-
+ 10.DraftMinutes.pdf\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9eeea84bb6e6a88d2ea3@granite-docket
+DTSTAMP:20261123T095709Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Lempster Conservation commission
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/11/LCC.2026-11-11.Minute
+ s.pdf
+DESCRIPTION:Minutes: November 11\, 2026\nhttps://lempsternh.org/wp-content/
+ uploads/2026/11/LCC.2026-11-11.Minutes.pdf\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5de0687e88ba08d3a449@granite-docket
+DTSTAMP:20261123T095808Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+SUMMARY:Lempster Planning board
+LOCATION:Lempster\, NH
+URL:https://lempsternh.org/wp-content/uploads/2026/11/cemeterymaintenance20
+ 26.pdf
+DESCRIPTION:Other: Cemetery Maintenance Request for Proposals\nhttps://lemp
+ sternh.org/wp-content/uploads/2026/11/cemeterymaintenance2026.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+END:VCALENDAR

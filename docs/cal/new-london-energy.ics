@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New London Energy committee
+X-WR-CALDESC:Energy committee meetings in New London\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0520e140f471519a67cd@granite-docket
+DTSTAMP:20261103T105452Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:New London Energy committee
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/2026-10-07_Energy_Committee_Agenda.pdf
+DESCRIPTION:Agenda: Energy Committee Agenda - October 7\, 2026\nhttps://new
+ london.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/up
+ loads/2026-10-07_Energy_Committee_Agenda.pdf\n\nMinutes: Energy Committee 
+ Meeting Minutes: October 7\, 2026 - DRAFT\nhttps://newlondon.nh.gov/vertic
+ al/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/2026-10-07_Ene
+ rgy_Committee_Minutes.pdf\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1f156583c8ac937d2515@granite-docket
+DTSTAMP:20261103T105451Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:New London Energy committee
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/11.4.26_Energy_Committee_Agenda(1).pdf
+DESCRIPTION:Agenda: Energy Committee Agenda: November 4\, 2026\nhttps://new
+ london.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/up
+ loads/11.4.26_Energy_Committee_Agenda(1).pdf\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

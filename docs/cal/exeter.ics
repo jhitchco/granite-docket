@@ -1,0 +1,1628 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter NH meetings
+X-WR-CALDESC:Public meetings of Exeter\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:33f7b8de15a2e13dc1d5@granite-docket
+DTSTAMP:20261103T093659Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/select_boa
+ rd/meeting/64272/select_board_agenda_9-28-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/select_board/meeting/64272/select_board_agenda_9-28-26.pdf\n
+ \nMinutes: Select Board FINAL Minutes 9-28-26\nhttps://www.exeternh.gov/si
+ tes/default/files/fileattachments/select_board/meeting/64272/select_board_
+ final_minutes_9-28-2026.pdf\n\nMinutes: 09/28/2026 - 6:30pm Select Board -
+  Regular Business Meeting begins at 7:00 pm Agenda Agenda Agenda S\nhttps:
+ //www.exeternh.gov/sites/default/files/fileattachments/select_board/meetin
+ g/packets/64272/select_board_packet_9-28-26_-_2027_budget_preliminary_comb
+ ined.pdf\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4803439384ae2432c2dd@granite-docket
+DTSTAMP:20261103T093649Z
+DTSTART;TZID=America/New_York:20260930T093000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64442/brc_human_services_subcommittee_agend
+ a_9-30-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64442/brc_human_ser
+ vices_subcommittee_agenda_9-30-26.pdf\n\nAgenda: Agenda\nhttps://www.exete
+ rnh.gov/sites/default/files/fileattachments/budget_recommendations_committ
+ ee/meeting/64323/budget_recommendations_committee_agenda_9-30-26.pdf\n\nMi
+ nutes: BRC Human Services Subcommittee Minutes 9-30-26\nhttps://www.exeter
+ nh.gov/sites/default/files/fileattachments/budget_recommendations_committe
+ e/meeting/64442/brc_human_services_subcommittee_minutes_9-30-26.pdf\n\nMin
+ utes: Budget Recommendations Committee Draft Minutes 9-30-26\nhttps://www.
+ exeternh.gov/sites/default/files/fileattachments/budget_recommendations_co
+ mmittee/meeting/64323/budget_recommendations_committee_draft_minutes_9-30-
+ 26.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:09cf470067fcaee58788@granite-docket
+DTSTAMP:20261103T093646Z
+DTSTART;TZID=America/New_York:20261002T080000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64422/brc_-_general_government_sub_committe
+ e_agenda_10-2-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64422/brc_-_general
+ _government_sub_committee_agenda_10-2-26.pdf\n\nMinutes: BRC General Gover
+ nment Minutes 10-2-26\nhttps://www.exeternh.gov/sites/default/files/fileat
+ tachments/budget_recommendations_committee/meeting/64422/brc_general_gover
+ nment_minutes_10-2-26.pdf\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8952f0f30d1bf7818936@granite-docket
+DTSTAMP:20261103T092945Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ oard of Selectman/2010/Minutes/SEL100426.pdf
+DESCRIPTION:Minutes: SEL100426.pdf\nhttps://www.exeternh.gov/sites/default/
+ files/archives/Meeting Minutes/Board of Selectman/2010/Minutes/SEL100426.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9eae9b72796a342d02c6@granite-docket
+DTSTAMP:20261103T093644Z
+DTSTART;TZID=America/New_York:20261005T090000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64449/brc_library_subcommittee_agenda_10-5-
+ 26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64449/brc_library_s
+ ubcommittee_agenda_10-5-26.pdf\n\nMinutes: BRC Library Subcommittee Minute
+ s 10-5-26\nhttps://www.exeternh.gov/sites/default/files/fileattachments/bu
+ dget_recommendations_committee/meeting/64449/brc_library_subcommittee_minu
+ tes_10-5-26.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e6b6adb2bab1fde7348@granite-docket
+DTSTAMP:20261103T093643Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Pairpoint Park Stakeholders Advisory Committee Draft Minutes
+  10-6-26
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/pairpoint_
+ park_stakeholders_advisory_committee/meeting/63945/pairpoint_park_stakehol
+ ders_advisory_committee_draft_minutes_10-6-26.pdf
+DESCRIPTION:Minutes: Pairpoint Park Stakeholders Advisory Committee Draft M
+ inutes 10-6-26\nhttps://www.exeternh.gov/sites/default/files/fileattachmen
+ ts/pairpoint_park_stakeholders_advisory_committee/meeting/63945/pairpoint_
+ park_stakeholders_advisory_committee_draft_minutes_10-6-26.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:b13518f17a9f0ef6d104@granite-docket
+DTSTAMP:20261103T093643Z
+DTSTART;TZID=America/New_York:20261006T170000
+DURATION:PT2H
+SUMMARY:Exeter Agenda
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/pairpoint_
+ park_stakeholders_advisory_committee/meeting/63945/pairpoint_park_stakehol
+ ders_advisory_committee_agenda_10-6-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/pairpoint_park_stakeholders_advisory_committee/meeting/63945
+ /pairpoint_park_stakeholders_advisory_committee_agenda_10-6-26.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0879cf86d063d5ec771@granite-docket
+DTSTAMP:20261103T092951Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ oard of Selectman/2010/Minutes/SEL100726.pdf
+DESCRIPTION:Minutes: SEL100726.pdf\nhttps://www.exeternh.gov/sites/default/
+ files/archives/Meeting Minutes/Board of Selectman/2010/Minutes/SEL100726.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5ff1ac25ba9d11583ee@granite-docket
+DTSTAMP:20261116T071922Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10072026-549
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10072026-549\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_10072026-549?packet=true\n\nAgenda: Agenda\nhttps://www.
+ exeternh.gov/sites/default/files/fileattachments/sustainability_advisory/m
+ eeting/64218/10-7-26_sac_mtg.pdf\n\nMinutes: Oct 7\, 2026 Sustainability A
+ dvisory Committee\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/
+ _10072026-549\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f37cc13e6f4aac53ad0@granite-docket
+DTSTAMP:20261103T093640Z
+DTSTART;TZID=America/New_York:20261008T130000
+DURATION:PT2H
+SUMMARY:Exeter School
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/exeter_hou
+ sing_authority/meeting/64444/exeter_housing_authority_agenda_10-8-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/exeter_housing_authority/meeting/64444/exeter_housing_author
+ ity_agenda_10-8-26.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:823fe61beba34b3f379c@granite-docket
+DTSTAMP:20261103T093640Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Exeter Housing Authority Draft Minutes 10-8-26
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/exeter_hou
+ sing_authority/meeting/64444/exeter_housing_authority_draft_minutes_10-8-2
+ 6.pdf
+DESCRIPTION:Minutes: Exeter Housing Authority Draft Minutes 10-8-26\nhttps:
+ //www.exeternh.gov/sites/default/files/fileattachments/exeter_housing_auth
+ ority/meeting/64444/exeter_housing_authority_draft_minutes_10-8-26.pdf\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9faaf59f940f9d150d59@granite-docket
+DTSTAMP:20261103T093641Z
+DTSTART;TZID=America/New_York:20261008T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/planning_b
+ oard/meeting/64445/10-8-26_cc-pb_-sw.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/planning_board/meeting/64445/10-8-26_cc-pb_-sw.pdf\n\nAgenda
+ : Agenda\nhttps://www.exeternh.gov/sites/default/files/fileattachments/pla
+ nning_board/meeting/63848/pb-leg.10-08-26_legal_notice.pdf\n\nMinutes: PLN
+ AG100826.pdf\nhttps://www.exeternh.gov/sites/default/files/archives/Meetin
+ g Minutes/Planning Board/2010/agenda/PLNAG100826.pdf\n\nMinutes: 10/08/202
+ 6 - 7:00pm Planning Board Agenda Draft Minutes Packet Video View Details\n
+ https://www.exeternh.gov/sites/default/files/fileattachments/planning_boar
+ d/meeting/packets/63848/10-08-26_pb_meeting_packet.pdf\n\nMinutes: Draft M
+ inutes\nhttps://www.exeternh.gov/sites/default/files/fileattachments/plann
+ ing_board/meeting/63848/october_8_2026_exeter_planning_board_draft_minutes
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:90f291b44c7b76e0501c@granite-docket
+DTSTAMP:20261103T093627Z
+DTSTART;TZID=America/New_York:20261009T130000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64450/brc_police_and_fire_subcommittee_agen
+ da_10-9-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64450/brc_police_an
+ d_fire_subcommittee_agenda_10-9-26.pdf\n\nMinutes: BRC Police and Fire Sub
+ committee Minutes 10-9-26\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64450/brc_police_an
+ d_fire_subcommittee_minutes_10-9-26.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:00c1809358189581fd43@granite-docket
+DTSTAMP:20261103T093401Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/T
+ ransportation/2010/agenda/TRNAG101026.pdf
+DESCRIPTION:Minutes: TRNAG101026.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Transportation/2010/agenda/TRNAG101026.pd
+ f\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d41616f88ae479e619c@granite-docket
+DTSTAMP:20261103T093024Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Exeter CBLAG101026.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/C
+ able TV/2010/agenda/CBLAG101026.pdf
+DESCRIPTION:Minutes: CBLAG101026.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Cable TV/2010/agenda/CBLAG101026.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d847252a503da8295b@granite-docket
+DTSTAMP:20261103T093009Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ udget/2010/agenda/BUDAG101026.pdf
+DESCRIPTION:Minutes: BUDAG101026.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Budget/2010/agenda/BUDAG101026.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:472230416feb6d1d96ec@granite-docket
+DTSTAMP:20261103T093626Z
+DTSTART;TZID=America/New_York:20261013T093000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64456/brc_water_sewer_subcommittee_agenda_1
+ 0-13-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64456/brc_water_sew
+ er_subcommittee_agenda_10-13-26.pdf\n\nAgenda: Agenda\nhttps://www.exetern
+ h.gov/sites/default/files/fileattachments/budget_recommendations_committee
+ /meeting/64455/brc_public_works_subcommittee_agenda_10-13-26.pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d8e8e62f0dd0f9c1864@granite-docket
+DTSTAMP:20261109T072022Z
+DTSTART;TZID=America/New_York:20261013T185000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10132026-450
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.exeternh.gov/A
+ gendaCenter/ViewFile/Agenda/_10132026-450\n\nAgenda: Select Board Meeting 
+ Agenda\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_101
+ 32026-282\n\nMinutes: Oct 13\, 2026 Select Board Meeting Agenda\nhttps://w
+ ww.exeternh.gov/AgendaCenter/ViewFile/Minutes/_10132026-450\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:738c94e80b3cef49a0da@granite-docket
+DTSTAMP:20261116T072102Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Conservation commission
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10132026-540
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10132026-540\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_10132026-540?packet=true\n\nAgenda: Agenda\nhttps://www.
+ exeternh.gov/sites/default/files/fileattachments/conservation_commission/m
+ eeting/64225/10-13-26_cc-mtg.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.g
+ ov/sites/default/files/fileattachments/conservation_commission/meeting/644
+ 57/10-13-26_tree-mtg.pdf\n\nAgenda: 10/13/2026 - 7:00pm Conservation Commi
+ ssion Agenda Packet \, Packet Video View Details\nhttps://www.exeternh.gov
+ /sites/default/files/fileattachments/conservation_commission/meeting/packe
+ ts/64225/full_packet.pdf\n\nAgenda: 10/13/2026 - 7:00pm Conservation Commi
+ ssion Agenda Packet \, Packet Video View Details\nhttps://www.exeternh.gov
+ /sites/default/files/fileattachments/conservation_commission/meeting/packe
+ ts/64225/combined_files.pdf\n\nMinutes: Oct 13\, 2026 Conservation Commiss
+ ion Meeting 10-13-26\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Minut
+ es/_10132026-540\n\nMinutes: Oct 13\, 2026 Conservation Commission Meeting
+  10-13-26\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedMinutes/
+ _10132026-293\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:25d0e0814cb774400cc0@granite-docket
+DTSTAMP:20261103T093559Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Trustees of the Robinson Trust Fund Draft Minutes 10-14-26
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/trustees_o
+ f_the_robinson_fund/meeting/64454/trustees_of_the_robinson_trust_fund_draf
+ t_minutes_10-14-26.pdf
+DESCRIPTION:Minutes: Trustees of the Robinson Trust Fund Draft Minutes 10-1
+ 4-26\nhttps://www.exeternh.gov/sites/default/files/fileattachments/trustee
+ s_of_the_robinson_fund/meeting/64454/trustees_of_the_robinson_trust_fund_d
+ raft_minutes_10-14-26.pdf\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc8e3011d00bd2ac9901@granite-docket
+DTSTAMP:20261116T071345Z
+DTSTART;TZID=America/New_York:20261014T153000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10142026-547
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10142026-547\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_10142026-547?packet=true\n\nMinutes: Oct 14\, 2026 Energ
+ y Committee Meeting Materials\nhttps://www.exeternh.gov/AgendaCenter/ViewF
+ ile/Minutes/_10142026-547\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:df37ac8319e7018843a7@granite-docket
+DTSTAMP:20261103T093558Z
+DTSTART;TZID=America/New_York:20261014T153000
+DURATION:PT2H
+SUMMARY:Exeter Agenda
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/trustees_o
+ f_the_robinson_fund/meeting/64454/trustees_of_the_robinson_trust_fund_agen
+ da_10-14-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/trustees_of_the_robinson_fund/meeting/64454/trustees_of_the_
+ robinson_trust_fund_agenda_10-14-26.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:28a00f69104fd68aad73@granite-docket
+DTSTAMP:20261103T093554Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Exeter Historic district
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/historic_d
+ istrict_commission/meeting/63829/hdc_10-15-26_agenda.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/historic_district_commission/meeting/63829/hdc_10-15-26_agen
+ da.pdf\n\nAgenda: 10/15/2026 - 7:00pm Historic District Commission Agenda 
+ Packet Video View Details\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/historic_district_commission/meeting/packets/63829/hdc_10-15
+ -2026_mtg_packet.pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59ca18af51012c807f1c@granite-docket
+DTSTAMP:20261103T093557Z
+DTSTART;TZID=America/New_York:20261015T110000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/train_stat
+ ion_committee/meeting/63980/train_station_committee_agenda_10-15-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/train_station_committee/meeting/63980/train_station_committe
+ e_agenda_10-15-26.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.gov/sites/de
+ fault/files/fileattachments/budget_recommendations_committee/meeting/64452
+ /brc_fire_subcommittee_agenda_10-15-26.pdf\n\nAgenda: Agenda\nhttps://www.
+ exeternh.gov/sites/default/files/fileattachments/budget_recommendations_co
+ mmittee/meeting/64451/brc_police_subcommittee_agenda_10-15-26.pdf\n\nMinut
+ es: BRC Fire Subcommittee Minutes 10-15-26\nhttps://www.exeternh.gov/sites
+ /default/files/fileattachments/budget_recommendations_committee/meeting/64
+ 452/brc_fire_subcommittee_minutes_10-15-26.pdf\n\nMinutes: BRC Police Subc
+ ommittee Minutes 10-15-26\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64451/brc_police_su
+ bcommittee_minutes_10-15-26.pdf\n\nMinutes: 10/15/2026 - 11:00am Train Sta
+ tion Committee Agenda Train Station Committee Draft Minutes 10-15-26 P\nht
+ tps://www.exeternh.gov/sites/default/files/fileattachments/train_station_c
+ ommittee/meeting/packets/63980/one-year_goals_exeter_train_station_committ
+ ee_-_2.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bdacbf801d2aaad3340c@granite-docket
+DTSTAMP:20261103T093557Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/train_stat
+ ion_committee/meeting/63980/train_station_committee_draft_minutes_10-15-26
+ .pdf
+DESCRIPTION:Minutes: Train Station Committee Draft Minutes 10-15-26\nhttps:
+ //www.exeternh.gov/sites/default/files/fileattachments/train_station_commi
+ ttee/meeting/63980/train_station_committee_draft_minutes_10-15-26.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8a5b44314b1b09d4f3@granite-docket
+DTSTAMP:20261103T092248Z
+DTSTART;TZID=America/New_York:20261016T083000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/housing_ad
+ visory_committee/meeting/63956/housing_advisory_committee_agenda_10-16-26.
+ pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/housing_advisory_committee/meeting/63956/housing_advisory_co
+ mmittee_agenda_10-16-26.pdf\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab7337adc03b8a9abe0b@granite-docket
+DTSTAMP:20261103T092248Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Zoning / ZBA
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/housing_ad
+ visory_committee/meeting/63956/housing_advisory_committee_draft_minutes_10
+ -16-26.pdf
+DESCRIPTION:Minutes: Housing Advisory Committee Draft Minutes 10-16-26\nhtt
+ ps://www.exeternh.gov/sites/default/files/fileattachments/housing_advisory
+ _committee/meeting/63956/housing_advisory_committee_draft_minutes_10-16-26
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cba01e83ede7917bf60e@granite-docket
+DTSTAMP:20261103T093552Z
+DTSTART;TZID=America/New_York:20261016T083000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64324/brc_general_government_agenda_10-16-2
+ 6.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64324/brc_general_g
+ overnment_agenda_10-16-26.pdf\n\nMinutes: BRC General Government Minutes 1
+ 0-16-26\nhttps://www.exeternh.gov/sites/default/files/fileattachments/budg
+ et_recommendations_committee/meeting/64324/brc_general_government_minutes_
+ 10-16-26.pdf\n\nMinutes: 10/16/2026 - 8:30am Budget Recommendations Commit
+ tee - General Government All Day Meeting Agenda BRC\nhttps://www.exeternh.
+ gov/sites/default/files/fileattachments/budget_recommendations_committee/m
+ eeting/packets/64324/brc_general_government_packet_10-16-26.pdf\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:123a1f84800559cc676b@granite-docket
+DTSTAMP:20261103T093557Z
+DTSTART;TZID=America/New_York:20261017T153000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/energy_com
+ mittee/meeting/64232/ec_10-17-26_rev.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/energy_committee/meeting/64232/ec_10-17-26_rev.pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:0641bef8080f3468e7b8@granite-docket
+DTSTAMP:20261103T092247Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/exeter_250
+ _celebration_commission/meeting/63928/250_celebration_commission_draft_min
+ utes_10-20-26.pdf
+DESCRIPTION:Minutes: 250 Celebration Commission Draft Minutes 10-20-26\nhtt
+ ps://www.exeternh.gov/sites/default/files/fileattachments/exeter_250_celeb
+ ration_commission/meeting/63928/250_celebration_commission_draft_minutes_1
+ 0-20-26.pdf\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f85c47794f9c47c82e3@granite-docket
+DTSTAMP:20261103T092247Z
+DTSTART;TZID=America/New_York:20261020T100000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/exeter_250
+ _celebration_commission/meeting/63928/250_celebration_commission_agenda_10
+ -20-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/exeter_250_celebration_commission/meeting/63928/250_celebrat
+ ion_commission_agenda_10-20-26.pdf\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9fde46d2bfeb9d6658d@granite-docket
+DTSTAMP:20261103T092246Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Zoning / ZBA
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/zoning_boa
+ rd_of_adjustment/meeting/63816/zba-legal.10-20-26_.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/zoning_board_of_adjustment/meeting/63816/zba-legal.10-20-26_
+ .pdf\n\nAgenda: 10/20/2026 - 7:00pm Zoning Board of Adjustment Agenda Pack
+ et Video View Details\nhttps://www.exeternh.gov/sites/default/files/fileat
+ tachments/zoning_board_of_adjustment/meeting/packets/63816/10-20-2026_zba_
+ mtg_packet.pdf\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c853afb3263b35659d2b@granite-docket
+DTSTAMP:20261103T092244Z
+DTSTART;TZID=America/New_York:20261021T183000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64325/brc_public_works_general_agenda_10-21
+ -26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64325/brc_public_wo
+ rks_general_agenda_10-21-26.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.go
+ v/sites/default/files/fileattachments/budget_recommendations_committee/mee
+ ting/64453/brc_parks_and_recreation_subcommittee_agenda_10-21-26.pdf\n\nMi
+ nutes: BRC Public Works General Minutes 10-21-26\nhttps://www.exeternh.gov
+ /sites/default/files/fileattachments/budget_recommendations_committee/meet
+ ing/64325/brc_public_works_general_minutes_10-21-26.pdf\n\nMinutes: 10/21/
+ 2026 - 6:30pm Budget Recommendations Committee - DPW General Agenda BRC Pu
+ blic Works General M\nhttps://www.exeternh.gov/sites/default/files/fileatt
+ achments/budget_recommendations_committee/meeting/packets/64325/brc_public
+ _works_general_packet_10-21-26.pdf\n\nMinutes: BRC Parks and Recreation Su
+ bcommittee Minutes 10-21-26\nhttps://www.exeternh.gov/sites/default/files/
+ fileattachments/budget_recommendations_committee/meeting/64453/brc_parks_a
+ nd_recreation_subcommittee_minutes_10-21-26.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:daccea17563b720e66dd@granite-docket
+DTSTAMP:20261103T092244Z
+DTSTART;TZID=America/New_York:20261021T100000
+DURATION:PT2H
+SUMMARY:Exeter Historic district
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/heritage_c
+ ommission/meeting/64040/ehc_agenda_october_2026_1.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/heritage_commission/meeting/64040/ehc_agenda_october_2026_1.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f3e33fbfb0308df0cd7b@granite-docket
+DTSTAMP:20261103T092243Z
+DTSTART;TZID=America/New_York:20261021T170000
+DURATION:PT2H
+SUMMARY:Exeter Agenda
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/swasey_par
+ kway/meeting/63968/swasey_parkway_trustees_agenda_10-21-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/swasey_parkway/meeting/63968/swasey_parkway_trustees_agenda_
+ 10-21-26.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7baebb2d0a22861a3d@granite-docket
+DTSTAMP:20261123T072552Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10222026-564
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10222026-564\n\nAgenda: Planning Board Agenda and Packet\nhttps://www
+ .exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10222026-309\n\nAgenda
+ : Agenda\nhttps://www.exeternh.gov/sites/default/files/fileattachments/pla
+ nning_board/meeting/63849/pb-leg.10-22-26_legal_notice.pdf\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:df56759993cb526d8c6b@granite-docket
+DTSTAMP:20261103T092240Z
+DTSTART;TZID=America/New_York:20261026T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/select_boa
+ rd/meeting/64370/select_board_agenda_10-26-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/select_board/meeting/64370/select_board_agenda_10-26-26.pdf\
+ n\nMinutes: 10/26/2026 - 7:00pm Select Board Agenda Agenda Agenda Select B
+ oard Draft Minutes 10-26-2026 Packet \,\nhttps://www.exeternh.gov/sites/de
+ fault/files/fileattachments/select_board/meeting/packets/64370/select_boar
+ d_packet_10-26-26.pdf\n\nMinutes: Select Board Draft Minutes 10-26-2026\nh
+ ttps://www.exeternh.gov/sites/default/files/fileattachments/select_board/m
+ eeting/64370/select_board_draft_minutes_10-26-2026.pdf\n\nMinutes: 10/26/2
+ 026 - 7:00pm Select Board Agenda Agenda Agenda Select Board Draft Minutes 
+ 10-26-2026 Packet \,\nhttps://www.exeternh.gov/sites/default/files/fileatt
+ achments/select_board/meeting/packets/64370/select_board_packet_supplement
+ _10-26-26.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7b1b63d78d94f4c4040d@granite-docket
+DTSTAMP:20261103T092231Z
+DTSTART;TZID=America/New_York:20261027T090000
+DURATION:PT2H
+SUMMARY:Exeter Agenda
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/trustees_o
+ f_trust_funds/meeting/64431/trustees_of_the_trust_funds_agenda_10-27-26.pd
+ f
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/trustees_of_trust_funds/meeting/64431/trustees_of_the_trust_
+ funds_agenda_10-27-26.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.gov/site
+ s/default/files/fileattachments/supervisors_of_the_checklist/meeting/64439
+ /supervisors_of_the_checklist_notice_of_session_10.27.2026.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc7da8b995430807f0d0@granite-docket
+DTSTAMP:20261103T092230Z
+DTSTART;TZID=America/New_York:20261028T093000
+DURATION:PT2H
+SUMMARY:Exeter Agenda
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/communicat
+ ions_advisory_committee/meeting/64469/communications_advisory_committee_ag
+ enda_10-28-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/communications_advisory_committee/meeting/64469/communicatio
+ ns_advisory_committee_agenda_10-28-26.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ba840fa3d1f43d68e6@granite-docket
+DTSTAMP:20261103T092230Z
+DTSTART;TZID=America/New_York:20261028T173000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/facilities
+ _committee/meeting/64016/facilities_advisory_committee_agenda_10-28-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/facilities_committee/meeting/64016/facilities_advisory_commi
+ ttee_agenda_10-28-26.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.gov/sites
+ /default/files/fileattachments/budget_recommendations_committee/meeting/64
+ 326/brc_police_fire_departments_agenda_10-28-26.pdf\n\nAgenda: 10/28/2026 
+ - 6:30pm Budget Recommendations Committee - Police & Fire Agenda Packet \,
+  Packet Video Vi\nhttps://www.exeternh.gov/sites/default/files/fileattachm
+ ents/budget_recommendations_committee/meeting/packets/64326/brc_fire_depar
+ tment_packet_10-28-26.pdf\n\nAgenda: 10/28/2026 - 6:30pm Budget Recommenda
+ tions Committee - Police & Fire Agenda Packet \, Packet Video Vi\nhttps://
+ www.exeternh.gov/sites/default/files/fileattachments/budget_recommendation
+ s_committee/meeting/packets/64326/brc_police_department_packet_10-28-26.pd
+ f\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4af65326fb7d1cebe7ff@granite-docket
+DTSTAMP:20261116T072542Z
+DTSTART;TZID=America/New_York:20261029T081500
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10292026-553
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10292026-553\n\nAgenda: Master Plan Oversight Committee Meeting on 10
+ /29/2026\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0292026-302\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewF
+ ile/Agenda/_10292026-553?packet=true\n\nAgenda: Packet\nhttps://www.exeter
+ nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-302?packet=true\n\nA
+ genda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fileattachment
+ s/planning_board/meeting/64427/10292026_mpoc_meeting_notice.pdf\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:3966e018f24cf677f11a@granite-docket
+DTSTAMP:20261109T071051Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Packet
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11042026-484?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11042026-484?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:56cafa7fb197dae3cc9a@granite-docket
+DTSTAMP:20261103T092225Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64327/brc_library_human_services_parks_recr
+ eation_agenda_11-4-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64327/brc_library_h
+ uman_services_parks_recreation_agenda_11-4-26.pdf\n\nAgenda: 11/04/2026 - 
+ 6:30pm Budget Recommendations Committee - Parks & Rec\, Library\, Human Se
+ rvices Agenda P\nhttps://www.exeternh.gov/sites/default/files/fileattachme
+ nts/budget_recommendations_committee/meeting/packets/64327/brc_-_library_h
+ uman_services_parks_recreation_packet_11-4-26.pdf\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:69715b2928b3ca2d5587@granite-docket
+DTSTAMP:20261103T092224Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/sustainabi
+ lity_advisory/meeting/64219/11-4-26_sac_mtg.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/sustainability_advisory/meeting/64219/11-4-26_sac_mtg.pdf\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e483ee0a945148ac1b@granite-docket
+DTSTAMP:20261109T071041Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11042026-484
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11042026-484\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb87ae8adf41c5e011e@granite-docket
+DTSTAMP:20261123T072502Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11052026-556
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11052026-556\n\nAgenda: 11/5/2026 Planning Board Agenda and Packet\nh
+ ttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11052026-308
+ \n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/
+ _11052026-556?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_11052026-308?packet=true\n\nAgenda: Agen
+ da\nhttps://www.exeternh.gov/sites/default/files/fileattachments/planning_
+ board/meeting/64476/pb-leg.11-05-26_sitewalk.pdf\n\nAgenda: Agenda\nhttps:
+ //www.exeternh.gov/sites/default/files/fileattachments/planning_board/meet
+ ing/63850/pb-leg.11-05-26_legal_notice.pdf\n\nAgenda: 11/05/2026 - 7:00pm 
+ Planning Board Agenda Packet View Details\nhttps://www.exeternh.gov/sites/
+ default/files/fileattachments/planning_board/meeting/packets/63850/pb-11-0
+ 5-26_meeting_packet.pdf\n\nMinutes: RIVAG110526.pdf\nhttps://www.exeternh.
+ gov/sites/default/files/archives/Meeting Minutes/River Study/2011/agenda/R
+ IVAG110526.pdf\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:94b263a2dde1031931a5@granite-docket
+DTSTAMP:20261103T092935Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Exeter EACMN110526.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ rts/2011/minutes/EACMN110526.pdf
+DESCRIPTION:Minutes: EACMN110526.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Arts/2011/minutes/EACMN110526.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:d553defdad42fd9b24ad@granite-docket
+DTSTAMP:20261103T092932Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ rts/2011/agenda/EACAG110526.pdf
+DESCRIPTION:Minutes: EACAG110526.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Arts/2011/agenda/EACAG110526.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:24bab8dbcc2468a61672@granite-docket
+DTSTAMP:20261109T070434Z
+DTSTART;TZID=America/New_York:20261106T090000
+DURATION:PT2H
+SUMMARY:Exeter Packet
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11062026-487?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11062026-487?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b61db43970b6e74dfa8@granite-docket
+DTSTAMP:20261109T070424Z
+DTSTART;TZID=America/New_York:20261106T090000
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11062026-487
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11062026-487\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f61f376fdd306ca1a68@granite-docket
+DTSTAMP:20261103T093112Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Economic development
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/E
+ DC/2011/agenda/EDCAG110726.pdf
+DESCRIPTION:Minutes: EDCAG110726.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/EDC/2011/agenda/EDCAG110726.pdf\n\nMinute
+ s: EDCMN110726.pdf\nhttps://www.exeternh.gov/sites/default/files/archives/
+ Meeting Minutes/EDC/2011/minutes/EDCMN110726.pdf\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4fa54a49c1ca9e26274d@granite-docket
+DTSTAMP:20261103T092930Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Exeter COAMN110926.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ ging/2011/minutes/COAMN110926.pdf
+DESCRIPTION:Minutes: COAMN110926.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Aging/2011/minutes/COAMN110926.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8610df8b6afe5114308d@granite-docket
+DTSTAMP:20261109T072006Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11092026-537
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11092026-537\n\nAgenda: Select Board\nhttps://www.exeternh.gov/Agenda
+ Center/ViewFile/ArchivedAgenda/_11092026-284\n\nAgenda: Select Board\nhttp
+ s://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-283\n\
+ nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 092026-537?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11092026-284?packet=true\n\nAgenda: Packet\
+ nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-2
+ 83?packet=true\n\nMinutes: SEL110926.pdf\nhttps://www.exeternh.gov/sites/d
+ efault/files/archives/Meeting Minutes/Board of Selectman/2011/Minutes/SEL1
+ 10926.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e74dbebc9b1d2f659fae@granite-docket
+DTSTAMP:20261103T093354Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Exeter TRAAG110926.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/T
+ rain/2011/agenda/TRAAG110926.pdf
+DESCRIPTION:Minutes: TRAAG110926.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Train/2011/agenda/TRAAG110926.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:18fc8c64568e2085eaee@granite-docket
+DTSTAMP:20261123T070624Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11102026-539
+DESCRIPTION:Minutes: Nov 10\, 2026 Tree Committee Meeting 11-10-26\nhttps:/
+ /www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11102026-539\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:618bcd01525d4e227741@granite-docket
+DTSTAMP:20261116T072852Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026
+ -301
+DESCRIPTION:Agenda: Sustainability Advisory Committee Meeting Materials\nht
+ tps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-301\
+ n\nAgenda: Sustainability Advisory Committee Meeting Materials\nhttps://ww
+ w.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-300\n\nAgend
+ a: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_
+ 11102026-301?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.gov/Agend
+ aCenter/ViewFile/ArchivedAgenda/_11102026-300?packet=true\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:907f8cee1b485bf7efae@granite-docket
+DTSTAMP:20261103T093420Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Zoning / ZBA
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/Z
+ ORC/2011/agenda/ZRCAG111026.pdf
+DESCRIPTION:Minutes: ZRCAG111026.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/ZORC/2011/agenda/ZRCAG111026.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab836473cc52bec9608a@granite-docket
+DTSTAMP:20261116T071035Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11102026-544?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11102026-544?packet=true\n\nMinutes: BUDAG111026.pdf\nhttps://www.
+ exeternh.gov/sites/default/files/archives/Meeting Minutes/Budget/2011/agen
+ da/BUDAG111026.pdf\n\nMinutes: BUDMD111026.pdf\nhttps://www.exeternh.gov/s
+ ites/default/files/archives/Meeting Minutes/Budget/2011/minutes/BUDMD11102
+ 6.pdf\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d71d5f89818973e4c7b0@granite-docket
+DTSTAMP:20261116T071025Z
+DTSTART;TZID=America/New_York:20261110T083000
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11102026-539
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11102026-539\n\nAgenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_11102026-544\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3184c32473361a2ff2a@granite-docket
+DTSTAMP:20261123T070605Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Exeter Conservation commission
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11102026-538
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11102026-538\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_11102026-538?packet=true\n\nAgenda: Packet\nhttps://www.
+ exeternh.gov/AgendaCenter/ViewFile/Agenda/_11102026-539?packet=true\n\nMin
+ utes: Nov 10\, 2026 Conservation Commission 11-10-26\nhttps://www.exeternh
+ .gov/AgendaCenter/ViewFile/Minutes/_11102026-538\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c79c247e59766ca2062@granite-docket
+DTSTAMP:20261109T070747Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Packet
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11112026-485?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11112026-485?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:60f79da6913dfc26e82e@granite-docket
+DTSTAMP:20261109T070737Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11112026-485
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11112026-485\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:359e40d5ff3f96c9fb8b@granite-docket
+DTSTAMP:20261116T071445Z
+DTSTART;TZID=America/New_York:20261112T170000
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11122026-555
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11122026-555\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad03fdde7e889b475d1@granite-docket
+DTSTAMP:20261123T071026Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11122026-555
+DESCRIPTION:Minutes: Nov 12\, 2026 Pairpoint Park Stakeholders Advisory Com
+ mittee\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11122026-5
+ 55\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c371cc4a3ef600c7773f@granite-docket
+DTSTAMP:20261116T071506Z
+DTSTART;TZID=America/New_York:20261112T170000
+DURATION:PT2H
+SUMMARY:Exeter Packet
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11122026-555?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11122026-555?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d37040623568b19a34f@granite-docket
+DTSTAMP:20261123T071531Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11162026-554
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11162026-554\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_11162026-554?packet=true\n\nMinutes: Nov 16\, 2026 — A
+ mended Nov 10\, 2026 11:14 AM Sustainability Advisory Committee Meeting Ma
+ terials\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11162026-
+ 554\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a130710e966b11cd463@granite-docket
+DTSTAMP:20261123T070444Z
+DTSTART;TZID=America/New_York:20261117T100000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11172026-566?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11172026-566?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4fe6f4dc79d23aecd9e@granite-docket
+DTSTAMP:20261123T070434Z
+DTSTART;TZID=America/New_York:20261117T100000
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11172026-566
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11172026-566\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fffce5b648a2b28433f8@granite-docket
+DTSTAMP:20261123T070524Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11172026-557
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11172026-557\n\nAgenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_11172026-570\n\nAgenda: Packet\nhttps://www.exeternh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11172026-557?packet=true\n\nAgenda: Packet\nht
+ tps://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11172026-570?packet=t
+ rue\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a065f9673fef2fe7485@granite-docket
+DTSTAMP:20261123T071621Z
+DTSTART;TZID=America/New_York:20261118T153000
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11182026-558
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11182026-558\n\nAgenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_11182026-568\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:27045e5cec423de7cf2d@granite-docket
+DTSTAMP:20261123T071631Z
+DTSTART;TZID=America/New_York:20261118T153000
+DURATION:PT2H
+SUMMARY:Exeter Packet
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11182026-558?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11182026-558?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11182026-568?packet=true\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd10e0ad6889f92684f@granite-docket
+DTSTAMP:20261123T072212Z
+DTSTART;TZID=America/New_York:20261118T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Historic district
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11182026-569
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11182026-569\n\nAgenda: Heritage Commission Meeting - 11/18/2026\nhtt
+ ps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-310\n
+ \nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedA
+ genda/_11182026-310?packet=true\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:99e56118b31294be22f9@granite-docket
+DTSTAMP:20261123T070936Z
+DTSTART;TZID=America/New_York:20261118T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11182026-569?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11182026-569?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:13f6ebd3f00e9c1cd127@granite-docket
+DTSTAMP:20261123T071701Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11192026-559
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11192026-559\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_11192026-559?packet=true\n\nAgenda: Packet\nhttps://www.
+ exeternh.gov/AgendaCenter/ViewFile/Agenda/_11192026-571?packet=true\n\nAge
+ nda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fileattachments/
+ planning_board/meeting/64471/11-19-26_trc_agenda.pdf\n\nAgenda: 11/19/2026
+  - 10:00am Technical Review Committee Meeting Agenda Packet View Details\n
+ https://www.exeternh.gov/sites/default/files/fileattachments/planning_boar
+ d/meeting/packets/64471/11-19-26_trc_packet.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:53a056b6d74bbe6b9bb5@granite-docket
+DTSTAMP:20261123T071126Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Packet
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11192026-573?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11192026-573?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e12ba83a6475afbdff6@granite-docket
+DTSTAMP:20261123T072352Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Exeter Historic district
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026
+ -312
+DESCRIPTION:Agenda: HDC Agenda 11/19/2026\nhttps://www.exeternh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11192026-312\n\nAgenda: HDC Agenda 11/19/20
+ 26\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1119202
+ 6-311\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Ag
+ enda/_11192026-572?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11192026-312?packet=true\n\nAgenda:
+  Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11
+ 192026-311?packet=true\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc87370c0bc0f22acda@granite-docket
+DTSTAMP:20261123T071651Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11192026-572
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11192026-572\n\nAgenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_11192026-573\n\nAgenda: PDF\nhttps://www.exeternh.gov/Agend
+ aCenter/ViewFile/Agenda/_11192026-571\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3169de167cbf510e470e@granite-docket
+DTSTAMP:20261123T070855Z
+DTSTART;TZID=America/New_York:20261123T173000
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11232026-575
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11232026-575\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:828b3d1d528edc15d88c@granite-docket
+DTSTAMP:20261123T070905Z
+DTSTART;TZID=America/New_York:20261123T173000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11232026-575?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11232026-575?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a17d626883e360ea1a93@granite-docket
+DTSTAMP:20261123T071507Z
+DTSTART;TZID=America/New_York:20261123T185000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11232026-579
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11232026-579\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_11232026-579?packet=true\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:78aabae8b27440052c10@granite-docket
+DTSTAMP:20261123T071056Z
+DTSTART;TZID=America/New_York:20261124T100000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11242026-574?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11242026-574?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:84062f4b5148b872a057@granite-docket
+DTSTAMP:20261123T071045Z
+DTSTART;TZID=America/New_York:20261124T100000
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11242026-574
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11242026-574\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:067ece65dfa75392709c@granite-docket
+DTSTAMP:20261123T072032Z
+DTSTART;TZID=America/New_York:20261201T081500
+DURATION:PT2H
+SUMMARY:Exeter Packet
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_12012026-536?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_12012026-536?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.g
+ ov/AgendaCenter/ViewFile/Agenda/_12012026-562?packet=true\n\nAgenda: Packe
+ t\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_12012026-563?pac
+ ket=true\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_12012026-305?packet=true\n\nAgenda: Packet\nhttps://www.e
+ xeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12012026-306?packet=true
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4c5a357b3e669ea2b7c4@granite-docket
+DTSTAMP:20261123T072022Z
+DTSTART;TZID=America/New_York:20261201T081500
+DURATION:PT2H
+SUMMARY:Exeter E911 Committee Meeting 12/1/2026
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12012026
+ -306
+DESCRIPTION:Agenda: E911 Committee Meeting 12/1/2026\nhttps://www.exeternh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_12012026-306\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:71b50f16495855028813@granite-docket
+DTSTAMP:20261103T092936Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Exeter EACAG120126.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ rts/2012/agenda/EACAG120126.pdf
+DESCRIPTION:Minutes: EACAG120126.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Arts/2012/agenda/EACAG120126.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:730dd71c631d2af08d6c@granite-docket
+DTSTAMP:20261123T070755Z
+DTSTART;TZID=America/New_York:20261201T081500
+DURATION:PT2H
+SUMMARY:Exeter PDF
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_12012026-536
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_12012026-536\n\nAgenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_12012026-562\n\nAgenda: PDF\nhttps://www.exeternh.gov/Agend
+ aCenter/ViewFile/Agenda/_12012026-563\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:776072d1e6a6be252ac8@granite-docket
+DTSTAMP:20261103T092939Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Exeter EACMD120126.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ rts/2012/minutes/EACMD120126.pdf
+DESCRIPTION:Minutes: EACMD120126.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Arts/2012/minutes/EACMD120126.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:901f512a5a628038c845@granite-docket
+DTSTAMP:20261123T071952Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Exeter E 911 Committee Meeting
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12012026
+ -305
+DESCRIPTION:Agenda: E 911 Committee Meeting\nhttps://www.exeternh.gov/Agend
+ aCenter/ViewFile/ArchivedAgenda/_12012026-305\n\nAgenda: E 911 Committee M
+ eeting\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_120
+ 12026-303\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:da75804eb0a1e6367711@granite-docket
+DTSTAMP:20261103T093022Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ udget/2012/minutes/BUDMN120126.pdf
+DESCRIPTION:Minutes: BUDMN120126.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Budget/2012/minutes/BUDMN120126.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dfbb60bfe12422db586e@granite-docket
+DTSTAMP:20261103T093005Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Select board / council
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ oard of Selectman/2012/Minutes/SEL120326.pdf
+DESCRIPTION:Minutes: SEL120326.pdf\nhttps://www.exeternh.gov/sites/default/
+ files/archives/Meeting Minutes/Board of Selectman/2012/Minutes/SEL120326.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4295b1105ec03977af66@granite-docket
+DTSTAMP:20261103T092937Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+TRANSP:TRANSPARENT
+SUMMARY:Exeter EACAG120426.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ rts/2012/agenda/EACAG120426.pdf
+DESCRIPTION:Minutes: EACAG120426.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Arts/2012/agenda/EACAG120426.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b59e398dd98b7cf3a49@granite-docket
+DTSTAMP:20261103T093347Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+TRANSP:TRANSPARENT
+SUMMARY:Exeter RIVAG120426.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/R
+ iver Study/2012/agenda/RIVAG120426.pdf
+DESCRIPTION:Minutes: RIVAG120426.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/River Study/2012/agenda/RIVAG120426.pdf\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3215d5b95d8f0643f4@granite-docket
+DTSTAMP:20261103T093350Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/R
+ iver Study/2012/minutes/RIVMD120426.pdf
+DESCRIPTION:Minutes: RIVMD120426.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/River Study/2012/minutes/RIVMD120426.pdf\
+ n\nMinutes: PLNAG120426.pdf\nhttps://www.exeternh.gov/sites/default/files/
+ archives/Meeting Minutes/Planning Board/2012/agenda/PLNAG120426.pdf\n\nMin
+ utes: PLNMD120426.pdf\nhttps://www.exeternh.gov/sites/default/files/archiv
+ es/Meeting Minutes/Planning Board/2012/minutes/PLNMD120426.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e6061efe6a20b435905c@granite-docket
+DTSTAMP:20261103T092940Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+TRANSP:TRANSPARENT
+SUMMARY:Exeter EACMD120426.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ rts/2012/minutes/EACMD120426.pdf
+DESCRIPTION:Minutes: EACMD120426.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Arts/2012/minutes/EACMD120426.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:310480ce7c6c1da5f713@granite-docket
+DTSTAMP:20261103T093424Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Zoning / ZBA
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/Z
+ ORC/2012/agenda/ZRCAG120626.pdf
+DESCRIPTION:Minutes: ZRCAG120626.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/ZORC/2012/agenda/ZRCAG120626.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:625d9209027d19638f00@granite-docket
+DTSTAMP:20261103T092939Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+TRANSP:TRANSPARENT
+SUMMARY:Exeter EACAG120726.pdf
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ rts/2012/agenda/EACAG120726.pdf
+DESCRIPTION:Minutes: EACAG120726.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Arts/2012/agenda/EACAG120726.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:e19e0a7f0d2f553eb599@granite-docket
+DTSTAMP:20261103T092319Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/planning_b
+ oard/page/14051/2027_meeting_schedule_-_final.pdf
+DESCRIPTION:Other: 2027 Land Use Board Meeting Schedule\, Deadlines & Submi
+ ssion Requirements\nhttps://www.exeternh.gov/sites/default/files/fileattac
+ hments/planning_board/page/14051/2027_meeting_schedule_-_final.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:96da8989d9516e811025@granite-docket
+DTSTAMP:20261123T080752Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Winter Session 1 January 6\, 2027 - February 10\, 2027 2-2:4
+ 5 pm $30.00 
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/DocumentCenter/View/11028
+DESCRIPTION:Other: Winter Session 1 January 6\, 2027 - February 10\, 2027 2
+ -2:45 pm $30.00 December 9\, 2026 @ 8:15am\nhttps://www.exeternh.gov/Docum
+ entCenter/View/11028\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

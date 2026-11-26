@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jaffrey Select board / council
+X-WR-CALDESC:Select board / council meetings in Jaffrey\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ab7d68e72869fe8a3e21@granite-docket
+DTSTAMP:20261103T104406Z
+DTSTART;TZID=America/New_York:20261014T080000
+DURATION:PT2H
+SUMMARY:Jaffrey Select board / council
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_10142026-296
+DESCRIPTION:Agenda: Economic Development Council Agenda\nhttps://townofjaff
+ rey.com/AgendaCenter/ViewFile/Agenda/_10142026-296\n\nAgenda: Select Board
+  Meeting\nhttps://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_10142026
+ -293\n\nMinutes: Oct 14\, 2026 Economic Development Council Agenda\nhttps:
+ //townofjaffrey.com/AgendaCenter/ViewFile/Minutes/_10142026-296\n\nMinutes
+ : Oct 14\, 2026 Select Board Meeting\nhttps://townofjaffrey.com/AgendaCent
+ er/ViewFile/Minutes/_10142026-293\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bceae91ea5a7a80f7557@granite-docket
+DTSTAMP:20261116T085247Z
+DTSTART;TZID=America/New_York:20261028T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Jaffrey Select board / council
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_10282026-298
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://townofjaffrey.com/AgendaC
+ enter/ViewFile/Agenda/_10282026-298\n\nMinutes: Oct 28\, 2026 Select Board
+  Meeting\nhttps://townofjaffrey.com/AgendaCenter/ViewFile/Minutes/_1028202
+ 6-298\n\nMinutes: Oct 28\, 2026 Select Board Meeting\nhttps://townofjaffre
+ y.com/AgendaCenter/ViewFile/ArchivedMinutes/_10282026-165\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8439458d69624ac859e1@granite-docket
+DTSTAMP:20261116T084857Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Jaffrey Select board / council
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_11052026-301
+DESCRIPTION:Agenda: Select Board Meeting/Public Hearing\nhttps://townofjaff
+ rey.com/AgendaCenter/ViewFile/Agenda/_11052026-301\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fa660032054b04739580@granite-docket
+DTSTAMP:20261116T084848Z
+DTSTART;TZID=America/New_York:20261118T080000
+DURATION:PT2H
+SUMMARY:Jaffrey Select board / council
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_11182026-302
+DESCRIPTION:Agenda: Economic Development Council Agenda\nhttps://townofjaff
+ rey.com/AgendaCenter/ViewFile/Agenda/_11182026-302\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swanzey Economic development
+X-WR-CALDESC:Economic development meetings in Swanzey\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c9d45d193ae2fbb63344@granite-docket
+DTSTAMP:20261103T100432Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Economic development
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/EDAC 10122026 Agenda.pdf?t=202610090655510
+DESCRIPTION:Minutes: 10/12/26 Economic Development Advisory Committee Agend
+ a Minutes\nhttps://www.swanzeynh.gov/EDAC 10122026 Agenda.pdf?t=2026100906
+ 55510\n\nMinutes: 10/12/26 Economic Development Advisory Committee Agenda 
+ Minutes\nhttps://www.swanzeynh.gov/2026-10-12 EDAC Minutes.pdf?t=202611021
+ 020490\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f388259ebcb80e53d0a5@granite-docket
+DTSTAMP:20261103T100432Z
+DTSTART;TZID=America/New_York:20261109T170000
+DURATION:PT2H
+SUMMARY:Swanzey Economic development
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/11092026 EDAC Agenda.pdf?t=202611030841580
+DESCRIPTION:Agenda: 11/09/26 Economic Development Advisory Committee Agenda
+ \nhttps://www.swanzeynh.gov/11092026 EDAC Agenda.pdf?t=202611030841580\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+END:VCALENDAR

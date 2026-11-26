@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grafton Planning board
+X-WR-CALDESC:Planning board meetings in Grafton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5f3d6d6f6774edcbde4c@granite-docket
+DTSTAMP:20261123T100455Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Planning board
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1272026-17
+DESCRIPTION:Agenda: Capital Improvement Planning Committee Meeting Material
+  (No Agenda)\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFile/Archiv
+ edAgenda/_11272026-17\n\nAgenda: Packet\nhttps://www.townofgraftonnh.com/A
+ gendaCenter/ViewFile/ArchivedAgenda/_11272026-17?packet=true\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+END:VCALENDAR

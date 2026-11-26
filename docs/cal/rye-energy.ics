@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rye Energy committee
+X-WR-CALDESC:Energy committee meetings in Rye\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:82cc5baf0c4e49a8de58@granite-docket
+DTSTAMP:20261103T125743Z
+DTSTART;TZID=America/New_York:20261019T110000
+DURATION:PT2H
+SUMMARY:Rye Energy committee
+LOCATION:Rye\, NH
+URL:https://www.ryenh.gov/AgendaCenter/ViewFile/Agenda/_10192026-783
+DESCRIPTION:Agenda: Rye Energy Committee Regular Meeting\nhttps://www.ryenh
+ .gov/AgendaCenter/ViewFile/Agenda/_10192026-783\n\nMinutes: Oct 19\, 2026 
+ Rye Energy Committee Regular Meeting\nhttps://www.ryenh.gov/AgendaCenter/V
+ iewFile/Minutes/_10192026-783\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5c5edcb4e62eb13a0ba@granite-docket
+DTSTAMP:20261103T130735Z
+DTSTART;TZID=America/New_York:20261102T153000
+DURATION:PT2H
+SUMMARY:Rye Energy committee
+LOCATION:Rye\, NH
+URL:https://www.ryenh.gov/AgendaCenter/ViewFile/Agenda/_11022026-876
+DESCRIPTION:Agenda: Energy Committee\nhttps://www.ryenh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_11022026-876\n\nMinutes: Nov 2\, 2026 Energy Committee\nhtt
+ ps://www.ryenh.gov/AgendaCenter/ViewFile/Minutes/_11022026-876\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+END:VCALENDAR

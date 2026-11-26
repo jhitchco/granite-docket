@@ -1,0 +1,398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meredith NH meetings
+X-WR-CALDESC:Public meetings of Meredith\, NH boards\, from posted agendas 
+ and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9c978842829429cce4df@granite-docket
+DTSTAMP:20261103T101857Z
+DTSTART;TZID=America/New_York:20260928T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1415
+DESCRIPTION:Agenda: Select Board Agenda Sep 28\, 2026 Select Board Agenda a
+ nd Packet\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_092820
+ 26-1415\n\nAgenda: Prescott Park Committee Agenda Sep 28\, 2026 Prescott P
+ ark Committee Meeting\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Ag
+ enda/_09282026-1416\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0aedce1fed66d2e96e0f@granite-docket
+DTSTAMP:20261103T101425Z
+DTSTART;TZID=America/New_York:20260930T160000
+DURATION:PT2H
+SUMMARY:Meredith Budget / CIP
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_09302026-1417
+DESCRIPTION:Agenda: CIP Advisory Committee Agenda Sep 30\, 2026 CIP Meeting
+  to begin the fall deliberations for upcoming \nhttps://www.meredithnh.gov
+ /AgendaCenter/ViewFile/Agenda/_09302026-1417\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5173ee7a5b1a97c4e7c6@granite-docket
+DTSTAMP:20261116T084042Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Meredith Conservation commission
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-1419
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 1\, 2026 Conservatio
+ n Commission Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agen
+ da/_10012026-1419\n\nMinutes: Conservation Commission Minutes Oct 1\, 2026
+  Conservation Commission Agenda\nhttps://www.meredithnh.gov/AgendaCenter/V
+ iewFile/Minutes/_10012026-1419\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5313e27d9b204f7f5331@granite-docket
+DTSTAMP:20261103T100827Z
+DTSTART;TZID=America/New_York:20261001T103000
+DURATION:PT2H
+SUMMARY:Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-1418
+DESCRIPTION:Agenda: Select Board Agenda Oct 1\, 2026 Meredith Select Board 
+ Non-Public Meeting\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10012026-1418\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:599eee5613d1ee644893@granite-docket
+DTSTAMP:20261103T104432Z
+DTSTART;TZID=America/New_York:20261006T090000
+DURATION:PT2H
+SUMMARY:Meredith Budget / CIP
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-1420
+DESCRIPTION:Agenda: Waukewan Watershed Advisory Committee Agenda Oct 6\, 20
+ 26 Waukewan Watershed Advisory Committee Meeti\nhttps://www.meredithnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10062026-1420\n\nAgenda: Meeting Agenda\nht
+ tps://www.meredithnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10062026-56
+ 2\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7065f534434b17efded@granite-docket
+DTSTAMP:20261103T101424Z
+DTSTART;TZID=America/New_York:20261007T160000
+DURATION:PT2H
+SUMMARY:Meredith Budget / CIP
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1421
+DESCRIPTION:Agenda: CIP Advisory Committee Agenda Oct 7\, 2026 Fall deliber
+ ations for upcoming capital projects and purch\nhttps://www.meredithnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10072026-1421\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f053228c139144535b2e@granite-docket
+DTSTAMP:20261103T102114Z
+DTSTART;TZID=America/New_York:20261008T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-1412
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 8\, 2026 Zoning B
+ oard of Adjustment\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10082026-1412\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:41463e232a8d079c89d9@granite-docket
+DTSTAMP:20261103T102002Z
+DTSTART;TZID=America/New_York:20261013T090000
+DURATION:PT2H
+SUMMARY:Meredith Village Pathway Committee Agenda Oct 13\, 2026 Meredith Vi
+ llage Pathway
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-1422
+DESCRIPTION:Agenda: Village Pathway Committee Agenda Oct 13\, 2026 Meredith
+  Village Pathways Meeting\nhttps://www.meredithnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10132026-1422\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:08b51f69e706386fcd0f@granite-docket
+DTSTAMP:20261103T101423Z
+DTSTART;TZID=America/New_York:20261014T160000
+DURATION:PT2H
+SUMMARY:Meredith Budget / CIP
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-1423
+DESCRIPTION:Agenda: CIP Advisory Committee Agenda Oct 14\, 2026 Tonight we 
+ will continue our discussion on equipment and \nhttps://www.meredithnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10142026-1423\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ad5bc855da5ed61f3b@granite-docket
+DTSTAMP:20261103T101537Z
+DTSTART;TZID=America/New_York:20261014T123000
+DURATION:PT2H
+SUMMARY:Meredith Energy committee
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-1427
+DESCRIPTION:Agenda: Energy Committee Agenda Oct 14\, 2026 Energy Committee 
+ Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-
+ 1427\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:21218f1f9a6bf7d891b9@granite-docket
+DTSTAMP:20261103T102114Z
+DTSTART;TZID=America/New_York:20261015T103000
+DURATION:PT2H
+SUMMARY:Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-1426
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 15\, 2026 Zoning 
+ Amendment Workshop\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10152026-1426\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c514d8b534066bcec44@granite-docket
+DTSTAMP:20261103T100827Z
+DTSTART;TZID=America/New_York:20261019T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1428
+DESCRIPTION:Agenda: Select Board Agenda Oct 19\, 2026 Selectboard Meeting &
+  Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10192026
+ -1428\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:40bc8697604984a6aa8d@granite-docket
+DTSTAMP:20261103T101856Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Meredith Prescott Park Committee Agenda Oct 19\, 2026 Prescott Park
+  Committee Me
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1429
+DESCRIPTION:Agenda: Prescott Park Committee Agenda Oct 19\, 2026 Prescott P
+ ark Committee Meeting\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Ag
+ enda/_10192026-1429\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b875e903587e44958d59@granite-docket
+DTSTAMP:20261103T101422Z
+DTSTART;TZID=America/New_York:20261021T160000
+DURATION:PT2H
+SUMMARY:Meredith Planning board
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-1430
+DESCRIPTION:Agenda: CIP Advisory Committee Agenda Oct 21\, 2026 This meetin
+ g will be to review the Department requests an\nhttps://www.meredithnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10212026-1430\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c2971290d2e92f3d7da@granite-docket
+DTSTAMP:20261103T100810Z
+DTSTART;TZID=America/New_York:20261026T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-1431
+DESCRIPTION:Agenda: Select Board Agenda Oct 26\, 2026 Selectboard Agenda & 
+ Packet\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-
+ 1431\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:95575d9fde4c8b09a8c4@granite-docket
+DTSTAMP:20261103T103703Z
+DTSTART;TZID=America/New_York:20261027T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Planning board
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-1424
+DESCRIPTION:Agenda: Planning Board Agenda Oct 27\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10272
+ 026-1424\n\nAgenda: Planning Board Meeting Agenda\nhttps://www.meredithnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-569\n\nAgenda: Planning
+  Board Meeting Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_10272026-566\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4dc291cf6e4b16eb1be1@granite-docket
+DTSTAMP:20261103T101422Z
+DTSTART;TZID=America/New_York:20261028T160000
+DURATION:PT2H
+SUMMARY:Meredith Planning board
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-1432
+DESCRIPTION:Agenda: CIP Advisory Committee Agenda Oct 28\, 2026 This will b
+ e the final meeting of the CIP committee for t\nhttps://www.meredithnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10282026-1432\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0677ab27109d27ef4059@granite-docket
+DTSTAMP:20261103T102027Z
+DTSTART;TZID=America/New_York:20261103T090000
+DURATION:PT2H
+SUMMARY:Meredith Waukewan Watershed Advisory Committee Agenda Nov 3\, 2026 
+ Waukewan Wate
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-1435
+DESCRIPTION:Agenda: Waukewan Watershed Advisory Committee Agenda Nov 3\, 20
+ 26 Waukewan Watershed Advisory Committee\nhttps://www.meredithnh.gov/Agend
+ aCenter/ViewFile/Agenda/_11032026-1435\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5c1d40514d89a199a1d@granite-docket
+DTSTAMP:20261109T083716Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Meredith Conservation commission
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-1436
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 5\, 2026 Conservatio
+ n Commission November Meeting\nhttps://www.meredithnh.gov/AgendaCenter/Vie
+ wFile/Agenda/_11052026-1436\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3ce5d883ef72ff50f74@granite-docket
+DTSTAMP:20261109T083856Z
+DTSTART;TZID=America/New_York:20261109T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-1437
+DESCRIPTION:Agenda: Select Board Agenda Nov 9\, 2026 — Amended Nov 5\, 20
+ 26 2:07 PM Select Board Agenda - 11/9/2026\nhttps://www.meredithnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_11092026-1437\n\nAgenda: Select Board Agenda - 
+ 11/9/2026\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11092026-574\n\nAgenda: Select Board Agenda - 11/9/2026\nhttps://www.mer
+ edithnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-573\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:20639b2936a5e283ae49@granite-docket
+DTSTAMP:20261103T102113Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1425
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 12\, 2026 Zoning 
+ Board of Adjustment\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agen
+ da/_11122026-1425\n\nAgenda: Zoning Board of Adjustment Agenda Nov 12\, 20
+ 26 Zoning Board of Adjustment Agenda\nhttps://www.meredithnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_11122026-1433\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a62b554c1f560443c1ad@granite-docket
+DTSTAMP:20261103T102206Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1425?
+ packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.meredithnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_11122026-1425?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbbbae24afe4faae86c2@granite-docket
+DTSTAMP:20261116T084052Z
+DTSTART;TZID=America/New_York:20261112T123000
+DURATION:PT2H
+SUMMARY:Meredith Energy committee
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1438
+DESCRIPTION:Agenda: Energy Committee Agenda Nov 12\, 2026 Energy Committee 
+ Meeting\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11122026
+ -1438\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd6f442f8e555a104844@granite-docket
+DTSTAMP:20261116T084853Z
+DTSTART;TZID=America/New_York:20261124T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-1439
+DESCRIPTION:Agenda: Planning Board Agenda Nov 24\, 2026 Public Hearing - Zo
+ ning Amendments and Rules of Procedure\nhttps://www.meredithnh.gov/AgendaC
+ enter/ViewFile/Agenda/_11242026-1439\n\nAgenda: Public Hearing - Zoning Am
+ endments and Rules of Procedure\nhttps://www.meredithnh.gov/AgendaCenter/V
+ iewFile/ArchivedAgenda/_11242026-578\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d990f60dfda2d7a0c873@granite-docket
+DTSTAMP:20261103T102206Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
+SUMMARY:Meredith Select board / council
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_12102026-1434?
+ packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.meredithnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_12102026-1434?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ed9028c5886806fc59ab@granite-docket
+DTSTAMP:20261103T102113Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
+SUMMARY:Meredith Zoning / ZBA
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_12102026-1434
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Dec 10\, 2026 Zoning 
+ Board of Adjustment\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agen
+ da/_12102026-1434\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sandown Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Sandown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8952da69e253104d257c@granite-docket
+DTSTAMP:20261103T102134Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Sandown Conservation commission
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10082026-309
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 8\, 2026 Conservatio
+ n Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/
+ Agenda/_10082026-309\n\nMinutes: Conservation Commission Minutes Oct 8\, 2
+ 026 Conservation Commission Meeting Agenda\nhttps://www.sandown.us/AgendaC
+ enter/ViewFile/Minutes/_10082026-309\n\nMinutes: Oct 8\, 2026 Conservation
+  Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/A
+ rchivedMinutes/_10082026-99\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b779183607def2461bd@granite-docket
+DTSTAMP:20261103T102126Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Sandown Conservation commission
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10222026-317
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 22\, 2026 Conservati
+ on Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile
+ /Agenda/_10222026-317\n\nAgenda: Conservation Commission Meeting Agenda\nh
+ ttps://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_10222026-105\n
+ \nMinutes: Conservation Commission Minutes Oct 22\, 2026 Conservation Comm
+ ission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minute
+ s/_10222026-317\n\nMinutes: Oct 22\, 2026 Conservation Commission Meeting 
+ Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/ArchivedMinutes/_1022
+ 2026-111\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:93ee1850e58973f20d31@granite-docket
+DTSTAMP:20261116T084128Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Sandown Conservation commission
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11052026-322
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 5\, 2026 Conservatio
+ n Commission Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/
+ Agenda/_11052026-322\n\nMinutes: Conservation Commission Minutes Nov 5\, 2
+ 026 Conservation Commission Meeting Agenda\nhttps://www.sandown.us/AgendaC
+ enter/ViewFile/Minutes/_11052026-322\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

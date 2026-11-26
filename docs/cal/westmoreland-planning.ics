@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Westmoreland Planning board
+X-WR-CALDESC:Planning board meetings in Westmoreland\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a0ae119501fc1b466830@granite-docket
+DTSTAMP:20261103T120510Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Planning board
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/ffcb1c44-aec4-476a-9e19-205b61dc84a6/Planning%20Board%20October%2
+ 05%2C%202026.pdf?ver=1793655658020
+DESCRIPTION:Minutes: Planning Board October 5\, 2026 (pdf) Download\nhttps:
+ //img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downloads/
+ ffcb1c44-aec4-476a-9e19-205b61dc84a6/Planning%20Board%20October%205%2C%202
+ 026.pdf?ver=1793655658020\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8dc333354d7b197806ca@granite-docket
+DTSTAMP:20261109T104428Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Planning board
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/a32ebc73-ae8d-4d11-950b-1fd0a9909d3f/Planning%20Board%20November%
+ 202%2C%202026.docx.pdf?ver=1793902472895
+DESCRIPTION:Minutes: Planning Board November 2\, 2026.docx (pdf) Download\n
+ https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/down
+ loads/a32ebc73-ae8d-4d11-950b-1fd0a9909d3f/Planning%20Board%20November%202
+ %2C%202026.docx.pdf?ver=1793902472895\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bbca0b9b40e2844093e4@granite-docket
+DTSTAMP:20261123T095111Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Westmoreland Planning board
+LOCATION:Westmoreland\, NH
+URL:https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/d
+ ownloads/f68746b3-89fb-454a-a7fe-ed504a22cc7a/Planning%20Board%20November%
+ 2016%2C%202026.docx.pdf?ver=1795202274601
+DESCRIPTION:Minutes: Planning Board November 16\, 2026.docx (pdf) Download\
+ nhttps://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/dow
+ nloads/f68746b3-89fb-454a-a7fe-ed504a22cc7a/Planning%20Board%20November%20
+ 16%2C%202026.docx.pdf?ver=1795202274601\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

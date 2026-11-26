@@ -1,0 +1,587 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boscawen NH meetings
+X-WR-CALDESC:Public meetings of Boscawen\, NH boards\, from posted agendas 
+ and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:08da3d960133c78959e8@granite-docket
+DTSTAMP:20261103T110615Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_09282026-337
+DESCRIPTION:Agenda: Brownfields Advisory Committee (PDF) - Canceled\nhttps:
+ //boscawennh.gov/AgendaCenter/ViewFile/Agenda/_09282026-337\n\nAgenda: Dus
+ ton Island Task Force (PDF) - Canceled\nhttps://boscawennh.gov/AgendaCente
+ r/ViewFile/Agenda/_09282026-334\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:142aadde4880af2fe33b@granite-docket
+DTSTAMP:20261103T111031Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Boscawen Brownfields Advisory Committee (PDF)
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-6
+ 74
+DESCRIPTION:Agenda: Brownfields Advisory Committee (PDF)\nhttps://boscawenn
+ h.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-674\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a85fcd1a236844e54b51@granite-docket
+DTSTAMP:20261103T111235Z
+DTSTART;TZID=America/New_York:20260928T170000
+DURATION:PT2H
+SUMMARY:Boscawen Historic district
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-6
+ 73
+DESCRIPTION:Agenda: Duston Island Task Force (PDF)\nhttps://boscawennh.gov/
+ AgendaCenter/ViewFile/ArchivedAgenda/_09282026-673\n\nAgenda: Duston Islan
+ d Task Force (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/ArchivedA
+ genda/_09282026-672\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:acdeebd1e18b2f026b36@granite-docket
+DTSTAMP:20261103T114048Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Boscawen Brownfields Advisory Committee (PDF) - Canceled
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Agenda/_09282026-337
+DESCRIPTION:Agenda: Brownfields Advisory Committee (PDF) - Canceled\nhttps:
+ //www.boscawennh.gov/AgendaCenter/ViewFile/Agenda/_09282026-337\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6f192922406f570cce@granite-docket
+DTSTAMP:20261103T112728Z
+DTSTART;TZID=America/New_York:20261006T121500
+DURATION:PT2H
+SUMMARY:Public hearing: Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10062026-339
+DESCRIPTION:Agenda: Planning Board - TRC (PDF)\nhttps://boscawennh.gov/Agen
+ daCenter/ViewFile/Agenda/_10062026-339\n\nAgenda: Planning Board (PDF)\nht
+ tps://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10062026-340\n\nNotice:
+  Map 183C Lot 74 Conditional Use Permit\nhttps://boscawennh.gov/DocumentCe
+ nter/View/5576/Map-183C-Lot-74-Conditional-Use-Permit\n\nNotice: Map 183C 
+ Lot 74 Conditional Use Permit\nhttps://boscawennh.gov/DocumentCenter/View/
+ 5555/PB-PN-100626-Map-183C-Lot-74-Conditional-Use-Permit\n\nMinutes: Oct 6
+ \, 2026 Planning Board - TRC (PDF)\nhttps://boscawennh.gov/AgendaCenter/Vi
+ ewFile/Minutes/_10062026-339\n\nMinutes: Oct 6\, 2026 Planning Board (PDF)
+ \nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10062026-340\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ad8ea8ab70d1131d0271@granite-docket
+DTSTAMP:20261103T112102Z
+DTSTART;TZID=America/New_York:20261006T171500
+DURATION:PT2H
+SUMMARY:Boscawen Economic development
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10062026-338
+DESCRIPTION:Agenda: Economic Development Committee (PDF)\nhttps://boscawenn
+ h.gov/AgendaCenter/ViewFile/Agenda/_10062026-338\n\nAgenda: Town Park Comm
+ ittee (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_
+ 10062026-677\n\nMinutes: Oct 6\, 2026 Economic Development Committee (PDF)
+ \nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10062026-338\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ae14e255034da5c44a@granite-docket
+DTSTAMP:20261103T110752Z
+DTSTART;TZID=America/New_York:20261006T150000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10062026-341
+DESCRIPTION:Agenda: Town Park Committee (PDF)\nhttps://boscawennh.gov/Agend
+ aCenter/ViewFile/Agenda/_10062026-341\n\nMinutes: Oct 6\, 2026 Town Park C
+ ommittee (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_1006
+ 2026-341\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3dbf4a9e6e9a29461ef2@granite-docket
+DTSTAMP:20261103T111757Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Boscawen Select board / council
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10072026-342
+DESCRIPTION:Agenda: Select Board (PDF)\nhttps://boscawennh.gov/AgendaCenter
+ /ViewFile/Agenda/_10072026-342\n\nAgenda: Select Board (PDF)\nhttps://bosc
+ awennh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-683\n\nMinutes: 
+ Oct 7\, 2026 Select Board (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewF
+ ile/Minutes/_10072026-342\n\nMinutes: Oct 7\, 2026 Select Board (PDF)\nhtt
+ ps://boscawennh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10072026-691\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5d4ac165d05036655fe9@granite-docket
+DTSTAMP:20261103T113958Z
+DTSTART;TZID=America/New_York:20261008T183000
+DURATION:PT2H
+SUMMARY:Boscawen Town meeting / warrant
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10082026-343
+DESCRIPTION:Agenda: Agricultural Commission (PDF)\nhttps://www.boscawennh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10082026-343\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:958d813004d1935baa19@granite-docket
+DTSTAMP:20261116T095536Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10082026-343
+DESCRIPTION:Minutes: Oct 8\, 2026 Agricultural Commission (PDF)\nhttps://ww
+ w.boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10082026-343\n\nMinutes: O
+ ct 8\, 2026 Agricultural Commission (PDF)\nhttps://boscawennh.gov/AgendaCe
+ nter/ViewFile/ArchivedMinutes/_10082026-704\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd21e1f895a7ffb72e0e@granite-docket
+DTSTAMP:20261103T110525Z
+DTSTART;TZID=America/New_York:20261008T183000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10082026-343
+DESCRIPTION:Agenda: Agricultural Commission (PDF)\nhttps://boscawennh.gov/A
+ gendaCenter/ViewFile/Agenda/_10082026-343\n\nMinutes: Oct 8\, 2026 Agricul
+ tural Commission (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minut
+ es/_10082026-343\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:63ea615fd2e66f3bdedf@granite-docket
+DTSTAMP:20261103T110715Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10132026-344
+DESCRIPTION:Agenda: Public Safety Advisory Committee (PDF)\nhttps://boscawe
+ nnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-344\n\nMinutes: Oct 13\, 20
+ 26 Public Safety Advisory Committee (PDF)\nhttps://boscawennh.gov/AgendaCe
+ nter/ViewFile/Minutes/_10132026-344\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3427e57c54313163ab3@granite-docket
+DTSTAMP:20261103T114321Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Boscawen Public Safety Advisory Committee (PDF)
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10132026-344
+DESCRIPTION:Agenda: Public Safety Advisory Committee (PDF)\nhttps://www.bos
+ cawennh.gov/AgendaCenter/ViewFile/Agenda/_10132026-344\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b98e696b667b898abd@granite-docket
+DTSTAMP:20261103T114322Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Boscawen Oct 13\, 2026 Public Safety Advisory Committee (PDF)
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10132026-344
+DESCRIPTION:Minutes: Oct 13\, 2026 Public Safety Advisory Committee (PDF)\n
+ https://www.boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10132026-344\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4d754d308c2da4fd2210@granite-docket
+DTSTAMP:20261103T114450Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Boscawen Select board / council
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/DocumentCenter/View/5580/Boscawen-Town-Park-
+ Improvements-Newsletter-Oct-2026
+DESCRIPTION:Notice: Town Park Improvement Project - October Newsletter · T
+ own Park Improvements Underway 10/14/26 The To\nhttps://www.boscawennh.gov
+ /DocumentCenter/View/5580/Boscawen-Town-Park-Improvements-Newsletter-Oct-2
+ 026\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:cd492bd558c65dc4d97a@granite-docket
+DTSTAMP:20261103T111750Z
+DTSTART;TZID=America/New_York:20261015T170000
+DURATION:PT2H
+SUMMARY:Boscawen Select board / council
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10152026-345
+DESCRIPTION:Agenda: Select Board (PDF)\nhttps://boscawennh.gov/AgendaCenter
+ /ViewFile/Agenda/_10152026-345\n\nMinutes: Oct 15\, 2026 Select Board (PDF
+ )\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10152026-345\n\nM
+ inutes: Oct 15\, 2026 Select Board (PDF)\nhttps://boscawennh.gov/AgendaCen
+ ter/ViewFile/ArchivedMinutes/_10152026-692\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:25da1c1698b1dd34bc84@granite-docket
+DTSTAMP:20261103T110649Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10192026-346
+DESCRIPTION:Agenda: Old Home Day Committee (PDF)\nhttps://boscawennh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10192026-346\n\nMinutes: Oct 19\, 2026 Old Hom
+ e Day Committee (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minute
+ s/_10192026-346\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5d71f0fdc2ffc04119a2@granite-docket
+DTSTAMP:20261103T114255Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Boscawen Oct 19\, 2026 Old Home Day Committee (PDF)
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10192026-346
+DESCRIPTION:Minutes: Oct 19\, 2026 Old Home Day Committee (PDF)\nhttps://ww
+ w.boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10192026-346\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:94b06598be73fae66ce1@granite-docket
+DTSTAMP:20261103T114255Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Boscawen Old Home Day Committee (PDF)
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10192026-346
+DESCRIPTION:Agenda: Old Home Day Committee (PDF)\nhttps://www.boscawennh.go
+ v/AgendaCenter/ViewFile/Agenda/_10192026-346\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:38bc349a0f9e2e24a2e3@granite-docket
+DTSTAMP:20261109T102057Z
+DTSTART;TZID=America/New_York:20261021T180000
+DURATION:PT2H
+SUMMARY:Boscawen Select board / council
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10212026-348
+DESCRIPTION:Agenda: Select Board (PDF)\nhttps://boscawennh.gov/AgendaCenter
+ /ViewFile/Agenda/_10212026-348\n\nAgenda: Select Board (PDF)\nhttps://bosc
+ awennh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-690\n\nMinutes: 
+ Oct 21\, 2026 Select Board (PDF)\nhttps://boscawennh.gov/AgendaCenter/View
+ File/Minutes/_10212026-348\n\nOther: Finance (PDF) Preliminarily Approved 
+ by Select Board on 10/21/2026\nhttps://boscawennh.gov/DocumentCenter/View/
+ 5586\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c66104f366b3c5bd4a74@granite-docket
+DTSTAMP:20261103T110614Z
+DTSTART;TZID=America/New_York:20261026T170000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10262026-349
+DESCRIPTION:Agenda: Duston Island Task Force (PDF)\nhttps://boscawennh.gov/
+ AgendaCenter/ViewFile/Agenda/_10262026-349\n\nMinutes: Oct 26\, 2026 Dusto
+ n Island Task Force (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Mi
+ nutes/_10262026-349\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7394aba8275254a6e44@granite-docket
+DTSTAMP:20261109T094857Z
+DTSTART;TZID=America/New_York:20261027T183000
+DURATION:PT2H
+SUMMARY:Boscawen Zoning / ZBA
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10272026-350
+DESCRIPTION:Agenda: Zoning Board of Adjustment (PDF)\nhttps://boscawennh.go
+ v/AgendaCenter/ViewFile/Agenda/_10272026-350\n\nMinutes: Oct 27\, 2026 Zon
+ ing Board of Adjustment (PDF)\nhttps://boscawennh.gov/AgendaCenter/ViewFil
+ e/Minutes/_10272026-350\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9bfddad223451a65352e@granite-docket
+DTSTAMP:20261103T114451Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Boscawen Boscawen Sample Ballot - General Election
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/DocumentCenter/View/5574/2026-General-Election-S
+ ample-Ballot
+DESCRIPTION:Notice: Boscawen Sample Ballot - General Election\nhttps://bosc
+ awennh.gov/DocumentCenter/View/5574/2026-General-Election-Sample-Ballot\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b934150a10563f37205d@granite-docket
+DTSTAMP:20261109T104358Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Boscawen Boscawen Official Tally Results and Boscaw
+ en Write In Results
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/DocumentCenter/View/6598/Official-Tally-Repo
+ rt-General-Election-November-3
+DESCRIPTION:Notice: Boscawen Official Tally Results and Boscawen Write In R
+ esults\nhttps://www.boscawennh.gov/DocumentCenter/View/6598/Official-Tally
+ -Report-General-Election-November-3\n\nNotice: Boscawen Official Tally Res
+ ults and Boscawen Write In Results\nhttps://www.boscawennh.gov/DocumentCen
+ ter/View/6597/Official-Write-In-Adjudication-Report-General-Election-Novem
+ ber-3\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:770f237c9b12938ce564@granite-docket
+DTSTAMP:20261116T095416Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:Boscawen Select board / council
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11042026-351
+DESCRIPTION:Agenda: Select Board (PDF)\nhttps://boscawennh.gov/AgendaCenter
+ /ViewFile/Agenda/_11042026-351\n\nMinutes: Nov 4\, 2026 Select Board (PDF)
+ \nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_11042026-351\n\nOt
+ her: Human Services (PDF) Preliminarily Approved by Select Board on 11/4/2
+ 026\nhttps://boscawennh.gov/DocumentCenter/View/6591\n\nOther: Public Libr
+ ary (PDF) Preliminarily Approved by Select Board on 11/4/2026\nhttps://bos
+ cawennh.gov/DocumentCenter/View/6102\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bff644ac6909d49e2787@granite-docket
+DTSTAMP:20261109T094847Z
+DTSTART;TZID=America/New_York:20261104T160000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11042026-352
+DESCRIPTION:Agenda: Town Park Committee (pdf)\nhttps://boscawennh.gov/Agend
+ aCenter/ViewFile/Agenda/_11042026-352\n\nMinutes: Nov 4\, 2026 Town Park C
+ ommittee (pdf)\nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_1104
+ 2026-352\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:749b70a53fb37de12879@granite-docket
+DTSTAMP:20261109T101618Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11102026-355
+DESCRIPTION:Agenda: Planning Board (PDF)\nhttps://boscawennh.gov/AgendaCent
+ er/ViewFile/Agenda/_11102026-355\n\nNotice: Capital Improvement Plan\nhttp
+ s://boscawennh.gov/DocumentCenter/View/6087/PB-PN-111026-CIP-2026-2036\n\n
+ Notice: Land Development Regulations Amendments\nhttps://boscawennh.gov/Do
+ cumentCenter/View/6082/PB-PN-111026-LDR-Amendments\n\nNotice: Land Develop
+ ment Regulations Amendments\nhttps://boscawennh.gov/DocumentCenter/View/60
+ 86/111026-PH-and-Relined-LDRs-Pkg\n\nNotice: Capital Improvement Plan\nhtt
+ ps://boscawennh.gov/DocumentCenter/View/6090/111026-CIP-PH-and-Pkg-2026-20
+ 36\n\nNotice: Amendments to the Mater Plan\nhttps://boscawennh.gov/Documen
+ tCenter/View/6742/111026-Pkg-for-Amendments-to-the-Master-Plan\n\nNotice: 
+ Amendments to the Master Plan\nhttps://boscawennh.gov/DocumentCenter/View/
+ 6593/PB-PN-111026-Amendments-Master-Plan-Housing-and-Commercial-St\n\nOthe
+ r: Land Development Regulations - Approved 11/10/26\nhttps://boscawennh.go
+ v/DocumentCenter/View/6581/Land-Development-Regulations---Approved-111026\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:9f00dcccb0e0fb8ba2bc@granite-docket
+DTSTAMP:20261109T094807Z
+DTSTART;TZID=America/New_York:20261110T173000
+DURATION:PT2H
+SUMMARY:Boscawen Economic development
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11102026-354
+DESCRIPTION:Agenda: Economic Development Committee (PDF)\nhttps://boscawenn
+ h.gov/AgendaCenter/ViewFile/Agenda/_11102026-354\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac8c5da272109c497835@granite-docket
+DTSTAMP:20261103T110436Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/DocumentCenter/View/6090/111026-CIP-PH-and-P
+ kg-2026-2036
+DESCRIPTION:Notice: Capital Improvement Plan 11.10.26\nhttps://www.boscawen
+ nh.gov/DocumentCenter/View/6090/111026-CIP-PH-and-Pkg-2026-2036\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:cdea6939fb1192d291ba@granite-docket
+DTSTAMP:20261116T104226Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11122026-356
+DESCRIPTION:Agenda: Agricultural Commission (pdf)\nhttps://www.boscawennh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11122026-356\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6a19778c2003ce2e6d6@granite-docket
+DTSTAMP:20261116T095326Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11122026-356
+DESCRIPTION:Agenda: Agricultural Commission (pdf)\nhttps://boscawennh.gov/A
+ gendaCenter/ViewFile/Agenda/_11122026-356\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d8faaf112965b585bb6@granite-docket
+DTSTAMP:20261116T095356Z
+DTSTART;TZID=America/New_York:20261117T173000
+DURATION:PT2H
+SUMMARY:Boscawen Energy committee
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11172026-358
+DESCRIPTION:Agenda: Energy Committee (PDF)\nhttps://boscawennh.gov/AgendaCe
+ nter/ViewFile/Agenda/_11172026-358\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c924f587f7133ee8c0b1@granite-docket
+DTSTAMP:20261116T095336Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Boscawen Conservation commission
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11172026-359
+DESCRIPTION:Agenda: Conservation Commission (Pdf)\nhttps://boscawennh.gov/A
+ gendaCenter/ViewFile/Agenda/_11172026-359\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a33fd897d5d357f5bf9@granite-docket
+DTSTAMP:20261103T114358Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Boscawen Comcast Franchise Agreement
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/DocumentCenter/View/5379/DRAFT-Comcast-Franc
+ hise-Agreement-Boscawen-Redline-52926
+DESCRIPTION:Notice: Comcast Franchise Agreement\nhttps://www.boscawennh.gov
+ /DocumentCenter/View/5379/DRAFT-Comcast-Franchise-Agreement-Boscawen-Redli
+ ne-52926\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:80438416cecade113d74@granite-docket
+DTSTAMP:20261116T095406Z
+DTSTART;TZID=America/New_York:20261120T090000
+DURATION:PT2H
+SUMMARY:Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11202026-357
+DESCRIPTION:Agenda: Planning Board - TRC (PDF)\nhttps://boscawennh.gov/Agen
+ daCenter/ViewFile/Agenda/_11202026-357\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4fd49038dde107faa6@granite-docket
+DTSTAMP:20261116T095346Z
+DTSTART;TZID=America/New_York:20261201T171500
+DURATION:PT2H
+SUMMARY:Boscawen Economic development
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_12012026-361
+DESCRIPTION:Agenda: Economic Development Committee - Cancelled (PDF)\nhttps
+ ://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_12012026-361\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:17d7c8ccefac2ae9f901@granite-docket
+DTSTAMP:20261103T110433Z
+DTSTART;TZID=America/New_York:20261202T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Boscawen Select board / council
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/DocumentCenter/View/6076/Select-Board-PN-120
+ 226
+DESCRIPTION:Notice: SB Administrative Fee Public Hearing 12.02.26\nhttps://
+ www.boscawennh.gov/DocumentCenter/View/6076/Select-Board-PN-120226\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a04378b488429a2ecd40@granite-docket
+DTSTAMP:20261103T110801Z
+DTSTART;TZID=America/New_York:20270125T100000
+DURATION:PT2H
+SUMMARY:Boscawen Budget / CIP
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_01252027-347
+DESCRIPTION:Agenda: Trustees of the Trust Fund (PDF)\nhttps://boscawennh.go
+ v/AgendaCenter/ViewFile/Agenda/_01252027-347\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

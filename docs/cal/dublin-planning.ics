@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dublin Planning board
+X-WR-CALDESC:Planning board meetings in Dublin\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5041fb742c70660b6ae6@granite-docket
+DTSTAMP:20261103T122153Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Dublin Planning board
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10012026-247
+DESCRIPTION:Agenda: Planning Board Agenda Oct 1\, 2026 Planning Board Agend
+ a\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10012026-247
+ \n\nAgenda: Planning Board Agenda\nhttps://www.townofdublin.org/AgendaCent
+ er/ViewFile/ArchivedAgenda/_10012026-74\n\nMinutes: Planning Board Minutes
+  Oct 1\, 2026 Planning Board Agenda\nhttps://www.townofdublin.org/AgendaCe
+ nter/ViewFile/Minutes/_10012026-247\n\nMinutes: Oct 1\, 2026 Planning Boar
+ d Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/ArchivedMinut
+ es/_10012026-73\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8669be075984f5a70b18@granite-docket
+DTSTAMP:20261103T121854Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Dublin Planning board
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10152026-243
+DESCRIPTION:Agenda: Planning Board Agenda Oct 15\, 2026 Planning Board Agen
+ da\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10152026-24
+ 3\n\nMinutes: Planning Board Minutes Oct 15\, 2026 Planning Board Agenda\n
+ https://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10152026-243\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

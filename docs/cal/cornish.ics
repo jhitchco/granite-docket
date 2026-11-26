@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cornish NH meetings
+X-WR-CALDESC:Public meetings of Cornish\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8f1a270eaca3745fbfa4@granite-docket
+DTSTAMP:20261123T095324Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Select board / council
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/11/Fire-Alarm-Permit-col
+ laborator_1187835__Listing_Corrections_2026-09-28_1.53PM.pdf
+DESCRIPTION:Other: Fire Alarm Permit\nhttps://cornish.nh.gov/wp-content/upl
+ oads/2026/11/Fire-Alarm-Permit-collaborator_1187835__Listing_Corrections_2
+ 026-09-28_1.53PM.pdf\n\nOther: Plumbing Permit\nhttps://cornish.nh.gov/wp-
+ content/uploads/2026/11/Plumbing-Permit-collaborator_1187835__Listing_Corr
+ ections_2026-09-28_1.53PM-2.pdf\n\nOther: Mechanical Permit\nhttps://corni
+ sh.nh.gov/wp-content/uploads/2026/11/Mechanical-Permit-collaborator_118783
+ 5__Listing_Corrections_2026-09-28_1.53PM-1.pdf\n\nOther: Renovation Buildi
+ ng Permit\nhttps://cornish.nh.gov/wp-content/uploads/2026/11/Renovation-Bu
+ ilding-Permit-collaborator_1187835__Listing_Corrections_2026-09-28_1.51PM.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3060f1d17084d4bb72f7@granite-docket
+DTSTAMP:20261103T121055Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Select board / council
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/10/DRAFT-Historic-Buildi
+ ng-Committee-minutes-10052026.pdf
+DESCRIPTION:Minutes: HBC Minutes 9/15/2026 HBC Minutes 10/6/2026\nhttps://c
+ ornish.nh.gov/wp-content/uploads/2026/10/DRAFT-Historic-Building-Committee
+ -minutes-10052026.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbd595ecc22421b7a178@granite-docket
+DTSTAMP:20261103T121029Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Select board / council
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/10/09-BOS-Minutes-Sept-2
+ 026.pdf
+DESCRIPTION:Minutes: September 2026 BOS Minutes · Jan 2026 BOS Minutes Feb
+  2026 BOS Minutes March 2026 BOS Minutes April \nhttps://cornish.nh.gov/wp
+ -content/uploads/2026/10/09-BOS-Minutes-Sept-2026.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:58aec0cbea6b3964d4f7@granite-docket
+DTSTAMP:20261103T121041Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Planning board
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/10/10-01-26-PB-Minutes.p
+ df
+DESCRIPTION:Minutes: 10/1/26 PB Minutes · 1/8/26 PB Minutes 2/5/26 PB Minu
+ tes 3/19/26 PB Minutes 4/2/26 PB Minutes 4/16/2\nhttps://cornish.nh.gov/wp
+ -content/uploads/2026/10/10-01-26-PB-Minutes.pdf\n\nMinutes: 10/15/26 PB M
+ inutes · 1/8/26 PB Minutes 2/5/26 PB Minutes 3/19/26 PB Minutes 4/2/26 PB
+  Minutes 4/16/\nhttps://cornish.nh.gov/wp-content/uploads/2026/10/10-15-26
+ -PB-Minutes.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a350835c278a89ac7fa1@granite-docket
+DTSTAMP:20261123T095259Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Select board / council
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/11/10-Oct-2026-BOS-Minut
+ es.pdf
+DESCRIPTION:Minutes: Oct 2026 BOS Minutes · Jan 2026 BOS Minutes Feb 2026 
+ BOS Minutes March 2026 BOS Minutes April 2026 B\nhttps://cornish.nh.gov/wp
+ -content/uploads/2026/11/10-Oct-2026-BOS-Minutes.pdf\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:17e5eaa2c8ecde3269bd@granite-docket
+DTSTAMP:20261123T095300Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Planning board
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/11/11-5-26-PB-Minutes.pd
+ f
+DESCRIPTION:Minutes: 11/5/26 PB Minutes · 1/8/26 PB Minutes 2/5/26 PB Minu
+ tes 3/19/26 PB Minutes 4/2/26 PB Minutes 4/16/2\nhttps://cornish.nh.gov/wp
+ -content/uploads/2026/11/11-5-26-PB-Minutes.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:71347e8d330b139ab64d@granite-docket
+DTSTAMP:20261123T095307Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Select board / council
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/11/21-886-Cornish-Public
+ -Library_ASK-3_Childrens-Area-Bench.pdf
+DESCRIPTION:Other: 21-886 Cornish Public Library_ASK-3_Childrens Area Bench
+ \nhttps://cornish.nh.gov/wp-content/uploads/2026/11/21-886-Cornish-Public-
+ Library_ASK-3_Childrens-Area-Bench.pdf\n\nOther: 21-886 Cornish Public Lib
+ rary_CD 8-12-2025 – Compiled drawing set upto & incl. ADDENDUM#2\nhttps:
+ //cornish.nh.gov/wp-content/uploads/2026/11/21-886-Cornish-Public-Library_
+ CD-8-12-2025-Compiled-drawing-set-upto-incl.-ADDENDUM2.pdf\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bff276ef5bbfb8aba23d@granite-docket
+DTSTAMP:20261123T095307Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Select board / council
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/11/26-05-18_Cornish-Libr
+ ary-Bulletin-002.pdf
+DESCRIPTION:Other: 26 05 18_Cornish Library- Bulletin 002\nhttps://cornish.
+ nh.gov/wp-content/uploads/2026/11/26-05-18_Cornish-Library-Bulletin-002.pd
+ f\n\nOther: 26 05 18_Cornish Library- Bulletin 002\nhttps://cornish.nh.gov
+ /wp-content/uploads/2026/11/26-05-18_Cornish-Library-Bulletin-002-1.pdf\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+END:VCALENDAR

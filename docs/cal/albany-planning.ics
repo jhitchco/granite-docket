@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Albany Planning board
+X-WR-CALDESC:Planning board meetings in Albany\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d933515bc934e0250efc@granite-docket
+DTSTAMP:20261123T100133Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Albany Planning board
+LOCATION:Albany\, NH
+URL:https://albanynh.org/wp-content/2026/11/APB-20261012-Minutes-Approved.p
+ df
+DESCRIPTION:Minutes: 2026 Minutes APB 20261012 Minutes Approved APB 2026091
+ 4 Minutes Approved APB 20260810 Minutes Approv\nhttps://albanynh.org/wp-co
+ ntent/2026/11/APB-20261012-Minutes-Approved.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:05a22d036138a3769505@granite-docket
+DTSTAMP:20261103T124017Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Albany Planning board
+LOCATION:Albany\, NH
+URL:https://albanynh.org/wp-content/2026/10/20261109-Agenda.pdf
+DESCRIPTION:Agenda: 20261109 Agenda\nhttps://albanynh.org/wp-content/2026/1
+ 0/20261109-Agenda.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7673f6aa6d0926c89ae@granite-docket
+DTSTAMP:20261123T100130Z
+DTSTART;TZID=America/New_York:20261214T180000
+DURATION:PT2H
+SUMMARY:Albany Planning board
+LOCATION:Albany\, NH
+URL:https://albanynh.org/wp-content/2026/11/SKM_C3320i26111613320.pdf
+DESCRIPTION:Agenda: 20261214 Agenda Updated\nhttps://albanynh.org/wp-conten
+ t/2026/11/SKM_C3320i26111613320.pdf\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

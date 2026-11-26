@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Croydon Select board / council
+X-WR-CALDESC:Select board / council meetings in Croydon\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1c283fa6ca3507dd1164@granite-docket
+DTSTAMP:20261103T131247Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Croydon Select board / council
+LOCATION:Croydon\, NH
+URL:https://towncloud.io/go/croydon-nh/agendas/250/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/croydon-nh/agendas/
+ 250/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/croydon-nh/agendas/250/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:95293ea383ac7093fb56@granite-docket
+DTSTAMP:20261103T131247Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Croydon Select board / council
+LOCATION:Croydon\, NH
+URL:https://towncloud.io/go/croydon-nh/agendas/249/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/croydon-nh/agendas/
+ 249/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/croydon-nh/agendas/249/pdf_packet/get_agenda_document_link\n\nMinute
+ s: Minutes PDF\nhttps://towncloud.io/go/croydon-nh/agendas/249/minutes/get
+ _agenda_document_link\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4ade85167ba1b4ee819a@granite-docket
+DTSTAMP:20261123T100108Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Croydon Select board / council
+LOCATION:Croydon\, NH
+URL:https://towncloud.io/go/croydon-nh/agendas/251/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/croydon-nh/agendas/
+ 251/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/croydon-nh/agendas/251/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:67efee2e39353ffcb6d3@granite-docket
+DTSTAMP:20261123T100107Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Croydon Select board / council
+LOCATION:Croydon\, NH
+URL:https://towncloud.io/go/croydon-nh/agendas/251/minutes/get_agenda_docum
+ ent_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/croydon-nh/agenda
+ s/251/minutes/get_agenda_document_link\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c54e9ba88f8f94aaec6@granite-docket
+DTSTAMP:20261123T100109Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+TRANSP:TRANSPARENT
+SUMMARY:Croydon Select board / council
+LOCATION:Croydon\, NH
+URL:https://towncloud.io/go/croydon-nh/agendas/250/minutes/get_agenda_docum
+ ent_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/croydon-nh/agenda
+ s/250/minutes/get_agenda_document_link\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

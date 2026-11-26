@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cornish Planning board
+X-WR-CALDESC:Planning board meetings in Cornish\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:58aec0cbea6b3964d4f7@granite-docket
+DTSTAMP:20261103T121041Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Planning board
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/10/10-01-26-PB-Minutes.p
+ df
+DESCRIPTION:Minutes: 10/1/26 PB Minutes · 1/8/26 PB Minutes 2/5/26 PB Minu
+ tes 3/19/26 PB Minutes 4/2/26 PB Minutes 4/16/2\nhttps://cornish.nh.gov/wp
+ -content/uploads/2026/10/10-01-26-PB-Minutes.pdf\n\nMinutes: 10/15/26 PB M
+ inutes · 1/8/26 PB Minutes 2/5/26 PB Minutes 3/19/26 PB Minutes 4/2/26 PB
+  Minutes 4/16/\nhttps://cornish.nh.gov/wp-content/uploads/2026/10/10-15-26
+ -PB-Minutes.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:17e5eaa2c8ecde3269bd@granite-docket
+DTSTAMP:20261123T095300Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Cornish Planning board
+LOCATION:Cornish\, NH
+URL:https://cornish.nh.gov/wp-content/uploads/2026/11/11-5-26-PB-Minutes.pd
+ f
+DESCRIPTION:Minutes: 11/5/26 PB Minutes · 1/8/26 PB Minutes 2/5/26 PB Minu
+ tes 3/19/26 PB Minutes 4/2/26 PB Minutes 4/16/2\nhttps://cornish.nh.gov/wp
+ -content/uploads/2026/11/11-5-26-PB-Minutes.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

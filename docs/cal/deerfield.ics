@@ -1,0 +1,611 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deerfield NH meetings
+X-WR-CALDESC:Public meetings of Deerfield\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a54e0e187c250d181548@granite-docket
+DTSTAMP:20261103T105155Z
+DTSTART;TZID=America/New_York:20260928T173000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-406
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://deerfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_09282026-406\n\nAgenda: Board of Selectmen Agend
+ a\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-
+ 145\n\nMinutes: Sep 28\, 2026 Board of Selectmen Agenda\nhttps://deerfield
+ nh.gov/AgendaCenter/ViewFile/Minutes/_09282026-406\n\nMinutes: Sep 28\, 20
+ 26 Board of Selectmen Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFil
+ e/ArchivedMinutes/_09282026-151\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b7a4dc420a11054c592@granite-docket
+DTSTAMP:20261103T104730Z
+DTSTART;TZID=America/New_York:20261005T170000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-409
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://deerfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10052026-409\n\nAgenda: Library Trustees Meeting
+  Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-40
+ 8\n\nAgenda: Supervisor of the Checklist Agenda\nhttps://deerfieldnh.gov/A
+ gendaCenter/ViewFile/Agenda/_10052026-407\n\nMinutes: Oct 5\, 2026 Board o
+ f Selectmen Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/
+ _10052026-409\n\nMinutes: Oct 5\, 2026 Library Trustees Meeting Agenda\nht
+ tps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-408\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:5aaeb3842e16a2f5202d@granite-docket
+DTSTAMP:20261103T104716Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-410
+DESCRIPTION:Agenda: Solid Waste Committee Agenda\nhttps://deerfieldnh.gov/A
+ gendaCenter/ViewFile/Agenda/_10072026-410\n\nMinutes: Oct 7\, 2026 Solid W
+ aste Committee Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minut
+ es/_10072026-410\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1ddf1aae3b53acbbafe4@granite-docket
+DTSTAMP:20261103T104745Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Deerfield Zoning / ZBA
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-423
+DESCRIPTION:Agenda: Zoning Board of Appeals Agenda\nhttps://deerfieldnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10132026-423\n\nMinutes: Oct 13\, 2026 Zoni
+ ng Board of Appeals Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/
+ Minutes/_10132026-423\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:90de2a674a96e6e46e5f@granite-docket
+DTSTAMP:20261103T105733Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Deerfield Budget / CIP
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-
+ 175
+DESCRIPTION:Agenda: Municipal Budget Committee Agenda\nhttps://deerfieldnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-175\n\nMinutes: Oct 13\
+ , 2026 Municipal Budget Committee Agenda\nhttps://deerfieldnh.gov/AgendaCe
+ nter/ViewFile/ArchivedMinutes/_10132026-175\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed4cab243b6bdc2cbda@granite-docket
+DTSTAMP:20261103T105136Z
+DTSTART;TZID=America/New_York:20261013T173000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-413
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://deerfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10132026-413\n\nAgenda: Cemetery Trustees Agenda
+ \nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-416\n\nAg
+ enda: Municipal Budget Committee Agenda\nhttps://deerfieldnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_10132026-415\n\nMinutes: Oct 13\, 2026 Board of Selec
+ tmen Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_101320
+ 26-413\n\nMinutes: Oct 13\, 2026 Cemetery Trustees Agenda\nhttps://deerfie
+ ldnh.gov/AgendaCenter/ViewFile/Minutes/_10132026-416\n\nMinutes: Oct 13\, 
+ 2026 Municipal Budget Committee Agenda\nhttps://deerfieldnh.gov/AgendaCent
+ er/ViewFile/Minutes/_10132026-415\n\nMinutes: Oct 13\, 2026 Board of Selec
+ tmen Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedMinutes
+ /_10132026-169\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e217877a80284b33444@granite-docket
+DTSTAMP:20261103T104701Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-414
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://deerfieldnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10142026-414\n\nMinutes: Oct 14\, 2026 Planning Boar
+ d Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-
+ 414\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:57b44fc35cdcd990fa6c@granite-docket
+DTSTAMP:20261116T090414Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Deerfield Conservation commission
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-
+ 190
+DESCRIPTION:Agenda: Conservation Commission Agenda\nhttps://deerfieldnh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_10192026-190\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d5f45e156ff2d102624@granite-docket
+DTSTAMP:20261116T085334Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-419
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://deerfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10192026-419\n\nAgenda: Conservation Commission 
+ Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-420
+ \n\nMinutes: Oct 19\, 2026 — Amended Oct 23\, 2026 11:59 AM Board of Sel
+ ectmen Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_1019
+ 2026-419\n\nMinutes: Oct 19\, 2026 Conservation Commission Agenda\nhttps:/
+ /deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-420\n\nMinutes: O
+ ct 19\, 2026 — Amended Oct 23\, 2026 12:01 PM Board of Selectmen Agenda\
+ nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10192026-1
+ 71\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a607f42ba0fd791bc4c@granite-docket
+DTSTAMP:20261103T105730Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Deerfield Budget / CIP
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-
+ 177
+DESCRIPTION:Agenda: Municipal Budget Committee Agenda\nhttps://deerfieldnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-177\n\nAgenda: Municipa
+ l Budget Committee Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10202026-163\n\nMinutes: Oct 20\, 2026 — Amended Oct 27\,
+  2026 7:49 AM Municipal Budget Committee Agenda\nhttps://deerfieldnh.gov/A
+ gendaCenter/ViewFile/ArchivedMinutes/_10202026-177\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8505bb19016ae9ea8fba@granite-docket
+DTSTAMP:20261103T104633Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-421
+DESCRIPTION:Agenda: Heritage Commission Agenda\nhttps://deerfieldnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_10202026-421\n\nAgenda: Municipal Budget Commit
+ tee Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10202026
+ -417\n\nMinutes: Oct 20\, 2026 Municipal Budget Committee Agenda\nhttps://
+ deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10202026-417\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a4bf3ae424cf6608fda8@granite-docket
+DTSTAMP:20261103T105646Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Deerfield Historic district
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-
+ 156
+DESCRIPTION:Agenda: Heritage Commission Agenda\nhttps://deerfieldnh.gov/Age
+ ndaCenter/ViewFile/ArchivedAgenda/_10202026-156\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2511db2cdb00d8eb1544@granite-docket
+DTSTAMP:20261103T104729Z
+DTSTART;TZID=America/New_York:20261022T100000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-411
+DESCRIPTION:Agenda: Supervisor of the Checklist Agenda\nhttps://deerfieldnh
+ .gov/AgendaCenter/ViewFile/Agenda/_10222026-411\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6287b09f9a3ae505b454@granite-docket
+DTSTAMP:20261109T090256Z
+DTSTART;TZID=America/New_York:20261027T180000
+DURATION:PT2H
+SUMMARY:Deerfield Budget / CIP
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-
+ 174
+DESCRIPTION:Agenda: Municipal Budget Committee Agenda\nhttps://deerfieldnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-174\n\nAgenda: Municipa
+ l Budget Committee Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10272026-181\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f344dfd474f951483cb@granite-docket
+DTSTAMP:20261109T085126Z
+DTSTART;TZID=America/New_York:20261027T180000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-422
+DESCRIPTION:Agenda: Municipal Budget Committee Agenda\nhttps://deerfieldnh.
+ gov/AgendaCenter/ViewFile/Agenda/_10272026-422\n\nMinutes: Oct 27\, 2026 M
+ unicipal Budget Committee Agenda\nhttps://deerfieldnh.gov/AgendaCenter/Vie
+ wFile/Minutes/_10272026-422\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b879504916fbb2d5835b@granite-docket
+DTSTAMP:20261109T085156Z
+DTSTART;TZID=America/New_York:20261027T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Zoning / ZBA
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-424
+DESCRIPTION:Agenda: Zoning Board of Appeals Meeting GBW\nhttps://deerfieldn
+ h.gov/AgendaCenter/ViewFile/Agenda/_10272026-424\n\nAgenda: Zoning Board o
+ f Appeals Meeting GBW\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_10272026-165\n\nMinutes: Oct 27\, 2026 Zoning Board of Appeals 
+ Meeting GBW\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_102720
+ 26-424\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b795c27253dc4a0abc73@granite-docket
+DTSTAMP:20261109T085146Z
+DTSTART;TZID=America/New_York:20261028T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-425
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://deerfieldnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10282026-425\n\nMinutes: Oct 28\, 2026 Planning Boar
+ d Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10282026-
+ 425\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:539625c7bba74d6ef7da@granite-docket
+DTSTAMP:20261103T110033Z
+DTSTART;TZID=America/New_York:20261029T180000
+DURATION:PT2H
+SUMMARY:Deerfield Trustee of the Trust Funds Agenda
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-
+ 172
+DESCRIPTION:Agenda: Trustee of the Trust Funds Agenda\nhttps://deerfieldnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-172\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5d8678e1b1db96859e94@granite-docket
+DTSTAMP:20261116T085324Z
+DTSTART;TZID=America/New_York:20261029T180000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10292026-418
+DESCRIPTION:Agenda: Trustee of the Trust Funds Agenda\nhttps://deerfieldnh.
+ gov/AgendaCenter/ViewFile/Agenda/_10292026-418\n\nAgenda: Conservation Com
+ mission Site Walk Hart Town Forest Inspection 10:00 AM\nhttps://deerfieldn
+ h.gov/AgendaCenter/ViewFile/Agenda/_10292026-437\n\nMinutes: Oct 29\, 2026
+  Conservation Commission Site Walk Hart Town Forest Inspection 10:00 AM\nh
+ ttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10292026-437\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff82568d0f0ae0dcd94@granite-docket
+DTSTAMP:20261116T090354Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Deerfield Conservation commission
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-
+ 191
+DESCRIPTION:Agenda: Conservation Commission Site Walk Hart Town Forest Insp
+ ection 10:00 AM\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAge
+ nda/_10292026-191\n\nAgenda: Packet\nhttps://deerfieldnh.gov/AgendaCenter/
+ ViewFile/ArchivedAgenda/_10292026-191?packet=true\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9010380b0a50fdb129@granite-docket
+DTSTAMP:20261103T110034Z
+DTSTART;TZID=America/New_York:20261029T180000
+DURATION:PT2H
+SUMMARY:Deerfield Trustees of the Trust Funds Agenda
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-
+ 154
+DESCRIPTION:Agenda: Trustees of the Trust Funds Agenda\nhttps://deerfieldnh
+ .gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-154\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef32f47d592a56899dce@granite-docket
+DTSTAMP:20261109T085056Z
+DTSTART;TZID=America/New_York:20261102T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-426
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://deerfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_11022026-426\n\nMinutes: Nov 2\, 2026 Board of S
+ electmen Agenda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Minutes/_11
+ 022026-426\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0f00335776ccfc393dc3@granite-docket
+DTSTAMP:20261103T111729Z
+DTSTART;TZID=America/New_York:20261103T090000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Notice of Ballot Machine Testing
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/DocumentCenter/View/3011
+DESCRIPTION:Notice: Notice of Ballot Machine Testing\nhttps://deerfieldnh.g
+ ov/DocumentCenter/View/3011\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:40e2de1b95cba5b87a8f@granite-docket
+DTSTAMP:20261103T104728Z
+DTSTART;TZID=America/New_York:20261103T070000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-412
+DESCRIPTION:Agenda: Supervisor of the Checklist Agenda\nhttps://deerfieldnh
+ .gov/AgendaCenter/ViewFile/Agenda/_11032026-412\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8b65dc07d49182e5b2a2@granite-docket
+DTSTAMP:20261103T111730Z
+DTSTART;TZID=America/New_York:20261103T130000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Notice of Absentee Ballot Processing
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/DocumentCenter/View/3012
+DESCRIPTION:Notice: Notice of Absentee Ballot Processing\nhttps://deerfield
+ nh.gov/DocumentCenter/View/3012\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:924078acb8b9471aa529@granite-docket
+DTSTAMP:20261116T085444Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-427
+DESCRIPTION:Agenda: Solid Waste Committee Agenda\nhttps://deerfieldnh.gov/A
+ gendaCenter/ViewFile/Agenda/_11042026-427\n\nAgenda: Parks & Recreation Ag
+ enda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-428\n
+ \nMinutes: Nov 4\, 2026 Solid Waste Committee Agenda\nhttps://deerfieldnh.
+ gov/AgendaCenter/ViewFile/Minutes/_11042026-427\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc8a80c5e440cda5fc16@granite-docket
+DTSTAMP:20261116T091314Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:Deerfield Solid Waste Committee Agenda
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-
+ 186
+DESCRIPTION:Agenda: Solid Waste Committee Agenda\nhttps://deerfieldnh.gov/A
+ gendaCenter/ViewFile/ArchivedAgenda/_11042026-186\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:edc93a26606edde25e55@granite-docket
+DTSTAMP:20261103T110014Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:Deerfield Solid Waste Committee Meeting
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-
+ 179
+DESCRIPTION:Agenda: Solid Waste Committee Meeting\nhttps://deerfieldnh.gov/
+ AgendaCenter/ViewFile/ArchivedAgenda/_11042026-179\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4acfac2fed9bceec584e@granite-docket
+DTSTAMP:20261116T090714Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Deerfield Library Trustee Agenda
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-
+ 188
+DESCRIPTION:Agenda: Library Trustee Agenda\nhttps://deerfieldnh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11092026-188\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:68e7865bb275ad483f58@granite-docket
+DTSTAMP:20261116T085354Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-429
+DESCRIPTION:Agenda: Conservation Commission Agenda\nhttps://deerfieldnh.gov
+ /AgendaCenter/ViewFile/Agenda/_11092026-429\n\nAgenda: Library Trustee Age
+ nda\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-430\n\
+ nMinutes: Nov 9\, 2026 Library Trustee Agenda\nhttps://deerfieldnh.gov/Age
+ ndaCenter/ViewFile/Minutes/_11092026-430\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9520e30f0253ca439ea5@granite-docket
+DTSTAMP:20261116T085414Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-434
+DESCRIPTION:Agenda: Municipal Budget Committee Meeting\nhttps://deerfieldnh
+ .gov/AgendaCenter/ViewFile/Agenda/_11102026-434\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d70ab5b78d8af32bb389@granite-docket
+DTSTAMP:20261116T091034Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-
+ 189
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://deerfieldnh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11102026-189\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:831ea4954135ade9ee78@granite-docket
+DTSTAMP:20261116T085434Z
+DTSTART;TZID=America/New_York:20261111T190000
+DURATION:PT2H
+SUMMARY:Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11112026-435
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://deerfieldnh.gov/AgendaC
+ enter/ViewFile/Agenda/_11112026-435\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:23b2b2c809317a07def2@granite-docket
+DTSTAMP:20261116T085304Z
+DTSTART;TZID=America/New_York:20261116T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-439
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://deerfieldnh.gov/Agen
+ daCenter/ViewFile/Agenda/_11162026-439\n\nAgenda: Board of Selectmen Publi
+ c Hearing: Cable Franchise Agreement\nhttps://deerfieldnh.gov/AgendaCenter
+ /ViewFile/Agenda/_11162026-432\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:cf7c08b8ad69d535a744@granite-docket
+DTSTAMP:20261116T085404Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-438
+DESCRIPTION:Agenda: Municipal Budget Committee Agenda\nhttps://deerfieldnh.
+ gov/AgendaCenter/ViewFile/Agenda/_11172026-438\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7837d5664d950e4478f4@granite-docket
+DTSTAMP:20261116T085344Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-433
+DESCRIPTION:Agenda: Heritage Commission: A Gift From Past Generations - Tow
+ n Hall\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-433
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a89e6a7ac7d3e10e08b7@granite-docket
+DTSTAMP:20261116T090624Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Deerfield Historic district
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-
+ 187
+DESCRIPTION:Agenda: Heritage Commission: A Gift From Past Generations - Tow
+ n Hall\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1118
+ 2026-187\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:38547af70074ccd226bd@granite-docket
+DTSTAMP:20261116T085244Z
+DTSTART;TZID=America/New_York:20261207T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_12072026-436
+DESCRIPTION:Agenda: Board of Selectmen Public Hearing: 287(g)\nhttps://deer
+ fieldnh.gov/AgendaCenter/ViewFile/Agenda/_12072026-436\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d6aaa51bf516cd6cc757@granite-docket
+DTSTAMP:20261116T085424Z
+DTSTART;TZID=America/New_York:20261215T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Select board / council
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_12152026-431
+DESCRIPTION:Agenda: SNHPC Regional Comprehensive Plan Update Meeting\nhttps
+ ://deerfieldnh.gov/AgendaCenter/ViewFile/Agenda/_12152026-431\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9a63b42d46f7f9ce5f@granite-docket
+DTSTAMP:20261116T091014Z
+DTSTART;TZID=America/New_York:20261215T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Deerfield Planning board
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12152026-
+ 185
+DESCRIPTION:Agenda: SNHPC Regional Comprehensive Plan Update Meeting\nhttps
+ ://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12152026-185\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

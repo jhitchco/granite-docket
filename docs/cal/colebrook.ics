@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Colebrook NH meetings
+X-WR-CALDESC:Public meetings of Colebrook\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:af960e922b12ba8e7690@granite-docket
+DTSTAMP:20261123T094831Z
+DTSTART;TZID=America/New_York:20260928T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Colebrook Select board / council
+LOCATION:Colebrook\, NH
+URL:https://colebrooknh.org/?fbdl_file=ScqVjSyMLAqc3ZIW4DRslvdHscFvRZP_VbSd
+ oMs2_4w
+DESCRIPTION:Agenda: 9-28-26-BOS-Agenda\nhttps://colebrooknh.org/?fbdl_file=
+ ScqVjSyMLAqc3ZIW4DRslvdHscFvRZP_VbSdoMs2_4w\n\nMinutes: 9-28-2026-Selectme
+ n-Mtg_-Minutes\nhttps://colebrooknh.org/?fbdl_file=vcq0mAvGlIR6rYU3Y6eNfoa
+ Qw1k86kR-bWl4nmpHr-8\n\nMinutes: 9-28-26-Selectmens-Minutes\nhttps://coleb
+ rooknh.org/?fbdl_file=F2UKEqJLiaUFpBNBkY1EQu8dVnQVCwQmFFzTKYgXUxg\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7e984796411709402be1@granite-docket
+DTSTAMP:20261123T094830Z
+DTSTART;TZID=America/New_York:20261012T130000
+DURATION:PT2H
+SUMMARY:Colebrook Select board / council
+LOCATION:Colebrook\, NH
+URL:https://colebrooknh.org/?fbdl_file=13vHZ5LAvGfgibhnG73ZzzpvrYuVzskIDZ4M
+ CdYD58Y
+DESCRIPTION:Agenda: 10-12-2026-BOS-Agenda\nhttps://colebrooknh.org/?fbdl_fi
+ le=13vHZ5LAvGfgibhnG73ZzzpvrYuVzskIDZ4MCdYD58Y\n\nMinutes: 10-12-26-Select
+ mens-Minutes\nhttps://colebrooknh.org/?fbdl_file=dHHsFzzqNRECEtKQ_LTzjgNTl
+ whSSpiT0tLf58XASBs\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c6a50c684ae18b6c047d@granite-docket
+DTSTAMP:20261123T094816Z
+DTSTART;TZID=America/New_York:20261105T130000
+DURATION:PT2H
+SUMMARY:Colebrook Select board / council
+LOCATION:Colebrook\, NH
+URL:https://colebrooknh.org/?fbdl_file=3y4Ff2d4bcCloMLCJHcVjM_NQEytIJ7lG5z0
+ Ruh5w9k
+DESCRIPTION:Agenda: 11-5-26-Selectmen-Agenda\nhttps://colebrooknh.org/?fbdl
+ _file=3y4Ff2d4bcCloMLCJHcVjM_NQEytIJ7lG5z0Ruh5w9k\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

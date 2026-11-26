@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Francestown Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Francestown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0986cdc252c7a397520e@granite-docket
+DTSTAMP:20261123T102957Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Francestown Conservation commission
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/1563/Watershed-Study-Report-September-29-
+ 2026
+DESCRIPTION:Other: Watershed Study Report September 29\, 2026\nhttps://www.
+ francestownnh.org/1563/Watershed-Study-Report-September-29-2026\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb13243aae6e915a7c6@granite-docket
+DTSTAMP:20261116T110931Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Francestown Conservation commission
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/AgendaCenter/ViewFile/Minutes/_10052026-3
+ 84
+DESCRIPTION:Minutes: Oct 5\, 2026 Conservation Commission Meeting 10.05.202
+ 6\nhttps://www.francestownnh.org/AgendaCenter/ViewFile/Minutes/_10052026-3
+ 84\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+END:VCALENDAR

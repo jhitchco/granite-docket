@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Derry Select board / council
+X-WR-CALDESC:Select board / council meetings in Derry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6c2d95415016d71cae92@granite-docket
+DTSTAMP:20261103T092717Z
+DTSTART;TZID=America/New_York:20261006T174500
+DURATION:PT2H
+SUMMARY:Derry Select board / council
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10062026-369
+DESCRIPTION:Agenda: Town Council Agenda & Packet\nhttps://www.derrynh.gov/A
+ gendaCenter/ViewFile/Agenda/_10062026-369\n\nAgenda: Town Council Agenda &
+  Packet\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_100
+ 62026-34\n\nAgenda: Town Council Agenda & Packet\nhttps://www.derrynh.gov/
+ AgendaCenter/ViewFile/ArchivedAgenda/_10062026-33\n\nMinutes: Oct 6\, 2026
+  Town Council Agenda & Packet\nhttps://www.derrynh.gov/AgendaCenter/ViewFi
+ le/Minutes/_10062026-369\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a642b49a38eaded6f41d@granite-docket
+DTSTAMP:20261103T095540Z
+DTSTART;TZID=America/New_York:20261009T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Select board / council
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/DocumentCenter/View/7200/Public-Notice-109-Gene
+ ral-Code-Electioneering-2nd-public-hearing-Master-Lease-NHDES--BLA-Milfoil
+ -Treatment-Grants
+DESCRIPTION:Notice: Public Notice 10.9-General Code Electioneering 2nd publ
+ ic hearing\, Master Lease\, NHDES & BLA Milfoil\nhttps://www.derrynh.gov/D
+ ocumentCenter/View/7200/Public-Notice-109-General-Code-Electioneering-2nd-
+ public-hearing-Master-Lease-NHDES--BLA-Milfoil-Treatment-Grants\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:baf7f90d38f36f644be8@granite-docket
+DTSTAMP:20261103T095540Z
+DTSTART;TZID=America/New_York:20261020T181500
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Select board / council
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10202026-379
+DESCRIPTION:Agenda: Town Council Agenda and Packet\nhttps://www.derrynh.gov
+ /AgendaCenter/ViewFile/Agenda/_10202026-379\n\nNotice: town_council_public
+ _hearing_10.6_electioneering_at_polling_places\nhttps://www.derrynh.gov/Do
+ cumentCenter/View/7118/town_council_public_hearing_106_electioneering_at_p
+ olling_places\n\nOther: 2026-004 - Electioneering at Polling Places\nhttps
+ ://www.derrynh.gov/DocumentCenter/View/7233/2026-004---Electioneering-at-P
+ olling-Places\n\nOther: 2026-050 Approve 2026 Community Wildlife Protectio
+ n Plan\nhttps://www.derrynh.gov/DocumentCenter/View/7241/2026-050-Approve-
+ 2026-Community-Wildlife-Protection-Plan\n\nOther: 2026-060 Enter into MOA 
+ w/ NHDOT for Exit 4A Corridor Project\nhttps://www.derrynh.gov/DocumentCen
+ ter/View/7240/2026-060-Enter-into-MOA-w-NHDOT-for-Exit-4A-Corridor-Project
+ \n\nOther: 2026-057 Authorization to Receive & Expend Grant from BLIA for 
+ Milfoil Treatment\nhttps://www.derrynh.gov/DocumentCenter/View/7237/2026-0
+ 57-Authorization-to-Receive--Expend-Grant-from-BLIA-for-Milfoil-Treatment\
+ n\nOther: 2026-059 Application for & Expenditure of Grant for Protective V
+ ests for Police Personnel\nhttps://www.derrynh.gov/DocumentCenter/View/723
+ 9/2026-059-Application-for--Expenditure-of-Grant-for-Protective-Vests-for-
+ Police-Personnel\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c65a4f8b505253cc7b00@granite-docket
+DTSTAMP:20261109T082513Z
+DTSTART;TZID=America/New_York:20261106T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Select board / council
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/DocumentCenter/View/7335/Public-Notice-117-Prel
+ iminary-Engineering-for-Rail-Trail-Connecting-w-LDerry
+DESCRIPTION:Notice: Public Notice 11.7 Preliminary Engineering for Rail Tra
+ il Connecting w/ L'Derry\nhttps://www.derrynh.gov/DocumentCenter/View/7335
+ /Public-Notice-117-Preliminary-Engineering-for-Rail-Trail-Connecting-w-LDe
+ rry\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:84f76dcc704e17994ab4@granite-docket
+DTSTAMP:20261116T071045Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Select board / council
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11172026-389
+DESCRIPTION:Agenda: Town Council Meeting Agenda & Packet\nhttps://www.derry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-389\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0476b3933ca1da82db29@granite-docket
+DTSTAMP:20261123T082559Z
+DTSTART;TZID=America/New_York:20261201T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Select board / council
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/DocumentCenter/View/7355/Public-Notice-12126-Ve
+ terans-Credits-Elderly--Blind-Exemptions-and-Unanticipated-Revenue
+DESCRIPTION:Notice: Public Notice 12.1.26-Veterans Credits\, Elderly & Blin
+ d Exemptions and Unanticipated Revenue\nhttps://www.derrynh.gov/DocumentCe
+ nter/View/7355/Public-Notice-12126-Veterans-Credits-Elderly--Blind-Exempti
+ ons-and-Unanticipated-Revenue\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3c612c07274157ccde45@granite-docket
+DTSTAMP:20261103T093003Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+SUMMARY:Derry Select board / council
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/DocumentCenter/View/1113/2021-046_transfer_fund
+ s_from_recovery_expendable_trust_fundpdf
+DESCRIPTION:Other: 2021-046_transfer_funds_from_recovery_expendable_trust_f
+ und.pdf\nhttps://www.derrynh.gov/DocumentCenter/View/1113/2021-046_transfe
+ r_funds_from_recovery_expendable_trust_fundpdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Campton Select board / council
+X-WR-CALDESC:Select board / council meetings in Campton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8ca49b4766d7913262fe@granite-docket
+DTSTAMP:20261116T100620Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Campton Select board / council
+LOCATION:Campton\, NH
+URL:https://www.camptonnh.gov/Documents/Government/Agendas And Minutes/2026
+ /Board of Selectmen/BOS Agenda/10.05.26 BOS AGENDA.pdf?t=202610021452360
+DESCRIPTION:Minutes: 10/05/26 Agenda\nhttps://www.camptonnh.gov/Documents/G
+ overnment/Agendas And Minutes/2026/Board of Selectmen/BOS Agenda/10.05.26 
+ BOS AGENDA.pdf?t=202610021452360\n\nMinutes: 10/05/26 Agenda Minutes\nhttp
+ s://www.camptonnh.gov/Documents/Government/Agendas And Minutes/2026/Board 
+ of Selectmen/BOS Minutes/10.05.26 BOS Minutes.pdf?t=202611100952200\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8900a0a024d1de707c0e@granite-docket
+DTSTAMP:20261103T112615Z
+DTSTART;TZID=America/New_York:20261029T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Campton Select board / council
+LOCATION:Campton\, NH
+URL:https://www.camptonnh.gov/Documents/Government/Public Notices/CDBG Hear
+ ing Notice.pdf?t=202610291533570
+DESCRIPTION:Notice: Town of Campton 12 Gearty Way Campton\, New Hampshire 0
+ 3223 (603.726.3223) CDBG Public Hearing\nhttps://www.camptonnh.gov/Documen
+ ts/Government/Public Notices/CDBG Hearing Notice.pdf?t=202610291533570\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b58634bdbaa6788aacdc@granite-docket
+DTSTAMP:20261123T085217Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Campton Select board / council
+LOCATION:Campton\, NH
+URL:https://www.camptonnh.gov/Documents/Government/Agendas And Minutes/2026
+ /Board of Selectmen/BOS Agenda/11.09.26 BOS AGENDA.pdf?t=202611061153220
+DESCRIPTION:Minutes: 11/09/26 Agenda\nhttps://www.camptonnh.gov/Documents/G
+ overnment/Agendas And Minutes/2026/Board of Selectmen/BOS Agenda/11.09.26 
+ BOS AGENDA.pdf?t=202611061153220\n\nMinutes: 11/09/26 Agenda Minutes\nhttp
+ s://www.camptonnh.gov/Documents/Government/Agendas And Minutes/2026/Board 
+ of Selectmen/BOS Minutes/11.09.26 BOS Minutes.pdf?t=202611180946120\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:127974c46d26a3c95ff1@granite-docket
+DTSTAMP:20261116T100620Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Campton Select board / council
+LOCATION:Campton\, NH
+URL:https://www.camptonnh.gov/Documents/Government/Agendas And Minutes/2026
+ /Board of Selectmen/BOS Agenda/11.16.26 BOS AGENDA.pdf?t=202611131627060
+DESCRIPTION:Minutes: 11/16/26 Agenda\nhttps://www.camptonnh.gov/Documents/G
+ overnment/Agendas And Minutes/2026/Board of Selectmen/BOS Agenda/11.16.26 
+ BOS AGENDA.pdf?t=202611131627060\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

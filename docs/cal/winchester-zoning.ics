@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Winchester Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Winchester\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ef7f7cc2f3b483e8b2c1@granite-docket
+DTSTAMP:20261103T110000Z
+DTSTART;TZID=America/New_York:20261006T190000
+DURATION:PT2H
+SUMMARY:Winchester Zoning / ZBA
+LOCATION:Winchester\, NH
+URL:https://www.winchester-nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-37
+ 0
+DESCRIPTION:Agenda: Planning Board Agenda Oct 6\, 2026 10/6/26 PB Work Sess
+ ion w/ ZBA - Warrant Articles\nhttps://www.winchester-nh.gov/AgendaCenter/
+ ViewFile/Agenda/_10062026-370\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d55afeaa1565eca1a58@granite-docket
+DTSTAMP:20261116T092643Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Winchester Zoning / ZBA
+LOCATION:Winchester\, NH
+URL:https://www.winchester-nh.gov/AgendaCenter/ViewFile/Agenda/_11192026-38
+ 6
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 19\, 2026 11-19-2
+ 026 Pratt 48 Manning Hill App ZBA\nhttps://www.winchester-nh.gov/AgendaCen
+ ter/ViewFile/Agenda/_11192026-386\n\nAgenda: Zoning Board of Adjustment Ag
+ enda Nov 19\, 2026 11-19-2026 Pratt PH ZBA\nhttps://www.winchester-nh.gov/
+ AgendaCenter/ViewFile/Agenda/_11192026-387\n\nAgenda: Zoning Board of Adju
+ stment Agenda Nov 19\, 2026 11-19-26 Village Holdings Pratt Agenda ZBA\nht
+ tps://www.winchester-nh.gov/AgendaCenter/ViewFile/Agenda/_11192026-390\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

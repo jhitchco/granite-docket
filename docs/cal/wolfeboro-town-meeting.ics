@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wolfeboro Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Wolfeboro\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e0dc868a7c093896e708@granite-docket
+DTSTAMP:20261116T091710Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Wolfeboro Town meeting / warrant
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1744/General-Government
+DESCRIPTION:Other: General Government\nhttps://www.wolfeboronh.us/DocumentC
+ enter/View/1744/General-Government\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:591d1b9543253bb2bc6c@granite-docket
+DTSTAMP:20261116T091730Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Wolfeboro Town meeting / warrant
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1748/Social-Service-Agen
+ cy-Requests
+DESCRIPTION:Other: Social Services & Welfare\nhttps://www.wolfeboronh.us/Do
+ cumentCenter/View/1748/Social-Service-Agency-Requests\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:813871487ca0f7fcde19@granite-docket
+DTSTAMP:20261116T091740Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Wolfeboro Town meeting / warrant
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1749/Municipal-Welfare-A
+ ssistance
+DESCRIPTION:Other: Social Services & Welfare\nhttps://www.wolfeboronh.us/Do
+ cumentCenter/View/1749/Municipal-Welfare-Assistance\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fcc498346ab5ab2ef3b4@granite-docket
+DTSTAMP:20261103T103058Z
+DTSTART;TZID=America/New_York:20261028T180000
+DURATION:PT2H
+SUMMARY:Wolfeboro Town meeting / warrant
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_10282026-425
+DESCRIPTION:Agenda: Special Meeting\nhttps://www.wolfeboronh.us/AgendaCente
+ r/ViewFile/Agenda/_10282026-425\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1973012c4a09df9384a1@granite-docket
+DTSTAMP:20261103T105957Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Wolfeboro Town meeting / warrant
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1659/Budget-Committee-Me
+ eting-Calendar-2026
+DESCRIPTION:Other: Budget Committee Meeting Calendar 2026\nhttps://www.wolf
+ eboronh.us/DocumentCenter/View/1659/Budget-Committee-Meeting-Calendar-2026
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e1a882d6a7b76aff1554@granite-docket
+DTSTAMP:20261116T091630Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Wolfeboro Town meeting / warrant
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1787/Agencies
+DESCRIPTION:Other: Agencies (Social Services)\nhttps://www.wolfeboronh.us/D
+ ocumentCenter/View/1787/Agencies\n\nOther: Fire & EMS\nhttps://www.wolfebo
+ ronh.us/DocumentCenter/View/1791/Fire---EMS\n\nOther: Police & Communitcat
+ ions\nhttps://www.wolfeboronh.us/DocumentCenter/View/1794/Police---Communi
+ cations\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:afb13f27b924a994aac1@granite-docket
+DTSTAMP:20261116T091650Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Wolfeboro Town meeting / warrant
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1788/Library
+DESCRIPTION:Other: Library\nhttps://www.wolfeboronh.us/DocumentCenter/View/
+ 1788/Library\n\nOther: Public Works\nhttps://www.wolfeboronh.us/DocumentCe
+ nter/View/1790/Public-Works\n\nOther: Municipal Electric Department\nhttps
+ ://www.wolfeboronh.us/DocumentCenter/View/1789/Municipal-Electric-Departme
+ nt\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e589c92b3f754079d4b@granite-docket
+DTSTAMP:20261116T091700Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Wolfeboro Town meeting / warrant
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1785/Budget-Summary
+DESCRIPTION:Other: Budget Summary\nhttps://www.wolfeboronh.us/DocumentCente
+ r/View/1785/Budget-Summary\n\nOther: 5 Year Averages\nhttps://www.wolfebor
+ onh.us/DocumentCenter/View/1795/5-year-averages\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

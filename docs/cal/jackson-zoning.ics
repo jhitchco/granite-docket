@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jackson Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Jackson\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3292bda285c9013361d9@granite-docket
+DTSTAMP:20261103T122629Z
+DTSTART;TZID=America/New_York:20260930T193000
+DURATION:PT2H
+SUMMARY:Public hearing: Jackson Zoning / ZBA
+LOCATION:Jackson\, NH
+URL:https://www.jackson-nh.gov/wp-content/uploads/2026/08/2026-02-Black-Mtn
+ -Appeal-Public-Notice.pdf
+DESCRIPTION:Notice: Public Hearing Notice (9.30.2026)\nhttps://www.jackson-
+ nh.gov/wp-content/uploads/2026/08/2026-02-Black-Mtn-Appeal-Public-Notice.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:54bed369ccfaae0c6277@granite-docket
+DTSTAMP:20261103T122630Z
+DTSTART;TZID=America/New_York:20261030T193000
+DURATION:PT2H
+SUMMARY:Public hearing: Jackson Zoning / ZBA
+LOCATION:Jackson\, NH
+URL:https://www.jackson-nh.gov/wp-content/uploads/2026/09/Black-Mtn-Appeal-
+ Public-Notices-no-2_postponement.pdf
+DESCRIPTION:Notice: Public Hearing Notice of Postponement (new hearing date
+  10.30.2026)\nhttps://www.jackson-nh.gov/wp-content/uploads/2026/09/Black-
+ Mtn-Appeal-Public-Notices-no-2_postponement.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Littleton Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Littleton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:64735b899147df4c03dc@granite-docket
+DTSTAMP:20261103T104733Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Littleton Budget / CIP
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/DocumentCenter/View/1282
+DESCRIPTION:Minutes: 2026-2031 CIP Plan - Final Version\nhttps://www.townof
+ littleton.org/DocumentCenter/View/1282\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b62bf33e30b2f10fce2@granite-docket
+DTSTAMP:20261103T103051Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Littleton Budget / CIP
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/AgendaCenter/ViewFile/Agenda/_10222026-
+ 212
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 22\, 2026 Budget Committee 
+ Joint Quarterly Meeting\nhttps://www.townoflittleton.org/AgendaCenter/View
+ File/Agenda/_10222026-212\n\nMinutes: Budget Committee Minutes Oct 22\, 20
+ 26 Budget Committee Joint Quarterly Meeting\nhttps://www.townoflittleton.o
+ rg/AgendaCenter/ViewFile/Minutes/_10222026-212\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:20ea71fa76fa06d26a5d@granite-docket
+DTSTAMP:20261103T103050Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Littleton Budget / CIP
+LOCATION:Littleton\, NH
+URL:https://www.townoflittleton.org/AgendaCenter/ViewFile/Agenda/_11052026-
+ 214
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 5\, 2026 Budget Committee M
+ eeting\nhttps://www.townoflittleton.org/AgendaCenter/ViewFile/Agenda/_1105
+ 2026-214\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+END:VCALENDAR

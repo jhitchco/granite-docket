@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newmarket Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Newmarket\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:01f318da245a68f8d263@granite-docket
+DTSTAMP:20261103T095350Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Newmarket Town meeting / warrant
+LOCATION:Newmarket\, NH
+URL:https://www.newmarketnh.gov/DocumentCenter/View/1875/Town-Manager-Propo
+ sed-FY-28-Budget
+DESCRIPTION:Other: Town Manager's Budget Presentation to the Town Council\n
+ https://www.newmarketnh.gov/DocumentCenter/View/1875/Town-Manager-Proposed
+ -FY-28-Budget\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+END:VCALENDAR

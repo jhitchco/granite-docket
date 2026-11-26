@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dover NH meetings
+X-WR-CALDESC:Public meetings of Dover\, NH boards\, from posted agendas and
+  minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:167962d80790c9200551@granite-docket
+DTSTAMP:20261103T141359Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Dover Planning board
+LOCATION:Dover\, NH
+URL:http://www.dover.nh.gov/Assets/government/city-operations/2document/pla
+ nning/special-projects/Trail/art-contest/Dover_Community_Trail_Art%20Conte
+ st%20Submission%20Form.pdf
+DESCRIPTION:Other: Submission form\nhttp://www.dover.nh.gov/Assets/governme
+ nt/city-operations/2document/planning/special-projects/Trail/art-contest/D
+ over_Community_Trail_Art%20Contest%20Submission%20Form.pdf\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bef2906017df6eb9be61@granite-docket
+DTSTAMP:20261123T070900Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+TRANSP:TRANSPARENT
+SUMMARY:Dover Planning board
+LOCATION:Dover\, NH
+URL:http://www.dover.nh.gov/Assets/government/city-operations/2document/pla
+ nning/Meeting%20Schedule%202027.pdf
+DESCRIPTION:Other: For 2027 application deadlines and meeting schedules for
+  each of the various land use boards and com\nhttp://www.dover.nh.gov/Asse
+ ts/government/city-operations/2document/planning/Meeting%20Schedule%202027
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+END:VCALENDAR

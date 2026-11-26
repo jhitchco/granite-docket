@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Ipswich Conservation commission
+X-WR-CALDESC:Conservation commission meetings in New Ipswich\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3fefa95bf6b940b8e183@granite-docket
+DTSTAMP:20261103T104431Z
+DTSTART;TZID=America/New_York:20261013T193000
+DURATION:PT2H
+SUMMARY:New Ipswich Conservation commission
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/417/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/417/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/417/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f72a65832d110a2f89a9@granite-docket
+DTSTAMP:20261123T084107Z
+DTSTART;TZID=America/New_York:20261116T193000
+DURATION:PT2H
+SUMMARY:New Ipswich Conservation commission
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/469/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/469/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/469/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Exeter\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ab7337adc03b8a9abe0b@granite-docket
+DTSTAMP:20261103T092248Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Zoning / ZBA
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/housing_ad
+ visory_committee/meeting/63956/housing_advisory_committee_draft_minutes_10
+ -16-26.pdf
+DESCRIPTION:Minutes: Housing Advisory Committee Draft Minutes 10-16-26\nhtt
+ ps://www.exeternh.gov/sites/default/files/fileattachments/housing_advisory
+ _committee/meeting/63956/housing_advisory_committee_draft_minutes_10-16-26
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9fde46d2bfeb9d6658d@granite-docket
+DTSTAMP:20261103T092246Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Zoning / ZBA
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/zoning_boa
+ rd_of_adjustment/meeting/63816/zba-legal.10-20-26_.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/zoning_board_of_adjustment/meeting/63816/zba-legal.10-20-26_
+ .pdf\n\nAgenda: 10/20/2026 - 7:00pm Zoning Board of Adjustment Agenda Pack
+ et Video View Details\nhttps://www.exeternh.gov/sites/default/files/fileat
+ tachments/zoning_board_of_adjustment/meeting/packets/63816/10-20-2026_zba_
+ mtg_packet.pdf\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:907f8cee1b485bf7efae@granite-docket
+DTSTAMP:20261103T093420Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Zoning / ZBA
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/Z
+ ORC/2011/agenda/ZRCAG111026.pdf
+DESCRIPTION:Minutes: ZRCAG111026.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/ZORC/2011/agenda/ZRCAG111026.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:310480ce7c6c1da5f713@granite-docket
+DTSTAMP:20261103T093424Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Zoning / ZBA
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/Z
+ ORC/2012/agenda/ZRCAG120626.pdf
+DESCRIPTION:Minutes: ZRCAG120626.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/ZORC/2012/agenda/ZRCAG120626.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+END:VCALENDAR

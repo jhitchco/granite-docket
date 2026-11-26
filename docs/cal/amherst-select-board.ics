@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amherst Select board / council
+X-WR-CALDESC:Select board / council meetings in Amherst\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2f5f68a4491c40a6f3ab@granite-docket
+DTSTAMP:20261103T094152Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-450
+DESCRIPTION:Agenda: BOS Meeting Agenda and Packet\nhttps://www.amherstnh.go
+ v/AgendaCenter/ViewFile/Agenda/_09282026-450\n\nAgenda: Ways & Means Meeti
+ ng\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-449\n
+ \nAgenda: BOS Meeting Agenda and Packet\nhttps://www.amherstnh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_09282026-185\n\nMinutes: Sep 28\, 2026 BOS 
+ Meeting Agenda and Packet\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile
+ /Minutes/_09282026-450\n\nMinutes: Sep 28\, 2026 Ways & Means Meeting\nhtt
+ ps://www.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_09282026-449\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:07b8ccc1bc34fa164b0f@granite-docket
+DTSTAMP:20261103T093921Z
+DTSTART;TZID=America/New_York:20260930T160000
+DURATION:PT2H
+SUMMARY:Public hearing: Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_09302026-446
+DESCRIPTION:Agenda: Capital Improvements Plan Meeting Agenda\nhttps://www.a
+ mherstnh.gov/AgendaCenter/ViewFile/Agenda/_09302026-446\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6fedf17220fba3f06ac4@granite-docket
+DTSTAMP:20261103T094144Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-454
+DESCRIPTION:Agenda: BOS Meeting Agenda and Packet\nhttps://www.amherstnh.go
+ v/AgendaCenter/ViewFile/Agenda/_10052026-454\n\nAgenda: BOS Meeting Agenda
+  and Packet\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/ArchivedAgend
+ a/_10052026-198\n\nAgenda: BOS Meeting Agenda\nhttps://www.amherstnh.gov/A
+ gendaCenter/ViewFile/ArchivedAgenda/_10052026-196\n\nMinutes: Oct 5\, 2026
+  — Amended Oct 14\, 2026 2:59 PM BOS Meeting Agenda and Packet\nhttps://
+ www.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-454\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:9dea7e3ba90a9069967e@granite-docket
+DTSTAMP:20261103T093645Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-453
+DESCRIPTION:Agenda: BOS Meeting Agenda\nhttps://www.amherstnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_10062026-453\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2924ce16d51fa90fe7ce@granite-docket
+DTSTAMP:20261116T071145Z
+DTSTART;TZID=America/New_York:20261008T170000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-457
+DESCRIPTION:Agenda: Heritage Commission Regular Meeting CANCELLED\nhttps://
+ www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-457\n\nAgenda: So
+ uhegan Regional Landfill District Regular Meeting Agenda\nhttps://www.amhe
+ rstnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-455\n\nMinutes: Oct 8\, 2
+ 026 Souhegan Regional Landfill District Regular Meeting Agenda\nhttps://ww
+ w.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_10082026-455\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:37cc0317b74a09b6d25d@granite-docket
+DTSTAMP:20261103T094052Z
+DTSTART;TZID=America/New_York:20261012T130000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10122026-459
+DESCRIPTION:Agenda: Supervisors of the Checklist meeting\nhttps://www.amher
+ stnh.gov/AgendaCenter/ViewFile/Agenda/_10122026-459\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2293fb850c40201a7758@granite-docket
+DTSTAMP:20261103T093928Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-462
+DESCRIPTION:Agenda: Amherst Conservation Commission Regular Meeting Agenda\
+ nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-462\n\nM
+ inutes: Oct 14\, 2026 Amherst Conservation Commission Regular Meeting Agen
+ da\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-462\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e9731a109c2e9bb41bb@granite-docket
+DTSTAMP:20261103T094133Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-466
+DESCRIPTION:Agenda: BOS Meeting Agenda and Packet\nhttps://www.amherstnh.go
+ v/AgendaCenter/ViewFile/Agenda/_10192026-466\n\nAgenda: Ways & Means Agend
+ a\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-464\n\
+ nAgenda: BOS Meeting Agenda and Packet\nhttps://www.amherstnh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_10192026-208\n\nMinutes: Oct 19\, 2026 — A
+ mended Oct 30\, 2026 9:02 AM BOS Meeting Agenda and Packet\nhttps://www.am
+ herstnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-466\n\nMinutes: Oct 19
+ \, 2026 — Amended Oct 21\, 2026 8:38 AM Ways & Means Agenda\nhttps://www
+ .amherstnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-464\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:44f80ff9ae157206933d@granite-docket
+DTSTAMP:20261103T094002Z
+DTSTART;TZID=America/New_York:20261022T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-461
+DESCRIPTION:Agenda: HDC Regular Meeting Agenda\nhttps://www.amherstnh.gov/A
+ gendaCenter/ViewFile/Agenda/_10222026-461\n\nMinutes: Oct 22\, 2026 — Am
+ ended Oct 15\, 2026 9:03 PM HDC Regular Meeting Agenda\nhttps://www.amhers
+ tnh.gov/AgendaCenter/ViewFile/Minutes/_10222026-461\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:09a3299696c581bf0d79@granite-docket
+DTSTAMP:20261103T094934Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/DocumentCenter/View/5674/Board-of-Selectmen-I
+ ntent-to-Cut-Public-Noticepdf
+DESCRIPTION:Notice: Board of Selectmen Intent to Cut Public Notice.pdf\nhtt
+ ps://www.amherstnh.gov/DocumentCenter/View/5674/Board-of-Selectmen-Intent-
+ to-Cut-Public-Noticepdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5f288a1e583ef734b445@granite-docket
+DTSTAMP:20261109T070547Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-474
+DESCRIPTION:Agenda: BOS Meeting Agenda and Packet\nhttps://www.amherstnh.go
+ v/AgendaCenter/ViewFile/Agenda/_10262026-474\n\nAgenda: Ways & Means Meeti
+ ng Agenda\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_1026202
+ 6-472\n\nAgenda: BOS Meeting Agenda and Packet\nhttps://www.amherstnh.gov/
+ AgendaCenter/ViewFile/ArchivedAgenda/_10262026-217\n\nMinutes: Oct 26\, 20
+ 26 — Amended Nov 3\, 2026 10:36 AM Ways & Means Meeting Agenda\nhttps://
+ www.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_10262026-472\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8ad69d445ccc8f6fb4@granite-docket
+DTSTAMP:20261103T094052Z
+DTSTART;TZID=America/New_York:20261027T180000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-477
+DESCRIPTION:Agenda: Recreation Commission Regular Meeting Agenda\nhttps://w
+ ww.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-477\n\nAgenda: Tru
+ stees of the Trust Fund Meeting\nhttps://www.amherstnh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10272026-463\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:385daddcf623cc154f01@granite-docket
+DTSTAMP:20261116T071105Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-475
+DESCRIPTION:Agenda: Amherst Conservation Commission Regular Meeting Agenda\
+ nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-475\n\nM
+ inutes: Oct 28\, 2026 Amherst Conservation Commission Regular Meeting Agen
+ da\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_10282026-475\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6fa56f3bba91758b9caa@granite-docket
+DTSTAMP:20261103T094043Z
+DTSTART;TZID=America/New_York:20261105T170000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-478
+DESCRIPTION:Agenda: Thursday November 5\, 2026 @ Hollis DPW 10 Muzzey Rd. H
+ ollis NH\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11052026
+ -478\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:31f29f11bf6ec4b53fab@granite-docket
+DTSTAMP:20261123T070745Z
+DTSTART;TZID=America/New_York:20261109T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-479
+DESCRIPTION:Agenda: Public Hearing Notice\nhttps://www.amherstnh.gov/Agenda
+ Center/ViewFile/Agenda/_11092026-479\n\nAgenda: Ways & Means Meeting\nhttp
+ s://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-483\n\nAgenda
+ : BOS Meeting Agenda Packet\, with Public Hearing Notice\nhttps://www.amhe
+ rstnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-229\n\nAgenda: BO
+ S Meeting Agenda Packet\, with Public Hearing Notice\nhttps://www.amherstn
+ h.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-236\n\nMinutes: Nov 9
+ \, 2026 — Amended Nov 12\, 2026 2:53 PM Ways & Means Meeting\nhttps://ww
+ w.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_11092026-483\n\nMinutes: No
+ v 9\, 2026 — Amended Nov 17\, 2026 8:55 AM BOS Meeting Agenda Packet\, w
+ ith Public Hearing Notice\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile
+ /Minutes/_11092026-479\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c1e23d7985078568bb@granite-docket
+DTSTAMP:20261103T093927Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11112026-471
+DESCRIPTION:Agenda: Amherst Conservation Commission Regular Meeting Agenda 
+ CANCELLED\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_1111202
+ 6-471\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3756a65098ed8a3accae@granite-docket
+DTSTAMP:20261116T071115Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-484
+DESCRIPTION:Agenda: Heritage Commission Regular Meeting\nhttps://www.amhers
+ tnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-484\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c78a2c8b73ffaa881a0@granite-docket
+DTSTAMP:20261116T071055Z
+DTSTART;TZID=America/New_York:20261114T080000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11142026-488
+DESCRIPTION:Agenda: Amherst Conservation Commission site walk\nhttps://www.
+ amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11142026-488\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3be7850efb2ed6522d7f@granite-docket
+DTSTAMP:20261116T071205Z
+DTSTART;TZID=America/New_York:20261116T160000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-489
+DESCRIPTION:Agenda: BOS Meeting Agenda and Packet\nhttps://www.amherstnh.go
+ v/AgendaCenter/ViewFile/Agenda/_11162026-489\n\nAgenda: Ways & Means Meeti
+ ng\nhttps://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-486\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc691834608e64ce7046@granite-docket
+DTSTAMP:20261116T071155Z
+DTSTART;TZID=America/New_York:20261117T153000
+DURATION:PT2H
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-485
+DESCRIPTION:Agenda: Trustee of the Trust Fund Meeting\nhttps://www.amherstn
+ h.gov/AgendaCenter/ViewFile/Agenda/_11172026-485\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:91330c8045f29b1b7969@granite-docket
+DTSTAMP:20261103T094001Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Amherst Select board / council
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-480
+DESCRIPTION:Agenda: CANCELLED HDC Regular Meeting Agenda\nhttps://www.amher
+ stnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-480\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

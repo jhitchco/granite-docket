@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Epping Planning board
+X-WR-CALDESC:Planning board meetings in Epping\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:706e0c7323bb6f61c4e7@granite-docket
+DTSTAMP:20261103T100346Z
+DTSTART;TZID=America/New_York:20261008T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Epping Planning board
+LOCATION:Epping\, NH
+URL:https://www.eppingnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-158
+DESCRIPTION:Agenda: Planning Board\nhttps://www.eppingnh.gov/AgendaCenter/V
+ iewFile/Agenda/_10082026-158\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:36326bf57370e5d1aa35@granite-docket
+DTSTAMP:20261116T083857Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Epping Planning board
+LOCATION:Epping\, NH
+URL:https://www.eppingnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-168
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.eppingnh.gov/AgendaC
+ enter/ViewFile/Agenda/_11122026-168\n\nAgenda: Planning Board Agenda\nhttp
+ s://www.eppingnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-172\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

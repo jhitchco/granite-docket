@@ -214,7 +214,9 @@ def main():
     import civic  # town records pilot: search, this week, coverage
     report_url = lambda town: ("https://github.com/jhitchco/granite-docket/issues/new?labels=correction&title="
                                + quote(f"Correction: {town}") + "&body=" + quote("Which result or page is wrong, and what should it say? Link the source document if you can."))
-    civic.build(conn, OUT, page, write, slug, e, BOARD, report_url)
+    import cal  # .ics meeting calendars per town and board, plus statewide hearings
+    feeds, cal_links = cal.build(conn, page, write, slug, e, BOARD, civic.clean_title, towns)
+    civic.build(conn, OUT, page, write, slug, e, BOARD, report_url, feeds, cal_links)
     print(f"site written to {OUT}: {len(events)} events, {len(towns)} towns")
 
 

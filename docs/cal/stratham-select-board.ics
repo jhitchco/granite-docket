@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stratham Select board / council
+X-WR-CALDESC:Select board / council meetings in Stratham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9451951c734cc5777078@granite-docket
+DTSTAMP:20261103T100142Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Select board / council
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/SB Agenda 10 5 2026.pdf?t=20261002132308
+ 0
+DESCRIPTION:Minutes: 10/05/2026 Agenda Packet Minutes\nhttps://www.stratham
+ nh.gov/Documents/Boards and Committees/Select Board/Agendas and Minutes/20
+ 26/Agendas/SB Agenda 10 5 2026.pdf?t=202610021323080\n\nMinutes: 10/05/202
+ 6 Agenda Packet Minutes\nhttps://www.strathamnh.gov/Documents/Boards and C
+ ommittees/Select Board/Agendas and Minutes/2026/Packets/SB Packet 10 5 202
+ 6.pdf?t=202610021354090\n\nMinutes: 10/05/2026 Agenda Packet Minutes\nhttp
+ s://www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agenda
+ s and Minutes/2026/minutes/10 5 2026 sb minutes.pdf?t=202610211302450\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:834efa585bfcc3af3bb2@granite-docket
+DTSTAMP:20261109T083325Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Select board / council
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/SB Agenda 10 19 2026.pdf?t=2026101615305
+ 10
+DESCRIPTION:Minutes: 10/19/2026 Agenda Packet\nhttps://www.strathamnh.gov/D
+ ocuments/Boards and Committees/Select Board/Agendas and Minutes/2026/Agend
+ as/SB Agenda 10 19 2026.pdf?t=202610161530510\n\nMinutes: 10/19/2026 Agend
+ a Packet\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Selec
+ t Board/Agendas and Minutes/2026/Packets/SB Packet 10 19 2026.pdf?t=202610
+ 191011560\n\nMinutes: 10/19/2026 Agenda Packet Minutes\nhttps://www.strath
+ amnh.gov/Documents/Boards and Committees/Select Board/Agendas and Minutes/
+ 2026/minutes/10 19 2026 sb minutes.pdf?t=202611040838240\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:940a9f6c5210d16c41cb@granite-docket
+DTSTAMP:20261123T083048Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Select board / council
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/SB Agenda 11 2 2026.pdf?t=20261030130421
+ 0
+DESCRIPTION:Minutes: 11/02/2026 Agenda Packet\nhttps://www.strathamnh.gov/D
+ ocuments/Boards and Committees/Select Board/Agendas and Minutes/2026/Agend
+ as/SB Agenda 11 2 2026.pdf?t=202610301304210\n\nMinutes: 11/02/2026 Agenda
+  Packet\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Select
+  Board/Agendas and Minutes/2026/Packets/SB Packet 11 2 2026.pdf?t=20261030
+ 1458130\n\nMinutes: 11/02/2026 Agenda Packet Minutes\nhttps://www.stratham
+ nh.gov/Documents/Boards and Committees/Select Board/Agendas and Minutes/20
+ 26/minutes/11 2 2026 sb minutes.pdf?t=202611180801260\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:74de3d514ac0afb25cc1@granite-docket
+DTSTAMP:20261116T083427Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Select board / council
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/SB Agenda 11 16 2026.pdf?t=2026111314432
+ 40
+DESCRIPTION:Minutes: 11/16/2026 Agenda Packet\nhttps://www.strathamnh.gov/D
+ ocuments/Boards and Committees/Select Board/Agendas and Minutes/2026/Agend
+ as/SB Agenda 11 16 2026.pdf?t=202611131443240\n\nMinutes: 11/16/2026 Agend
+ a Packet\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Selec
+ t Board/Agendas and Minutes/2026/Packets/SB Packet 11 16 2026.pdf?t=202611
+ 131548050\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+END:VCALENDAR

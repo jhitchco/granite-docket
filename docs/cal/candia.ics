@@ -1,0 +1,453 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Candia NH meetings
+X-WR-CALDESC:Public meetings of Candia\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9a0347c3eb6912cd16bd@granite-docket
+DTSTAMP:20261103T111046Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Candia Select board / council
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_09282026-608
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://www.candianh.org/Age
+ ndaCenter/ViewFile/Agenda/_09282026-608\n\nMinutes: Sep 28\, 2026 Board of
+  Selectmen Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/
+ _09282026-608\n\nMinutes: Sep 28\, 2026 Board of Selectmen Agenda\nhttps:/
+ /www.candianh.org/AgendaCenter/ViewFile/ArchivedMinutes/_09282026-471\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:04f97bfdae6f8e5dd687@granite-docket
+DTSTAMP:20261103T110112Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Candia Agricultural Commission Agenda- 10.1.26
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10012026-610
+DESCRIPTION:Agenda: Agricultural Commission Agenda- 10.1.26\nhttps://www.ca
+ ndianh.org/AgendaCenter/ViewFile/Agenda/_10012026-610\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f658b9ee6ba909fb79df@granite-docket
+DTSTAMP:20261103T110643Z
+DTSTART;TZID=America/New_York:20261007T183000
+DURATION:PT2H
+SUMMARY:Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10072026-611
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.candianh.org/AgendaC
+ enter/ViewFile/Agenda/_10072026-611\n\nAgenda: Oct 7\, 2026 Planning Board
+  Agenda\nhttps://www.candianh.org/DocumentCenter/View/7394/2026-10-07-PB-M
+ eeting-Audio-File\n\nMinutes: Oct 7\, 2026 Planning Board Agenda\nhttps://
+ www.candianh.org/AgendaCenter/ViewFile/Minutes/_10072026-611\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:309e095755833c6515b6@granite-docket
+DTSTAMP:20261103T111042Z
+DTSTART;TZID=America/New_York:20261012T183000
+DURATION:PT2H
+SUMMARY:Candia Select board / council
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10122026-613
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://www.candianh.org/Age
+ ndaCenter/ViewFile/Agenda/_10122026-613\n\nMinutes: Oct 12\, 2026 Board of
+  Selectmen Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/
+ _10122026-613\n\nMinutes: Oct 12\, 2026 Board of Selectmen Agenda\nhttps:/
+ /www.candianh.org/AgendaCenter/ViewFile/ArchivedMinutes/_10122026-472\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:722ddf7386fb4b41fa6c@granite-docket
+DTSTAMP:20261103T110951Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Candia Zoning / ZBA
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10132026-614
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda - PUBLIC HEARING\nhtt
+ ps://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10132026-614\n\nAgenda
+ : Oct 13\, 2026 Zoning Board of Adjustment Agenda - PUBLIC HEARING\nhttps:
+ //www.candianh.org/DocumentCenter/View/7398/2026-10-13-ZBA-Meeting-Audio-F
+ ile\n\nMinutes: Oct 13\, 2026 Zoning Board of Adjustment Agenda - PUBLIC H
+ EARING\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_10132026-6
+ 14\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:66cf8ccecb737e4e5910@granite-docket
+DTSTAMP:20261103T110330Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10142026-615
+DESCRIPTION:Agenda: Budget Committee Agenda\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Agenda/_10142026-615\n\nMinutes: Oct 14\, 2026 Budget Com
+ mittee Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_101
+ 42026-615\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f491baf13e6c70683c@granite-docket
+DTSTAMP:20261109T093539Z
+DTSTART;TZID=America/New_York:20261015T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10152026-616
+DESCRIPTION:Agenda: Cemetery Trustees Meeting Agenda\nhttps://www.candianh.
+ org/AgendaCenter/ViewFile/Agenda/_10152026-616\n\nMinutes: Oct 15\, 2026 C
+ emetery Trustees Meeting Agenda\nhttps://www.candianh.org/AgendaCenter/Vie
+ wFile/Minutes/_10152026-616\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e40b2f567ab439bfe3@granite-docket
+DTSTAMP:20261103T110326Z
+DTSTART;TZID=America/New_York:20261019T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10192026-618
+DESCRIPTION:Agenda: Budget Committee Agenda\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Agenda/_10192026-618\n\nMinutes: Oct 19\, 2026 Budget Com
+ mittee Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_101
+ 92026-618\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ecfc207664188cfcfe29@granite-docket
+DTSTAMP:20261103T110136Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Candia Select board / council
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10192026-617
+DESCRIPTION:Agenda: Board of Selectmen Agenda - NON-PUBLIC MEETING\nhttps:/
+ /www.candianh.org/AgendaCenter/ViewFile/Agenda/_10192026-617\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:5b6f3c92857e713db31b@granite-docket
+DTSTAMP:20261116T095012Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Candia Conservation commission
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10202026-620
+DESCRIPTION:Agenda: Conservation Commission Agenda\nhttps://www.candianh.or
+ g/AgendaCenter/ViewFile/Agenda/_10202026-620\n\nMinutes: Oct 20\, 2026 Con
+ servation Commission Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFil
+ e/Minutes/_10202026-620\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b6aa34cd7dacd35cd9@granite-docket
+DTSTAMP:20261103T110551Z
+DTSTART;TZID=America/New_York:20261021T183000
+DURATION:PT2H
+SUMMARY:Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10212026-619
+DESCRIPTION:Agenda: Planning Board Agenda - MEETING CANCELLED\nhttps://www.
+ candianh.org/AgendaCenter/ViewFile/Agenda/_10212026-619\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:081148ba8434cfedc5de@granite-docket
+DTSTAMP:20261116T095201Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Candia PDF
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10222026-630
+DESCRIPTION:Agenda: PDF\nhttps://www.candianh.org/AgendaCenter/ViewFile/Age
+ nda/_10222026-630\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1cb498dbf96ec68a96@granite-docket
+DTSTAMP:20261116T095151Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Candia Town meeting / warrant
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Minutes/_10222026-630
+DESCRIPTION:Minutes: Oct 22\, 2026 Trustees of Trust Funds - No Agenda\nhtt
+ ps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_10222026-630\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:3fbdecbeb0b70c9de75e@granite-docket
+DTSTAMP:20261103T110910Z
+DTSTART;TZID=America/New_York:20261022T183000
+DURATION:PT2H
+SUMMARY:Candia Energy committee
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10222026-621
+DESCRIPTION:Agenda: Meeting Notice\nhttps://www.candianh.org/AgendaCenter/V
+ iewFile/Agenda/_10222026-621\n\nMinutes: Oct 22\, 2026 Meeting Notice\nhtt
+ ps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_10222026-621\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:ed2e93a3f88fe13e5adf@granite-docket
+DTSTAMP:20261116T095211Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Candia Packet
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10222026-630?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.candianh.org/AgendaCenter/ViewFile/
+ Agenda/_10222026-630?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd322622c9dc503d6f4@granite-docket
+DTSTAMP:20261103T110136Z
+DTSTART;TZID=America/New_York:20261026T183000
+DURATION:PT2H
+SUMMARY:Candia Select board / council
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10262026-622
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://www.candianh.org/Age
+ ndaCenter/ViewFile/Agenda/_10262026-622\n\nAgenda: Oct 26\, 2026 Board of 
+ Selectmen Agenda\nhttps://www.candianh.org/DocumentCenter/View/7407/2026-1
+ 0-26-Board-of-Selectmen-Audio-File\n\nMinutes: Oct 26\, 2026 Board of Sele
+ ctmen Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_1026
+ 2026-622\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8ce2ed727447576679@granite-docket
+DTSTAMP:20261123T084644Z
+DTSTART;TZID=America/New_York:20261102T170000
+DURATION:PT2H
+SUMMARY:Candia Select board / council
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11022026-624
+DESCRIPTION:Agenda: Board of Selectmen Agenda - Set Tax Rate\nhttps://www.c
+ andianh.org/AgendaCenter/ViewFile/Agenda/_11022026-624\n\nAgenda: Nov 2\, 
+ 2026 Board of Selectmen Agenda - Set Tax Rate\nhttps://www.candianh.org/Do
+ cumentCenter/View/7417/2026-11-02-Board-of-Selectmen-Meeting-Audio-File\n\
+ nMinutes: Nov 2\, 2026 Board of Selectmen Agenda - Set Tax Rate\nhttps://w
+ ww.candianh.org/AgendaCenter/ViewFile/Minutes/_11022026-624\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:088590e06d74bdc57ac5@granite-docket
+DTSTAMP:20261116T095031Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11042026-626
+DESCRIPTION:Agenda: Planning Board Agenda - PUBLIC HEARING\nhttps://www.can
+ dianh.org/AgendaCenter/ViewFile/Agenda/_11042026-626\n\nMinutes: Nov 4\, 2
+ 026 Planning Board Agenda - PUBLIC HEARING\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Minutes/_11042026-626\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f0cff4af131982a0a709@granite-docket
+DTSTAMP:20261103T110112Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Candia School
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11052026-625
+DESCRIPTION:Agenda: Agricultural Commission Agenda - 11.5.26\nhttps://www.c
+ andianh.org/AgendaCenter/ViewFile/Agenda/_11052026-625\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b52a0be781e935a27823@granite-docket
+DTSTAMP:20261116T101052Z
+DTSTART;TZID=America/New_York:20261106T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/DocumentCenter/View/7422
+DESCRIPTION:Notice: PUBLIC NOTICE FROM SOUTHERN NH PLANNING COMMISSION\nhtt
+ ps://www.candianh.org/DocumentCenter/View/7422\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:9d4f5a4153e0b2976890@granite-docket
+DTSTAMP:20261123T084624Z
+DTSTART;TZID=America/New_York:20261109T183000
+DURATION:PT2H
+SUMMARY:Candia Select board / council
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11092026-627
+DESCRIPTION:Agenda: Board of Selectmen Agenda\nhttps://www.candianh.org/Age
+ ndaCenter/ViewFile/Agenda/_11092026-627\n\nMinutes: Nov 9\, 2026 Board of 
+ Selectmen Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_
+ 11092026-627\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b982e62b255ba378ba9@granite-docket
+DTSTAMP:20261123T084915Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Candia Zoning / ZBA
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11102026-629
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda - PUBLIC HEARING\nhtt
+ ps://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11102026-629\n\nMinute
+ s: Nov 10\, 2026 Zoning Board of Adjustment Agenda - PUBLIC HEARING\nhttps
+ ://www.candianh.org/AgendaCenter/ViewFile/Minutes/_11102026-629\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:20034d2eb42786ea762f@granite-docket
+DTSTAMP:20261123T084720Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11122026-628
+DESCRIPTION:Agenda: Budget Committee Agenda\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Agenda/_11122026-628\n\nAgenda: Budget Committee Agenda\n
+ https://www.candianh.org/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-48
+ 2\n\nMinutes: Nov 12\, 2026 Budget Committee Agenda\nhttps://www.candianh.
+ org/AgendaCenter/ViewFile/Minutes/_11122026-628\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9670cdc55d573960c415@granite-docket
+DTSTAMP:20261123T084719Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Candia Budget / CIP
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11162026-634
+DESCRIPTION:Agenda: Budget Committee Agenda\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Agenda/_11162026-634\n\nAgenda: Nov 16\, 2026 Budget Comm
+ ittee Agenda\nhttps://www.candianh.org/DocumentCenter/View/7437/2026-11-16
+ -Budget-Committee-Meeting-Audio-File\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbd3d0dafa01c69e7e65@granite-docket
+DTSTAMP:20261116T095001Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Candia Conservation commission
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11172026-632
+DESCRIPTION:Agenda: Conservation Commission Agenda\nhttps://www.candianh.or
+ g/AgendaCenter/ViewFile/Agenda/_11172026-632\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9e071a1ad3221fa8ec@granite-docket
+DTSTAMP:20261123T084805Z
+DTSTART;TZID=America/New_York:20261118T183000
+DURATION:PT2H
+SUMMARY:Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11182026-633
+DESCRIPTION:Agenda: Planning Board Agenda - PUBLIC HEARING\nhttps://www.can
+ dianh.org/AgendaCenter/ViewFile/Agenda/_11182026-633\n\nAgenda: Nov 18\, 2
+ 026 Planning Board Agenda - PUBLIC HEARING\nhttps://www.candianh.org/Docum
+ entCenter/View/7444/2026-11-18-PB-Meeting-Audio-File\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3de14f2dba9b1611ff03@granite-docket
+DTSTAMP:20261116T095121Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Candia PDF
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11192026-631
+DESCRIPTION:Agenda: PDF\nhttps://www.candianh.org/AgendaCenter/ViewFile/Age
+ nda/_11192026-631\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb05b245827f8212d54@granite-docket
+DTSTAMP:20261103T110532Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Candia Cemetery Trustees November Meeting is Cancelled.
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11192026-623
+DESCRIPTION:Agenda: Cemetery Trustees November Meeting is Cancelled.\nhttps
+ ://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11192026-623\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8203ac45423c910be20@granite-docket
+DTSTAMP:20261123T084835Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Candia Select board / council
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Minutes/_11192026-631
+DESCRIPTION:Minutes: Nov 19\, 2026 Trustees of Trust Funds - No Agenda\nhtt
+ ps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_11192026-631\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb70d5ad0402ac709182@granite-docket
+DTSTAMP:20261116T095131Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Candia Packet
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11192026-631?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.candianh.org/AgendaCenter/ViewFile/
+ Agenda/_11192026-631?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

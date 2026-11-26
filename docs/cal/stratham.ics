@@ -1,0 +1,931 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stratham NH meetings
+X-WR-CALDESC:Public meetings of Stratham\, NH boards\, from posted agendas 
+ and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9286b2d8b0c352a566c5@granite-docket
+DTSTAMP:20261103T100902Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Stratham 09/28/2026 Agenda
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/SHPA/2026/ag
+ endas/9 28 2026 meeting notice.pdf?t=202609241540580
+DESCRIPTION:Agenda: 09/28/2026 Agenda\nhttps://www.strathamnh.gov/Documents
+ /Boards and Committees/SHPA/2026/agendas/9 28 2026 meeting notice.pdf?t=20
+ 2609241540580\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1becd4f7640eb24398@granite-docket
+DTSTAMP:20261103T100142Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Town meeting / warrant
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/minutes/9 28 2026 sb minutes.pdf?t=2026100614072
+ 30
+DESCRIPTION:Minutes: 09/28/2026 Select Board Special Meeting Agenda Minutes
+ \nhttps://www.strathamnh.gov/Documents/Boards and Committees/Select Board/
+ Agendas and Minutes/2026/minutes/9 28 2026 sb minutes.pdf?t=20261006140723
+ 0\n\nMinutes: 09/28/2026 Select Board Special Meeting Agenda Minutes\nhttp
+ s://www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agenda
+ s and Minutes/2026/Agendas/special meetings/Meeting Notice Sept 28 2026.pd
+ f?t=202609221358150\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f393d89216c2a625568@granite-docket
+DTSTAMP:20261103T100919Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 09/29/2026 Agenda Minutes
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Supervisors 
+ of the Checklist/Agendas and Minutes/2026/Notice 9 29 2026.pdf?t=202609151
+ 217320
+DESCRIPTION:Minutes: 09/29/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Supervisors of the Checklist/Agendas and M
+ inutes/2026/Notice 9 29 2026.pdf?t=202609151217320\n\nMinutes: 09/29/2026 
+ Agenda Minutes\nhttps://www.strathamnh.gov/Documents/Boards and Committees
+ /Supervisors of the Checklist/Agendas and Minutes/2026/9-29-26 SoC minutes
+ _.pdf?t=202609291334570\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f77e0df6b82105a08978@granite-docket
+DTSTAMP:20261103T102543Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Zoning / ZBA
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Zoning Board
+  of Adjustment/2026.10.02 ZBA 685 plans.pdf?t=202610201501430
+DESCRIPTION:Notice: Case 695 Plans\nhttps://www.strathamnh.gov/Documents/Bo
+ ards and Committees/Zoning Board of Adjustment/2026.10.02 ZBA 685 plans.pd
+ f?t=202610201501430\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5075b168657d37716f8a@granite-docket
+DTSTAMP:20261103T101025Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 10/05/2026 Agenda Minutes
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Trustees of 
+ the Trust Funds/Agendas and Minutes/2026/Meeting Notice - Oct 5 2026.pdf?t
+ =202610061059510
+DESCRIPTION:Minutes: 10/05/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Trustees of the Trust Funds/Agendas and Mi
+ nutes/2026/Meeting Notice - Oct 5 2026.pdf?t=202610061059510\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:9451951c734cc5777078@granite-docket
+DTSTAMP:20261103T100142Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Select board / council
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/SB Agenda 10 5 2026.pdf?t=20261002132308
+ 0
+DESCRIPTION:Minutes: 10/05/2026 Agenda Packet Minutes\nhttps://www.stratham
+ nh.gov/Documents/Boards and Committees/Select Board/Agendas and Minutes/20
+ 26/Agendas/SB Agenda 10 5 2026.pdf?t=202610021323080\n\nMinutes: 10/05/202
+ 6 Agenda Packet Minutes\nhttps://www.strathamnh.gov/Documents/Boards and C
+ ommittees/Select Board/Agendas and Minutes/2026/Packets/SB Packet 10 5 202
+ 6.pdf?t=202610021354090\n\nMinutes: 10/05/2026 Agenda Packet Minutes\nhttp
+ s://www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agenda
+ s and Minutes/2026/minutes/10 5 2026 sb minutes.pdf?t=202610211302450\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e267ae651e9e1c8619fe@granite-docket
+DTSTAMP:20261116T083438Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Stratham School
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Trustees of 
+ the Trust Funds/Agendas and Minutes/2026/10-5-26 TTF minute_FINAL.pdf?t=20
+ 2611100815120
+DESCRIPTION:Minutes: 10/05/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Trustees of the Trust Funds/Agendas and Mi
+ nutes/2026/10-5-26 TTF minute_FINAL.pdf?t=202611100815120\n\nMinutes: 10/0
+ 5/2026 Agenda Minutes\nhttps://www.strathamnh.gov/Documents/Boards and Com
+ mittees/Trustees of the Trust Funds/Agendas and Minutes/2026/10-5-26 TTF m
+ inutes DRAFT.pdf?t=202610071343240\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:838791daa2884fc3dc71@granite-docket
+DTSTAMP:20261103T100412Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Zoning / ZBA
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Zoning Board
+  of Adjustment/Agendas and Minutes/2026/Agenda/2026.10.06 ZBA Agenda.pdf?t
+ =202609291138130
+DESCRIPTION:Minutes: 10/06/2026 Regular Meeting Agenda\nhttps://www.stratha
+ mnh.gov/Documents/Boards and Committees/Zoning Board of Adjustment/Agendas
+  and Minutes/2026/Agenda/2026.10.06 ZBA Agenda.pdf?t=202609291138130\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8180a97b788af9e01b40@granite-docket
+DTSTAMP:20261103T100309Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Agendas and Minutes/2026/Agenda/2026.10.07 Agenda.pdf?t=202610021259420
+DESCRIPTION:Minutes: 10/07/2026 Regular Meeting Agenda Minutes\nhttps://www
+ .strathamnh.gov/Documents/Boards and Committees/Planning Board/Agendas and
+  Minutes/2026/Agenda/2026.10.07 Agenda.pdf?t=202610021259420\n\nMinutes: 1
+ 0/07/2026 Regular Meeting Agenda Minutes\nhttps://www.strathamnh.gov/Docum
+ ents/Boards and Committees/Planning Board/Agendas and Minutes/2026/Minutes
+ /2026.10.07 approved minutes.pdf?t=202610221044270\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:534f05f3fdf2763536de@granite-docket
+DTSTAMP:20261109T083328Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Energy committee
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Energy Commi
+ ssion/Agendas and Minutes/2026/Agendas/SEC Agenda 10.13.26.pdf?t=202610090
+ 819090
+DESCRIPTION:Minutes: 10/13/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Energy Commission/Agendas and Minutes/2026/Agendas
+ /SEC Agenda 10.13.26.pdf?t=202610090819090\n\nMinutes: 10/13/2026 Agenda M
+ inutes\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Energy 
+ Commission/Agendas and Minutes/2026/minutes/Draft SEC Minutes Oct 13 2026.
+ pdf?t=202611050938280\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6277cff95484a697eaa4@granite-docket
+DTSTAMP:20261116T083432Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Historic district
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Heritage Com
+ mission/Agendas and Minutes/2026/agendas/2026.10.13 HC AGENDA.pdf?t=202610
+ 130953140
+DESCRIPTION:Minutes: 10/13/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Heritage Commission/Agendas and Minutes/2026/agend
+ as/2026.10.13 HC AGENDA.pdf?t=202610130953140\n\nMinutes: 10/13/2026 Agend
+ a Minutes\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Heri
+ tage Commission/Agendas and Minutes/2026/minutes/Approved HC Minutes 2026.
+ 10.13.pdf?t=202611120815360\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:35180feb33d994c244c7@granite-docket
+DTSTAMP:20261123T083054Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 10/19/2026 Agenda Minutes
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Library Boar
+ d of Trustees/Agendas Minutes/2026/minutes/WML BoT Minutes 10_19_26.pdf?t=
+ 202611200919120
+DESCRIPTION:Minutes: 10/19/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Library Board of Trustees/Agendas Minutes/
+ 2026/minutes/WML BoT Minutes 10_19_26.pdf?t=202611200919120\n\nMinutes: 10
+ /19/2026 Agenda Minutes\nhttps://www.strathamnh.gov/Documents/Boards and C
+ ommittees/Library Board of Trustees/Agendas Minutes/2026/minutes/WML BoT M
+ inutes 10_19_26 DRAFT.pdf?t=202610231040140\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:834efa585bfcc3af3bb2@granite-docket
+DTSTAMP:20261109T083325Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Select board / council
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/SB Agenda 10 19 2026.pdf?t=2026101615305
+ 10
+DESCRIPTION:Minutes: 10/19/2026 Agenda Packet\nhttps://www.strathamnh.gov/D
+ ocuments/Boards and Committees/Select Board/Agendas and Minutes/2026/Agend
+ as/SB Agenda 10 19 2026.pdf?t=202610161530510\n\nMinutes: 10/19/2026 Agend
+ a Packet\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Selec
+ t Board/Agendas and Minutes/2026/Packets/SB Packet 10 19 2026.pdf?t=202610
+ 191011560\n\nMinutes: 10/19/2026 Agenda Packet Minutes\nhttps://www.strath
+ amnh.gov/Documents/Boards and Committees/Select Board/Agendas and Minutes/
+ 2026/minutes/10 19 2026 sb minutes.pdf?t=202611040838240\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a06b9a1efaddc87f2152@granite-docket
+DTSTAMP:20261103T100638Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Library Boar
+ d of Trustees/Agendas Minutes/2026/agendas 2026/WML BoT Agenda 10_19_26.pd
+ f?t=202610151018090
+DESCRIPTION:Minutes: 10/19/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Library Board of Trustees/Agendas Minutes/
+ 2026/agendas 2026/WML BoT Agenda 10_19_26.pdf?t=202610151018090\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:44744fc4ec80ee00497a@granite-docket
+DTSTAMP:20261123T083051Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Communications & Community Engagement Committee Minutes 10
+ /20/26
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Communicatio
+ ns and Community/minutes/CCE minutes 10-20-26.pdf?t=202611171429370
+DESCRIPTION:Minutes: Communications & Community Engagement Committee Minute
+ s 10/20/26\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Com
+ munications and Community/minutes/CCE minutes 10-20-26.pdf?t=2026111714293
+ 70\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4a16e82e25b6c85ff564@granite-docket
+DTSTAMP:20261103T100811Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Budget / CIP
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Recreation C
+ ommission/Agendas and Minutes/2026/2026 Agendas/Agenda October 2026.pdf?t=
+ 202610191025130
+DESCRIPTION:Minutes: 10/20/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Recreation Commission/Agendas and Minutes/2026/202
+ 6 Agendas/Agenda October 2026.pdf?t=202610191025130\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:640ce5ffbb02e568a666@granite-docket
+DTSTAMP:20261116T083433Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Communications & Community Engagement Committee Draft Minu
+ tes 10/20/26
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Communicatio
+ ns and Community/minutes/CCE Draft minutes 10-20-26.pdf?t=202611131256040
+DESCRIPTION:Minutes: Communications & Community Engagement Committee Draft 
+ Minutes 10/20/26\nhttps://www.strathamnh.gov/Documents/Boards and Committe
+ es/Communications and Community/minutes/CCE Draft minutes 10-20-26.pdf?t=2
+ 02611131256040\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ce017b5f0e89fea4be2@granite-docket
+DTSTAMP:20261103T100620Z
+DTSTART;TZID=America/New_York:20261020T090000
+DURATION:PT2H
+SUMMARY:Stratham Communications & Community Engagement Committee Agenda 10/
+ 20/26
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Communicatio
+ ns and Community/agendas/CCE Agenda 10-20-26.pdf?t=202610150804450
+DESCRIPTION:Agenda: Communications & Community Engagement Committee Agenda 
+ 10/20/26\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Commu
+ nications and Community/agendas/CCE Agenda 10-20-26.pdf?t=202610150804450\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f5b03bf20f6a495475d@granite-docket
+DTSTAMP:20261123T083055Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 10/20/2026 Agenda Minutes
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Recreation C
+ ommission/Agendas and Minutes/2026/2026 Minutes/SRC Minutes 10-20-26.pdf?t
+ =202611200840140
+DESCRIPTION:Minutes: 10/20/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Recreation Commission/Agendas and Minutes/
+ 2026/2026 Minutes/SRC Minutes 10-20-26.pdf?t=202611200840140\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc739225177fb4eab83@granite-docket
+DTSTAMP:20261109T083326Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Agendas and Minutes/2026/Agenda/2026.10.21 Agenda.pdf?t=202610191452030
+DESCRIPTION:Minutes: 10/21/2026 Regular Meeting Agenda\nhttps://www.stratha
+ mnh.gov/Documents/Boards and Committees/Planning Board/Agendas and Minutes
+ /2026/Agenda/2026.10.21 Agenda.pdf?t=202610191452030\n\nMinutes: 10/21/202
+ 6 Regular Meeting Agenda Minutes\nhttps://www.strathamnh.gov/Documents/Boa
+ rds and Committees/Planning Board/Agendas and Minutes/2026/Minutes/2026.10
+ .21 approved minutes.pdf?t=202611051149280\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2c368c23fe2faa92b6aa@granite-docket
+DTSTAMP:20261103T100433Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 10/21/2026 Agenda
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Trustees of 
+ the Trust Funds/Agendas and Minutes/2026/Joint Meeting Notice - Oct 21 202
+ 6.pdf?t=202610131540310
+DESCRIPTION:Minutes: 10/21/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Trustees of the Trust Funds/Agendas and Minutes/20
+ 26/Joint Meeting Notice - Oct 21 2026.pdf?t=202610131540310\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:266281f44025a2c7582f@granite-docket
+DTSTAMP:20261103T102452Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Public Hearing Notices/2026_10.22 DRAFT NOTICE OF LAND USE BOARD FEES U
+ NDER RSA 673.pdf?t=202610221054560
+DESCRIPTION:Notice: PROPOSED AMENDMENTS TO THE LAND USE BOARD FEE SCHEDULE 
+ · Pursuant to RSA 673:16\, III and RSA 41:9-a\,\nhttps://www.strathamnh.g
+ ov/Documents/Boards and Committees/Planning Board/Public Hearing Notices/2
+ 026_10.22 DRAFT NOTICE OF LAND USE BOARD FEES UNDER RSA 673.pdf?t=20261022
+ 1054560\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f6b6e4aa614988d17b@granite-docket
+DTSTAMP:20261103T100951Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 10/22/2026 Agenda
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Trail Manage
+ ment Advisory Committee/Agendas and Minutes/2026/Agendas/Agenda 10-22-26 T
+ MAC.pdf?t=202610190828320
+DESCRIPTION:Minutes: 10/22/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Trail Management Advisory Committee/Agendas and Mi
+ nutes/2026/Agendas/Agenda 10-22-26 TMAC.pdf?t=202610190828320\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:b543c6fa2379d3860d43@granite-docket
+DTSTAMP:20261103T100453Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Conservation commission
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Conservation
+  Commission/Agenda and Minutes/2026/2026.10.28 ConCommAgenda.pdf?t=2026102
+ 30859490
+DESCRIPTION:Minutes: 10/28/2026 Regular Meeting Agenda\nhttps://www.stratha
+ mnh.gov/Documents/Boards and Committees/Conservation Commission/Agenda and
+  Minutes/2026/2026.10.28 ConCommAgenda.pdf?t=202610230859490\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbc291a9c7cb3c854e5@granite-docket
+DTSTAMP:20261103T100918Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 10/28/2026 Agenda Minutes
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Supervisors 
+ of the Checklist/Agendas and Minutes/2026/10-28-26 SoC minutes.pdf?t=20261
+ 0281356390
+DESCRIPTION:Minutes: 10/28/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Supervisors of the Checklist/Agendas and M
+ inutes/2026/10-28-26 SoC minutes.pdf?t=202610281356390\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c257382e08fe154be9c@granite-docket
+DTSTAMP:20261116T083438Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 11/02/2026 Agenda Minutes
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Trustees of 
+ the Trust Funds/Agendas and Minutes/2026/11-2-26 TTF minutes DRAFT.pdf?t=2
+ 02611100826340
+DESCRIPTION:Minutes: 11/02/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Trustees of the Trust Funds/Agendas and Mi
+ nutes/2026/11-2-26 TTF minutes DRAFT.pdf?t=202611100826340\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4542b4e682bf4ea0e421@granite-docket
+DTSTAMP:20261103T101024Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 11/02/2026 Agenda
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Trustees of 
+ the Trust Funds/Agendas and Minutes/2026/Meeting Notice - Nov 2 2026.pdf?t
+ =202610281150440
+DESCRIPTION:Minutes: 11/02/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Trustees of the Trust Funds/Agendas and Minutes/20
+ 26/Meeting Notice - Nov 2 2026.pdf?t=202610281150440\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:69582802238b2f9cc508@granite-docket
+DTSTAMP:20261103T100433Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Budget / CIP
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Cemetery Tru
+ stees/Agenda and Minutes/2026/Cemetery Trustees Mtg 11 2 26.pdf?t=20261030
+ 1324450
+DESCRIPTION:Minutes: 11/02/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Cemetery Trustees/Agenda and Minutes/2026/Cemetery
+  Trustees Mtg 11 2 26.pdf?t=202610301324450\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:940a9f6c5210d16c41cb@granite-docket
+DTSTAMP:20261123T083048Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Select board / council
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/SB Agenda 11 2 2026.pdf?t=20261030130421
+ 0
+DESCRIPTION:Minutes: 11/02/2026 Agenda Packet\nhttps://www.strathamnh.gov/D
+ ocuments/Boards and Committees/Select Board/Agendas and Minutes/2026/Agend
+ as/SB Agenda 11 2 2026.pdf?t=202610301304210\n\nMinutes: 11/02/2026 Agenda
+  Packet\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Select
+  Board/Agendas and Minutes/2026/Packets/SB Packet 11 2 2026.pdf?t=20261030
+ 1458130\n\nMinutes: 11/02/2026 Agenda Packet Minutes\nhttps://www.stratham
+ nh.gov/Documents/Boards and Committees/Select Board/Agendas and Minutes/20
+ 26/minutes/11 2 2026 sb minutes.pdf?t=202611180801260\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:137ada045f7159a32e0c@granite-docket
+DTSTAMP:20261103T100412Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Zoning / ZBA
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Zoning Board
+  of Adjustment/Agendas and Minutes/2026/Agenda/2026.11.03 ZBA PKT.pdf?t=20
+ 2610291049500
+DESCRIPTION:Minutes: 11/03/2026 Regular Meeting Agenda\nhttps://www.stratha
+ mnh.gov/Documents/Boards and Committees/Zoning Board of Adjustment/Agendas
+  and Minutes/2026/Agenda/2026.11.03 ZBA PKT.pdf?t=202610291049500\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7410622744334e6d2362@granite-docket
+DTSTAMP:20261109T083409Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Public Hearing Notices/Plan Set 2026.11.03.pdf?t=202611060932030
+DESCRIPTION:Notice: 210 Portsmouth Plan Set · CONTINUED FROM AUGUST 19\, 2
+ 026: Red Barn Property LLC (Applicant and Owner\nhttps://www.strathamnh.go
+ v/Documents/Boards and Committees/Planning Board/Public Hearing Notices/Pl
+ an Set 2026.11.03.pdf?t=202611060932030\n\nNotice: NH-1566 Drainage Analys
+ is · CONTINUED FROM AUGUST 19\, 2026: Red Barn Property LLC (Applicant an
+ d Own\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Planning
+  Board/Public Hearing Notices/NH-1566 Drainage Analysis 2026.11.03.pdf?t=2
+ 02611060933290\n\nNotice: Hydrological Report · CONTINUED FROM AUGUST 19\
+ , 2026: Red Barn Property LLC (Applicant and Owner) re\nhttps://www.strath
+ amnh.gov/Documents/Boards and Committees/Planning Board/Public Hearing Not
+ ices/210_Portsmouth_Avenue_Hydro Rpt 110326.pdf?t=202611060938210\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:aead144b8cd051cd1015@granite-docket
+DTSTAMP:20261103T103618Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Town meeting / warrant
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/General Election Info Nov.3rd 2026.pdf?t=202
+ 610081244380
+DESCRIPTION:Other: Elections\, School and Town Meetings: The polling hours 
+ are 7:00am to 7:00pm. 39 Gifford Farm Road (S\nhttps://www.strathamnh.gov/
+ General Election Info Nov.3rd 2026.pdf?t=202610081244380\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:424b5c967aa8a1438d6b@granite-docket
+DTSTAMP:20261123T083048Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Town meeting / warrant
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/minutes/11 4 2026 special sb meeting.pdf?t=20261
+ 1180802310
+DESCRIPTION:Minutes: 11/04/2026 Select Board Special Meeting Agenda Minutes
+ \nhttps://www.strathamnh.gov/Documents/Boards and Committees/Select Board/
+ Agendas and Minutes/2026/minutes/11 4 2026 special sb meeting.pdf?t=202611
+ 180802310\n\nMinutes: 11/04/2026 Select Board Special Meeting Agenda\nhttp
+ s://www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agenda
+ s and Minutes/2026/Agendas/special meetings/Meeting Notice November 4 2026
+ .pdf?t=202611021357380\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ce305f3cdae8e92ea80@granite-docket
+DTSTAMP:20261103T100308Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Agendas and Minutes/2026/Agenda/2026.11.04 PB Agenda.pdf?t=202611021204
+ 060
+DESCRIPTION:Minutes: 11/04/2026 Regular Meeting Agenda\nhttps://www.stratha
+ mnh.gov/Documents/Boards and Committees/Planning Board/Agendas and Minutes
+ /2026/Agenda/2026.11.04 PB Agenda.pdf?t=202611021204060\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:12dcf6777ced449ed7e6@granite-docket
+DTSTAMP:20261116T083432Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Historic district
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Heritage Com
+ mission/Agendas and Minutes/2026/agendas/2026.11.10 HC AGENDA.pdf?t=202611
+ 090938220
+DESCRIPTION:Minutes: 11/10/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Heritage Commission/Agendas and Minutes/2026/agend
+ as/2026.11.10 HC AGENDA.pdf?t=202611090938220\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b3720a6fc51479dfefa@granite-docket
+DTSTAMP:20261109T083328Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Energy committee
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Energy Commi
+ ssion/Agendas and Minutes/2026/Agendas/SEC Agenda 11.10.26.pdf?t=202611050
+ 935180
+DESCRIPTION:Minutes: 11/10/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Energy Commission/Agendas and Minutes/2026/Agendas
+ /SEC Agenda 11.10.26.pdf?t=202611050935180\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb09d56deea29cb0368@granite-docket
+DTSTAMP:20261103T100137Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Town meeting / warrant
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/special meetings/Meeting Notice November
+  13 2026.pdf?t=202610270749190
+DESCRIPTION:Minutes: 11/13/2026 Select Board Special Meeting Agenda\nhttps:
+ //www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agendas 
+ and Minutes/2026/Agendas/special meetings/Meeting Notice November 13 2026.
+ pdf?t=202610270749190\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5159ab325a9187b1b794@granite-docket
+DTSTAMP:20261103T102457Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Public Hearing Notices/DOT-DRI-004361-08-14-2026 11-14-38.pdf?t=2026090
+ 21225200
+DESCRIPTION:Notice: NHDOT Permit · CONTINUED FROM AUGUST 19\, 2026: Red Ba
+ rn Property LLC (Applicant and Owner) requests \nhttps://www.strathamnh.go
+ v/Documents/Boards and Committees/Planning Board/Public Hearing Notices/DO
+ T-DRI-004361-08-14-2026 11-14-38.pdf?t=202609021225200\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3ace0415c0567a4f9e76@granite-docket
+DTSTAMP:20261123T083054Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 11/16/2026 Agenda Minutes
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Library Boar
+ d of Trustees/Agendas Minutes/2026/minutes/WML BoT Minutes 11_16_26 DRAFT 
+ (1).pdf?t=202611200920230
+DESCRIPTION:Minutes: 11/16/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Library Board of Trustees/Agendas Minutes/
+ 2026/minutes/WML BoT Minutes 11_16_26 DRAFT (1).pdf?t=202611200920230\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac67f1347132a05a8c3@granite-docket
+DTSTAMP:20261123T083111Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Public Hearing Notices/Revised Plans 2026.11.16.pdf?t=202611171608400
+DESCRIPTION:Notice: 210 Portsmouth Plan Set 11/16/2026 · *****************
+ ***************************** PLANNING BOARD A\nhttps://www.strathamnh.gov
+ /Documents/Boards and Committees/Planning Board/Public Hearing Notices/Rev
+ ised Plans 2026.11.16.pdf?t=202611171608400\n\nMinutes: 11/16/2026 Agenda\
+ nhttps://www.strathamnh.gov/Documents/Boards and Committees/Library Board 
+ of Trustees/Agendas Minutes/2026/agendas 2026/WML BoT Agenda 11_16_26.pdf?
+ t=202611130928160\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:74de3d514ac0afb25cc1@granite-docket
+DTSTAMP:20261116T083427Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Select board / council
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/SB Agenda 11 16 2026.pdf?t=2026111314432
+ 40
+DESCRIPTION:Minutes: 11/16/2026 Agenda Packet\nhttps://www.strathamnh.gov/D
+ ocuments/Boards and Committees/Select Board/Agendas and Minutes/2026/Agend
+ as/SB Agenda 11 16 2026.pdf?t=202611131443240\n\nMinutes: 11/16/2026 Agend
+ a Packet\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Selec
+ t Board/Agendas and Minutes/2026/Packets/SB Packet 11 16 2026.pdf?t=202611
+ 131548050\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:139e1f919a7cee173742@granite-docket
+DTSTAMP:20261116T083433Z
+DTSTART;TZID=America/New_York:20261117T090000
+DURATION:PT2H
+SUMMARY:Stratham Communications & Community Engagement Committee Agenda 11/
+ 17/26
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Communicatio
+ ns and Community/agendas/CCE Agenda 11-17-26.pdf?t=202611130908240
+DESCRIPTION:Agenda: Communications & Community Engagement Committee Agenda 
+ 11/17/26\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Commu
+ nications and Community/agendas/CCE Agenda 11-17-26.pdf?t=202611130908240\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2df7bf75a2043cc40910@granite-docket
+DTSTAMP:20261116T083435Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 11/17/2026 Agenda
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Recreation C
+ ommission/Agendas and Minutes/2026/2026 Agendas/Agenda November 2026.pdf?t
+ =202611131431170
+DESCRIPTION:Minutes: 11/17/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Recreation Commission/Agendas and Minutes/2026/202
+ 6 Agendas/Agenda November 2026.pdf?t=202611131431170\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4cc780f338fae4403fbe@granite-docket
+DTSTAMP:20261123T083051Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Communications & Community Engagement Committee Draft Minu
+ tes 11/17/26
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Communicatio
+ ns and Community/minutes/CCE Draft minutes 11-17-26.pdf?t=202611181321540
+DESCRIPTION:Minutes: Communications & Community Engagement Committee Draft 
+ Minutes 11/17/26\nhttps://www.strathamnh.gov/Documents/Boards and Committe
+ es/Communications and Community/minutes/CCE Draft minutes 11-17-26.pdf?t=2
+ 02611181321540\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:83f331d1081c76eb75b6@granite-docket
+DTSTAMP:20261116T083430Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Conservation commission
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Conservation
+  Commission/Agenda and Minutes/2026/2026.11.17 ConCommAgenda.pdf?t=2026111
+ 01236060
+DESCRIPTION:Minutes: 11/17/2026 Regular Meeting Agenda\nhttps://www.stratha
+ mnh.gov/Documents/Boards and Committees/Conservation Commission/Agenda and
+  Minutes/2026/2026.11.17 ConCommAgenda.pdf?t=202611101236060\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:b54a65cc1fe9e7b41399@granite-docket
+DTSTAMP:20261123T083055Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Stratham 11/17/2026 Agenda Minutes
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Recreation C
+ ommission/Agendas and Minutes/2026/2026 Minutes/SRC Nov DRAFT Minutes.pdf?
+ t=202611200841150
+DESCRIPTION:Minutes: 11/17/2026 Agenda Minutes\nhttps://www.strathamnh.gov/
+ Documents/Boards and Committees/Recreation Commission/Agendas and Minutes/
+ 2026/2026 Minutes/SRC Nov DRAFT Minutes.pdf?t=202611200841150\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:f4eaed01ab08484abcee@granite-docket
+DTSTAMP:20261123T083048Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Stratham Planning board
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Public Hearing Notices/2026_11.18 DRAFT NOTICE OF LAND USE BOARD FEES U
+ NDER RSA 673_MARKUP.pdf?t=202611061012230
+DESCRIPTION:Notice: PROPOSED AMENDMENTS TO THE LAND USE BOARD FEE SCHEDULE 
+ · Pursuant to RSA 673:16\, III and RSA 41:9-a\,\nhttps://www.strathamnh.g
+ ov/Documents/Boards and Committees/Planning Board/Public Hearing Notices/2
+ 026_11.18 DRAFT NOTICE OF LAND USE BOARD FEES UNDER RSA 673_MARKUP.pdf?t=2
+ 02611061012230\n\nMinutes: 11/18/2026 Regular Meeting Agenda\nhttps://www.
+ strathamnh.gov/Documents/Boards and Committees/Planning Board/Agendas and 
+ Minutes/2026/Agenda/2026.11.18 PB Agenda.pdf?t=202611130757200\n\nMinutes:
+  11/18/2026 Regular Meeting Agenda\nhttps://www.strathamnh.gov/Documents/B
+ oards and Committees/Planning Board/Agendas and Minutes/2026/Agenda/2026.1
+ 1.18 PB Agenda_REV.pdf?t=202611170912200\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:bc181013f51c6eb8c50c@granite-docket
+DTSTAMP:20261123T083111Z
+DTSTART;TZID=America/New_York:20261120T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Stratham Zoning / ZBA
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Planning Boa
+ rd/Public Hearing Notices/2026.11.20  Planning Board Zoning Amendments_PH_
+ Packet.pdf?t=202611201540100
+DESCRIPTION:Agenda: 2027 Zoning Amendments. · The purpose of the hearings 
+ is to review and solicit public comment on pro\nhttps://www.strathamnh.gov
+ /Documents/Boards and Committees/Planning Board/Public Hearing Notices/202
+ 6.11.20  Planning Board Zoning Amendments_PH_Packet.pdf?t=202611201540100\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a8734ff18729e74319ea@granite-docket
+DTSTAMP:20261116T083431Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Historic district
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Heritage Com
+ mission/Agendas and Minutes/2026/agendas/2026.11.21 HC AGENDA.pdf?t=202611
+ 120812040
+DESCRIPTION:Minutes: 11/21/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Heritage Commission/Agendas and Minutes/2026/agend
+ as/2026.11.21 HC AGENDA.pdf?t=202611120812040\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3540b36748b6075bc1bc@granite-docket
+DTSTAMP:20261103T100901Z
+DTSTART;TZID=America/New_York:20261130T180000
+DURATION:PT2H
+SUMMARY:Stratham 11/30/2026 Agenda
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/SHPA/2026/ag
+ endas/11 30 2026 meeting notice.pdf?t=202610260805590
+DESCRIPTION:Agenda: 11/30/2026 Agenda\nhttps://www.strathamnh.gov/Documents
+ /Boards and Committees/SHPA/2026/agendas/11 30 2026 meeting notice.pdf?t=2
+ 02610260805590\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:692d2dbcbde1323d1a39@granite-docket
+DTSTAMP:20261116T083436Z
+DTSTART;TZID=America/New_York:20261130T180000
+DURATION:PT2H
+SUMMARY:Stratham Historic district
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/SHPA/2026/ag
+ endas/11 30 2026 meeting notice.pdf?t=202611101019280
+DESCRIPTION:Agenda: 11/30/2026 Agenda\nhttps://www.strathamnh.gov/Documents
+ /Boards and Committees/SHPA/2026/agendas/11 30 2026 meeting notice.pdf?t=2
+ 02611101019280\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+END:VCALENDAR

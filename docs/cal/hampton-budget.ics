@@ -1,0 +1,197 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hampton Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Hampton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:29ed7ab4d8a4f89cb0de@granite-docket
+DTSTAMP:20261103T135201Z
+DTSTART;TZID=America/New_York:20260928T093000
+DURATION:PT2H
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-2076
+DESCRIPTION:Agenda: Budget Committee Tour of the Fire Dept.\nhttps://hampto
+ nnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-2076\n\nMinutes: Sep 28\, 2
+ 026 Budget Committee Tour of the Fire Dept.\nhttps://hamptonnh.gov/AgendaC
+ enter/ViewFile/Minutes/_09282026-2076\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:788c6fad1eb5be103065@granite-docket
+DTSTAMP:20261103T141045Z
+DTSTART;TZID=America/New_York:20260930T100000
+DURATION:PT2H
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_09302026-2077
+DESCRIPTION:Agenda: Budget Committee Tour of the Police Dept.\nhttps://hamp
+ tonnh.gov/AgendaCenter/ViewFile/Agenda/_09302026-2077\n\nMinutes: Sep 30\,
+  2026 Budget Committee Tour of the Police Dept.\nhttps://hamptonnh.gov/Age
+ ndaCenter/ViewFile/Minutes/_09302026-2077\n\nMinutes: Sep 30\, 2026 Budget
+  Committee Tour of the Police Dept.\nhttps://hamptonnh.gov/AgendaCenter/Vi
+ ewFile/ArchivedMinutes/_09302026-2787\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2276c037f64d13598d94@granite-docket
+DTSTAMP:20261103T135245Z
+DTSTART;TZID=America/New_York:20261008T180000
+DURATION:PT2H
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-2084
+DESCRIPTION:Agenda: Heritage Commission\nhttps://hamptonnh.gov/AgendaCenter
+ /ViewFile/Agenda/_10082026-2084\n\nMinutes: Oct 8\, 2026 Heritage Commissi
+ on\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Minutes/_10082026-2084\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d98150a24ad6ad0c684b@granite-docket
+DTSTAMP:20261103T135236Z
+DTSTART;TZID=America/New_York:20261014T090000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-2083
+DESCRIPTION:Agenda: Budget Committee Tour of Parks & Recreation\nhttps://ha
+ mptonnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-2083\n\nAgenda: HBVD\nh
+ ttps://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-2088\n\nMinute
+ s: Oct 14\, 2026 Budget Committee Tour of Parks & Recreation\nhttps://hamp
+ tonnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-2083\n\nMinutes: Oct 14\
+ , 2026 HBVD\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Minutes/_10142026
+ -2088\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:32959ca5025ab47cf31e@granite-docket
+DTSTAMP:20261116T073722Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-2085
+DESCRIPTION:Agenda: Budget Committee\nhttps://hamptonnh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10202026-2085\n\nMinutes: Oct 20\, 2026 Budget Committee\nh
+ ttps://hamptonnh.gov/AgendaCenter/ViewFile/Minutes/_10202026-2085\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:818da7c583350203458e@granite-docket
+DTSTAMP:20261109T073604Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-2090
+DESCRIPTION:Agenda: HBAC\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10222026-2090\n\nMinutes: Oct 22\, 2026 HBAC\nhttps://hamptonnh.gov/Age
+ ndaCenter/ViewFile/Minutes/_10222026-2090\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d09ea320a24a61d110@granite-docket
+DTSTAMP:20261103T135158Z
+DTSTART;TZID=America/New_York:20261023T110000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10232026-2094
+DESCRIPTION:Agenda: Budget Committee Library Tour\nhttps://hamptonnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10232026-2094\n\nMinutes: Oct 23\, 2026 Budget
+  Committee Library Tour\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Minut
+ es/_10232026-2094\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ec9e1c156e2c2da70a99@granite-docket
+DTSTAMP:20261109T073543Z
+DTSTART;TZID=America/New_York:20261027T183000
+DURATION:PT2H
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-2093
+DESCRIPTION:Agenda: HCC October 27\, 2026 Meeting Agenda\nhttps://hamptonnh
+ .gov/AgendaCenter/ViewFile/Agenda/_10272026-2093\n\nMinutes: Oct 27\, 2026
+  HCC October 27\, 2026 Meeting Agenda\nhttps://hamptonnh.gov/AgendaCenter/
+ ViewFile/Minutes/_10272026-2093\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b493c236fa6745216120@granite-docket
+DTSTAMP:20261123T074118Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_11112026-2107
+DESCRIPTION:Agenda: HBVD\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Agend
+ a/_11112026-2107\n\nMinutes: Nov 11\, 2026 HBVD\nhttps://hamptonnh.gov/Age
+ ndaCenter/ViewFile/Minutes/_11112026-2107\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a000e6495a486321d3@granite-docket
+DTSTAMP:20261116T073712Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-2106
+DESCRIPTION:Agenda: Budget Committee\nhttps://hamptonnh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_11172026-2106\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:af9245cf81cf411e6161@granite-docket
+DTSTAMP:20261123T074038Z
+DTSTART;TZID=America/New_York:20261124T183000
+DURATION:PT2H
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-2108
+DESCRIPTION:Agenda: HCC November 24\, 2026 Meeting Agenda\nhttps://hamptonn
+ h.gov/AgendaCenter/ViewFile/Agenda/_11242026-2108\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fc034dc28f8edffeeb92@granite-docket
+DTSTAMP:20261103T135404Z
+DTSTART;TZID=America/New_York:20270119T150000
+DURATION:PT2H
+SUMMARY:Hampton Budget / CIP
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_01192027-2096
+DESCRIPTION:Agenda: Trustees of the Trust Funds\nhttps://hamptonnh.gov/Agen
+ daCenter/ViewFile/Agenda/_01192027-2096\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Wolfeboro Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Wolfeboro\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5d9df2f40e3a6290aa79@granite-docket
+DTSTAMP:20261103T104404Z
+DTSTART;TZID=America/New_York:20260928T090000
+DURATION:PT2H
+SUMMARY:Public hearing: Wolfeboro Budget / CIP
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgenda/_092820
+ 26-460
+DESCRIPTION:Agenda: Capital Improvement Program Committee Agenda\nhttps://w
+ ww.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-460\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c184b71a6133d7be321c@granite-docket
+DTSTAMP:20261103T103318Z
+DTSTART;TZID=America/New_York:20261008T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Wolfeboro Budget / CIP
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgenda/_100820
+ 26-478
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://www.wolfeboronh.us/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_10082026-478\n\nAgenda: Budget Committ
+ ee Meeting\nhttps://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgend
+ a/_10082026-465\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:84321ef88e6360d6a806@granite-docket
+DTSTAMP:20261116T093240Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Wolfeboro Budget / CIP
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/DocumentCenter/View/1766/11-03-26-Constructi
+ on-Update
+DESCRIPTION:Notice: (click here) · The Wolfeboro Public Works Department w
+ ould like to update property owners\, residents\nhttps://www.wolfeboronh.u
+ s/DocumentCenter/View/1766/11-03-26-Construction-Update\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ae6e9d43345558d69142@granite-docket
+DTSTAMP:20261103T103313Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Wolfeboro Budget / CIP
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgenda/_111020
+ 26-479
+DESCRIPTION:Agenda: Budget Review Meeting- Police\nhttps://www.wolfeboronh.
+ us/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-479\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:66ba19b174adcdca7201@granite-docket
+DTSTAMP:20261109T084047Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Wolfeboro Budget / CIP
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgenda/_111220
+ 26-484
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://www.wolfeboronh.us/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_11122026-484\n\nAgenda: Budget Committ
+ ee Meeting\nhttps://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgend
+ a/_11122026-482\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:95204d09eaab7ee142bc@granite-docket
+DTSTAMP:20261116T084459Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Wolfeboro Budget / CIP
+LOCATION:Wolfeboro\, NH
+URL:https://www.wolfeboronh.us/AgendaCenter/ViewFile/ArchivedAgenda/_111720
+ 26-490
+DESCRIPTION:Agenda: Budget Committee meeting\nhttps://www.wolfeboronh.us/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_11172026-490\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

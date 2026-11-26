@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Durham Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in New Durham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:671356f12fcae2aff2e1@granite-docket
+DTSTAMP:20261103T112827Z
+DTSTART;TZID=America/New_York:20260928T163000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/702/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/702/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/702/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c32c272b0d6baf221fa@granite-docket
+DTSTAMP:20261103T112827Z
+DTSTART;TZID=America/New_York:20260929T183000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/704/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/704/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/704/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:71e6842ef633458e1bcc@granite-docket
+DTSTAMP:20261103T112813Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/708/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/708/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/708/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3d6ad9a60a7a6b8fe6@granite-docket
+DTSTAMP:20261103T112756Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/713/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/713/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/713/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:89337779c0263a484526@granite-docket
+DTSTAMP:20261109T101059Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/728/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/728/PDF/get_agenda_document_link\n\nAgenda: Agenda PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/721/PDF/get_agenda_document_link\n\nAgenda:
+  Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agendas/720/PDF/get_age
+ nda_document_link\n\nAgenda: Agenda PDF\nhttps://towncloud.io/go/new-durha
+ m-nh/agendas/714/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps
+ ://towncloud.io/go/new-durham-nh/agendas/728/pdf_packet/get_agenda_documen
+ t_link\n\nAgenda: Packet PDF\nhttps://towncloud.io/go/new-durham-nh/agenda
+ s/721/pdf_packet/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://t
+ owncloud.io/go/new-durham-nh/agendas/714/pdf_packet/get_agenda_document_li
+ nk\n\nAgenda: Packet PDF\nhttps://towncloud.io/go/new-durham-nh/agendas/72
+ 0/pdf_packet/get_agenda_document_link\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d060dd62a349b5e40770@granite-docket
+DTSTAMP:20261103T112754Z
+DTSTART;TZID=America/New_York:20261020T163000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/725/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/725/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/725/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca92587a8a504ae233b@granite-docket
+DTSTAMP:20261103T112752Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/722/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/722/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/722/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8cec5633ee4893af7439@granite-docket
+DTSTAMP:20261103T112740Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/734/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/734/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/734/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:564ece47818b02fbcc95@granite-docket
+DTSTAMP:20261103T112746Z
+DTSTART;TZID=America/New_York:20261103T183000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/735/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/735/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/735/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9730c003540755ee9f87@granite-docket
+DTSTAMP:20261116T101637Z
+DTSTART;TZID=America/New_York:20261113T183000
+DURATION:PT2H
+SUMMARY:New Durham Budget / CIP
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/743/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/743/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/743/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+END:VCALENDAR

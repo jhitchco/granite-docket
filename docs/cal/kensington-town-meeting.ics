@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kensington Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Kensington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c7312fa2a277ecd3d802@granite-docket
+DTSTAMP:20261103T121044Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Kensington Town meeting / warrant
+LOCATION:Kensington\, NH
+URL:https://kensingtonnh.gov/DocumentCenter/View/3369/November-3-2026-BOS-W
+ arrant
+DESCRIPTION:Warrant: Signed Warrant HERE\nhttps://kensingtonnh.gov/Document
+ Center/View/3369/November-3-2026-BOS-Warrant\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:791df7a5a061988b4c6f@granite-docket
+DTSTAMP:20261103T122828Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+TRANSP:TRANSPARENT
+SUMMARY:Kensington Town meeting / warrant
+LOCATION:Kensington\, NH
+URL:https://kensingtonnh.gov/DocumentCenter/View/341/2022-MT-DTB-PDF
+DESCRIPTION:Warrant: 2022 MT-DTB (PDF)\nhttps://kensingtonnh.gov/DocumentCe
+ nter/View/341/2022-MT-DTB-PDF\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

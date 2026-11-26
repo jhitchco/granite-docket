@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Derry Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Derry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:98ad37084cfcf0a65630@granite-docket
+DTSTAMP:20261103T092219Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_09282026-361
+DESCRIPTION:Agenda: Conservation Commission Regular Meeting\nhttps://www.de
+ rrynh.gov/AgendaCenter/ViewFile/Agenda/_09282026-361\n\nMinutes: Sep 28\, 
+ 2026 Conservation Commission Regular Meeting\nhttps://www.derrynh.gov/Agen
+ daCenter/ViewFile/Minutes/_09282026-361\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b2fac9f57cc53b575a@granite-docket
+DTSTAMP:20261103T092402Z
+DTSTART;TZID=America/New_York:20260929T110000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_09292026-359
+DESCRIPTION:Agenda: Supervisors of the Checklist Regular Meeting Agenda\nht
+ tps://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_09292026-359\n\nMinute
+ s: Sep 29\, 2026 Supervisors of the Checklist Regular Meeting Agenda\nhttp
+ s://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_09292026-359\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4fcfd8df6cd6af15e6@granite-docket
+DTSTAMP:20261116T071006Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10052026-364
+DESCRIPTION:Agenda: Conservation Commission Regular Meeting\nhttps://www.de
+ rrynh.gov/AgendaCenter/ViewFile/Agenda/_10052026-364\n\nAgenda: Heritage C
+ ommission Agenda\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 052026-362\n\nMinutes: Oct 5\, 2026 Conservation Commission Regular Meetin
+ g\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_10052026-364\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d169ca991d55a96e7f52@granite-docket
+DTSTAMP:20261103T092421Z
+DTSTART;TZID=America/New_York:20261015T090000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10152026-370
+DESCRIPTION:Agenda: Highway Safety Committee Meeting October 15\, 2026\nhtt
+ ps://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10152026-370\n\nAgenda:
+  Net Zero Task Force Meeting 6-7 PM Room 207\nhttps://www.derrynh.gov/Agen
+ daCenter/ViewFile/Agenda/_10152026-374\n\nAgenda: Records Retention Commit
+ tee Meeting\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_1015202
+ 6-373\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e558ebd534ba5fc5d18@granite-docket
+DTSTAMP:20261109T070434Z
+DTSTART;TZID=America/New_York:20261017T130000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10172026-371
+DESCRIPTION:Agenda: Notice of Site Walk\nhttps://www.derrynh.gov/AgendaCent
+ er/ViewFile/Agenda/_10172026-371\n\nMinutes: Oct 17\, 2026 Notice of Site 
+ Walk\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_10172026-371\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:715fff42f9e237e0c157@granite-docket
+DTSTAMP:20261116T070956Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10192026-375
+DESCRIPTION:Agenda: Conservation Commission Regular Meeting\nhttps://www.de
+ rrynh.gov/AgendaCenter/ViewFile/Agenda/_10192026-375\n\nAgenda: Conservati
+ on Commission Site Walk\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Age
+ nda/_10192026-378\n\nMinutes: Oct 19\, 2026 Conservation Commission Regula
+ r Meeting\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_10192026
+ -375\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a89792877d20e58cff0@granite-docket
+DTSTAMP:20261103T092617Z
+DTSTART;TZID=America/New_York:20261026T150000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10262026-380
+DESCRIPTION:Agenda: Trustees of the Trust Funds Meeting\nhttps://www.derryn
+ h.gov/AgendaCenter/ViewFile/Agenda/_10262026-380\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6d3b83393cca307cea@granite-docket
+DTSTAMP:20261103T092359Z
+DTSTART;TZID=America/New_York:20261027T180000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10272026-363
+DESCRIPTION:Agenda: Supervisors of the Checklist Session Notice\nhttps://ww
+ w.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10272026-363\n\nMinutes: Oct 2
+ 7\, 2026 Supervisors of the Checklist Session Notice\nhttps://www.derrynh.
+ gov/AgendaCenter/ViewFile/Minutes/_10272026-363\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf1eef34864dbd30eb4@granite-docket
+DTSTAMP:20261103T092217Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11022026-383
+DESCRIPTION:Agenda: Conservation Committee Meeting\nhttps://www.derrynh.gov
+ /AgendaCenter/ViewFile/Agenda/_11022026-383\n\nAgenda: Conservation Commis
+ sion Site Walk\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_1102
+ 2026-376\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4979f1df4a68228ef92@granite-docket
+DTSTAMP:20261109T070414Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11092026-381
+DESCRIPTION:Agenda: Conservation Commission: Rapid Response Subcommittee Me
+ eting\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11092026-381\
+ n\nAgenda: Conservation Commission Site Walk\nhttps://www.derrynh.gov/Agen
+ daCenter/ViewFile/Agenda/_11092026-386\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9adb068beeae9e771d1d@granite-docket
+DTSTAMP:20261109T070403Z
+DTSTART;TZID=America/New_York:20261110T150000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11102026-387
+DESCRIPTION:Agenda: Conservation Commission: Community Garden Subcommittee\
+ nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11102026-387\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:80d6d09af18b3e585478@granite-docket
+DTSTAMP:20261116T070945Z
+DTSTART;TZID=America/New_York:20261116T140000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11162026-385
+DESCRIPTION:Agenda: Conservation Commission Site Walk\nhttps://www.derrynh.
+ gov/AgendaCenter/ViewFile/Agenda/_11162026-385\n\nAgenda: Conservation Com
+ mission Regular Meeting Agenda\nhttps://www.derrynh.gov/AgendaCenter/ViewF
+ ile/Agenda/_11162026-388\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f65859526fbf202928de@granite-docket
+DTSTAMP:20261123T070426Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Derry Conservation commission
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11192026-391
+DESCRIPTION:Agenda: Net Zero Task Force Regular Meeting Agenda\nhttps://www
+ .derrynh.gov/AgendaCenter/ViewFile/Agenda/_11192026-391\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

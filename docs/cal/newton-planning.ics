@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newton Planning board
+X-WR-CALDESC:Planning board meetings in Newton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:064e7898966eb0630249@granite-docket
+DTSTAMP:20261116T085725Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Newton Planning board
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-246
+DESCRIPTION:Agenda: Planning Board Agenda Oct 13\, 2026 Planning Board Agen
+ da\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-246\n
+ \nMinutes: Planning Board Minutes Oct 13\, 2026 Planning Board Agenda\nhtt
+ ps://www.newton-nh.gov/AgendaCenter/ViewFile/Minutes/_10132026-246\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c63217d0eb85eb4c571@granite-docket
+DTSTAMP:20261103T110541Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Newton Planning board
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/4033/13-2-17-11-121-S-Mai
+ n-ST-Conditional-Use-Home-Business
+DESCRIPTION:Notice: 13-2-17-11-121 S Main ST\, Conditional Use-Home Busines
+ s\nhttps://www.newton-nh.gov/DocumentCenter/View/4033/13-2-17-11-121-S-Mai
+ n-ST-Conditional-Use-Home-Business\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ced48a7ee62f34a7509f@granite-docket
+DTSTAMP:20261109T085114Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Newton Planning board
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11102026-255
+DESCRIPTION:Agenda: Planning Board Agenda Nov 10\, 2026 Planning Board Agen
+ da November 10\, 2026\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Age
+ nda/_11102026-255\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

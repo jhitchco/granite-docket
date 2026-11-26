@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hollis Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Hollis\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7de962d2b6ed59b5ff2f@granite-docket
+DTSTAMP:20261116T082655Z
+DTSTART;TZID=America/New_York:20260929T183000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-351
+DESCRIPTION:Agenda: Capital Expenditure Advisory Committee Meeting (PDF)\nh
+ ttps://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-351\n\nMinutes:
+  Sep 29\, 2026 Capital Expenditure Advisory Committee Meeting (PDF)\nhttps
+ ://hollisnh.gov/AgendaCenter/ViewFile/Minutes/_09292026-351\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:609ed432349264e2259a@granite-docket
+DTSTAMP:20261103T095843Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-350
+DESCRIPTION:Agenda: Historic District Commission Meeting (PDF)\nhttps://hol
+ lisnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-350\n\nMinutes: Oct 1\, 2
+ 026 Historic District Commission Meeting (PDF)\nhttps://hollisnh.gov/Agend
+ aCenter/ViewFile/Minutes/_10012026-350\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad78b9aec60dd8f76a10@granite-docket
+DTSTAMP:20261103T095801Z
+DTSTART;TZID=America/New_York:20261002T170000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_10022026-360
+DESCRIPTION:Agenda: Cemetery Trustees Meeting (PDF)\nhttps://hollisnh.gov/A
+ gendaCenter/ViewFile/Agenda/_10022026-360\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bab3a39d58c44361381b@granite-docket
+DTSTAMP:20261103T095954Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-366
+DESCRIPTION:Agenda: PDF\nhttps://hollisnh.gov/AgendaCenter/ViewFile/Agenda/
+ _10052026-366\n\nAgenda: Packet\nhttps://hollisnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10052026-366?packet=true\n\nMinutes: Oct 5\, 2026 Supervisors of
+  the Checklist Meeting Minutes (PDF)\nhttps://hollisnh.gov/AgendaCenter/Vi
+ ewFile/Minutes/_10052026-366\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:34b036a0c6e4d8217df6@granite-docket
+DTSTAMP:20261103T095748Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-363
+DESCRIPTION:Agenda: Budget Committee Meeting (PDF)\nhttps://hollisnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10132026-363\n\nMinutes: Oct 13\, 2026 Budget 
+ Committee Meeting (PDF)\nhttps://hollisnh.gov/AgendaCenter/ViewFile/Minute
+ s/_10132026-363\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:dae2e2ab439a39abd50e@granite-docket
+DTSTAMP:20261103T095926Z
+DTSTART;TZID=America/New_York:20261015T183000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-367
+DESCRIPTION:Agenda: Recreation Commission Meeting (PDF)\nhttps://hollisnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10152026-367\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cddb656305c65860209f@granite-docket
+DTSTAMP:20261116T083035Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-381
+DESCRIPTION:Agenda: PDF\nhttps://hollisnh.gov/AgendaCenter/ViewFile/Agenda/
+ _10202026-381\n\nAgenda: Packet\nhttps://hollisnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10202026-381?packet=true\n\nMinutes: Oct 20\, 2026 Trustees of t
+ he Trust Funds Meeting Minutes (PDF)\nhttps://hollisnh.gov/AgendaCenter/Vi
+ ewFile/Minutes/_10202026-381\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4739034771be0b4f0546@granite-docket
+DTSTAMP:20261103T101150Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-373
+DESCRIPTION:Agenda: PDF\nhttps://hollisnh.gov/AgendaCenter/ViewFile/Agenda/
+ _10212026-373\n\nAgenda: Packet\nhttps://hollisnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10212026-373?packet=true\n\nNotice: Public Hearing - 7pm\, Octob
+ er 21\, 2026\nhttps://hollisnh.gov/DocumentCenter/View/6031/20261021-Budge
+ t-Committee-Public-Hearing-on-HB-1300-PDF\n\nMinutes: Oct 21\, 2026 Joint 
+ Loss Management Committee Meeting (PDF)\nhttps://hollisnh.gov/AgendaCenter
+ /ViewFile/Minutes/_10212026-373\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:042348d7b0fcbd32ca61@granite-docket
+DTSTAMP:20261103T101150Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/DocumentCenter/View/6030/20261026-Public-Hearing-D
+ onation-Unanticipated-Funds-PDF
+DESCRIPTION:Notice: Public Hearing - 6pm\, October 26\, 2026\nhttps://holli
+ snh.gov/DocumentCenter/View/6030/20261026-Public-Hearing-Donation-Unantici
+ pated-Funds-PDF\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3b0e7c5a0c95ba5613b7@granite-docket
+DTSTAMP:20261103T101150Z
+DTSTART;TZID=America/New_York:20261027T150000
+DURATION:PT2H
+SUMMARY:Public hearing: Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-375
+DESCRIPTION:Agenda: PDF\nhttps://hollisnh.gov/AgendaCenter/ViewFile/Agenda/
+ _10272026-375\n\nAgenda: Packet\nhttps://hollisnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10272026-375?packet=true\n\nNotice: Supervisors of the Checklist
+  Session - 2:00pm-3:00pm Tuesday October 27\, 2026\nhttps://hollisnh.gov/D
+ ocumentCenter/View/6032/Public-Notice-10-27-2026-PDF\n\nMinutes: Oct 27\, 
+ 2026 Supervisors of the Checklist Meeting Minutes (PDF)\nhttps://hollisnh.
+ gov/AgendaCenter/ViewFile/Minutes/_10272026-375\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9aa707d0ca2d831965@granite-docket
+DTSTAMP:20261123T082616Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-386
+DESCRIPTION:Agenda: PDF\nhttps://hollisnh.gov/AgendaCenter/ViewFile/Agenda/
+ _11032026-386\n\nAgenda: Packet\nhttps://hollisnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_11032026-386?packet=true\n\nMinutes: Nov 3\, 2026 Supervisors of
+  the Checklist Meeting Minutes 11/3/2026-11/10/2026 (PDF)\nhttps://hollisn
+ h.gov/AgendaCenter/ViewFile/Minutes/_11032026-386\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea58eb2a15f950e3fb1@granite-docket
+DTSTAMP:20261123T082436Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-372
+DESCRIPTION:Agenda: Historic District Commission Meeting (PDF)\nhttps://hol
+ lisnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-372\n\nMinutes: Nov 5\, 2
+ 026 Historic District Commission Meeting (PDF)\nhttps://hollisnh.gov/Agend
+ aCenter/ViewFile/Minutes/_11052026-372\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:80002cff4f5b06cd818f@granite-docket
+DTSTAMP:20261103T095801Z
+DTSTART;TZID=America/New_York:20261107T090000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_11072026-376
+DESCRIPTION:Agenda: Cemetery Trustees Meeting (PDF)\nhttps://hollisnh.gov/A
+ gendaCenter/ViewFile/Agenda/_11072026-376\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6bb15933cf70d52cb62@granite-docket
+DTSTAMP:20261123T082327Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-378
+DESCRIPTION:Agenda: Budget Committee Meeting (PDF)\nhttps://hollisnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11102026-378\n\nNotice: Proposed 2027 Budget\n
+ https://hollisnh.gov/DocumentCenter/View/6063/2027-Proposed-Budget-PDF\n\n
+ Minutes: Nov 10\, 2026 — Amended Nov 9\, 2026 10:21 AM Budget Committee 
+ Meeting (PDF)\nhttps://hollisnh.gov/AgendaCenter/ViewFile/Minutes/_1110202
+ 6-378\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a6652d4ea8df6a01cddd@granite-docket
+DTSTAMP:20261116T082645Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-382
+DESCRIPTION:Agenda: Capital Expenditure Advisory Committee Meeting (PDF)\nh
+ ttps://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-382\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:4789811236ab80ebc75c@granite-docket
+DTSTAMP:20261123T082516Z
+DTSTART;TZID=America/New_York:20261119T183000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-385
+DESCRIPTION:Agenda: Recreation Commission Meeting (PDF)\nhttps://hollisnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11192026-385\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6bd9ac3e40b62f133519@granite-docket
+DTSTAMP:20261123T082426Z
+DTSTART;TZID=America/New_York:20261203T190000
+DURATION:PT2H
+SUMMARY:Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/AgendaCenter/ViewFile/Agenda/_12032026-384
+DESCRIPTION:Agenda: Historic District Commission Meeting (PDF)\nhttps://hol
+ lisnh.gov/AgendaCenter/ViewFile/Agenda/_12032026-384\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3154a2f3436a036ae651@granite-docket
+DTSTAMP:20261116T090058Z
+DTSTART;TZID=America/New_York:20261210T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Hollis Budget / CIP
+LOCATION:Hollis\, NH
+URL:https://hollisnh.gov/DocumentCenter/View/6061/Notice-2027-Proposed-Budg
+ et-PDF
+DESCRIPTION:Notice: Public Hearing 5pm December 10\, 2026\nhttps://hollisnh
+ .gov/DocumentCenter/View/6061/Notice-2027-Proposed-Budget-PDF\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

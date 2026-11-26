@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hooksett Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Hooksett\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1a381db65b1d7f2b3fdf@granite-docket
+DTSTAMP:20261116T070949Z
+DTSTART;TZID=America/New_York:20261005T163000
+DURATION:PT2H
+SUMMARY:Hooksett Conservation commission
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Conservation Commission Agenda 10.5.2026.pdf?t
+ =202610020934230
+DESCRIPTION:Agenda: HCC Agenda document _recordid 5580 10/5/2026\nhttps://w
+ ww.hooksett.gov/Conservation Commission Agenda 10.5.2026.pdf?t=20261002093
+ 4230\n\nMinutes: 10/5/2026 document _recordid 5590 HCC Minutes\nhttps://ww
+ w.hooksett.gov/Conservation Commission Minutes Draft 10.5.2026.pdf?t=20261
+ 0060919440\n\nMinutes: 10/5/2026 document _recordid 5590 HCC Minutes\nhttp
+ s://www.hooksett.gov/Conservation Commission Minutes Official 10.5.2026.pd
+ f?t=202611130857430\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea6bf124d64d58db78f3@granite-docket
+DTSTAMP:20261116T070950Z
+DTSTART;TZID=America/New_York:20261109T163000
+DURATION:PT2H
+SUMMARY:Hooksett Conservation commission
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Conservation Commission Agenda 11.9.2026.pdf?t
+ =202611051610120
+DESCRIPTION:Agenda: HCC Agenda document _recordid 5664 11/9/2026\nhttps://w
+ ww.hooksett.gov/Conservation Commission Agenda 11.9.2026.pdf?t=20261105161
+ 0120\n\nMinutes: 11/9/2026 document _recordid 5681 HCC Minutes\nhttps://ww
+ w.hooksett.gov/11.9.2026 ConComm Minutes DRAFT.pdf?t=202611130855010\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sandown Select board / council
+X-WR-CALDESC:Select board / council meetings in Sandown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a968833b8aee4ba690c0@granite-docket
+DTSTAMP:20261103T100857Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_09282026-303
+DESCRIPTION:Agenda: Board of Selectmen Agenda Sep 28\, 2026 Board of Select
+ men Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_0
+ 9282026-303\n\nMinutes: Board of Selectmen Minutes Sep 28\, 2026 Board of 
+ Selectmen Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Min
+ utes/_09282026-303\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe18da588cb6a7570e99@granite-docket
+DTSTAMP:20261103T100853Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10052026-307
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 5\, 2026 Board of Selectm
+ en Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10
+ 052026-307\n\nMinutes: Board of Selectmen Minutes Oct 5\, 2026 Board of Se
+ lectmen Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minut
+ es/_10052026-307\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e826da6448c7e7a91dac@granite-docket
+DTSTAMP:20261103T100851Z
+DTSTART;TZID=America/New_York:20261019T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10192026-313
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 19\, 2026 Board of Select
+ men Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_1
+ 0192026-313\n\nMinutes: Board of Selectmen Minutes Oct 19\, 2026 Board of 
+ Selectmen Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Min
+ utes/_10192026-313\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:42c75152ed649ef5fd44@granite-docket
+DTSTAMP:20261109T083836Z
+DTSTART;TZID=America/New_York:20261027T190000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10272026-318
+DESCRIPTION:Agenda: Cable Access Board Agenda Oct 27\, 2026 Oct CAB Agenda\
+ nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10272026-318\n\nMinu
+ tes: Cable Access Board Minutes Oct 27\, 2026 Oct CAB Agenda\nhttps://www.
+ sandown.us/AgendaCenter/ViewFile/Minutes/_10272026-318\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5aabb70bcfc5a968fd@granite-docket
+DTSTAMP:20261116T084108Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11022026-320
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 2\, 2026 Board of Selectm
+ en Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11
+ 022026-320\n\nMinutes: Board of Selectmen Minutes Nov 2\, 2026 Board of Se
+ lectmen Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minut
+ es/_11022026-320\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e18bb051e93c5b4e983b@granite-docket
+DTSTAMP:20261116T084058Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Sandown Select board / council
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11162026-326
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 16\, 2026 Board of Select
+ men Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_1
+ 1162026-326\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+END:VCALENDAR

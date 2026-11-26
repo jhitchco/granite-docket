@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belmont Select board / council
+X-WR-CALDESC:Select board / council meetings in Belmont\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ad18df8fd73e2122968e@granite-docket
+DTSTAMP:20261103T104503Z
+DTSTART;TZID=America/New_York:20261006T090000
+DURATION:PT2H
+SUMMARY:Public hearing: Belmont Select board / council
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/09/BOSAgenda2610
+ 06-Budget.pdf
+DESCRIPTION:Agenda: Selectmen’s Budget Workshop 10/06/2026 Download the A
+ genda\nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/09/BOSAgenda
+ 261006-Budget.pdf\n\nNotice: October 2026 Newsletter\nhttps://belmontnh.go
+ v/wp-content/uploads/sites/38/2026/09/2610-October-Newsletter-2026.pdf\n\n
+ Minutes: Selectmen’s Minutes 10/06/2026 Budget Workshop Download the Min
+ utes\nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/09/BOSMinutes
+ -261006-Budget-Workshop.pdf\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:99df5a7229aca2022781@granite-docket
+DTSTAMP:20261103T100343Z
+DTSTART;TZID=America/New_York:20261007T100000
+DURATION:PT2H
+SUMMARY:Belmont Select board / council
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BOSAgenda2610
+ 07.pdf
+DESCRIPTION:Agenda: Selectmen’s Agenda 10/07/2026 Download the Agenda\nht
+ tps://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BOSAgenda261007.pd
+ f\n\nMinutes: Selectmen’s Minutes 10/07/2026 Download the Minutes\nhttps
+ ://belmontnh.gov/wp-content/uploads/sites/38/2026/09/BOSMinutes-261007.pdf
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:37d50040059e7c1e2b08@granite-docket
+DTSTAMP:20261103T100340Z
+DTSTART;TZID=America/New_York:20261013T160000
+DURATION:PT2H
+SUMMARY:Belmont Select board / council
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/09/BOSAgenda2610
+ 13-Budget-1.pdf
+DESCRIPTION:Agenda: Selectmen’s Budget Workshop Agenda 10/13/2026 Downloa
+ d the Agenda\nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/09/BO
+ SAgenda261013-Budget-1.pdf\n\nMinutes: Selectmen’s Budget Workshop Meeti
+ ng 10/13/2026 Download the Minutes\nhttps://belmontnh.gov/wp-content/uploa
+ ds/sites/38/2026/09/BOSMinutes-261013-BudgetWorkshop.pdf\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:af4126a5c4ecefbf93b9@granite-docket
+DTSTAMP:20261103T100334Z
+DTSTART;TZID=America/New_York:20261019T090000
+DURATION:PT2H
+SUMMARY:Belmont Select board / council
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/09/BOSAgenda2610
+ 19-Budget-1.pdf
+DESCRIPTION:Agenda: Selectmen’s Budget Workshop Agenda 10/19/2026 Downloa
+ d the Agenda\nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/09/BO
+ SAgenda261019-Budget-1.pdf\n\nMinutes: Selectmen’s Budget Workshop Meeti
+ ng 10/19/2026 Download the Minutes\nhttps://belmontnh.gov/wp-content/uploa
+ ds/sites/38/2026/09/BOSMinutes-261019-BudgetWorkshop.pdf\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:11c50ebb70ddf38f909a@granite-docket
+DTSTAMP:20261109T083441Z
+DTSTART;TZID=America/New_York:20261021T180000
+DURATION:PT2H
+SUMMARY:Belmont Select board / council
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BOSAgenda2610
+ 21.pdf
+DESCRIPTION:Agenda: Selectmen’s Agenda 10/21/2026 Download the Agenda\nht
+ tps://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BOSAgenda261021.pd
+ f\n\nMinutes: Selectmen’s Minutes 10/21/2026 Document posted: November 0
+ 4\, 2026 Download the minutes\nhttps://belmontnh.gov/wp-content/uploads/si
+ tes/38/2026/10/BOSMinutes-261021.pdf\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a380d83d5c97f6caca7d@granite-docket
+DTSTAMP:20261123T083233Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Belmont Select board / council
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BOSMinutes-26
+ 1027-BudgetWorkshop.pdf
+DESCRIPTION:Minutes: Selectmen’s Minutes 10/27/2026 Budget Workshop Docum
+ ent posted: November 19\, 2026 Download the minut\nhttps://belmontnh.gov/w
+ p-content/uploads/sites/38/2026/10/BOSMinutes-261027-BudgetWorkshop.pdf\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c928ff1f336b9eee44a3@granite-docket
+DTSTAMP:20261123T083232Z
+DTSTART;TZID=America/New_York:20261104T100000
+DURATION:PT2H
+SUMMARY:Belmont Select board / council
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BOSAgenda2611
+ 04.pdf
+DESCRIPTION:Agenda: Selectmen’s Agenda 11/04/2026 Download the Agenda\nht
+ tps://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BOSAgenda261104.pd
+ f\n\nMinutes: Selectmen’s Minutes 11/04/2026 Document posted: November 1
+ 9\, 2026 Download the minutes\nhttps://belmontnh.gov/wp-content/uploads/si
+ tes/38/2026/10/BOSMinutes-261104.pdf\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:52d6a165254b3a1605ab@granite-docket
+DTSTAMP:20261116T083601Z
+DTSTART;TZID=America/New_York:20261118T180000
+DURATION:PT2H
+SUMMARY:Belmont Select board / council
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/11/BOSAgenda2611
+ 18.pdf
+DESCRIPTION:Agenda: Selectmen’s Agenda 11/18/2026 Document posted: Novemb
+ er 13\, 2026 Download the Agenda\nhttps://belmontnh.gov/wp-content/uploads
+ /sites/38/2026/11/BOSAgenda261118.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

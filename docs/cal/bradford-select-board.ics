@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bradford Select board / council
+X-WR-CALDESC:Select board / council meetings in Bradford\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c15ae57dfe003f307a72@granite-docket
+DTSTAMP:20261103T120706Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Bradford Select board / council
+LOCATION:Bradford\, NH
+URL:https://towncloud.io/go/bradford-nh/agendas/409/minutes/get_agenda_docu
+ ment_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/bradford-nh/agend
+ as/409/minutes/get_agenda_document_link\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a5723de352fd2b56bb@granite-docket
+DTSTAMP:20261103T120705Z
+DTSTART;TZID=America/New_York:20260930T190000
+DURATION:PT2H
+SUMMARY:Bradford Select board / council
+LOCATION:Bradford\, NH
+URL:https://towncloud.io/go/bradford-nh/agendas/410/PDF/get_agenda_document
+ _link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/bradford-nh/agendas
+ /410/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud
+ .io/go/bradford-nh/agendas/410/pdf_packet/get_agenda_document_link\n\nMinu
+ tes: Minutes PDF\nhttps://towncloud.io/go/bradford-nh/agendas/410/minutes/
+ get_agenda_document_link\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:935ea4c0c896a8b22439@granite-docket
+DTSTAMP:20261103T120701Z
+DTSTART;TZID=America/New_York:20261010T180000
+DURATION:PT2H
+SUMMARY:Bradford Select board / council
+LOCATION:Bradford\, NH
+URL:https://towncloud.io/go/bradford-nh/agendas/415/PDF/get_agenda_document
+ _link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/bradford-nh/agendas
+ /415/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud
+ .io/go/bradford-nh/agendas/415/pdf_packet/get_agenda_document_link\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:848b7e78335fe1f2845b@granite-docket
+DTSTAMP:20261103T120701Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Bradford Select board / council
+LOCATION:Bradford\, NH
+URL:https://towncloud.io/go/bradford-nh/agendas/415/minutes/get_agenda_docu
+ ment_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/bradford-nh/agend
+ as/415/minutes/get_agenda_document_link\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e87915b0e1cf527a29fe@granite-docket
+DTSTAMP:20261103T120700Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Bradford Select board / council
+LOCATION:Bradford\, NH
+URL:https://towncloud.io/go/bradford-nh/agendas/416/PDF/get_agenda_document
+ _link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/bradford-nh/agendas
+ /416/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud
+ .io/go/bradford-nh/agendas/416/pdf_packet/get_agenda_document_link\n\nMinu
+ tes: Minutes PDF\nhttps://towncloud.io/go/bradford-nh/agendas/416/minutes/
+ get_agenda_document_link\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:12b0ac003cc1b8785cae@granite-docket
+DTSTAMP:20261103T120654Z
+DTSTART;TZID=America/New_York:20261023T180000
+DURATION:PT2H
+SUMMARY:Bradford Select board / council
+LOCATION:Bradford\, NH
+URL:https://towncloud.io/go/bradford-nh/agendas/421/PDF/get_agenda_document
+ _link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/bradford-nh/agendas
+ /421/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud
+ .io/go/bradford-nh/agendas/421/pdf_packet/get_agenda_document_link\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9193e4d3014cf6a228@granite-docket
+DTSTAMP:20261109T104738Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Bradford Select board / council
+LOCATION:Bradford\, NH
+URL:https://towncloud.io/go/bradford-nh/agendas/423/PDF/get_agenda_document
+ _link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/bradford-nh/agendas
+ /423/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud
+ .io/go/bradford-nh/agendas/423/pdf_packet/get_agenda_document_link\n\nMinu
+ tes: Minutes PDF\nhttps://towncloud.io/go/bradford-nh/agendas/421/minutes/
+ get_agenda_document_link\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c102d17725759be5e5@granite-docket
+DTSTAMP:20261109T104737Z
+DTSTART;TZID=America/New_York:20261105T173000
+DURATION:PT2H
+SUMMARY:Bradford Select board / council
+LOCATION:Bradford\, NH
+URL:https://towncloud.io/go/bradford-nh/agendas/427/PDF/get_agenda_document
+ _link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/bradford-nh/agendas
+ /427/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud
+ .io/go/bradford-nh/agendas/427/pdf_packet/get_agenda_document_link\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,102 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Barnstead Planning board
+X-WR-CALDESC:Planning board meetings in Barnstead\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:431024e98b9503a53487@granite-docket
+DTSTAMP:20261103T104511Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Barnstead Planning board
+LOCATION:Barnstead\, NH
+URL:https://www.barnstead.org/AgendaCenter/ViewFile/Agenda/_10012026-221
+DESCRIPTION:Minutes: Planning Board Agenda & Minutes\nhttps://www.barnstead
+ .org/AgendaCenter/ViewFile/Agenda/_10012026-221\n\nMinutes: Oct 1\, 2026 P
+ lanning Board Agenda & Minutes\nhttps://www.barnstead.org/AgendaCenter/Vie
+ wFile/Minutes/_10012026-221\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc5f1053239b502d85d@granite-docket
+DTSTAMP:20261109T084915Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Barnstead Planning board
+LOCATION:Barnstead\, NH
+URL:https://www.barnstead.org/AgendaCenter/ViewFile/Agenda/_10152026-237
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.barnstead.org/Agenda
+ Center/ViewFile/Agenda/_10152026-237\n\nAgenda: Planning Board Agenda\nhtt
+ ps://www.barnstead.org/AgendaCenter/ViewFile/ArchivedAgenda/_10152026-104\
+ n\nMinutes: Oct 15\, 2026 Planning Board Agenda & Minutes\nhttps://www.bar
+ nstead.org/AgendaCenter/ViewFile/Minutes/_10152026-237\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:197129e2688528df4282@granite-docket
+DTSTAMP:20261103T104509Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Barnstead Planning board
+LOCATION:Barnstead\, NH
+URL:https://www.barnstead.org/AgendaCenter/ViewFile/Agenda/_11052026-242
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.barnstead.org/Agenda
+ Center/ViewFile/Agenda/_11052026-242\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1becb2502f8eedf9207b@granite-docket
+DTSTAMP:20261109T084905Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Barnstead Planning board
+LOCATION:Barnstead\, NH
+URL:https://www.barnstead.org/AgendaCenter/ViewFile/Agenda/_11192026-263
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.barnstead.org/Agenda
+ Center/ViewFile/Agenda/_11192026-263\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d9aa90e3df4faf4b4e58@granite-docket
+DTSTAMP:20261123T085024Z
+DTSTART;TZID=America/New_York:20261203T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Barnstead Planning board
+LOCATION:Barnstead\, NH
+URL:https://www.barnstead.org/AgendaCenter/ViewFile/Agenda/_12032026-267
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.barnstead.org/Agenda
+ Center/ViewFile/Agenda/_12032026-267\n\nAgenda: Planning Board Agenda\nhtt
+ ps://www.barnstead.org/AgendaCenter/ViewFile/ArchivedAgenda/_12032026-134\
+ n\nAgenda: Planning Board Agenda\nhttps://www.barnstead.org/AgendaCenter/V
+ iewFile/ArchivedAgenda/_12032026-133\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

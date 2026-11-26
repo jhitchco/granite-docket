@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Effingham Historic district
+X-WR-CALDESC:Historic district meetings in Effingham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:037a24612f28cf4e3b8f@granite-docket
+DTSTAMP:20261103T120543Z
+DTSTART;TZID=America/New_York:20261012T180000
+DURATION:PT2H
+SUMMARY:Effingham Historic district
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/677/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/677/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/677/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:32d33535c0593a1c9d8d@granite-docket
+DTSTAMP:20261103T120540Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Effingham Historic district
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/684/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/684/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/684/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:075e430f85e6c17f189d@granite-docket
+DTSTAMP:20261109T104635Z
+DTSTART;TZID=America/New_York:20261103T180000
+DURATION:PT2H
+SUMMARY:Effingham Historic district
+LOCATION:Effingham\, NH
+URL:https://towncloud.io/go/effingham-nh/agendas/689/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/effingham-nh/agenda
+ s/689/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/effingham-nh/agendas/689/pdf_packet/get_agenda_document_link\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+END:VCALENDAR

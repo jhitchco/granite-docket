@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jackson Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Jackson\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:aa5f3125a6f47e9a2f8e@granite-docket
+DTSTAMP:20261103T122331Z
+DTSTART;TZID=America/New_York:20261005T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Jackson Conservation commission
+LOCATION:Jackson\, NH
+URL:https://www.jackson-nh.gov/wp-content/uploads/2026/09/Oct.-5-2026-CC-Ag
+ enda.pdf
+DESCRIPTION:Agenda: CC Agenda\nhttps://www.jackson-nh.gov/wp-content/upload
+ s/2026/09/Oct.-5-2026-CC-Agenda.pdf\n\nNotice: Jackson Falls Public Meetin
+ g Notice\nhttps://www.jackson-nh.gov/wp-content/uploads/2026/09/Jackson-Fa
+ lls-Public-Meeting-Notice.pdf\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:228df19c453e339274b6@granite-docket
+DTSTAMP:20261103T122250Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Jackson Conservation commission
+LOCATION:Jackson\, NH
+URL:https://www.jackson-nh.gov/wp-content/uploads/2026/10/10-5-2026-CC-Minu
+ tes-.pdf
+DESCRIPTION:Minutes: CC Minutes\nhttps://www.jackson-nh.gov/wp-content/uplo
+ ads/2026/10/10-5-2026-CC-Minutes-.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a5fe72f553df01f9990@granite-docket
+DTSTAMP:20261103T122331Z
+DTSTART;TZID=America/New_York:20261102T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Jackson Conservation commission
+LOCATION:Jackson\, NH
+URL:https://www.jackson-nh.gov/wp-content/uploads/2026/10/Nov.-2-2026-CC-Ag
+ enda.pdf
+DESCRIPTION:Agenda: CC Agenda\nhttps://www.jackson-nh.gov/wp-content/upload
+ s/2026/10/Nov.-2-2026-CC-Agenda.pdf\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

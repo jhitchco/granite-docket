@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brookline Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Brookline\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cbbdf04b266af5ecc9c0@granite-docket
+DTSTAMP:20261103T131016Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Brookline Zoning / ZBA
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Zoning Board of Adjustment/2026.10.14 ZBA Agenda Case 472.pdf?t=2026102815
+ 15590
+DESCRIPTION:Agenda: 10/14/26 Agenda\nhttps://www.brooklinenh.gov/Documents/
+ Government/Boards and Committees/Zoning Board of Adjustment/2026.10.14 ZBA
+  Agenda Case 472.pdf?t=202610281515590\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3bb269228e3bbcca1d87@granite-docket
+DTSTAMP:20261109T084501Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Zoning / ZBA
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Cemetery Trustees/Agenda and Minutes/2026/Agendas/Cemetery Trustees Agenda
+  2026 11 06.pdf?t=202611050758390
+DESCRIPTION:Minutes: 11/06/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Cemetery Trustees/Agenda and Minutes/202
+ 6/Agendas/Cemetery Trustees Agenda 2026 11 06.pdf?t=202611050758390\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b5345304791a8faa184@granite-docket
+DTSTAMP:20261116T084546Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Zoning / ZBA
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Planning Board/Other Docs/2027 ZO/Child Care Changes.2026.11.09.pdf?t=2026
+ 11091153480
+DESCRIPTION:Other: Changes to child care businesses across multiple Zoning 
+ Ordinance Sections\nhttps://www.brooklinenh.gov/Documents/Government/Board
+ s and Committees/Planning Board/Other Docs/2027 ZO/Child Care Changes.2026
+ .11.09.pdf?t=202611091153480\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

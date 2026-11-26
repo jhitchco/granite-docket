@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stratham Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Stratham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b543c6fa2379d3860d43@granite-docket
+DTSTAMP:20261103T100453Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Conservation commission
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Conservation
+  Commission/Agenda and Minutes/2026/2026.10.28 ConCommAgenda.pdf?t=2026102
+ 30859490
+DESCRIPTION:Minutes: 10/28/2026 Regular Meeting Agenda\nhttps://www.stratha
+ mnh.gov/Documents/Boards and Committees/Conservation Commission/Agenda and
+  Minutes/2026/2026.10.28 ConCommAgenda.pdf?t=202610230859490\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:83f331d1081c76eb75b6@granite-docket
+DTSTAMP:20261116T083430Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Conservation commission
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Conservation
+  Commission/Agenda and Minutes/2026/2026.11.17 ConCommAgenda.pdf?t=2026111
+ 01236060
+DESCRIPTION:Minutes: 11/17/2026 Regular Meeting Agenda\nhttps://www.stratha
+ mnh.gov/Documents/Boards and Committees/Conservation Commission/Agenda and
+  Minutes/2026/2026.11.17 ConCommAgenda.pdf?t=202611101236060\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+END:VCALENDAR

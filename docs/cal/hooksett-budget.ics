@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hooksett Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Hooksett\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ac5ff276d560ec3fad5b@granite-docket
+DTSTAMP:20261103T093443Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Budget / CIP
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Government/Board & Committees/Budget
+  Committee/Agendas & Minutes/2026/BC Agenda 10-8-2026.pdf?t=20260922122731
+ 0
+DESCRIPTION:Minutes: Budget Committee Agenda October 8\, 2026 document seq 
+ 10.08\nhttps://www.hooksett.gov/Documents/Government/Board & Committees/Bu
+ dget Committee/Agendas & Minutes/2026/BC Agenda 10-8-2026.pdf?t=2026092212
+ 27310\n\nMinutes: October 8\, 2026 Minutes document seq 10.08\nhttps://www
+ .hooksett.gov/Documents/Government/Board & Committees/Budget Committee/Age
+ ndas & Minutes/2026/Minutes October 8\, 2026.pdf?t=202610131120560\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a22fe388aa231e67a18@granite-docket
+DTSTAMP:20261103T093442Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Budget / CIP
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Government/Board & Committees/Budget
+  Committee/Agendas & Minutes/2026/BC Minutes 10 15 2026.pdf?t=202610201502
+ 120
+DESCRIPTION:Minutes: October 15\, 2026 Minutes document seq 10.15\nhttps://
+ www.hooksett.gov/Documents/Government/Board & Committees/Budget Committee/
+ Agendas & Minutes/2026/BC Minutes 10 15 2026.pdf?t=202610201502120\n\nMinu
+ tes: Budget Committee Agenda October 15\, 2026 document seq 10.15\nhttps:/
+ /www.hooksett.gov/Documents/Government/Board & Committees/Budget Committee
+ /Agendas & Minutes/2026/Budget Committee Agenda 10-15-2026.pdf?t=202610131
+ 119120\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:88c081c97ef56c8bca5b@granite-docket
+DTSTAMP:20261103T093442Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Budget / CIP
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Government/Board & Committees/Budget
+  Committee/Agendas & Minutes/2026/10.22.2026bcm Minutes.pdf?t=202610281211
+ 400
+DESCRIPTION:Minutes: October 22\, 2026 document seq 10.29\nhttps://www.hook
+ sett.gov/Documents/Government/Board & Committees/Budget Committee/Agendas 
+ & Minutes/2026/10.22.2026bcm Minutes.pdf?t=202610281211400\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac845c89bfb9f18fd8af@granite-docket
+DTSTAMP:20261103T132956Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Budget / CIP
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Government/Board & Committees/Budget
+  Committee/BC 10.29.2026 Minutes.pdf?t=202611031004590
+DESCRIPTION:Minutes: October 29\, 2026 Minutes document seq 10.29\nhttps://
+ www.hooksett.gov/Documents/Government/Board & Committees/Budget Committee/
+ BC 10.29.2026 Minutes.pdf?t=202611031004590\n\nMinutes: Budget Committee A
+ genda October 29\, 2026 document seq 10.29\nhttps://www.hooksett.gov/Docum
+ ents/Government/Board & Committees/Budget Committee/Agendas & Minutes/10.2
+ 9.2026agenda.pdf?t=202610281210160\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aad0a900ef6479e6b34a@granite-docket
+DTSTAMP:20261116T070946Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Budget / CIP
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Government/Board & Committees/Budget
+  Committee/11.5.26bcMinutes.pdf?t=202611101157290
+DESCRIPTION:Minutes: November 5\, 2026 Minutes document seq 11.05\nhttps://
+ www.hooksett.gov/Documents/Government/Board & Committees/Budget Committee/
+ 11.5.26bcMinutes.pdf?t=202611101157290\n\nMinutes: Budget Committee Agenda
+  November 5\, 2026 document seq 11.50\nhttps://www.hooksett.gov/Documents/
+ Government/Board & Committees/Budget Committee/Agendas & Minutes/2026/BC 1
+ 1.5.26 agenda.pdf?t=202611031003570\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:89d295d36a9783b7b64d@granite-docket
+DTSTAMP:20261116T070946Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Hooksett Budget / CIP
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Government/Board & Committees/Budget
+  Committee/11.12.2026agenda.pdf?t=202611101154580
+DESCRIPTION:Agenda: Budget Committee Agenda November 12\, 2026 document seq
+  11.60\nhttps://www.hooksett.gov/Documents/Government/Board & Committees/B
+ udget Committee/11.12.2026agenda.pdf?t=202611101154580\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:515e0240cae115356ed3@granite-docket
+DTSTAMP:20261123T070459Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Budget / CIP
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Government/Board & Committees/Budget
+  Committee/Agendas & Minutes/2026/11.19.2026agenda.pdf?t=202611171044500
+DESCRIPTION:Minutes: Budget Committee Agenda November 19\, 2026 document se
+ q 11.70\nhttps://www.hooksett.gov/Documents/Government/Board & Committees/
+ Budget Committee/Agendas & Minutes/2026/11.19.2026agenda.pdf?t=20261117104
+ 4500\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc730f77a0e5d351058@granite-docket
+DTSTAMP:20261123T070459Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Budget / CIP
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Government/Board & Committees/Budget
+  Committee/Agendas & Minutes/2026/11.122026bcm.pdf?t=202611171046440
+DESCRIPTION:Minutes: November 12\, 2026 Minutes document seq 11.12\nhttps:/
+ /www.hooksett.gov/Documents/Government/Board & Committees/Budget Committee
+ /Agendas & Minutes/2026/11.122026bcm.pdf?t=202611171046440\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

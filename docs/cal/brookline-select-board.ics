@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brookline Select board / council
+X-WR-CALDESC:Select board / council meetings in Brookline\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a614c01e98033fca7470@granite-docket
+DTSTAMP:20261103T103637Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and
+  Minutes/2026/2026.09.28 SB Agenda.pdf?t=202609281145410
+DESCRIPTION:Minutes: 09/28/26 Selectboard Meeting Agenda Minutes\nhttps://w
+ ww.brooklinenh.gov/Documents/Government/Selectboard/Agenda and Minutes/202
+ 6/2026.09.28 SB Agenda.pdf?t=202609281145410\n\nMinutes: 09/28/26 Selectbo
+ ard Meeting Agenda Minutes\nhttps://www.brooklinenh.gov/Documents/Governme
+ nt/Selectboard/Agenda and Minutes/2026/2026.09.28 SB Public Mins.pdf?t=202
+ 610161500430\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2b419e80fe0ce87459@granite-docket
+DTSTAMP:20261103T103632Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and
+  Minutes/2026/2026.09.29 SB Public Mins.pdf?t=202610161501240
+DESCRIPTION:Minutes: 09/29/26 Selectboard Workshop Agenda Agenda Minutes\nh
+ ttps://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and Min
+ utes/2026/2026.09.29 SB Public Mins.pdf?t=202610161501240\n\nMinutes: 09/2
+ 9/26 Selectboard Workshop Agenda Agenda Minutes\nhttps://www.brooklinenh.g
+ ov/Documents/Government/Selectboard/Agenda and Minutes/2026/2026.09.29 SB 
+ Workshop Agenda.pdf?t=202609241254310\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:26b1329d89a73da48ad7@granite-docket
+DTSTAMP:20261103T103627Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and
+  Minutes/2026/2026.10.12 SB Agenda.pdf?t=202610081551140
+DESCRIPTION:Minutes: 10/12/26 Selectboard Meeting Agenda Minutes\nhttps://w
+ ww.brooklinenh.gov/Documents/Government/Selectboard/Agenda and Minutes/202
+ 6/2026.10.12 SB Agenda.pdf?t=202610081551140\n\nMinutes: Ground Rules for 
+ Selectboard Meetings\nhttps://www.brooklinenh.gov/Documents/Government/Sel
+ ectboard/Other Docs/Updated Ground Rules for Meetings - Approved 10-12-26.
+ pdf\n\nMinutes: 10/12/26 Selectboard Meeting Agenda Minutes\nhttps://www.b
+ rooklinenh.gov/Documents/Government/Selectboard/Agenda and Minutes/2026/20
+ 26.10.12 SB Public Mins.pdf?t=202610281359540\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b831b568ea0ae381a51b@granite-docket
+DTSTAMP:20261116T084448Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and
+  Minutes/2026/2026.10.26 SB Agenda.pdf?t=202610220817570
+DESCRIPTION:Minutes: 10/26/26 Selectboard Meeting Agenda\nhttps://www.brook
+ linenh.gov/Documents/Government/Selectboard/Agenda and Minutes/2026/2026.1
+ 0.26 SB Agenda.pdf?t=202610220817570\n\nMinutes: 10/26/26 Selectboard Meet
+ ing Agenda Minutes\nhttps://www.brooklinenh.gov/Documents/Government/Selec
+ tboard/Agenda and Minutes/2026/2026.10.26 SB Public Mins.pdf?t=20261113101
+ 2280\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:70e552a8453bf6e5fdfb@granite-docket
+DTSTAMP:20261116T084448Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and
+  Minutes/2026/2026.11.03 SB Agenda.pdf?t=202611021305450
+DESCRIPTION:Minutes: 11/03/26 Selectboard Meeting Agenda\nhttps://www.brook
+ linenh.gov/Documents/Government/Selectboard/Agenda and Minutes/2026/2026.1
+ 1.03 SB Agenda.pdf?t=202611021305450\n\nMinutes: 11/03/26 Selectboard Meet
+ ing Agenda Minutes\nhttps://www.brooklinenh.gov/Documents/Government/Selec
+ tboard/Agenda and Minutes/2026/2026.11.03 SB Public Mins.pdf?t=20261113101
+ 4040\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ae1835f0f0bfb7db9c5@granite-docket
+DTSTAMP:20261103T103705Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and
+  Minutes/2026/2026.11.05 SB Agenda.pdf?t=202605071015110
+DESCRIPTION:Minutes: 05/11/26 Selectboard Meeting Agenda Minutes More...\nh
+ ttps://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and Min
+ utes/2026/2026.11.05 SB Agenda.pdf?t=202605071015110\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:baf65f120f7ce8d7ad21@granite-docket
+DTSTAMP:20261109T084355Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/2026.11.09 SB Agenda.pdf?t=202611051408500
+DESCRIPTION:Agenda: 11/09/26 Selectboard Meeting Agenda\nhttps://www.brookl
+ inenh.gov/2026.11.09 SB Agenda.pdf?t=202611051408500\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:52a89bfd3c1b9d6eddd7@granite-docket
+DTSTAMP:20261123T084041Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and
+  Minutes/2026/2026.11.18 SB Agenda.pdf?t=202611160832450
+DESCRIPTION:Minutes: 11/18/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Selectboard/Agenda and Minutes/2026/2026.11.18 SB Agenda.pdf?t
+ =202611160832450\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb6940f0a6ed9e405cb@granite-docket
+DTSTAMP:20261123T084041Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Select board / council
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Selectboard/Agenda and
+  Minutes/2026/SB Agenda Nov 23 2026.pdf?t=202611191110100
+DESCRIPTION:Minutes: 11/23/26 Selectboard Meeting Agenda\nhttps://www.brook
+ linenh.gov/Documents/Government/Selectboard/Agenda and Minutes/2026/SB Age
+ nda Nov 23 2026.pdf?t=202611191110100\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

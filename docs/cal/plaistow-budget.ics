@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plaistow Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Plaistow\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7f2c0fef59c2ce13fa1e@granite-docket
+DTSTAMP:20261109T083916Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Plaistow Budget / CIP
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/ArchivedAgenda/_11042026
+ -211
+DESCRIPTION:Agenda: Budget Committee 11/10/2026 Agenda\nhttps://www.plaisto
+ w.com/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-211\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e91be3eff56ed85c32b@granite-docket
+DTSTAMP:20261116T083913Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Plaistow Budget / CIP
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/ArchivedAgenda/_11172026
+ -213
+DESCRIPTION:Agenda: Budget Committee meeting\nhttps://www.plaistow.com/Agen
+ daCenter/ViewFile/ArchivedAgenda/_11172026-213\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:96cb1c6330b679c9ae48@granite-docket
+DTSTAMP:20261123T083722Z
+DTSTART;TZID=America/New_York:20261119T173000
+DURATION:PT2H
+SUMMARY:Plaistow Budget / CIP
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/ArchivedAgenda/_11192026
+ -216
+DESCRIPTION:Agenda: CIP Committee\nhttps://www.plaistow.com/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_11192026-216\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

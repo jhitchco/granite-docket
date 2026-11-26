@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Derry Planning board
+X-WR-CALDESC:Planning board meetings in Derry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a8652175ed95c3553fcc@granite-docket
+DTSTAMP:20261109T070445Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Planning board
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10072026-365
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.derr
+ ynh.gov/AgendaCenter/ViewFile/Agenda/_10072026-365\n\nNotice: October 07\,
+  2026\nhttps://www.derrynh.gov/DocumentCenter/View/6315/October-07-2026\n\
+ nMinutes: Oct 7\, 2026 — Amended Oct 2\, 2026 9:10 AM Planning Board Reg
+ ular Meeting Agenda\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Minutes
+ /_10072026-365\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab9d55f47b05fcb97e9@granite-docket
+DTSTAMP:20261109T071830Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:Derry Planning board
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/DocumentCenter/View/7291/CDBG-Planning-Study-Ad
+ ministrator-10-31-26
+DESCRIPTION:Other: CDBG Planning Study Administrator 10-31-26\nhttps://www.
+ derrynh.gov/DocumentCenter/View/7291/CDBG-Planning-Study-Administrator-10-
+ 31-26\n\nOther: CDBG Planning Study Administrator 10-31-26 RFP & Paperwork
+ \nhttps://www.derrynh.gov/DocumentCenter/View/7291/CDBG-Planning-Study-Adm
+ inistrator-10-31-26-RFP--Paperwork\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef28817ab7b49687b1d9@granite-docket
+DTSTAMP:20261123T070437Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Planning board
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11042026-384
+DESCRIPTION:Agenda: Planning Board Meeting Agenda for 11/04/2026\nhttps://w
+ ww.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11042026-384\n\nNotice: Novem
+ ber 04\, 2026\nhttps://www.derrynh.gov/DocumentCenter/View/7229/November-0
+ 4-2026\n\nMinutes: Nov 4\, 2026 Planning Board Meeting Agenda for 11/04/20
+ 26\nhttps://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_11042026-384\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd0b690dc6b46b8653b@granite-docket
+DTSTAMP:20261116T071035Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Planning board
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_11182026-390
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.derr
+ ynh.gov/AgendaCenter/ViewFile/Agenda/_11182026-390\n\nNotice: 11.18.2026 P
+ B legal notice\nhttps://www.derrynh.gov/DocumentCenter/View/7324/11182026-
+ PB-legal-notice\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb24faeec92313a0cfd@granite-docket
+DTSTAMP:20261123T082239Z
+DTSTART;TZID=America/New_York:20261202T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Derry Planning board
+LOCATION:Derry\, NH
+URL:https://www.derrynh.gov/DocumentCenter/View/7354/12022026-PB-legal-noti
+ ce
+DESCRIPTION:Notice: 12.02.2026 PB legal notice\nhttps://www.derrynh.gov/Doc
+ umentCenter/View/7354/12022026-PB-legal-notice\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

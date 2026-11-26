@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lebanon NH meetings
+X-WR-CALDESC:Public meetings of Lebanon\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:30491192aa697e6a7bbf@granite-docket
+DTSTAMP:20261103T093533Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Lebanon Planning board
+LOCATION:Lebanon\, NH
+URL:https://lebanonnh.gov/DocumentCenter/View/877/Site-Plan-Regulations-Rev
+ iew-PDF
+DESCRIPTION:Other: Site Plan Review Regulations (PDF)\nhttps://lebanonnh.go
+ v/DocumentCenter/View/877/Site-Plan-Regulations-Review-PDF\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0ee02edaacebe5330d1@granite-docket
+DTSTAMP:20261103T095245Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Lebanon Budget / CIP
+LOCATION:Lebanon\, NH
+URL:https://lebanonnh.gov/DocumentCenter/View/24780/2027-Budget-Work-Sessio
+ ns?bidId=
+DESCRIPTION:Other: 2027 Budget Work Session Schedule (PDF)\nhttps://lebanon
+ nh.gov/DocumentCenter/View/24780/2027-Budget-Work-Sessions?bidId=\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Washington Planning board
+X-WR-CALDESC:Planning board meetings in Washington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ff69e7294e5273180a1b@granite-docket
+DTSTAMP:20261103T122011Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Washington Planning board
+LOCATION:Washington\, NH
+URL:https://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-23
+ 1
+DESCRIPTION:Agenda: Planning Board Agenda Oct 6\, 2026 Planning Board Meeti
+ ng\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-2
+ 31\n\nMinutes: Planning Board Minutes Oct 6\, 2026 Planning Board Meeting\
+ nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Minutes/_10062026-231
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab5360bdb4a81ccf496@granite-docket
+DTSTAMP:20261103T122223Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Washington Planning board
+LOCATION:Washington\, NH
+URL:https://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10272026-24
+ 1
+DESCRIPTION:Agenda: Planning Board Agenda Oct 27\, 2026 Planning Board Work
+ ing Meeting\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_1
+ 0272026-241\n\nAgenda: Packet\nhttps://www.washington.nh.gov/AgendaCenter/
+ ViewFile/Agenda/_10272026-241?packet=true\n\nMinutes: Planning Board Minut
+ es Oct 27\, 2026 Planning Board Working Meeting\nhttps://www.washington.nh
+ .gov/AgendaCenter/ViewFile/Minutes/_10272026-241\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f6b9ec5ba0e8da2e40b@granite-docket
+DTSTAMP:20261103T122009Z
+DTSTART;TZID=America/New_York:20261103T183000
+DURATION:PT2H
+SUMMARY:Washington Planning board
+LOCATION:Washington\, NH
+URL:https://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_11032026-24
+ 0
+DESCRIPTION:Agenda: Planning Board Agenda Nov 3\, 2026 Planning Board Meeti
+ ng\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_11032026-2
+ 40\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+END:VCALENDAR

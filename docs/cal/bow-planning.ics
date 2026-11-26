@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bow Planning board
+X-WR-CALDESC:Planning board meetings in Bow\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c8a0ce0888aa1c27a59f@granite-docket
+DTSTAMP:20261103T141350Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Bow Planning board
+LOCATION:Bow\, NH
+URL:http://bownh.gov/AgendaCenter/ViewFile/Agenda/_10062026-2779
+DESCRIPTION:Agenda: Master Plan Steering Committee Agenda\nhttp://bownh.gov
+ /AgendaCenter/ViewFile/Agenda/_10062026-2779\n\nMinutes: Oct 6\, 2026 Mast
+ er Plan Steering Committee Agenda\nhttp://bownh.gov/AgendaCenter/ViewFile/
+ Minutes/_10062026-2779\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c37a82e8dff2262cf21@granite-docket
+DTSTAMP:20261123T105447Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Bow Planning board
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_10152026-2783
+DESCRIPTION:Agenda: Planning Board Agenda Oct 15\, 2026 October 15\, 2026 P
+ lanning Board Meeting\nhttps://www.bownh.gov/AgendaCenter/ViewFile/Agenda/
+ _10152026-2783\n\nAgenda: Packet\nhttps://bownh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_10152026-2683?packet=true\n\nMinutes: Oct 15\, 2026 Octobe
+ r 15\, 2026 Planning Board Meeting\nhttp://bownh.gov/AgendaCenter/ViewFile
+ /Minutes/_10152026-2783\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:39ed5b6203c825745c9d@granite-docket
+DTSTAMP:20261123T103837Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Bow Planning board
+LOCATION:Bow\, NH
+URL:https://bownh.gov/AgendaCenter/ViewFile/Agenda/_11092026-2804
+DESCRIPTION:Agenda: Master Plan Steering Committee Meeting\nhttps://bownh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11092026-2804\n\nMinutes: Nov 9\, 2026 Ma
+ ster Plan Steering Committee Meeting\nhttps://bownh.gov/AgendaCenter/ViewF
+ ile/Minutes/_11092026-2804\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:544fa84ae263232e5a1c@granite-docket
+DTSTAMP:20261109T082935Z
+DTSTART;TZID=America/New_York:20261111T180000
+DURATION:PT2H
+SUMMARY:Bow Planning board
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_11112026-2799
+DESCRIPTION:Agenda: Drinking Water Protection Committee Agenda Nov 11\, 202
+ 6 Bow Drinking Water Protection Committee Agen\nhttps://www.bownh.gov/Agen
+ daCenter/ViewFile/Agenda/_11112026-2799\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3266ea58109a7d629780@granite-docket
+DTSTAMP:20261109T095826Z
+DTSTART;TZID=America/New_York:20261119T214500
+DURATION:PT2H
+SUMMARY:Bow Planning board
+LOCATION:Bow\, NH
+URL:http://bownh.gov/AgendaCenter/ViewFile/Agenda/_11192026-2801
+DESCRIPTION:Agenda: November 19\, 2026 Planning Board Meeting\nhttp://bownh
+ .gov/AgendaCenter/ViewFile/Agenda/_11192026-2801\n\nAgenda: November 19\, 
+ 2026 Planning Board Meeting\nhttp://bownh.gov/AgendaCenter/ViewFile/Archiv
+ edAgenda/_11192026-2674\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:082f53af537e038a9d57@granite-docket
+DTSTAMP:20261123T082543Z
+DTSTART;TZID=America/New_York:20261203T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Bow Planning board
+LOCATION:Bow\, NH
+URL:https://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_12032026-2806
+DESCRIPTION:Agenda: Planning Board Agenda Dec 3\, 2026 Planning Board Publi
+ c Hearing\nhttps://www.bownh.gov/AgendaCenter/ViewFile/Agenda/_12032026-28
+ 06\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

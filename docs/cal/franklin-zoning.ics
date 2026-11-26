@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Franklin Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Franklin\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b959105bc115dd12f09b@granite-docket
+DTSTAMP:20261103T104911Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Franklin Zoning / ZBA
+LOCATION:Franklin\, NH
+URL:https://franklinnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-201
+DESCRIPTION:Agenda: Zoning Board Meeting Agenda\nhttps://franklinnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_10142026-201\n\nAgenda: Zoning Board Meeting Ag
+ enda\nhttps://franklinnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1014202
+ 6-243\n\nNotice: 10/14/2026 Zoning Board of Adjustment Meeting Notice Clic
+ k to Open\nhttps://www.franklinnh.gov/DocumentCenter/View/3074\n\nMinutes:
+  Oct 14\, 2026 Zoning Board Meeting Agenda\nhttps://franklinnh.gov/AgendaC
+ enter/ViewFile/Minutes/_10142026-201\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f49f4a9836921086b3@granite-docket
+DTSTAMP:20261116T084205Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Franklin Zoning / ZBA
+LOCATION:Franklin\, NH
+URL:https://franklinnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-205
+DESCRIPTION:Agenda: Zoning Board Meeting Packet\nhttps://franklinnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_11042026-205\n\nNotice: 11/04/2026 Zoning Board
+  Meeting Notice Click to Open\nhttps://www.franklinnh.gov/DocumentCenter/V
+ iew/3830\n\nMinutes: Zoning Board of Adjustment Minutes 2026-11-04 2026-11
+ -04 ZBA Minutes Draft\nhttps://franklinnh.api.civicclerk.com/v1/Meetings/G
+ etMeetingFileStream(fileId=415\,plainText=false)\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stratham Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Stratham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4a16e82e25b6c85ff564@granite-docket
+DTSTAMP:20261103T100811Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Budget / CIP
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Recreation C
+ ommission/Agendas and Minutes/2026/2026 Agendas/Agenda October 2026.pdf?t=
+ 202610191025130
+DESCRIPTION:Minutes: 10/20/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Recreation Commission/Agendas and Minutes/2026/202
+ 6 Agendas/Agenda October 2026.pdf?t=202610191025130\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:69582802238b2f9cc508@granite-docket
+DTSTAMP:20261103T100433Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Budget / CIP
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Cemetery Tru
+ stees/Agenda and Minutes/2026/Cemetery Trustees Mtg 11 2 26.pdf?t=20261030
+ 1324450
+DESCRIPTION:Minutes: 11/02/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Cemetery Trustees/Agenda and Minutes/2026/Cemetery
+  Trustees Mtg 11 2 26.pdf?t=202610301324450\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

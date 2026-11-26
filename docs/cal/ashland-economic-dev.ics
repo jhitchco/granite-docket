@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ashland Economic development
+X-WR-CALDESC:Economic development meetings in Ashland\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:70f2cf95c0c62516703f@granite-docket
+DTSTAMP:20261103T115849Z
+DTSTART;TZID=America/New_York:20261009T173000
+DURATION:PT2H
+SUMMARY:Ashland Economic development
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/325/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 325/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/325/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f8dff53735a6b1d7fd1@granite-docket
+DTSTAMP:20261103T115849Z
+DTSTART;TZID=America/New_York:20261029T173000
+DURATION:PT2H
+SUMMARY:Ashland Economic development
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/329/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 329/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/329/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c154c7ed5d14a6c16cf@granite-docket
+DTSTAMP:20261116T103202Z
+DTSTART;TZID=America/New_York:20261109T173000
+DURATION:PT2H
+SUMMARY:Ashland Economic development
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/330/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 330/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/330/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+END:VCALENDAR

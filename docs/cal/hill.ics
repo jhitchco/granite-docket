@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hill NH meetings
+X-WR-CALDESC:Public meetings of Hill\, NH boards\, from posted agendas and 
+ minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ce08567f0fadffa5e0d1@granite-docket
+DTSTAMP:20261103T124045Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Hill Select board / council
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/10/Lead-Education-Pamp
+ hlet-Hill-Water-Works20261001.pdf
+DESCRIPTION:Notice: 10/01/2026: Lead Public Education Notice. To view the n
+ otice\, please select the following link: Lead\nhttps://townofhillnh.org/w
+ p-content/uploads/2026/10/Lead-Education-Pamphlet-Hill-Water-Works20261001
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6da071ee32971cfe4d95@granite-docket
+DTSTAMP:20261103T124022Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Hill November 2\, 2026 DRAFT October 5\, 2026 DRAFT
+  August 4\, 2026 July 21\, 2
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/10/hill-parks-recreati
+ on-committee-meeting-notes-DRAFT20261005.pdf
+DESCRIPTION:Notice: November 2\, 2026 DRAFT October 5\, 2026 DRAFT August 4
+ \, 2026 July 21\, 2026 June 15\, 2026 June 1\, 2026\nhttps://townofhillnh.
+ org/wp-content/uploads/2026/10/hill-parks-recreation-committee-meeting-not
+ es-DRAFT20261005.pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:590bc182e5486f0d539f@granite-docket
+DTSTAMP:20261123T095727Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Hill Select board / council
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/selectmen-mtg-min-2
+ 0261006-1.pdf
+DESCRIPTION:Minutes: October 22\, 2026 October 6\, 2026 September 15\, 2026
+  August 18\, 2026 August 4\, 2026 July 23\, 2026 Jul\nhttps://townofhillnh
+ .org/wp-content/uploads/2026/11/selectmen-mtg-min-20261006-1.pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:a88dabfd7b0f7d956eff@granite-docket
+DTSTAMP:20261103T122820Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Hill Budget / CIP
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/10/budget-committee-mi
+ nutes-DRAFT20261015.pdf
+DESCRIPTION:Minutes: October 15 DRAFT February 11 Public Hearing January 21
+  January 14 January 7\nhttps://townofhillnh.org/wp-content/uploads/2026/10
+ /budget-committee-minutes-DRAFT20261015.pdf\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1e290e368999866a4bf3@granite-docket
+DTSTAMP:20261103T124827Z
+DTSTART;TZID=America/New_York:20261021T093000
+DURATION:PT2H
+SUMMARY:Hill Budget / CIP
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2020/11/2026.10.21-Hill-Pub
+ lic-Library-Agenda.pdf
+DESCRIPTION:Agenda: Agenda: 2026.10.21 Hill Public Library Agenda\nhttps://
+ townofhillnh.org/wp-content/uploads/2020/11/2026.10.21-Hill-Public-Library
+ -Agenda.pdf\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:29d6dec8ee423646b3fc@granite-docket
+DTSTAMP:20261123T095742Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Hill Town meeting / warrant
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/2026.10.21-Hill-Pub
+ lic-Library-Trustee-Minutes.pdf
+DESCRIPTION:Minutes: October 21\, 2026 August 19\, 2026 July 15\, 2026 June
+  17\, 2026 May 19\, 2026 April 21\, 2026 March 17\, 2\nhttps://townofhilln
+ h.org/wp-content/uploads/2026/11/2026.10.21-Hill-Public-Library-Trustee-Mi
+ nutes.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b12463df752476f62ed@granite-docket
+DTSTAMP:20261123T095726Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Hill Select board / council
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/selectmen-mtg-min-2
+ 0261022.pdf
+DESCRIPTION:Minutes: October 22\, 2026 October 6\, 2026 September 15\, 2026
+  August 18\, 2026 August 4\, 2026 July 23\, 2026 Jul\nhttps://townofhillnh
+ .org/wp-content/uploads/2026/11/selectmen-mtg-min-20261022.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:294f831b7e6afd8efddf@granite-docket
+DTSTAMP:20261103T124022Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Hill November 2\, 2026 DRAFT October 5\, 2026 DRAFT August 4\, 2026
+  July 21\, 2
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/parks-rec-minutes-2
+ 0261102-DRAFT.pdf
+DESCRIPTION:Minutes: November 2\, 2026 DRAFT October 5\, 2026 DRAFT August 
+ 4\, 2026 July 21\, 2026 June 15\, 2026 June 1\, 2026\nhttps://townofhillnh
+ .org/wp-content/uploads/2026/11/parks-rec-minutes-20261102-DRAFT.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8ffae7f5cf464efd6784@granite-docket
+DTSTAMP:20261123T095808Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Hill Planning board
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2018/06/parks-rec-agenda202
+ 61102.pdf
+DESCRIPTION:Agenda: Agenda: parks-rec-agenda20261102\nhttps://townofhillnh.
+ org/wp-content/uploads/2018/06/parks-rec-agenda20261102.pdf\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef74f06c1b5481fd8d9@granite-docket
+DTSTAMP:20261123T095821Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Hill N ovember 3\, 2026 General Election Results: r
+ eturnofvotes20261103 2026
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/returnofvotes202611
+ 03.pdf
+DESCRIPTION:Notice: N ovember 3\, 2026 General Election Results: returnofvo
+ tes20261103 2026 General Election Absentee Bal\nhttps://townofhillnh.org/w
+ p-content/uploads/2026/11/returnofvotes20261103.pdf\n\nNotice: N ovember 3
+ \, 2026 General Election Results: returnofvotes20261103 2026 General Elect
+ ion Absentee Bal\nhttps://townofhillnh.org/wp-content/uploads/2026/11/2026
+ -Absentee-Ballot-Certificate-20261103.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:eb3e8904775bb263658d@granite-docket
+DTSTAMP:20261103T124447Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Hill Select board / council
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/10/generalelectionsamp
+ leballot20261103.pdf
+DESCRIPTION:Notice: 10/5/2026 – To view the Sample Ballot General Electio
+ n to be held on November 3\, 2026\, please select\nhttps://townofhillnh.or
+ g/wp-content/uploads/2026/10/generalelectionsampleballot20261103.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:db5f85d234339d0a8d8e@granite-docket
+DTSTAMP:20261103T122718Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Hill Select board / council
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/10/Selectmens-Meeting-
+ Agenda-November-4-2026.pdf
+DESCRIPTION:Agenda: Selectmen’s Meeting Agenda: November 4\, 2026\nhttps:
+ //townofhillnh.org/wp-content/uploads/2026/10/Selectmens-Meeting-Agenda-No
+ vember-4-2026.pdf\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59eab79b30d02e75e4de@granite-docket
+DTSTAMP:20261123T095737Z
+DTSTART;TZID=America/New_York:20261111T150000
+DURATION:PT2H
+SUMMARY:Public hearing: Hill Select board / council
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/11.17.2026-3.00-Wor
+ kshop-tax-rate.pdf
+DESCRIPTION:Agenda: Agenda: Selectmen’s Workshop – November 17\, 2026\n
+ https://townofhillnh.org/wp-content/uploads/2026/11/11.17.2026-3.00-Worksh
+ op-tax-rate.pdf\n\nAgenda: Agenda: https: Selectmen’s Meeting Agenda –
+  November 17 2026\nhttps://townofhillnh.org/wp-content/uploads/2026/11/11.
+ 17.2026-Selectmens-Meeting-Agenda.pdf\n\nNotice: Workshop notice – Novem
+ ber 17 2026\nhttps://townofhillnh.org/wp-content/uploads/2026/11/11.17.202
+ 6-Workshop.pdf\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d8b302e08f8a12f881e5@granite-docket
+DTSTAMP:20261123T095819Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Hill Zoning / ZBA
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/Town-of-Hill-NH-FLO
+ ODPLAIN-DEVELOPMENT-ORDINANCE.pdf
+DESCRIPTION:Notice: Town of Hill NH FLOODPLAIN DEVELOPMENT ORDINANCE – Pe
+ nding Final Approval\nhttps://townofhillnh.org/wp-content/uploads/2026/11/
+ Town-of-Hill-NH-FLOODPLAIN-DEVELOPMENT-ORDINANCE.pdf\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:865b8da4a1cafebe3371@granite-docket
+DTSTAMP:20261123T095830Z
+DTSTART;TZID=America/New_York:20261118T093000
+DURATION:PT2H
+SUMMARY:Hill Budget / CIP
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/2026.11.18-Hill-Pub
+ lic-Library-Agenda-1.pdf
+DESCRIPTION:Agenda: Meeting Agenda: 2026.11.18 Hill Public Library Agenda (
+ 1)\nhttps://townofhillnh.org/wp-content/uploads/2026/11/2026.11.18-Hill-Pu
+ blic-Library-Agenda-1.pdf\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:68e7de810bbe57de359b@granite-docket
+DTSTAMP:20261123T095743Z
+DTSTART;TZID=America/New_York:20261119T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Hill Select board / council
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/tctxresignation2026
+ 1119.pdf
+DESCRIPTION:Notice: Notice from the Town Clerk/Tax Collector: tctxresignati
+ on20261119\nhttps://townofhillnh.org/wp-content/uploads/2026/11/tctxresign
+ ation20261119.pdf\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c13564e6c600dc66bad7@granite-docket
+DTSTAMP:20261123T095821Z
+DTSTART;TZID=America/New_York:20261119T191500
+DURATION:PT2H
+SUMMARY:Public hearing: Hill Planning board
+LOCATION:Hill\, NH
+URL:https://townofhillnh.org/wp-content/uploads/2026/11/PUBLIC-Notices-Boot
+ jack-LLC-sub-division-of-land.pdf
+DESCRIPTION:Notice: Public Notice Posting PUBLIC Notices – Bootjack\, LLC
+  sub-division of land\nhttps://townofhillnh.org/wp-content/uploads/2026/11
+ /PUBLIC-Notices-Bootjack-LLC-sub-division-of-land.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

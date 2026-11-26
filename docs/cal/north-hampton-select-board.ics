@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:North Hampton Select board / council
+X-WR-CALDESC:Select board / council meetings in North Hampton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4ee098e46fd2f27078e9@granite-docket
+DTSTAMP:20261103T105134Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-
+ 531
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_09282026-531\n\nMinutes: Sep 28\, 2026
+  Select Board Meeting Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter
+ /ViewFile/Minutes/_09282026-531\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:da056c7a73c05cf3a424@granite-docket
+DTSTAMP:20261103T105133Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_09302026-
+ 532
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_09302026-532\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e626fcd83ede3db7c27@granite-docket
+DTSTAMP:20261103T105132Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-
+ 533
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_10052026-533\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e90d7b1f8d597a6e1100@granite-docket
+DTSTAMP:20261103T105132Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10262026-
+ 536
+DESCRIPTION:Agenda: Select Board Budget Workshop - CANCELLED\nhttps://www.n
+ orthhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10262026-536\n\nAgenda: S
+ elect Board Meeting Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/V
+ iewFile/Agenda/_10262026-537\n\nMinutes: Oct 26\, 2026 Select Board Meetin
+ g Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_1
+ 0262026-537\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c8acc97af0f1df61dac9@granite-docket
+DTSTAMP:20261109T091809Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-
+ 550
+DESCRIPTION:Agenda: Select Board Workshop Agenda\nhttps://www.northhampton-
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-550\n\nMinutes: Oct 29\, 202
+ 6 Select Board Workshop Agenda\nhttps://www.northhampton-nh.gov/AgendaCent
+ er/ViewFile/Minutes/_10292026-550\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b53da4cf38f13f3b921@granite-docket
+DTSTAMP:20261109T091759Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-
+ 558
+DESCRIPTION:Agenda: Select Board Workshop Agenda\nhttps://www.northhampton-
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-558\n\nMinutes: Nov 2\, 2026
+  Select Board Workshop Agenda\nhttps://www.northhampton-nh.gov/AgendaCente
+ r/ViewFile/Minutes/_11022026-558\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:243c1cfccd35eadf90f0@granite-docket
+DTSTAMP:20261116T092047Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1092026-418
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-418\n\nAgenda: Select
+  Board Meeting Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFi
+ le/ArchivedAgenda/_11092026-415\n\nAgenda: Select Board Meeting Agenda\nht
+ tps://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_110920
+ 26-428\n\nAgenda: Packet\nhttps://www.northhampton-nh.gov/AgendaCenter/Vie
+ wFile/ArchivedAgenda/_11092026-418?packet=true\n\nAgenda: Packet\nhttps://
+ www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-428
+ ?packet=true\n\nMinutes: Nov 9\, 2026 Select Board Meeting Agenda\nhttps:/
+ /www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_11092026-573\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ba92c9251e42328f3e@granite-docket
+DTSTAMP:20261116T090747Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-
+ 583
+DESCRIPTION:Agenda: Select Board Notice of Quorum\nhttps://www.northhampton
+ -nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-583\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca94004b39c0ec1ee7df@granite-docket
+DTSTAMP:20261123T084545Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11232026-
+ 599
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_11232026-599\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

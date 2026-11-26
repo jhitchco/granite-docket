@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Berlin Select board / council
+X-WR-CALDESC:Select board / council meetings in Berlin\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9c912d7ff7b821740872@granite-docket
+DTSTAMP:20261103T095447Z
+DTSTART;TZID=America/New_York:20261005T132200
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Select board / council
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-199
+DESCRIPTION:Agenda: City Council Meeting\nhttps://www.berlinnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10052026-199\n\nMinutes: Oct 5\, 2026 City Council M
+ eeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-1
+ 99\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:703b226764dd8416467a@granite-docket
+DTSTAMP:20261103T095446Z
+DTSTART;TZID=America/New_York:20261019T124400
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Select board / council
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-201
+DESCRIPTION:Agenda: City Council Meeting\nhttps://www.berlinnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10192026-201\n\nMinutes: Oct 19\, 2026 City Council 
+ Meeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-
+ 201\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5032c1dfb266dd5a0b30@granite-docket
+DTSTAMP:20261103T095445Z
+DTSTART;TZID=America/New_York:20261102T134500
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Select board / council
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-203
+DESCRIPTION:Agenda: City Council Meeting\nhttps://www.berlinnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_11022026-203\n\nMinutes: Nov 2\, 2026 City Council M
+ eeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_11022026-2
+ 03\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e720ac9d2a80f18bb603@granite-docket
+DTSTAMP:20261123T071805Z
+DTSTART;TZID=America/New_York:20261116T091000
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Select board / council
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-207
+DESCRIPTION:Agenda: City Council Meeting\nhttps://www.berlinnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_11162026-207\n\nMinutes: Nov 16\, 2026 City Council 
+ Meeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_11162026-
+ 207\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

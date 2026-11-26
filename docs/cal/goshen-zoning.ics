@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Goshen Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Goshen\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:73e1dd2e0897ad3c592e@granite-docket
+DTSTAMP:20261123T100144Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Goshen Zoning / ZBA
+LOCATION:Goshen\, NH
+URL:https://goshennh.org/wp-content/uploads/2026/09/ZBA-Public-Hearing-Noti
+ ce-Variance-144-Rand-Pond-Road.pdf
+DESCRIPTION:Notice: ZBA Public Hearing Notice-Variance (144 Rand Pond Road)
+ \nhttps://goshennh.org/wp-content/uploads/2026/09/ZBA-Public-Hearing-Notic
+ e-Variance-144-Rand-Pond-Road.pdf\n\nMinutes: ZBA Minutes of 10-14-26 Draf
+ t\nhttps://goshennh.org/wp-content/uploads/2026/10/ZBA-Minutes-of-10-14-26
+ -Draft.pdf\n\nMinutes: ZBA Minutes of 10-14-26 Final\nhttps://goshennh.org
+ /wp-content/uploads/2026/11/ZBA-Minutes-of-10-14-26-Final.pdf\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f615b45c6fc302c6f8c4@granite-docket
+DTSTAMP:20261123T100144Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Goshen Zoning / ZBA
+LOCATION:Goshen\, NH
+URL:https://goshennh.org/wp-content/uploads/2026/11/ZBA-Minutes-of-11-11-26
+ -Draft.pdf
+DESCRIPTION:Minutes: ZBA Minutes of 11-11-26 Draft\nhttps://goshennh.org/wp
+ -content/uploads/2026/11/ZBA-Minutes-of-11-11-26-Draft.pdf\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5e15e84f2d2efb86b63d@granite-docket
+DTSTAMP:20261123T100122Z
+DTSTART;TZID=America/New_York:20261209T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Goshen Zoning / ZBA
+LOCATION:Goshen\, NH
+URL:https://goshennh.org/wp-content/uploads/2026/11/ZBA-Public-Appeal-Notic
+ e-1849-Brook-Rd.pdf
+DESCRIPTION:Notice: ZBA Public Appeal Notice – 1849 Brook Rd\nhttps://gos
+ hennh.org/wp-content/uploads/2026/11/ZBA-Public-Appeal-Notice-1849-Brook-R
+ d.pdf\n\nNotice: ZBA Public Hearing Notice-319 Lempster Coach Rd\nhttps://
+ goshennh.org/wp-content/uploads/2026/11/ZBA-Public-Hearing-Notice-319-Lemp
+ ster-Coach-Rd.pdf\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

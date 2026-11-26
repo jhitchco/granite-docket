@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Ipswich Historic district
+X-WR-CALDESC:Historic district meetings in New Ipswich\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7ed1ee3292c1c3fd8c23@granite-docket
+DTSTAMP:20261103T105300Z
+DTSTART;TZID=America/New_York:20261015T170000
+DURATION:PT2H
+SUMMARY:New Ipswich Historic district
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/418/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: 'HC' Agenda Show Home Agenda Read the full agenda Agend
+ a PDF Packet Heritage Commission Thursday\, Oc\nhttps://towncloud.io/go/ne
+ w-ipswich-nh/agendas/418/PDF/get_agenda_document_link\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b47628da3babbb67dff1@granite-docket
+DTSTAMP:20261103T104430Z
+DTSTART;TZID=America/New_York:20261020T170000
+DURATION:PT2H
+SUMMARY:New Ipswich Historic district
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/424/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/424/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/424/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+END:VCALENDAR

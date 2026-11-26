@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Goffstown Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Goffstown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5157fd92a0326f589530@granite-docket
+DTSTAMP:20261103T092536Z
+DTSTART;TZID=America/New_York:20261028T190000
+DURATION:PT2H
+SUMMARY:Goffstown Conservation commission
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-1597
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 28\, 2026 Conservati
+ on Commission October 28\, 2026\, Meeting Agenda\nhttps://goffstownnh.gov/
+ AgendaCenter/ViewFile/Agenda/_10282026-1597\n\nMinutes: Conservation Commi
+ ssion Minutes Oct 28\, 2026 Conservation Commission October 28\, 2026\, Me
+ eting Agend\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_102820
+ 26-1597\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:335f350de738e7eeb813@granite-docket
+DTSTAMP:20261116T071155Z
+DTSTART;TZID=America/New_York:20261107T090000
+DURATION:PT2H
+SUMMARY:Goffstown Conservation commission
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11072026-1603
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 7\, 2026 Goffstown C
+ onservation Commission Acorn Drive Site Walk o\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11072026-1603\n\nMinutes: Conservation Commiss
+ ion Minutes Nov 7\, 2026 Goffstown Conservation Commission Acorn Drive Sit
+ e Walk \nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_11072026-1
+ 603\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+END:VCALENDAR

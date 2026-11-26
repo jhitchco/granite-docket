@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jaffrey Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Jaffrey\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:508b95879932d51ec505@granite-docket
+DTSTAMP:20261109T084633Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Jaffrey Budget / CIP
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_10012026-290
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://townofjaffrey.com/Age
+ ndaCenter/ViewFile/Agenda/_10012026-290\n\nMinutes: Oct 1\, 2026 Budget Co
+ mmittee Meeting (No Agenda)\nhttps://townofjaffrey.com/AgendaCenter/ViewFi
+ le/Minutes/_10012026-290\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:91869a92aec03ec24ea6@granite-docket
+DTSTAMP:20261103T103645Z
+DTSTART;TZID=America/New_York:20261020T154500
+DURATION:PT2H
+SUMMARY:Jaffrey Budget / CIP
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_10202026-294
+DESCRIPTION:Agenda: Jaffrey Public Library Trustees' Meeting agenda\nhttps:
+ //townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_10202026-294\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:f472536d7c01fcfe5404@granite-docket
+DTSTAMP:20261109T084813Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Jaffrey Budget / CIP
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_11052026-299
+DESCRIPTION:Agenda: PDF\nhttps://townofjaffrey.com/AgendaCenter/ViewFile/Ag
+ enda/_11052026-299\n\nAgenda: Budget Committee Meeting\nhttps://townofjaff
+ rey.com/AgendaCenter/ViewFile/ArchivedAgenda/_11052026-162\n\nAgenda: Pack
+ et\nhttps://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_11052026-299?p
+ acket=true\n\nAgenda: Packet\nhttps://townofjaffrey.com/AgendaCenter/ViewF
+ ile/ArchivedAgenda/_11052026-162?packet=true\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a7046470af498b38254@granite-docket
+DTSTAMP:20261116T084758Z
+DTSTART;TZID=America/New_York:20261117T154500
+DURATION:PT2H
+SUMMARY:Jaffrey Budget / CIP
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_11172026-303
+DESCRIPTION:Agenda: Jaffrey Public Library Trustees' Meeting agenda\nhttps:
+ //townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_11172026-303\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:611c9c1896066abe17a1@granite-docket
+DTSTAMP:20261109T084553Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:Jaffrey Budget / CIP
+LOCATION:Jaffrey\, NH
+URL:https://townofjaffrey.com/AgendaCenter/ViewFile/Agenda/_12032026-300
+DESCRIPTION:Agenda: PDF\nhttps://townofjaffrey.com/AgendaCenter/ViewFile/Ag
+ enda/_12032026-300\n\nAgenda: Packet\nhttps://townofjaffrey.com/AgendaCent
+ er/ViewFile/Agenda/_12032026-300?packet=true\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

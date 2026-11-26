@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Holderness Select board / council
+X-WR-CALDESC:Select board / council meetings in Holderness\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:113cd059456f8564f343@granite-docket
+DTSTAMP:20261103T115955Z
+DTSTART;TZID=America/New_York:20261005T170000
+DURATION:PT2H
+SUMMARY:Holderness Select board / council
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-14
+ 8
+DESCRIPTION:Agenda: Select Board Agenda Oct 5\, 2026 Select Board Meeting A
+ genda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_1005202
+ 6-148\n\nMinutes: Select Board Minutes Oct 5\, 2026 Select Board Meeting A
+ genda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Minutes/_100520
+ 26-148\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb2dd539a19abb242049@granite-docket
+DTSTAMP:20261103T115954Z
+DTSTART;TZID=America/New_York:20261021T170000
+DURATION:PT2H
+SUMMARY:Holderness Select board / council
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10212026-15
+ 0
+DESCRIPTION:Agenda: Select Board Agenda Oct 21\, 2026 Select Board Agenda\n
+ https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10212026-150\n
+ \nMinutes: Select Board Minutes Oct 21\, 2026 Select Board Agenda\nhttps:/
+ /www.holderness-nh.gov/AgendaCenter/ViewFile/Minutes/_10212026-150\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3dee60335243e263b11@granite-docket
+DTSTAMP:20261103T115953Z
+DTSTART;TZID=America/New_York:20261102T170000
+DURATION:PT2H
+SUMMARY:Holderness Select board / council
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-15
+ 5
+DESCRIPTION:Agenda: Select Board Agenda Nov 2\, 2026 Select Board Meeting A
+ genda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_1102202
+ 6-155\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+END:VCALENDAR

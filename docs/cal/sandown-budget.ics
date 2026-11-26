@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sandown Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Sandown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c94069dbd655ae195215@granite-docket
+DTSTAMP:20261103T101122Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_09282026-304
+DESCRIPTION:Agenda: Oktoberfest Committee Agenda Sep 28\, 2026 Oktoberfest 
+ Committee Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Age
+ nda/_09282026-304\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ddbc4dbc02a86d2e6c5@granite-docket
+DTSTAMP:20261103T101323Z
+DTSTART;TZID=America/New_York:20260930T080000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_09302026-306
+DESCRIPTION:Agenda: Recreation Agenda Sep 30\, 2026 Here is the agenda for 
+ the 2026 recreation commission meeting\nhttps://www.sandown.us/AgendaCente
+ r/ViewFile/Agenda/_09302026-306\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee95e2efcc8ad6a9a88@granite-docket
+DTSTAMP:20261103T101122Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10062026-308
+DESCRIPTION:Agenda: Oktoberfest Committee Agenda Oct 6\, 2026 Oktoberfest C
+ ommittee Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_1006
+ 2026-308\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b452488f0d303d005d55@granite-docket
+DTSTAMP:20261103T101322Z
+DTSTART;TZID=America/New_York:20261021T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10212026-311
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 21\, 2026 Budget Committee 
+ Meeting\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10212026-311
+ \n\nAgenda: Recreation Agenda Oct 21\, 2026 This is the agenda for our 10/
+ 21/2026 meeting\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_1021
+ 2026-315\n\nMinutes: Budget Committee Minutes Oct 21\, 2026 Budget Committ
+ ee Meeting\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minutes/_10212026
+ -311\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4020816b4b70c127a06d@granite-docket
+DTSTAMP:20261103T100802Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10222026-316
+DESCRIPTION:Agenda: Board of Fire Engineers Agenda Oct 22\, 2026 Board of F
+ ire Engineers Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/
+ _10222026-316\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:db09dfc12a98917d42a3@granite-docket
+DTSTAMP:20261116T084118Z
+DTSTART;TZID=America/New_York:20261104T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11042026-288
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 4\, 2026 — Amended Nov 2\
+ , 2026 9:34 AM Budget Committee Schedule\nhttps://www.sandown.us/AgendaCen
+ ter/ViewFile/Agenda/_11042026-288\n\nAgenda: Recreation Agenda Nov 4\, 202
+ 6 This is our meeting agenda for 11/4\nhttps://www.sandown.us/AgendaCenter
+ /ViewFile/Agenda/_11042026-321\n\nAgenda: Budget Committee Schedule\nhttps
+ ://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-107\n\nMi
+ nutes: Budget Committee Minutes Nov 4\, 2026 — Amended Nov 2\, 2026 9:34
+  AM Budget Committee Schedule\nhttps://www.sandown.us/AgendaCenter/ViewFil
+ e/Minutes/_11042026-288\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8aeaf9c1e314a221b416@granite-docket
+DTSTAMP:20261116T084148Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11102026-323
+DESCRIPTION:Agenda: Oktoberfest Committee Agenda Nov 10\, 2026 Oktoberfest 
+ Committee Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Age
+ nda/_11102026-323\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:05f35e31fafb9b5f10dc@granite-docket
+DTSTAMP:20261103T102107Z
+DTSTART;TZID=America/New_York:20261118T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11182026-289
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 18\, 2026 — Amended Nov 2
+ \, 2026 9:34 AM Budget Committee Agenda\nhttps://www.sandown.us/AgendaCent
+ er/ViewFile/Agenda/_11182026-289\n\nAgenda: Budget Committee Agenda\nhttps
+ ://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-108\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8684112ac602391c4eb9@granite-docket
+DTSTAMP:20261103T102059Z
+DTSTART;TZID=America/New_York:20261202T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_12022026-290
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 2\, 2026 — Amended Nov 2\
+ , 2026 9:35 AM Budget Committee Agenda\nhttps://www.sandown.us/AgendaCente
+ r/ViewFile/Agenda/_12022026-290\n\nAgenda: Budget Committee Agenda\nhttps:
+ //www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_12022026-109\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f43c159d1a029eebb3e9@granite-docket
+DTSTAMP:20261103T102055Z
+DTSTART;TZID=America/New_York:20261216T183500
+DURATION:PT2H
+SUMMARY:Sandown Budget / CIP
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_12162026-291
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 16\, 2026 — Amended Nov 2
+ \, 2026 9:35 AM Budget Committee Agenda\nhttps://www.sandown.us/AgendaCent
+ er/ViewFile/Agenda/_12162026-291\n\nAgenda: Budget Committee Agenda\nhttps
+ ://www.sandown.us/AgendaCenter/ViewFile/ArchivedAgenda/_12162026-110\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+END:VCALENDAR

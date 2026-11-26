@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kensington Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Kensington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:08156b84caa9eeca365a@granite-docket
+DTSTAMP:20261103T120832Z
+DTSTART;TZID=America/New_York:20261006T193000
+DURATION:PT2H
+SUMMARY:Public hearing: Kensington Zoning / ZBA
+LOCATION:Kensington\, NH
+URL:https://kensingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-313
+DESCRIPTION:Agenda: ZBA Mtg - continuation of 189 Drinkwater Rd application
+  and application withdrawl of 17 Trundle Bed \nhttps://kensingtonnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10062026-313\n\nAgenda: ZBA Mtg - continuation
+  of 17 Trundle Bed Rd. Applicant requesting continuance until November 03\
+ , 202\nhttps://kensingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1006
+ 2026-342\n\nMinutes: Oct 6\, 2026 ZBA Mtg - continuation of 189 Drinkwater
+  Rd application and application withdrawl of 17 \nhttps://kensingtonnh.gov
+ /AgendaCenter/ViewFile/Minutes/_10062026-313\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5e09a3054d4539f882b0@granite-docket
+DTSTAMP:20261103T120828Z
+DTSTART;TZID=America/New_York:20261103T193000
+DURATION:PT2H
+SUMMARY:Public hearing: Kensington Zoning / ZBA
+LOCATION:Kensington\, NH
+URL:https://kensingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-314
+DESCRIPTION:Agenda: ZBA Meeting - Applications noted for 17 Trundle Bed Ln 
+ and 110 Stumpfield Rd\nhttps://kensingtonnh.gov/AgendaCenter/ViewFile/Agen
+ da/_11032026-314\n\nAgenda: ZBA Meeting - no confirmed applications at thi
+ s time\nhttps://kensingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_110
+ 32026-358\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

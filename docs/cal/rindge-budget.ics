@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rindge Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Rindge\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e13dd73dc090f5c71592@granite-docket
+DTSTAMP:20261103T104854Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Rindge Budget / CIP
+LOCATION:Rindge\, NH
+URL:https://rindgenh.gov/Documents/Boards Commission/Budget Advisory Commit
+ tee/Budget Documents/2027/2026 -2027 Joint Session Breakdown - UPDATED.pdf
+ ?t=202610131229000
+DESCRIPTION:Other: 2026 -2027 Joint Session Breakdown document seq 0.00\nht
+ tps://rindgenh.gov/Documents/Boards Commission/Budget Advisory Committee/B
+ udget Documents/2027/2026 -2027 Joint Session Breakdown - UPDATED.pdf?t=20
+ 2610131229000\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cf553d4cee282efac861@granite-docket
+DTSTAMP:20261103T102735Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Rindge Budget / CIP
+LOCATION:Rindge\, NH
+URL:https://rindgenh.gov/Documents/Boards Commission/Capital Improvement Pr
+ ogram Committee/Agenda Minutes/2026/01-Public Notices/10.21.2026_Public No
+ tice_Capital Improvement Program Committee Meeting.pdf?t=202610201243220
+DESCRIPTION:Minutes: 10.21.2026_Public Notice_Capital Improvement Program C
+ ommittee Meeting\nhttps://rindgenh.gov/Documents/Boards Commission/Capital
+  Improvement Program Committee/Agenda Minutes/2026/01-Public Notices/10.21
+ .2026_Public Notice_Capital Improvement Program Committee Meeting.pdf?t=20
+ 2610201243220\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+END:VCALENDAR

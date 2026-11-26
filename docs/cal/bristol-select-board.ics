@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bristol Select board / council
+X-WR-CALDESC:Select board / council meetings in Bristol\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a3702b7a368a48e02c6f@granite-docket
+DTSTAMP:20261103T112235Z
+DTSTART;TZID=America/New_York:20261001T170000
+DURATION:PT2H
+SUMMARY:Bristol Select board / council
+LOCATION:Bristol\, NH
+URL:https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-247
+DESCRIPTION:Agenda: Select Board Agenda - 5:00PM Nonpublic / 6:00PM Public 
+ / Followed by Nonpublic (if necessary) at end\nhttps://bristolnh.gov/Agend
+ aCenter/ViewFile/Agenda/_10012026-247\n\nMinutes: Oct 1\, 2026 Select Boar
+ d Agenda - 5:00PM Nonpublic / 6:00PM Public / Followed by Nonpublic (if ne
+ ces\nhttps://bristolnh.gov/AgendaCenter/ViewFile/Minutes/_10012026-247\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d68dfafcc106410f56@granite-docket
+DTSTAMP:20261116T100818Z
+DTSTART;TZID=America/New_York:20261015T170000
+DURATION:PT2H
+SUMMARY:Bristol Select board / council
+LOCATION:Bristol\, NH
+URL:https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-249
+DESCRIPTION:Agenda: Select Board Agenda - 5:00PM Work Session / 5:30PM Nonp
+ ublic Session / 6:00PM Public Session\nhttps://bristolnh.gov/AgendaCenter/
+ ViewFile/Agenda/_10152026-249\n\nMinutes: Oct 15\, 2026 Select Board Agend
+ a - 5:00PM Work Session / 5:30PM Nonpublic Session / 6:00PM Public Se\nhtt
+ ps://bristolnh.gov/AgendaCenter/ViewFile/Minutes/_10152026-249\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:20531f60720a2dd48c8a@granite-docket
+DTSTAMP:20261109T095958Z
+DTSTART;TZID=America/New_York:20261105T170000
+DURATION:PT2H
+SUMMARY:Bristol Select board / council
+LOCATION:Bristol\, NH
+URL:https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-258
+DESCRIPTION:Agenda: Select Board Agenda - Nonpublic 5:30PM / Public 6:00PM\
+ nhttps://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-258\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+END:VCALENDAR

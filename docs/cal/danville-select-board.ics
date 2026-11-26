@@ -1,0 +1,251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Danville Select board / council
+X-WR-CALDESC:Select board / council meetings in Danville\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c7f89ecdfe8e2a2a3845@granite-docket
+DTSTAMP:20261103T104953Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_09282026-1
+ 97
+DESCRIPTION:Agenda: Board of Selectmen Meeting\nhttps://www.townofdanville.
+ org/AgendaCenter/ViewFile/Agenda/_09282026-197\n\nMinutes: Sep 28\, 2026 B
+ oard of Selectmen Meeting\nhttps://www.townofdanville.org/AgendaCenter/Vie
+ wFile/Minutes/_09282026-197\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:79a78c9e29337897676d@granite-docket
+DTSTAMP:20261103T105023Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_09292026-1
+ 89
+DESCRIPTION:Agenda: Cable TV Committee\nhttps://www.townofdanville.org/Agen
+ daCenter/ViewFile/Agenda/_09292026-189\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:93d77c29dfb9c0f07aec@granite-docket
+DTSTAMP:20261103T105135Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_10052026-2
+ 04
+DESCRIPTION:Agenda: Board of Selectmen Meeting\nhttps://www.townofdanville.
+ org/AgendaCenter/ViewFile/Agenda/_10052026-204\n\nMinutes: Oct 5\, 2026 Bo
+ ard of Selectmen Meeting\nhttps://www.townofdanville.org/AgendaCenter/View
+ File/Minutes/_10052026-204\n\nMinutes: Oct 5\, 2026 Board of Selectmen Mee
+ ting\nhttps://www.townofdanville.org/AgendaCenter/ViewFile/ArchivedMinutes
+ /_10052026-56\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e620f72688113d6c99aa@granite-docket
+DTSTAMP:20261103T105029Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_10132026-2
+ 10
+DESCRIPTION:Agenda: PDF\nhttps://www.townofdanville.org/AgendaCenter/ViewFi
+ le/Agenda/_10132026-210\n\nAgenda: PDF\nhttps://www.townofdanville.org/Age
+ ndaCenter/ViewFile/Agenda/_10132026-207\n\nAgenda: Packet\nhttps://www.tow
+ nofdanville.org/AgendaCenter/ViewFile/Agenda/_10132026-210?packet=true\n\n
+ Agenda: Packet\nhttps://www.townofdanville.org/AgendaCenter/ViewFile/Agend
+ a/_10132026-207?packet=true\n\nMinutes: Oct 13\, 2026 Budget Committee mee
+ ting\nhttps://www.townofdanville.org/AgendaCenter/ViewFile/Minutes/_101320
+ 26-210\n\nMinutes: Oct 13\, 2026 Forestry Committee meeting\nhttps://www.t
+ ownofdanville.org/AgendaCenter/ViewFile/Minutes/_10132026-207\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:31bf0928799cf0073771@granite-docket
+DTSTAMP:20261103T105053Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_10162026-2
+ 13
+DESCRIPTION:Agenda: PDF\nhttps://www.townofdanville.org/AgendaCenter/ViewFi
+ le/Agenda/_10162026-213\n\nAgenda: Packet\nhttps://www.townofdanville.org/
+ AgendaCenter/ViewFile/Agenda/_10162026-213?packet=true\n\nMinutes: Oct 16\
+ , 2026 Recreation Committee meeting\nhttps://www.townofdanville.org/Agenda
+ Center/ViewFile/Minutes/_10162026-213\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0018c6b11d239277c15@granite-docket
+DTSTAMP:20261103T104951Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_10192026-2
+ 05
+DESCRIPTION:Agenda: Board of Selectmen Meeting\nhttps://www.townofdanville.
+ org/AgendaCenter/ViewFile/Agenda/_10192026-205\n\nMinutes: Oct 19\, 2026 B
+ oard of Selectmen Meeting\nhttps://www.townofdanville.org/AgendaCenter/Vie
+ wFile/Minutes/_10192026-205\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:639292d5012597e1f661@granite-docket
+DTSTAMP:20261103T105052Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_10212026-2
+ 12
+DESCRIPTION:Agenda: PDF\nhttps://www.townofdanville.org/AgendaCenter/ViewFi
+ le/Agenda/_10212026-212\n\nAgenda: Packet\nhttps://www.townofdanville.org/
+ AgendaCenter/ViewFile/Agenda/_10212026-212?packet=true\n\nMinutes: Oct 21\
+ , 2026 Recreation Committee meeting\nhttps://www.townofdanville.org/Agenda
+ Center/ViewFile/Minutes/_10212026-212\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:99904fe72bd9e0674ec0@granite-docket
+DTSTAMP:20261103T105109Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_10222026-2
+ 11
+DESCRIPTION:Agenda: PDF\nhttps://www.townofdanville.org/AgendaCenter/ViewFi
+ le/Agenda/_10222026-211\n\nAgenda: Packet\nhttps://www.townofdanville.org/
+ AgendaCenter/ViewFile/Agenda/_10222026-211?packet=true\n\nMinutes: Oct 22\
+ , 2026 Supervisors of the Checklist meeting\nhttps://www.townofdanville.or
+ g/AgendaCenter/ViewFile/Minutes/_10222026-211\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f1b08358db1fa20ddeb@granite-docket
+DTSTAMP:20261116T092314Z
+DTSTART;TZID=America/New_York:20261026T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_10262026-2
+ 06
+DESCRIPTION:Agenda: Board of Selectmen Meeting\nhttps://www.townofdanville.
+ org/AgendaCenter/ViewFile/Agenda/_10262026-206\n\nAgenda: Board of Selectm
+ en Meeting\nhttps://www.townofdanville.org/AgendaCenter/ViewFile/ArchivedA
+ genda/_10262026-57\n\nMinutes: Oct 26\, 2026 — Amended Oct 23\, 2026 3:3
+ 1 PM Board of Selectmen Meeting\nhttps://www.townofdanville.org/AgendaCent
+ er/ViewFile/Minutes/_10262026-206\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2c139dd6e8ac61addf73@granite-docket
+DTSTAMP:20261123T084436Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_10312026-2
+ 20
+DESCRIPTION:Agenda: PDF\nhttps://www.townofdanville.org/AgendaCenter/ViewFi
+ le/Agenda/_10312026-220\n\nAgenda: Packet\nhttps://www.townofdanville.org/
+ AgendaCenter/ViewFile/Agenda/_10312026-220?packet=true\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eff3948b5bace19b67db@granite-docket
+DTSTAMP:20261123T084306Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_11092026-2
+ 15
+DESCRIPTION:Agenda: Board of Selectmen Meeting\nhttps://www.townofdanville.
+ org/AgendaCenter/ViewFile/Agenda/_11092026-215\n\nMinutes: Nov 9\, 2026 Bo
+ ard of Selectmen Meeting\nhttps://www.townofdanville.org/AgendaCenter/View
+ File/Minutes/_11092026-215\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59fdc5ca2dcbf32c2903@granite-docket
+DTSTAMP:20261123T084406Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_11102026-2
+ 19
+DESCRIPTION:Agenda: PDF\nhttps://www.townofdanville.org/AgendaCenter/ViewFi
+ le/Agenda/_11102026-219\n\nAgenda: Packet\nhttps://www.townofdanville.org/
+ AgendaCenter/ViewFile/Agenda/_11102026-219?packet=true\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:da577bf47febf5e0f49a@granite-docket
+DTSTAMP:20261116T092304Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_11162026-2
+ 16
+DESCRIPTION:Agenda: Board of Selectmen Meeting\nhttps://www.townofdanville.
+ org/AgendaCenter/ViewFile/Agenda/_11162026-216\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c715bb18677590e1a2@granite-docket
+DTSTAMP:20261123T084256Z
+DTSTART;TZID=America/New_York:20261123T190000
+DURATION:PT2H
+SUMMARY:Danville Select board / council
+LOCATION:Danville\, NH
+URL:https://www.townofdanville.org/AgendaCenter/ViewFile/Agenda/_11232026-2
+ 21
+DESCRIPTION:Agenda: Board of Selectmen Meeting\nhttps://www.townofdanville.
+ org/AgendaCenter/ViewFile/Agenda/_11232026-221\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

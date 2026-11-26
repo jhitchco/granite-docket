@@ -1,0 +1,335 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Exeter\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4803439384ae2432c2dd@granite-docket
+DTSTAMP:20261103T093649Z
+DTSTART;TZID=America/New_York:20260930T093000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64442/brc_human_services_subcommittee_agend
+ a_9-30-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64442/brc_human_ser
+ vices_subcommittee_agenda_9-30-26.pdf\n\nAgenda: Agenda\nhttps://www.exete
+ rnh.gov/sites/default/files/fileattachments/budget_recommendations_committ
+ ee/meeting/64323/budget_recommendations_committee_agenda_9-30-26.pdf\n\nMi
+ nutes: BRC Human Services Subcommittee Minutes 9-30-26\nhttps://www.exeter
+ nh.gov/sites/default/files/fileattachments/budget_recommendations_committe
+ e/meeting/64442/brc_human_services_subcommittee_minutes_9-30-26.pdf\n\nMin
+ utes: Budget Recommendations Committee Draft Minutes 9-30-26\nhttps://www.
+ exeternh.gov/sites/default/files/fileattachments/budget_recommendations_co
+ mmittee/meeting/64323/budget_recommendations_committee_draft_minutes_9-30-
+ 26.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:09cf470067fcaee58788@granite-docket
+DTSTAMP:20261103T093646Z
+DTSTART;TZID=America/New_York:20261002T080000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64422/brc_-_general_government_sub_committe
+ e_agenda_10-2-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64422/brc_-_general
+ _government_sub_committee_agenda_10-2-26.pdf\n\nMinutes: BRC General Gover
+ nment Minutes 10-2-26\nhttps://www.exeternh.gov/sites/default/files/fileat
+ tachments/budget_recommendations_committee/meeting/64422/brc_general_gover
+ nment_minutes_10-2-26.pdf\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9eae9b72796a342d02c6@granite-docket
+DTSTAMP:20261103T093644Z
+DTSTART;TZID=America/New_York:20261005T090000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64449/brc_library_subcommittee_agenda_10-5-
+ 26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64449/brc_library_s
+ ubcommittee_agenda_10-5-26.pdf\n\nMinutes: BRC Library Subcommittee Minute
+ s 10-5-26\nhttps://www.exeternh.gov/sites/default/files/fileattachments/bu
+ dget_recommendations_committee/meeting/64449/brc_library_subcommittee_minu
+ tes_10-5-26.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:90f291b44c7b76e0501c@granite-docket
+DTSTAMP:20261103T093627Z
+DTSTART;TZID=America/New_York:20261009T130000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64450/brc_police_and_fire_subcommittee_agen
+ da_10-9-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64450/brc_police_an
+ d_fire_subcommittee_agenda_10-9-26.pdf\n\nMinutes: BRC Police and Fire Sub
+ committee Minutes 10-9-26\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64450/brc_police_an
+ d_fire_subcommittee_minutes_10-9-26.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0d847252a503da8295b@granite-docket
+DTSTAMP:20261103T093009Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ udget/2010/agenda/BUDAG101026.pdf
+DESCRIPTION:Minutes: BUDAG101026.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Budget/2010/agenda/BUDAG101026.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:472230416feb6d1d96ec@granite-docket
+DTSTAMP:20261103T093626Z
+DTSTART;TZID=America/New_York:20261013T093000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64456/brc_water_sewer_subcommittee_agenda_1
+ 0-13-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64456/brc_water_sew
+ er_subcommittee_agenda_10-13-26.pdf\n\nAgenda: Agenda\nhttps://www.exetern
+ h.gov/sites/default/files/fileattachments/budget_recommendations_committee
+ /meeting/64455/brc_public_works_subcommittee_agenda_10-13-26.pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:59ca18af51012c807f1c@granite-docket
+DTSTAMP:20261103T093557Z
+DTSTART;TZID=America/New_York:20261015T110000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/train_stat
+ ion_committee/meeting/63980/train_station_committee_agenda_10-15-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/train_station_committee/meeting/63980/train_station_committe
+ e_agenda_10-15-26.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.gov/sites/de
+ fault/files/fileattachments/budget_recommendations_committee/meeting/64452
+ /brc_fire_subcommittee_agenda_10-15-26.pdf\n\nAgenda: Agenda\nhttps://www.
+ exeternh.gov/sites/default/files/fileattachments/budget_recommendations_co
+ mmittee/meeting/64451/brc_police_subcommittee_agenda_10-15-26.pdf\n\nMinut
+ es: BRC Fire Subcommittee Minutes 10-15-26\nhttps://www.exeternh.gov/sites
+ /default/files/fileattachments/budget_recommendations_committee/meeting/64
+ 452/brc_fire_subcommittee_minutes_10-15-26.pdf\n\nMinutes: BRC Police Subc
+ ommittee Minutes 10-15-26\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64451/brc_police_su
+ bcommittee_minutes_10-15-26.pdf\n\nMinutes: 10/15/2026 - 11:00am Train Sta
+ tion Committee Agenda Train Station Committee Draft Minutes 10-15-26 P\nht
+ tps://www.exeternh.gov/sites/default/files/fileattachments/train_station_c
+ ommittee/meeting/packets/63980/one-year_goals_exeter_train_station_committ
+ ee_-_2.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cba01e83ede7917bf60e@granite-docket
+DTSTAMP:20261103T093552Z
+DTSTART;TZID=America/New_York:20261016T083000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64324/brc_general_government_agenda_10-16-2
+ 6.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64324/brc_general_g
+ overnment_agenda_10-16-26.pdf\n\nMinutes: BRC General Government Minutes 1
+ 0-16-26\nhttps://www.exeternh.gov/sites/default/files/fileattachments/budg
+ et_recommendations_committee/meeting/64324/brc_general_government_minutes_
+ 10-16-26.pdf\n\nMinutes: 10/16/2026 - 8:30am Budget Recommendations Commit
+ tee - General Government All Day Meeting Agenda BRC\nhttps://www.exeternh.
+ gov/sites/default/files/fileattachments/budget_recommendations_committee/m
+ eeting/packets/64324/brc_general_government_packet_10-16-26.pdf\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:c853afb3263b35659d2b@granite-docket
+DTSTAMP:20261103T092244Z
+DTSTART;TZID=America/New_York:20261021T183000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64325/brc_public_works_general_agenda_10-21
+ -26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64325/brc_public_wo
+ rks_general_agenda_10-21-26.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.go
+ v/sites/default/files/fileattachments/budget_recommendations_committee/mee
+ ting/64453/brc_parks_and_recreation_subcommittee_agenda_10-21-26.pdf\n\nMi
+ nutes: BRC Public Works General Minutes 10-21-26\nhttps://www.exeternh.gov
+ /sites/default/files/fileattachments/budget_recommendations_committee/meet
+ ing/64325/brc_public_works_general_minutes_10-21-26.pdf\n\nMinutes: 10/21/
+ 2026 - 6:30pm Budget Recommendations Committee - DPW General Agenda BRC Pu
+ blic Works General M\nhttps://www.exeternh.gov/sites/default/files/fileatt
+ achments/budget_recommendations_committee/meeting/packets/64325/brc_public
+ _works_general_packet_10-21-26.pdf\n\nMinutes: BRC Parks and Recreation Su
+ bcommittee Minutes 10-21-26\nhttps://www.exeternh.gov/sites/default/files/
+ fileattachments/budget_recommendations_committee/meeting/64453/brc_parks_a
+ nd_recreation_subcommittee_minutes_10-21-26.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ba840fa3d1f43d68e6@granite-docket
+DTSTAMP:20261103T092230Z
+DTSTART;TZID=America/New_York:20261028T173000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/facilities
+ _committee/meeting/64016/facilities_advisory_committee_agenda_10-28-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/facilities_committee/meeting/64016/facilities_advisory_commi
+ ttee_agenda_10-28-26.pdf\n\nAgenda: Agenda\nhttps://www.exeternh.gov/sites
+ /default/files/fileattachments/budget_recommendations_committee/meeting/64
+ 326/brc_police_fire_departments_agenda_10-28-26.pdf\n\nAgenda: 10/28/2026 
+ - 6:30pm Budget Recommendations Committee - Police & Fire Agenda Packet \,
+  Packet Video Vi\nhttps://www.exeternh.gov/sites/default/files/fileattachm
+ ents/budget_recommendations_committee/meeting/packets/64326/brc_fire_depar
+ tment_packet_10-28-26.pdf\n\nAgenda: 10/28/2026 - 6:30pm Budget Recommenda
+ tions Committee - Police & Fire Agenda Packet \, Packet Video Vi\nhttps://
+ www.exeternh.gov/sites/default/files/fileattachments/budget_recommendation
+ s_committee/meeting/packets/64326/brc_police_department_packet_10-28-26.pd
+ f\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:56cafa7fb197dae3cc9a@granite-docket
+DTSTAMP:20261103T092225Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/budget_rec
+ ommendations_committee/meeting/64327/brc_library_human_services_parks_recr
+ eation_agenda_11-4-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/budget_recommendations_committee/meeting/64327/brc_library_h
+ uman_services_parks_recreation_agenda_11-4-26.pdf\n\nAgenda: 11/04/2026 - 
+ 6:30pm Budget Recommendations Committee - Parks & Rec\, Library\, Human Se
+ rvices Agenda P\nhttps://www.exeternh.gov/sites/default/files/fileattachme
+ nts/budget_recommendations_committee/meeting/packets/64327/brc_-_library_h
+ uman_services_parks_recreation_packet_11-4-26.pdf\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d553defdad42fd9b24ad@granite-docket
+DTSTAMP:20261103T092932Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/A
+ rts/2011/agenda/EACAG110526.pdf
+DESCRIPTION:Minutes: EACAG110526.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Arts/2011/agenda/EACAG110526.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab836473cc52bec9608a@granite-docket
+DTSTAMP:20261116T071035Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11102026-544?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11102026-544?packet=true\n\nMinutes: BUDAG111026.pdf\nhttps://www.
+ exeternh.gov/sites/default/files/archives/Meeting Minutes/Budget/2011/agen
+ da/BUDAG111026.pdf\n\nMinutes: BUDMD111026.pdf\nhttps://www.exeternh.gov/s
+ ites/default/files/archives/Meeting Minutes/Budget/2011/minutes/BUDMD11102
+ 6.pdf\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fffce5b648a2b28433f8@granite-docket
+DTSTAMP:20261123T070524Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11172026-557
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11172026-557\n\nAgenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_11172026-570\n\nAgenda: Packet\nhttps://www.exeternh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11172026-557?packet=true\n\nAgenda: Packet\nht
+ tps://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11172026-570?packet=t
+ rue\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:828b3d1d528edc15d88c@granite-docket
+DTSTAMP:20261123T070905Z
+DTSTART;TZID=America/New_York:20261123T173000
+DURATION:PT2H
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11232026-575?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11232026-575?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:da75804eb0a1e6367711@granite-docket
+DTSTAMP:20261103T093022Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Budget / CIP
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/B
+ udget/2012/minutes/BUDMN120126.pdf
+DESCRIPTION:Minutes: BUDMN120126.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Budget/2012/minutes/BUDMN120126.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+END:VCALENDAR

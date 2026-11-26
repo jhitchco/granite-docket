@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nelson Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Nelson\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:181e7ed37a93cde197a3@granite-docket
+DTSTAMP:20261103T124241Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Town meeting / warrant
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/10-6-2026-Selectmens-Minutes-
+ Lead-Mine-Road.pdf
+DESCRIPTION:Minutes: 10-6-2026 Selectmen’s Minutes-Lead Mine Road\nhttp:/
+ /minutes.townofnelson.org/documents/10-6-2026-Selectmens-Minutes-Lead-Mine
+ -Road.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4301539a6c2e51597bf2@granite-docket
+DTSTAMP:20261103T124241Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Town meeting / warrant
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/10-7-2026-Selectmens-Minutes.
+ pdf
+DESCRIPTION:Minutes: 10-7-2026 Selectmen’s Minutes\nhttp://minutes.townof
+ nelson.org/documents/10-7-2026-Selectmens-Minutes.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d92a4dc8dfaf3228dd@granite-docket
+DTSTAMP:20261103T124240Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Nelson Town meeting / warrant
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/10-14-2026-Selectmens-Minutes
+ .pdf
+DESCRIPTION:Minutes: 10-14-2026 Selectmen’s Minutes\nhttp://minutes.towno
+ fnelson.org/documents/10-14-2026-Selectmens-Minutes.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:08989a58aa87677ed770@granite-docket
+DTSTAMP:20261103T124239Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Town meeting / warrant
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/10-21-2026-Selectmens-Minutes
+ -1.pdf
+DESCRIPTION:Minutes: 10-21-2026 Selectmen’s Minutes\nhttp://minutes.towno
+ fnelson.org/documents/10-21-2026-Selectmens-Minutes-1.pdf\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4252a3d1fa95e74a5816@granite-docket
+DTSTAMP:20261103T124238Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Town meeting / warrant
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/10-28-2026-Selectmens-Minutes
+ .pdf
+DESCRIPTION:Minutes: 10-28-2026 Selectmen’s Minutes\nhttp://minutes.towno
+ fnelson.org/documents/10-28-2026-Selectmens-Minutes.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2158471576ed102299ee@granite-docket
+DTSTAMP:20261123T100404Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Town meeting / warrant
+LOCATION:Nelson\, NH
+URL:http://www.townofnelson.org/wp-content/uploads/2026/10/State-of-NH-Elec
+ tion-Warrant-Nov.-3-2026.pdf
+DESCRIPTION:Warrant: State of NH Election Warrant – Nov. 3\, 2026\nhttp:/
+ /www.townofnelson.org/wp-content/uploads/2026/10/State-of-NH-Election-Warr
+ ant-Nov.-3-2026.pdf\n\nMinutes: 11-03-2026 Selectmen’s Minutes\nhttp://m
+ inutes.townofnelson.org/documents/11-03-2026-Selectmens-Minutes.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1f0afea37322dadd165b@granite-docket
+DTSTAMP:20261123T100403Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Town meeting / warrant
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/11-11-2026-Selectmens-Minutes
+ .pdf
+DESCRIPTION:Minutes: 11-11-2026 Selectmen’s Minutes\nhttp://minutes.towno
+ fnelson.org/documents/11-11-2026-Selectmens-Minutes.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe5a568d0eedd7dc2bf@granite-docket
+DTSTAMP:20261123T100403Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Nelson Town meeting / warrant
+LOCATION:Nelson\, NH
+URL:http://minutes.townofnelson.org/documents/11-18-2026-Selectmens-Minutes
+ .pdf
+DESCRIPTION:Minutes: 11-18-2026 Selectmen’s Minutes\nhttp://minutes.towno
+ fnelson.org/documents/11-18-2026-Selectmens-Minutes.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

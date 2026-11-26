@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Claremont Select board / council
+X-WR-CALDESC:Select board / council meetings in Claremont\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b2a3606d590e72e63de6@granite-docket
+DTSTAMP:20261103T092314Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Select board / council
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/CP 2026-10-28_1793021768.pdf
+DESCRIPTION:Agenda: 2026-10-28 Council Packet\nhttps://www.claremontnh.com/
+ corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-10-28_1793021768
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:124728fa6aa20bfc92af@granite-docket
+DTSTAMP:20261116T070944Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Select board / council
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/CP 2026-11-10_1794321309.pdf
+DESCRIPTION:Agenda: 2026-11-10 Council Packet Part 1\nhttps://www.claremont
+ nh.com/corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-11-10_179
+ 4321309.pdf\n\nAgenda: 2026-11-10 Council Packet Part 2\nhttps://www.clare
+ montnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-11-10
+  Part 2_1794321591.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5e62a24472b0923f156e@granite-docket
+DTSTAMP:20261116T071023Z
+DTSTART;TZID=America/New_York:20261117T120000
+DURATION:PT2H
+SUMMARY:Claremont Select board / council
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/AGENDA_DRAFT_CCMC Board Meeting 11-17-2026_1794575154.pdf
+DESCRIPTION:Agenda: 11 17 26 CCMC AGENDA\nhttps://www.claremontnh.com/corec
+ ode/uploads/document6/uploaded_pdfs/corecode/AGENDA_DRAFT_CCMC Board Meeti
+ ng 11-17-2026_1794575154.pdf\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

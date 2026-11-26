@@ -1,0 +1,444 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atkinson NH meetings
+X-WR-CALDESC:Public meetings of Atkinson\, NH boards\, from posted agendas 
+ and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e918edfe21e1b7219c1e@granite-docket
+DTSTAMP:20261103T101016Z
+DTSTART;TZID=America/New_York:20260927T130000
+DURATION:PT2H
+SUMMARY:Atkinson State Election - Ballot Tabulator Testing
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_0
+ 9272026-413
+DESCRIPTION:Agenda: State Election - Ballot Tabulator Testing\nhttps://www.
+ town-atkinsonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_09272026-413\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1819528ba693b34e5938@granite-docket
+DTSTAMP:20261103T100425Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_09292026-
+ 260
+DESCRIPTION:Agenda: Budget Committee Agenda Sep 29\, 2026 Budget Committee 
+ Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda
+ /_09292026-260\n\nMinutes: Budget Committee Minutes Sep 29\, 2026 Budget C
+ ommittee Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFi
+ le/Minutes/_09292026-260\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:825ba6063e073603b641@granite-docket
+DTSTAMP:20261103T100343Z
+DTSTART;TZID=America/New_York:20260929T170000
+DURATION:PT2H
+SUMMARY:Atkinson Town meeting / warrant
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_09292026-
+ 257
+DESCRIPTION:Agenda: Board of Selectmen Agenda Sep 29\, 2026 Board of Select
+ men Special Meeting Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCe
+ nter/ViewFile/Agenda/_09292026-257\n\nMinutes: Board of Selectmen Minutes 
+ Sep 29\, 2026 Board of Selectmen Special Meeting Agenda (PDF)\nhttps://www
+ .town-atkinsonnh.com/AgendaCenter/ViewFile/Minutes/_09292026-257\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:03683b4f47692856d81f@granite-docket
+DTSTAMP:20261103T100343Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Atkinson Select board / council
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10052026-
+ 263
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 5\, 2026 Board of Selectm
+ en Regular Meeting Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCen
+ ter/ViewFile/Agenda/_10052026-263\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:86de3ee9dd76b95dc398@granite-docket
+DTSTAMP:20261103T100425Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10062026-
+ 262
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 6\, 2026 Budget Committee A
+ genda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/
+ _10062026-262\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dae5e52bb36516a85e6f@granite-docket
+DTSTAMP:20261103T100424Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10132026-
+ 267
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 13\, 2026 Budget Committee 
+ Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda
+ /_10132026-267\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:17e01ab16eb3e50cffb8@granite-docket
+DTSTAMP:20261103T100914Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Atkinson Zoning / ZBA
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10142026-
+ 264
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 14\, 2026 Zoning 
+ Board Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/
+ Agenda/_10142026-264\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:05a29839ac0e07d43612@granite-docket
+DTSTAMP:20261103T103206Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Foliage Trip 2026 (PDF)
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/DocumentCenter/View/3665/26-Foliage-Tri
+ p-Turkey-Train-10152026
+DESCRIPTION:Minutes: Foliage Trip 2026 (PDF)\nhttps://www.town-atkinsonnh.c
+ om/DocumentCenter/View/3665/26-Foliage-Trip-Turkey-Train-10152026\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:72ba2800ef33df499603@granite-docket
+DTSTAMP:20261103T100436Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10152026-
+ 265
+DESCRIPTION:Agenda: Capital Improvement Program Committee Agenda Oct 15\, 2
+ 026 Capital Improvement Program Committee Agen\nhttps://www.town-atkinsonn
+ h.com/AgendaCenter/ViewFile/Agenda/_10152026-265\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c45164ffeed327603e5b@granite-docket
+DTSTAMP:20261103T100800Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Atkinson Planning board
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10152026-
+ 266
+DESCRIPTION:Agenda: Recreation Commission Agenda Oct 15\, 2026 Recreation C
+ ommission Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_10152026-266\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f540381fcb6827000b@granite-docket
+DTSTAMP:20261103T100342Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Atkinson Select board / council
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10192026-
+ 269
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 19\, 2026 Board of Select
+ men Regular Meeting Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCe
+ nter/ViewFile/Agenda/_10192026-269\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2649023bf7a80b038dfa@granite-docket
+DTSTAMP:20261103T100424Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10202026-
+ 270
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 20\, 2026 Budget Committee 
+ Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda
+ /_10202026-270\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea2848c79ab9e95d38b@granite-docket
+DTSTAMP:20261103T100643Z
+DTSTART;TZID=America/New_York:20261021T183000
+DURATION:PT2H
+SUMMARY:Atkinson Planning board
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10212026-
+ 268
+DESCRIPTION:Agenda: Planning Board Agenda Oct 21\, 2026 Planning Board Agen
+ da (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10
+ 212026-268\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f5ccfb4d31b2d609ce0@granite-docket
+DTSTAMP:20261103T100849Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:Atkinson Select board / council
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10222026-
+ 272
+DESCRIPTION:Agenda: Water Resource Committee Agenda Oct 22\, 2026 Water Res
+ ource Committee Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter
+ /ViewFile/Agenda/_10222026-272\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e475bc2c869aab0ef8@granite-docket
+DTSTAMP:20261103T100258Z
+DTSTART;TZID=America/New_York:20261026T100000
+DURATION:PT2H
+SUMMARY:Atkinson Select board / council
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10262026-
+ 274
+DESCRIPTION:Agenda: Atkinson Public Notices Agenda Oct 26\, 2026 State Elec
+ tion - Counting Official Ballots Pre-Election\nhttps://www.town-atkinsonnh
+ .com/AgendaCenter/ViewFile/Agenda/_10262026-274\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d2cc09c171c81abc30d@granite-docket
+DTSTAMP:20261103T100257Z
+DTSTART;TZID=America/New_York:20261027T130000
+DURATION:PT2H
+SUMMARY:Atkinson Atkinson Public Notices Agenda Oct 27\, 2026 State Electio
+ n - Ballot Ta
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10272026-
+ 273
+DESCRIPTION:Agenda: Atkinson Public Notices Agenda Oct 27\, 2026 State Elec
+ tion - Ballot Tabulator Testing\nhttps://www.town-atkinsonnh.com/AgendaCen
+ ter/ViewFile/Agenda/_10272026-273\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b701728fa9862e360379@granite-docket
+DTSTAMP:20261103T100424Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10272026-
+ 271
+DESCRIPTION:Agenda: Budget Committee Agenda Oct 27\, 2026 Budget Committee 
+ Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda
+ /_10272026-271\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3758d440223e2cf5bb4@granite-docket
+DTSTAMP:20261103T100559Z
+DTSTART;TZID=America/New_York:20261028T190000
+DURATION:PT2H
+SUMMARY:Atkinson Conservation commission
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_10282026-
+ 278
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 28\, 2026 Conservati
+ on Commission Regular Meeting Agenda (PDF)\nhttps://www.town-atkinsonnh.co
+ m/AgendaCenter/ViewFile/Agenda/_10282026-278\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9278b128cd5e05cabcc3@granite-docket
+DTSTAMP:20261103T101144Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Atkinson Select board / council
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11022026-
+ 281
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 2\, 2026 Board of Selectm
+ en Regular Meeting Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCen
+ ter/ViewFile/Agenda/_11022026-281\n\nAgenda: Board of Selectmen Regular Me
+ eting Agenda\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Archiv
+ edAgenda/_11022026-429\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b1600dff24d3244313a7@granite-docket
+DTSTAMP:20261103T100257Z
+DTSTART;TZID=America/New_York:20261103T090000
+DURATION:PT2H
+SUMMARY:Atkinson Atkinson Public Notices Agenda Nov 3\, 2026 State Election
+  - Absentee B
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11032026-
+ 275
+DESCRIPTION:Agenda: Atkinson Public Notices Agenda Nov 3\, 2026 State Elect
+ ion - Absentee Ballots will be processed begin\nhttps://www.town-atkinsonn
+ h.com/AgendaCenter/ViewFile/Agenda/_11032026-275\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0e31f87be4a5c5c9462@granite-docket
+DTSTAMP:20261103T100423Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11032026-
+ 279
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 3\, 2026 Budget Committee A
+ genda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/
+ _11032026-279\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d601bee1b6496af0c09@granite-docket
+DTSTAMP:20261103T100643Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Atkinson Planning board
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11042026-
+ 280
+DESCRIPTION:Agenda: Planning Board Agenda Nov 4\, 2026 Planning Board Agend
+ a (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_110
+ 42026-280\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1841bc955855123ac2c8@granite-docket
+DTSTAMP:20261109T083634Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11052026-
+ 279
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 5\, 2026 Budget Committee A
+ genda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/
+ _11052026-279\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dcbcc37b671f761767db@granite-docket
+DTSTAMP:20261109T083644Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Trustees of the Trust Funds Agenda Nov 6\, 2026 Trustees o
+ f the Trust F
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11062026-
+ 283
+DESCRIPTION:Agenda: Trustees of the Trust Funds Agenda Nov 6\, 2026 Trustee
+ s of the Trust Funds Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaC
+ enter/ViewFile/Agenda/_11062026-283\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7a22e41f97df40d208@granite-docket
+DTSTAMP:20261109T083654Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Trustees of the Trust Funds Minutes Nov 6\, 2026 Trustees 
+ of the Trust 
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Minutes/_11062026
+ -283
+DESCRIPTION:Minutes: Trustees of the Trust Funds Minutes Nov 6\, 2026 Trust
+ ees of the Trust Funds Agenda (PDF)\nhttps://www.town-atkinsonnh.com/Agend
+ aCenter/ViewFile/Minutes/_11062026-283\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4044ddc59bc38720fad4@granite-docket
+DTSTAMP:20261109T083624Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Budget / CIP
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11102026-
+ 282
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 10\, 2026 Budget Committee 
+ Agenda (PDF)\nhttps://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda
+ /_11102026-282\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc6daebc62feb9e14632@granite-docket
+DTSTAMP:20261116T095252Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Atkinson Historic district
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/518/Veterans-Day-Program
+DESCRIPTION:Other: Veterans Day Program\nhttps://www.town-atkinsonnh.com/51
+ 8/Veterans-Day-Program\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbfb189ffc45f01eedfd@granite-docket
+DTSTAMP:20261116T083840Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Atkinson Select board / council
+LOCATION:Atkinson\, NH
+URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/Agenda/_11162026-
+ 284
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 16\, 2026 Board of Select
+ men Regular Meeting Agenda\nhttps://www.town-atkinsonnh.com/AgendaCenter/V
+ iewFile/Agenda/_11162026-284\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gilmanton Select board / council
+X-WR-CALDESC:Select board / council meetings in Gilmanton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:214f12a1e6c87e7ebc36@granite-docket
+DTSTAMP:20261116T095616Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Select board / council
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-402
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 5\, 2026 Board of Selectm
+ en Meeting Agenda\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10052026-402\n\nAgenda: Board of Selectmen Meeting Agenda\nhttps://www.
+ gilmantonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-330\n\nAgen
+ da: Board of Selectmen Meeting Agenda\nhttps://www.gilmantonnh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_10052026-328\n\nAgenda: Board of Selectmen 
+ Meeting Agenda\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFile/Archived
+ Agenda/_10052026-327\n\nAgenda: Packet\nhttps://www.gilmantonnh.gov/Agenda
+ Center/ViewFile/ArchivedAgenda/_10052026-327?packet=true\n\nMinutes: Board
+  of Selectmen Minutes Oct 5\, 2026 Board of Selectmen Meeting Agenda\nhttp
+ s://www.gilmantonnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-402\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3db580ebdbb692e7ad47@granite-docket
+DTSTAMP:20261103T113424Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Gilmanton Select board / council
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/DocumentCenter/View/3809/2027-Board-of-Sele
+ ctmen-Schedule
+DESCRIPTION:Other: 2027 Board of Selectmen Schedule\nhttps://www.gilmantonn
+ h.gov/DocumentCenter/View/3809/2027-Board-of-Selectmen-Schedule\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee8a1a157782396e00c0@granite-docket
+DTSTAMP:20261103T111929Z
+DTSTART;TZID=America/New_York:20261026T100000
+DURATION:PT2H
+SUMMARY:Gilmanton Select board / council
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-380?
+ packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_10262026-380?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:46ba0a8d3e42aa8f926a@granite-docket
+DTSTAMP:20261109T102306Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Gilmanton Select board / council
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-424
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 2\, 2026 Board of Selectm
+ en Meeting Agenda - Old Town Hall\, 1800 NH Rte\nhttps://www.gilmantonnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11022026-424\n\nOther: 2027 Board of Sele
+ ctmen Proposed Budget to the Budget Committee\nhttps://www.gilmantonnh.gov
+ /DocumentCenter/View/3814/FY2027-Board-of-Selectmen-Proposed-Budget---V6-B
+ udget-Committee-11-02-26\n\nOther: 2027 Board of Selectmen Proposed Budget
+  to the Budget Committee\nhttps://www.gilmantonnh.gov/DocumentCenter/View/
+ 3827/FY2027-Board-of-Selectmen-Proposed-Budget---V7-Budget-Committee-11-02
+ -26\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:95cd46f3596e9ebdbceb@granite-docket
+DTSTAMP:20261116T095606Z
+DTSTART;TZID=America/New_York:20261116T170000
+DURATION:PT2H
+SUMMARY:Gilmanton Select board / council
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-429
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 16\, 2026 Board of Select
+ men Meeting *Due to technical issues\, the publ\nhttps://www.gilmantonnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11162026-429\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a035fa434d69188db66@granite-docket
+DTSTAMP:20261103T111926Z
+DTSTART;TZID=America/New_York:20270113T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Select board / council
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_01132027-410
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Public Hearing - Oper
+ ating Budget Town & School\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewF
+ ile/Agenda/_01132027-410\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2d6420f40af6c4430eb8@granite-docket
+DTSTAMP:20261103T111926Z
+DTSTART;TZID=America/New_York:20270114T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Select board / council
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_01142027-411
+DESCRIPTION:Agenda: Budget Committee Agenda - Rain/Snow Date for Public Hea
+ ring - Operating Budget Town & School\nhttps://www.gilmantonnh.gov/AgendaC
+ enter/ViewFile/Agenda/_01142027-411\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

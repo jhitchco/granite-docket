@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Epping Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Epping\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ebdaed9e025c994a2283@granite-docket
+DTSTAMP:20261103T100406Z
+DTSTART;TZID=America/New_York:20261028T180000
+DURATION:PT2H
+SUMMARY:Epping Zoning / ZBA
+LOCATION:Epping\, NH
+URL:https://www.eppingnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-97
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda\nhttps://www.eppingnh
+ .gov/AgendaCenter/ViewFile/Agenda/_10282026-97\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac3600f18ba4ec15846f@granite-docket
+DTSTAMP:20261109T091115Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Epping Zoning / ZBA
+LOCATION:Epping\, NH
+URL:https://www.eppingnh.gov/DocumentCenter/View/1142/11-3-2026-Sample-Ball
+ ot
+DESCRIPTION:Other: Click Here for Sample Ballot\nhttps://www.eppingnh.gov/D
+ ocumentCenter/View/1142/11-3-2026-Sample-Ballot\n\nOther: General Election
+  Results Click Here for General Election 2026 Results Home Posted on Novem
+ ber 03\, 20\nhttps://www.eppingnh.gov/DocumentCenter/View/1150/General-Ele
+ ction-Results-2026\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff61418b07b176e24f1@granite-docket
+DTSTAMP:20261123T090926Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+TRANSP:TRANSPARENT
+SUMMARY:Epping Zoning / ZBA
+LOCATION:Epping\, NH
+URL:https://www.eppingnh.gov/DocumentCenter/View/1152/Epping-Energy-Committ
+ ee-Home-Savings
+DESCRIPTION:Other: Home Energy Savings CLICK HERE FOR SAVINGS Home Posted o
+ n November 19\, 2026\nhttps://www.eppingnh.gov/DocumentCenter/View/1152/Ep
+ ping-Energy-Committee-Home-Savings\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f2badd49aa6b60409e3@granite-docket
+DTSTAMP:20261123T090916Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+TRANSP:TRANSPARENT
+SUMMARY:Epping Zoning / ZBA
+LOCATION:Epping\, NH
+URL:https://www.eppingnh.gov/DocumentCenter/View/1153/TA-vs-TM-FAQs
+DESCRIPTION:Other: TA vs TM FAQs Click Here for Frequently Asked Questions 
+ Home Posted on November 20\, 2026\nhttps://www.eppingnh.gov/DocumentCenter
+ /View/1153/TA-vs-TM-FAQs\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

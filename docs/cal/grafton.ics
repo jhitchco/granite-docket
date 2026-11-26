@@ -1,0 +1,355 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grafton NH meetings
+X-WR-CALDESC:Public meetings of Grafton\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1c2086ea95b5f8b9a530@granite-docket
+DTSTAMP:20261123T100415Z
+DTSTART;TZID=America/New_York:20260929T180300
+DURATION:PT2H
+SUMMARY:Grafton Budget / CIP
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_0
+ 9292026-20
+DESCRIPTION:Agenda: 9/29/26 Meeting - DRAFT\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/ArchivedAgenda/_09292026-20\n\nMinutes: Sep 29\, 2
+ 026 9/29/26 Meeting - DRAFT\nhttps://www.townofgraftonnh.com/AgendaCenter/
+ ViewFile/ArchivedMinutes/_09292026-20\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:527096e100275f2654d5@granite-docket
+DTSTAMP:20261103T121752Z
+DTSTART;TZID=America/New_York:20260929T180300
+DURATION:PT2H
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_09292026-
+ 200
+DESCRIPTION:Agenda: 9/29/26 Meeting - DRAFT\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/Agenda/_09292026-200\n\nMinutes: Sep 29\, 2026 9/2
+ 9/26 Meeting - DRAFT\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFil
+ e/Minutes/_09292026-200\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:800cd1b939de434187a5@granite-docket
+DTSTAMP:20261103T121715Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10062026-
+ 199
+DESCRIPTION:Agenda: Board of Selectmen Meeting Agenda (PDF)\nhttps://www.to
+ wnofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10062026-199\n\nMinutes: O
+ ct 6\, 2026 Board of Selectmen Meeting Agenda (PDF)\nhttps://www.townofgra
+ ftonnh.com/AgendaCenter/ViewFile/Minutes/_10062026-199\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d3867bcd02f0a1a70d63@granite-docket
+DTSTAMP:20261103T121714Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10072026-
+ 212
+DESCRIPTION:Agenda: PDF\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_10072026-212\n\nAgenda: Packet\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/Agenda/_10072026-212?packet=true\n\nMinutes: Oct 7
+ \, 2026 Selectmen's Meeting Material (No Agenda)\nhttps://www.townofgrafto
+ nnh.com/AgendaCenter/ViewFile/Minutes/_10072026-212\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:12148c8f4b3e2d9c950e@granite-docket
+DTSTAMP:20261103T121932Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10082026-
+ 206
+DESCRIPTION:Agenda: PDF\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_10082026-206\n\nAgenda: Packet\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/Agenda/_10082026-206?packet=true\n\nMinutes: Oct 8
+ \, 2026 Recreation Committee Meeting Material (No Agenda)\nhttps://www.tow
+ nofgraftonnh.com/AgendaCenter/ViewFile/Minutes/_10082026-206\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:cd4d88d79d045d6d9d52@granite-docket
+DTSTAMP:20261103T121751Z
+DTSTART;TZID=America/New_York:20261012T080400
+DURATION:PT2H
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10122026-
+ 213
+DESCRIPTION:Agenda: PDF\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_10122026-213\n\nAgenda: Budget Committee Meeting with Select B
+ oard\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_101220
+ 26-211\n\nAgenda: Packet\nhttps://www.townofgraftonnh.com/AgendaCenter/Vie
+ wFile/Agenda/_10122026-213?packet=true\n\nMinutes: Oct 12\, 2026 Selectmen
+ 's Meeting Material (No Agenda)\nhttps://www.townofgraftonnh.com/AgendaCen
+ ter/ViewFile/Minutes/_10122026-213\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:43c2598acb22770fe9b2@granite-docket
+DTSTAMP:20261123T100215Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10142026-
+ 214
+DESCRIPTION:Agenda: Cemetery Trustee Meeting\nhttps://www.townofgraftonnh.c
+ om/AgendaCenter/ViewFile/Agenda/_10142026-214\n\nAgenda: PDF\nhttps://www.
+ townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10142026-218\n\nAgenda: 
+ Packet\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_1014
+ 2026-218?packet=true\n\nMinutes: Oct 14\, 2026 Trustees of the Trust Funds
+  Meeting Material (No Agenda)\nhttps://www.townofgraftonnh.com/AgendaCente
+ r/ViewFile/Minutes/_10142026-218\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1238d4693314dd53196e@granite-docket
+DTSTAMP:20261103T122035Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Recreation Committee Meeting Material (No Agenda)
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0202026-11
+DESCRIPTION:Agenda: Recreation Committee Meeting Material (No Agenda)\nhttp
+ s://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_10202026
+ -11\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d6930d4ea06528710a8@granite-docket
+DTSTAMP:20261103T122035Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Packet
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0202026-11?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.townofgraftonnh.com/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_10202026-11?packet=true\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e7afe383610538eb776c@granite-docket
+DTSTAMP:20261123T095605Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10202026-
+ 210
+DESCRIPTION:Agenda: Board of Selectmen Meeting Agenda (PDF)\nhttps://www.to
+ wnofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10202026-210\n\nMinutes: O
+ ct 20\, 2026 Board of Selectmen Meeting Agenda (PDF)\nhttps://www.townofgr
+ aftonnh.com/AgendaCenter/ViewFile/Minutes/_10202026-210\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1dbc97c9f2d3f8f976@granite-docket
+DTSTAMP:20261103T122738Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/244/Recycle-Center-Fees
+DESCRIPTION:Other: Recycle Center Fees\nhttps://www.townofgraftonnh.com/244
+ /Recycle-Center-Fees\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d9f74802307435d77f@granite-docket
+DTSTAMP:20261103T121940Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10242026-
+ 216
+DESCRIPTION:Agenda: PDF\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_10242026-216\n\nAgenda: Packet\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/Agenda/_10242026-216?packet=true\n\nMinutes: Oct 2
+ 4\, 2026 Supervisors of the Checklist Meeting Material (No Agenda)\nhttps:
+ //www.townofgraftonnh.com/AgendaCenter/ViewFile/Minutes/_10242026-216\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:035aff33eeed625fd4a7@granite-docket
+DTSTAMP:20261123T100305Z
+DTSTART;TZID=America/New_York:20261027T080400
+DURATION:PT2H
+SUMMARY:Public hearing: Grafton Budget / CIP
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0272026-19
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://www.townofgraftonnh.c
+ om/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-19\n\nAgenda: Budget Com
+ mittee Meeting\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFile/Arch
+ ivedAgenda/_10272026-15\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:29a91fafb53d306565d9@granite-docket
+DTSTAMP:20261123T095705Z
+DTSTART;TZID=America/New_York:20261027T180100
+DURATION:PT2H
+SUMMARY:Public hearing: Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10272026-
+ 226
+DESCRIPTION:Agenda: PDF\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_10272026-226\n\nAgenda: Budget Committee Meeting\nhttps://www.
+ townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10272026-219\n\nAgenda: 
+ Packet\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_1027
+ 2026-226?packet=true\n\nMinutes: Oct 27\, 2026 Selectmen's Meeting Materia
+ l (No Agenda)\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFile/Minut
+ es/_10272026-226\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f304eaae196607de32ec@granite-docket
+DTSTAMP:20261123T100055Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_10302026-
+ 223
+DESCRIPTION:Agenda: PDF\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_10302026-223\n\nAgenda: Packet\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/Agenda/_10302026-223?packet=true\n\nMinutes: Oct 3
+ 0\, 2026 Supervisors of the Checklist Meeting Material (No Agenda)\nhttps:
+ //www.townofgraftonnh.com/AgendaCenter/ViewFile/Minutes/_10302026-223\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bcf52155cef6cd99aaab@granite-docket
+DTSTAMP:20261123T095905Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_11042026-
+ 217
+DESCRIPTION:Agenda: PDF\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_11042026-217\n\nAgenda: Packet\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/Agenda/_11042026-217?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4712726a844b5f6f737@granite-docket
+DTSTAMP:20261123T095515Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_11092026-
+ 227
+DESCRIPTION:Agenda: PDF\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewF
+ ile/Agenda/_11092026-227\n\nAgenda: Packet\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/Agenda/_11092026-227?packet=true\n\nMinutes: Nov 9
+ \, 2026 Selectmen's Meeting Material (No Agenda)\nhttps://www.townofgrafto
+ nnh.com/AgendaCenter/ViewFile/Minutes/_11092026-227\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e3dc26dfc9f17c9947@granite-docket
+DTSTAMP:20261123T095645Z
+DTSTART;TZID=America/New_York:20261110T180200
+DURATION:PT2H
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_11102026-
+ 224
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://www.townofgraftonnh.c
+ om/AgendaCenter/ViewFile/Agenda/_11102026-224\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5d42989d5e796230f1ff@granite-docket
+DTSTAMP:20261123T095435Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Select board / council
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_11172026-
+ 225
+DESCRIPTION:Agenda: Board of Selectmen Meeting Agenda (PDF)\nhttps://www.to
+ wnofgraftonnh.com/AgendaCenter/ViewFile/Agenda/_11172026-225\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:5f3d6d6f6774edcbde4c@granite-docket
+DTSTAMP:20261123T100455Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+SUMMARY:Grafton Planning board
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1272026-17
+DESCRIPTION:Agenda: Capital Improvement Planning Committee Meeting Material
+  (No Agenda)\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFile/Archiv
+ edAgenda/_11272026-17\n\nAgenda: Packet\nhttps://www.townofgraftonnh.com/A
+ gendaCenter/ViewFile/ArchivedAgenda/_11272026-17?packet=true\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+END:VCALENDAR

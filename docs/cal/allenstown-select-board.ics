@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Allenstown Select board / council
+X-WR-CALDESC:Select board / council meetings in Allenstown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fd0b87a726abbcae3f6c@granite-docket
+DTSTAMP:20261103T110643Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Allenstown Select board / council
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-371
+DESCRIPTION:Agenda: Board Of Selectmen Agenda Oct 5\, 2026 Board of Selectm
+ en Agenda 10.5.26\nhttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Agen
+ da/_10052026-371\n\nNotice: TOWN HALL IS MOVING TO A NEW LOCATION Town New
+ s and Announcements Posted on October 05\, 2026\nhttps://www.allenstownnh.
+ gov/DocumentCenter/View/19773/TOWN-HALL-Move\n\nMinutes: Board Of Selectme
+ n Minutes Oct 5\, 2026 Board of Selectmen Agenda 10.5.26\nhttps://www.alle
+ nstownnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-371\n\nMinutes: Oct 5
+ \, 2026 Board of Selectmen Agenda 10.5.26\nhttps://www.allenstownnh.gov/Ag
+ endaCenter/ViewFile/ArchivedMinutes/_10052026-320\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0639d05f9f0aa9d6ea03@granite-docket
+DTSTAMP:20261103T104436Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Allenstown Select board / council
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-374
+DESCRIPTION:Agenda: Board Of Selectmen Agenda Oct 19\, 2026 Board of Select
+ men Agenda 10.19.26\nhttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Ag
+ enda/_10192026-374\n\nMinutes: Board Of Selectmen Minutes Oct 19\, 2026 Bo
+ ard of Selectmen Agenda 10.19.26\nhttps://www.allenstownnh.gov/AgendaCente
+ r/ViewFile/Minutes/_10192026-374\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e81738991dface0f4103@granite-docket
+DTSTAMP:20261116T085817Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Allenstown Select board / council
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-376
+DESCRIPTION:Agenda: Board Of Selectmen Agenda Nov 2\, 2026 Board of Selectm
+ en Agenda 11.2.26\nhttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Agen
+ da/_11022026-376\n\nMinutes: Board Of Selectmen Minutes Nov 2\, 2026 Board
+  of Selectmen Agenda 11.2.26\nhttps://www.allenstownnh.gov/AgendaCenter/Vi
+ ewFile/Minutes/_11022026-376\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:afa72f0b8d3c80e461a1@granite-docket
+DTSTAMP:20261116T093637Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Allenstown Select board / council
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/DocumentCenter/View/19855/2Flyer_CRFP_Holi
+ day-Project_2026
+DESCRIPTION:Other: Capital Region Food Program's 2026 Holiday Project Town 
+ News and Announcements Posted on November 10\nhttps://www.allenstownnh.gov
+ /DocumentCenter/View/19855/2Flyer_CRFP_Holiday-Project_2026\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:584941f50ceefd26ac72@granite-docket
+DTSTAMP:20261116T085937Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Allenstown Select board / council
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-380
+DESCRIPTION:Agenda: Board Of Selectmen Agenda Nov 16\, 2026 Board of Select
+ men Agenda 11.16.26\nhttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Ag
+ enda/_11162026-380\n\nNotice: Allenstown Hazard Mitigation Committee Publi
+ c Information Meeting Additional Info...\nhttps://www.allenstownnh.gov/Doc
+ umentCenter/View/19856/Allenstown-Hazard-Mitigation-Committee-Public-Meeti
+ ng-Notice-11-16-26\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

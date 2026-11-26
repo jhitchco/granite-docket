@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Amherst Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Amherst\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2300dabf28d69beb4f00@granite-docket
+DTSTAMP:20261103T094557Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Amherst Budget / CIP
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_0928202
+ 6-184
+DESCRIPTION:Agenda: Ways & Means Meeting\nhttps://www.amherstnh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_09282026-184\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:109e0848cbdfebae4bf7@granite-docket
+DTSTAMP:20261103T094301Z
+DTSTART;TZID=America/New_York:20260930T160000
+DURATION:PT2H
+SUMMARY:Public hearing: Amherst Budget / CIP
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_0930202
+ 6-190
+DESCRIPTION:Agenda: Capital Improvements Plan Meeting Agenda\nhttps://www.a
+ mherstnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09302026-190\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:05d24eb22d36d7bf41a6@granite-docket
+DTSTAMP:20261103T095223Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Amherst Budget / CIP
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/DocumentCenter/View/5652/FY28-Budget-Timeline
+ -Revised-10072026
+DESCRIPTION:Minutes: FY28 Budget Timeline\, Revised 10.07.2026\nhttps://www
+ .amherstnh.gov/DocumentCenter/View/5652/FY28-Budget-Timeline-Revised-10072
+ 026\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d65cc9a8eb7d2037e70f@granite-docket
+DTSTAMP:20261116T082430Z
+DTSTART;TZID=America/New_York:20261210T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Amherst Budget / CIP
+LOCATION:Amherst\, NH
+URL:https://www.amherstnh.gov/DocumentCenter/View/5803/NOTICE-OF-PUBLIC-HEA
+ RINGpdf
+DESCRIPTION:Notice: NOTICE OF PUBLIC HEARING.pdf\nhttps://www.amherstnh.gov
+ /DocumentCenter/View/5803/NOTICE-OF-PUBLIC-HEARINGpdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

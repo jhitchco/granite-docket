@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Allenstown Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Allenstown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f03295570d2b29226ea7@granite-docket
+DTSTAMP:20261103T104719Z
+DTSTART;TZID=America/New_York:20261020T110000
+DURATION:PT2H
+SUMMARY:Allenstown Zoning / ZBA
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-375
+DESCRIPTION:Agenda: Sewer Commission Agenda Oct 20\, 2026 Meeting Agenda\nh
+ ttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-375\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e846e027acc0f28a4c@granite-docket
+DTSTAMP:20261116T085917Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Allenstown Zoning / ZBA
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-381
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 5\, 2026 Zoning B
+ oard of Adjustment Agenda - 11.05.2026\nhttps://www.allenstownnh.gov/Agend
+ aCenter/ViewFile/Agenda/_11052026-381\n\nMinutes: Zoning Board of Adjustme
+ nt Minutes Nov 5\, 2026 Zoning Board of Adjustment Agenda - 11.05.2026\nht
+ tps://www.allenstownnh.gov/AgendaCenter/ViewFile/Minutes/_11052026-381\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f03a243ab20569eda4f4@granite-docket
+DTSTAMP:20261116T085827Z
+DTSTART;TZID=America/New_York:20261117T100000
+DURATION:PT2H
+SUMMARY:Allenstown Zoning / ZBA
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-382
+DESCRIPTION:Agenda: Sewer Commission Agenda Nov 17\, 2026 Meeting Agenda\nh
+ ttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-382\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+END:VCALENDAR

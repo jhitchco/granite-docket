@@ -1,0 +1,159 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gilsum NH meetings
+X-WR-CALDESC:Public meetings of Gilsum\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d5274796ac4451f1996c@granite-docket
+DTSTAMP:20261103T124212Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Gilsum Planning board
+LOCATION:Gilsum\, NH
+URL:https://gilsum-nh.gov/wp-content/uploads/2026/10/Planning-Board-Minutes
+ -of-September-30-2026.pdf
+DESCRIPTION:Minutes: 9.30.2026\nhttps://gilsum-nh.gov/wp-content/uploads/20
+ 26/10/Planning-Board-Minutes-of-September-30-2026.pdf\n\nOther: Gilsum Pla
+ nning Board Site Plan Review Application\nhttps://gilsum-nh.gov/wp-content
+ /uploads/2026/10/Gilsum-Planning-Board-Site-Plan-Review-Application-update
+ d.pdf\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:72f4c50f56b4c3d4d768@granite-docket
+DTSTAMP:20261103T124031Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Gilsum Select board / council
+LOCATION:Gilsum\, NH
+URL:https://gilsum-nh.gov/wp-content/uploads/2026/10/Selectmens-Minutes-for
+ -9-28-2026.pdf
+DESCRIPTION:Minutes: 10.25.2026 10.19.2026 10.05.2026 09.28.2026 09.21.2026
+  09.14.2026 08.31.2026 08.24.2026 08.17.2026 0\nhttps://gilsum-nh.gov/wp-c
+ ontent/uploads/2026/10/Selectmens-Minutes-for-9-28-2026.pdf\n\nMinutes: 10
+ .25.2026 10.19.2026 10.05.2026 09.28.2026 09.21.2026 09.14.2026 08.31.2026
+  08.24.2026 08.17.2026 0\nhttps://gilsum-nh.gov/wp-content/uploads/2026/07
+ /Selectmens-Minutes-for-July-6-2026.pdf\n\nMinutes: 10.25.2026 10.19.2026 
+ 10.05.2026 09.28.2026 09.21.2026 09.14.2026 08.31.2026 08.24.2026 08.17.20
+ 26 0\nhttps://gilsum-nh.gov/wp-content/uploads/2026/08/Selectmens-Minutes-
+ for-July-27-2026.pdf\n\nMinutes: 10.25.2026 10.19.2026 10.05.2026 09.28.20
+ 26 09.21.2026 09.14.2026 08.31.2026 08.24.2026 08.17.2026 0\nhttps://gilsu
+ m-nh.gov/wp-content/uploads/2026/07/Selectmens-Minutes-for-July-20-2026.pd
+ f\n\nMinutes: 10.25.2026 10.19.2026 10.05.2026 09.28.2026 09.21.2026 09.14
+ .2026 08.31.2026 08.24.2026 08.17.2026 0\nhttps://gilsum-nh.gov/wp-content
+ /uploads/2026/07/Selectmens-Minutes-for-July-13-2026.pdf\n\nMinutes: 10.25
+ .2026 10.19.2026 10.05.2026 09.28.2026 09.21.2026 09.14.2026 08.31.2026 08
+ .24.2026 08.17.2026 0\nhttps://gilsum-nh.gov/wp-content/uploads/2026/08/Se
+ lectmens-Minutes-for-August-3-2026.pdf\n\nMinutes: 10.25.2026 10.19.2026 1
+ 0.05.2026 09.28.2026 09.21.2026 09.14.2026 08.31.2026 08.24.2026 08.17.202
+ 6 0\nhttps://gilsum-nh.gov/wp-content/uploads/2026/11/Selectmen-Minutes-fo
+ r-October-26-2026.pdf\n\nMinutes: 10.25.2026 10.19.2026 10.05.2026 09.28.2
+ 026 09.21.2026 09.14.2026 08.31.2026 08.24.2026 08.17.2026 0\nhttps://gils
+ um-nh.gov/wp-content/uploads/2026/10/Selectmens-Minutes-for-October-5-2026
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a4bc5d4bcf843d6ed180@granite-docket
+DTSTAMP:20261123T100218Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Gilsum Historic district
+LOCATION:Gilsum\, NH
+URL:https://gilsum-nh.gov/wp-content/uploads/2026/11/Historical-Society-Min
+ utes-11-17-26.pdf
+DESCRIPTION:Minutes: 11.17.2026 10.20.2026 09.10.2026 07.21.2026 06.16.2026
+  05.19.2026 04.21.2026\nhttps://gilsum-nh.gov/wp-content/uploads/2026/11/H
+ istorical-Society-Minutes-11-17-26.pdf\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5cfae506778f60b164@granite-docket
+DTSTAMP:20261103T124144Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Gilsum Planning board
+LOCATION:Gilsum\, NH
+URL:https://gilsum-nh.gov/wp-content/uploads/2026/11/Draft_GilsumPBMinutes_
+ 10-28-26.pdf
+DESCRIPTION:Minutes: 10.28.2026\nhttps://gilsum-nh.gov/wp-content/uploads/2
+ 026/11/Draft_GilsumPBMinutes_10-28-26.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e38bf70836a168c6e68d@granite-docket
+DTSTAMP:20261123T100152Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Gilsum Select board / council
+LOCATION:Gilsum\, NH
+URL:https://gilsum-nh.gov/wp-content/uploads/2026/11/Selectmens-Minutes-for
+ -November-9-2026.pdf
+DESCRIPTION:Minutes: 11.09.2026 11.02.2026 10.25.2026 10.19.2026 10.05.2026
+  09.28.2026 09.21.2026 09.14.2026 08.31.2026 0\nhttps://gilsum-nh.gov/wp-c
+ ontent/uploads/2026/11/Selectmens-Minutes-for-November-9-2026.pdf\n\nMinut
+ es: 11.09.2026 11.02.2026 10.25.2026 10.19.2026 10.05.2026 09.28.2026 09.2
+ 1.2026 09.14.2026 08.31.2026 0\nhttps://gilsum-nh.gov/wp-content/uploads/2
+ 026/11/Selectmens-Minutes-for-November-2-2026.pdf\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c265f5825a09282c69ed@granite-docket
+DTSTAMP:20261123T100208Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Gilsum Budget / CIP
+LOCATION:Gilsum\, NH
+URL:https://gilsum-nh.gov/wp-content/uploads/2026/11/Budget-Com-meeting-11-
+ 12-2026.pdf
+DESCRIPTION:Minutes: 11.12.2026\nhttps://gilsum-nh.gov/wp-content/uploads/2
+ 026/11/Budget-Com-meeting-11-12-2026.pdf\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad570eff27c44d9c2320@granite-docket
+DTSTAMP:20261103T124215Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Gilsum Planning board
+LOCATION:Gilsum\, NH
+URL:https://gilsum-nh.gov/wp-content/uploads/2026/11/Draft_Gilsum-Site-Plan
+ -Review-Regulations.pdf
+DESCRIPTION:Notice: Site Plan Regulations\nhttps://gilsum-nh.gov/wp-content
+ /uploads/2026/11/Draft_Gilsum-Site-Plan-Review-Regulations.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

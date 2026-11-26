@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New London Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in New London\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0df0331aca9b18d99aa6@granite-docket
+DTSTAMP:20261103T114712Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Zoning / ZBA
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/ZBA_Meeting_Agenda_-_10-06-2026.pdf
+DESCRIPTION:Agenda: Zoning Board of Adjustments Meeting Agenda 10-06-2026\n
+ https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB
+ 7F549%7D/uploads/ZBA_Meeting_Agenda_-_10-06-2026.pdf\n\nNotice: 10-06-2026
+  ZBA Public Hearing Notice\nhttps://newlondon.nh.gov/vertical/sites/%7B26F
+ 9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/10-06-2026_Bar_Harbor_Bank__T
+ rust_-_26-05_-_PHN.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed5af4b6d57917067b4@granite-docket
+DTSTAMP:20261103T112610Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Zoning / ZBA
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/ZBA_Meeting_Agenda_-_10-20-2026.pdf
+DESCRIPTION:Agenda: Zoning Board of Adjustments Meeting Agenda: 10-20-2026\
+ nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECB
+ B7F549%7D/uploads/ZBA_Meeting_Agenda_-_10-20-2026.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e1dd0af9cd7cb21c17@granite-docket
+DTSTAMP:20261116T092744Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:New London Zoning / ZBA
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Draft_Cost-of-Living_Adjustment_(COLA)_Policy_-_v.2_-_
+ 11.5.26.pdf
+DESCRIPTION:Other: Cost-of-Living Adjustment (COLA) Policy - DRAFT\nhttps:/
+ /newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7
+ D/uploads/Draft_Cost-of-Living_Adjustment_(COLA)_Policy_-_v.2_-_11.5.26.pd
+ f\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3df20e899a82d4b34039@granite-docket
+DTSTAMP:20261103T111848Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:New London Zoning / ZBA
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/11-18-2025_-_Draft_HC_Minutes.pdf
+DESCRIPTION:Minutes: Housing Commission Draft Minutes 11-18-2026\nhttps://n
+ ewlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/
+ uploads/11-18-2025_-_Draft_HC_Minutes.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

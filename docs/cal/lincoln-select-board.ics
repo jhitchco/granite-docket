@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lincoln Select board / council
+X-WR-CALDESC:Select board / council meetings in Lincoln\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ea4a36148cbc82e49a52@granite-docket
+DTSTAMP:20261103T121745Z
+DTSTART;TZID=America/New_York:20260928T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Lincoln Select board / council
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-19
+ 5
+DESCRIPTION:Agenda: Select Board Meeting & Public Hearing(s)\nhttps://linco
+ lnnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-195\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:71835e0ce7d669e2e3de@granite-docket
+DTSTAMP:20261103T121741Z
+DTSTART;TZID=America/New_York:20261005T173000
+DURATION:PT2H
+SUMMARY:Lincoln Select board / council
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-20
+ 0
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://lincolnnh.gov/AgendaCente
+ r/ViewFile/ArchivedAgenda/_10052026-200\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3713377c16fd06af108f@granite-docket
+DTSTAMP:20261103T121736Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Lincoln Select board / council
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-21
+ 6
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://lincolnnh.gov/AgendaCente
+ r/ViewFile/ArchivedAgenda/_10192026-216\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:813c06a00c129829e713@granite-docket
+DTSTAMP:20261103T121734Z
+DTSTART;TZID=America/New_York:20261102T173000
+DURATION:PT2H
+SUMMARY:Lincoln Select board / council
+LOCATION:Lincoln\, NH
+URL:https://lincolnnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11022026-21
+ 7
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://lincolnnh.gov/AgendaCente
+ r/ViewFile/ArchivedAgenda/_11022026-217\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

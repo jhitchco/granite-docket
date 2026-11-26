@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portsmouth Planning board
+X-WR-CALDESC:Planning board meetings in Portsmouth\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b4e45b75eae9cc0a3ff1@granite-docket
+DTSTAMP:20261109T070828Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://www.portsmouthnh.gov/sites/default/files/2026-11/2026%20Parking
+ %20%26%20Traffic%20Safety%20Actions%20%26%20Minutes%20%28October%201%2C%20
+ 2026%29.pdf
+DESCRIPTION:Minutes: 2026 Parking & Traffic Safety Actions & Minutes (Octob
+ er 1\, 2026)\nhttps://www.portsmouthnh.gov/sites/default/files/2026-11/202
+ 6%20Parking%20%26%20Traffic%20Safety%20Actions%20%26%20Minutes%20%28Octobe
+ r%201%2C%202026%29.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa04c813879b098890ce@granite-docket
+DTSTAMP:20261103T143838Z
+DTSTART;TZID=America/New_York:20261006T140000
+DURATION:PT2H
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/TAC/10-6-2026+meeting/10-6-
+ 2026_tac_as.pdf
+DESCRIPTION:Agenda: Action Sheet\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/TAC/10-6-2026+meeting/10-6-2026_tac_as.pdf\n\nAgenda: Revised Agenda\nh
+ ttps://files.portsmouthnh.gov/agendas/2026/TAC/10-6-2026+meeting/10-6-2026
+ _tac_ag_REV.pdf\n\nOther: 140 West Road\nhttps://files.portsmouthnh.gov/fi
+ les/planning/apps/WestRd_140/WestRd_140_TAC_10062026.pdf\n\nOther: 64 Brid
+ ge Street\nhttps://files.portsmouthnh.gov/files/planning/apps/BridgeSt_64/
+ BridgeSt_64_TAC_10062026.pdf\n\nOther: 0 Ledgewood Drive\nhttps://files.po
+ rtsmouthnh.gov/files/planning/apps/LedgewoodDr_0/LedgewoodDr_0_TAC_1006202
+ 6.pdf\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6619f39dca6b31662d42@granite-docket
+DTSTAMP:20261103T143834Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/files/planning/apps/WoodburyAve_221/Wood
+ buryAve_221_TAC_10082026.pdf
+DESCRIPTION:Other: 221 Woodbury Avenue\nhttps://files.portsmouthnh.gov/file
+ s/planning/apps/WoodburyAve_221/WoodburyAve_221_TAC_10082026.pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:075be94b4bf485b45e39@granite-docket
+DTSTAMP:20261103T143827Z
+DTSTART;TZID=America/New_York:20261013T140000
+DURATION:PT2H
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/TAC/10-13-2026+TAC+WS/10-13
+ -2026_tacws_ag.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/TAC
+ /10-13-2026+TAC+WS/10-13-2026_tacws_ag.pdf\n\nOther: 200 Market St\nhttps:
+ //files.portsmouthnh.gov/files/planning/apps/MarketSt_200/MarketSt_200_TAC
+ WS_10132026.pdf\n\nOther: 28 Langdon St\, 5\nhttps://files.portsmouthnh.go
+ v/files/planning/apps/LangdonSt_28/LangdonSt_28_TACWS_10132026.pdf\n\nOthe
+ r: 635 Lincoln Ave\nhttps://files.portsmouthnh.gov/files/planning/apps/Lin
+ colnAve_635/LincolnAve_635_TACWS_10132026.pdf\n\nOther: 105 Bartlett St\nh
+ ttps://files.portsmouthnh.gov/files/planning/apps/BartlettSt_105/BartlettS
+ t_105_TACWS_10132026.pdf\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ff0b16e405018fa1edc@granite-docket
+DTSTAMP:20261123T070516Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/HDC/Back+Log+Uploads/10-14-
+ 26_HDC_as.pdf
+DESCRIPTION:Agenda: Action Sheet\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/HDC/Back+Log+Uploads/10-14-26_HDC_as.pdf\n\nAgenda: Agenda- Revised\nht
+ tps://files.portsmouthnh.gov/agendas/2026/HDC/OCtober+14%2C+2026/10-14-26_
+ HDC_ag_REV3.pdf\n\nAgenda: Staff Report\nhttps://files.portsmouthnh.gov/ag
+ endas/2026/HDC/OCtober+14%2C+2026/StaffReport_HDC_101426.pdf\n\nAgenda: Pu
+ blic Comment\nhttps://files.portsmouthnh.gov/agendas/2026/HDC/OCtober+14%2
+ C+2026/PublicComment_HDC_101426.pdf\n\nAgenda: 62 Daniel Street (McIntyre 
+ Federal Building)- Work Session\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/HDC/OCtober+14%2C+2026/DanielSt_62_HDC_WS_101426.pdf\n\nAgenda: 58 Hump
+ hreys Court- Work Session\nhttps://files.portsmouthnh.gov/agendas/2026/HDC
+ /OCtober+14%2C+2026/HumphreysCt_58_HDC_WS_101426.pdf\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:68bf2f3193600ef5f349@granite-docket
+DTSTAMP:20261123T070516Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Planning+Board/10-15-2026+M
+ eeting/10-15-2026_pb_ln.pdf
+DESCRIPTION:Agenda: Legal Notice\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/Planning+Board/10-15-2026+Meeting/10-15-2026_pb_ln.pdf\n\nAgenda: Actio
+ n Sheet\nhttps://files.portsmouthnh.gov/agendas/2026/Planning+Board/10-15-
+ 2026+Meeting/10-15-2026_pb_as.pdf\n\nAgenda: Revised Agenda\nhttps://files
+ .portsmouthnh.gov/agendas/2026/Planning+Board/10-15-2026+Meeting/10-15-202
+ 6_pb_ag_Rev.pdf\n\nAgenda: 361 Hanover St - DPW Memo\nhttps://files.portsm
+ outhnh.gov/agendas/2026/Planning+Board/10-15-2026+Meeting/DPW+Memo+361+Han
+ over.pdf\n\nAgenda: Revised Staff Memo\nhttps://files.portsmouthnh.gov/age
+ ndas/2026/Planning+Board/10-15-2026+Meeting/10-15-2026_PB_Memo_REV.pdf\n\n
+ Agenda: Public Comment\nhttps://files.portsmouthnh.gov/agendas/2026/Planni
+ ng+Board/10-15-2026+Meeting/10-15-2026_pb_pub-comment.pdf\n\nAgenda: Taft 
+ Rd\nhttps://files.portsmouthnh.gov/agendas/2026/Planning+Board/10-15-2026+
+ Meeting/20+Taft+Paper+Street_Trevor.pdf\n\nAgenda: 0 Elm St\nhttps://files
+ .portsmouthnh.gov/agendas/2026/Planning+Board/10-15-2026+Meeting/ElmSt_0_P
+ B_09172026_10152026.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3e837f3a6a550efa2405@granite-docket
+DTSTAMP:20261103T141039Z
+DTSTART;TZID=America/New_York:20261102T170000
+DURATION:PT2H
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Seacoast Shuttle Group/11-0
+ 2-26 Agenda.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/Sea
+ coast Shuttle Group/11-02-26 Agenda.pdf\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d57cf0b873a5931dfcb@granite-docket
+DTSTAMP:20261109T070846Z
+DTSTART;TZID=America/New_York:20261103T140000
+DURATION:PT2H
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/TAC/11-3-2026 Meeting/11-3-
+ 2026 TAC AS.pdf
+DESCRIPTION:Agenda: Action Sheet\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/TAC/11-3-2026 Meeting/11-3-2026 TAC AS.pdf\n\nAgenda: Revised Agenda\nh
+ ttps://files.portsmouthnh.gov/agendas/2026/TAC/11-3-2026+Meeting/11-3-2026
+ _tac_ag_REV.pdf\n\nAgenda: Meeting Packet\nhttps://files.portsmouthnh.gov/
+ agendas/2026/TAC/11-3-2026+Meeting/11-3-2026_tac_packet.pdf\n\nAgenda: 0 L
+ edgewood Drive\nhttps://files.portsmouthnh.gov/agendas/2026/TAC/11-3-2026+
+ Meeting/LedgewoodDr_0_TAC_11032026.pdf\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:162837f78a47f23cf600@granite-docket
+DTSTAMP:20261103T092730Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/HDC/November+04%2C+2026/Man
+ ningSt_48_HDC_WS_110426.pdf
+DESCRIPTION:Agenda: 48 Manning Street- Work Session\nhttps://files.portsmou
+ thnh.gov/agendas/2026/HDC/November+04%2C+2026/ManningSt_48_HDC_WS_110426.p
+ df\n\nAgenda: 129 State Street- Work Session- Revised\nhttps://files.ports
+ mouthnh.gov/agendas/2026/HDC/November+04%2C+2026/StateSt_129_HDC_WS_110426
+ _revised.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d5b6948ea26633a3122@granite-docket
+DTSTAMP:20261116T071037Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/files/planning/apps/DeerSt_163/163_Deer_
+ Street_pb_11092026_PrelimConcept-SPR.pdf
+DESCRIPTION:Other: 163 Deer St\nhttps://files.portsmouthnh.gov/files/planni
+ ng/apps/DeerSt_163/163_Deer_Street_pb_11092026_PrelimConcept-SPR.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d13d923e2fdc860f490f@granite-docket
+DTSTAMP:20261116T071058Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Planning+Board/11-12-2026+C
+ IP+Work+Session/FY28-33+CIP+for+11-12-2026+Work+Session.pdf
+DESCRIPTION:Agenda: FY28 - FY33 CIP FY28 - FY33 CIP Entire Book (PDF)\nhttp
+ s://files.portsmouthnh.gov/agendas/2026/Planning+Board/11-12-2026+CIP+Work
+ +Session/FY28-33+CIP+for+11-12-2026+Work+Session.pdf\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2ffdc2df25139e1b3c40@granite-docket
+DTSTAMP:20261123T071111Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://www.portsmouthnh.gov/sites/default/files/2026-11/2026%20Parking
+ %20%26%20Traffic%20Safety%20Actions%20%26%20Minutes%20%28November%2016%2C%
+ 202026%29.pdf
+DESCRIPTION:Minutes: 2026 Parking & Traffic Safety Actions & Minutes (Novem
+ ber 16\, 2026)\nhttps://www.portsmouthnh.gov/sites/default/files/2026-11/2
+ 026%20Parking%20%26%20Traffic%20Safety%20Actions%20%26%20Minutes%20%28Nove
+ mber%2016%2C%202026%29.pdf\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff2c78e3c69cc2e2326@granite-docket
+DTSTAMP:20261116T071008Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/files/planning/apps/EchoAve_125/EchoAve_
+ 125_BOA_11172026.pdf
+DESCRIPTION:Agenda: 125 Echo Avenue\nhttps://files.portsmouthnh.gov/files/p
+ lanning/apps/EchoAve_125/EchoAve_125_BOA_11172026.pdf\n\nNotice: 28 Blosso
+ m Street\nhttps://files.portsmouthnh.gov/files/planning/apps/BlossomSt_28/
+ BlossomSt_28_BOA_11172026.pdf\n\nOther: 50 Whidden Street\nhttps://files.p
+ ortsmouthnh.gov/files/planning/apps/WhiddenSt_50/WhiddenSt_50_BOA_11172026
+ .pdf\n\nOther: 27 Thaxter Road\nhttps://files.portsmouthnh.gov/files/plann
+ ing/apps/ThaxterRd_27/ThaxterSt_27_BOA_11172026.pdf\n\nOther: 310 Dennett 
+ Street\nhttps://files.portsmouthnh.gov/files/planning/apps/DennettSt_310/D
+ ennettSt_310_BOA_11172026.pdf\n\nOther: 1980 Woodbury Avenue\nhttps://file
+ s.portsmouthnh.gov/files/planning/apps/WoodburyAve_1980/WoodburyAve_1980_B
+ OA_11172026.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed102fb060b2a80aa4c@granite-docket
+DTSTAMP:20261123T070516Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Portsmouth Planning board
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Planning+Board/11-19-2026+M
+ eeting+/11-19-2026+PB+LN.pdf
+DESCRIPTION:Agenda: Legal Notice\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/Planning+Board/11-19-2026+Meeting+/11-19-2026+PB+LN.pdf\n\nAgenda: Agen
+ da\nhttps://files.portsmouthnh.gov/agendas/2026/Planning+Board/11-19-2026+
+ Meeting+/11-19-2026_pb_ag.pdf\n\nAgenda: Staff Memo REVISED\nhttps://files
+ .portsmouthnh.gov/agendas/2026/Planning+Board/11-19-2026+Meeting+/11-19-20
+ 26_PB_Memo_REV.pdf\n\nAgenda: Staff Memo\nhttps://files.portsmouthnh.gov/a
+ gendas/2026/Planning+Board/11-19-2026+Meeting+/11-19-2026_PB_Memo1_rev.pdf
+ \n\nOther: 140 West Rd\nhttps://files.portsmouthnh.gov/files/planning/apps
+ /WestRd_140/WestRd_140_pb_11192026_SPR.pdf\n\nOther: 221 Woodbury Ave\nhtt
+ ps://files.portsmouthnh.gov/files/planning/apps/WoodburyAve_221/WoodburyAv
+ e_221_pb_11192026_SPR.pdf\n\nOther: 175 Fleet St\nhttps://files.portsmouth
+ nh.gov/files/planning/apps/FleetSt_175/FleetSt_175_pb_11192026_Amended-SPR
+ .pdf\n\nOther: 84 Pleasant St - Extension\nhttps://files.portsmouthnh.gov/
+ files/planning/apps/PleasantSt_84/PleasantSt_84_pb_11192026_Extension_SPR.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

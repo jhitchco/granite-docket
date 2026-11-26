@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plaistow Planning board
+X-WR-CALDESC:Planning board meetings in Plaistow\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9695855adc308c7721be@granite-docket
+DTSTAMP:20261103T102201Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+TRANSP:TRANSPARENT
+SUMMARY:Plaistow Planning board
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/DocumentCenter/View/4410/34-Plaistow-Rd-Plan
+DESCRIPTION:Other: 34 Plaistow Rd Plan\nhttps://www.plaistow.com/DocumentCe
+ nter/View/4410/34-Plaistow-Rd-Plan\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3398b2d8d975dc32f497@granite-docket
+DTSTAMP:20261103T104513Z
+DTSTART;TZID=America/New_York:20261007T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Plaistow Planning board
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10072026-292
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://www.plaistow.com/Agenda
+ Center/ViewFile/Agenda/_10072026-292\n\nNotice: October 7\nhttps://www.pla
+ istow.com/DocumentCenter/View/4541/October-7\n\nMinutes: Oct 7\, 2026 Plan
+ ning Board Meeting\nhttps://www.plaistow.com/AgendaCenter/ViewFile/Minutes
+ /_10072026-292\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c3451bb51a4ea0efbe9b@granite-docket
+DTSTAMP:20261103T102303Z
+DTSTART;TZID=America/New_York:20261021T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Plaistow Planning board
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10212026-295
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://www.plaistow.com/Agenda
+ Center/ViewFile/Agenda/_10212026-295\n\nAgenda: Planning Board Meeting\nht
+ tps://www.plaistow.com/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-202\
+ n\nOther: 7 Hillcrest Ave Tax Map\nhttps://www.plaistow.com/DocumentCenter
+ /View/4667/7-Hillcrest-Ave-Tax-Map\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ca6da149bf7567b29172@granite-docket
+DTSTAMP:20261123T085925Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Plaistow Planning board
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/DocumentCenter/View/4723/51-Kingston-Rd-App--P
+ lan
+DESCRIPTION:Other: 51 Kingston Rd App & Plan\nhttps://www.plaistow.com/Docu
+ mentCenter/View/4723/51-Kingston-Rd-App--Plan\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:90b972c7c4baf583973b@granite-docket
+DTSTAMP:20261109T091446Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Plaistow Planning board
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11042026-304
+DESCRIPTION:Agenda: Planning Board Workshop Meeting\nhttps://www.plaistow.c
+ om/AgendaCenter/ViewFile/Agenda/_11042026-304\n\nNotice: 2027 Application 
+ Deadline and Meeting Schedule\nhttps://www.plaistow.com/1717/2027-Applicat
+ ion-Deadline-and-Meeting-Sc\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4f44928ee4c03a14bbd2@granite-docket
+DTSTAMP:20261123T083142Z
+DTSTART;TZID=America/New_York:20261118T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Plaistow Planning board
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_11182026-312
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://www.plaistow.com/Agenda
+ Center/ViewFile/Agenda/_11182026-312\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:114caa603c9bc28af74a@granite-docket
+DTSTAMP:20261123T094305Z
+DTSTART;TZID=America/New_York:20261202T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Plaistow Planning board
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/DocumentCenter/View/4699/December-2
+DESCRIPTION:Notice: December 2\nhttps://www.plaistow.com/DocumentCenter/Vie
+ w/4699/December-2\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

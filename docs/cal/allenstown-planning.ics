@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Allenstown Planning board
+X-WR-CALDESC:Planning board meetings in Allenstown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2ed494b7f3b530e414de@granite-docket
+DTSTAMP:20261109T085515Z
+DTSTART;TZID=America/New_York:20261007T183000
+DURATION:PT2H
+SUMMARY:Allenstown Planning board
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-372
+DESCRIPTION:Agenda: Planning Board Agenda Oct 7\, 2026 Planning Board Meeti
+ ng Agenda\nhttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_1007
+ 2026-372\n\nMinutes: Planning Board Minutes Oct 7\, 2026 Planning Board Me
+ eting Agenda\nhttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Minutes/_
+ 10072026-372\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d5547454eb46c289bb10@granite-docket
+DTSTAMP:20261103T104644Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Allenstown Planning board
+LOCATION:Allenstown\, NH
+URL:https://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-377
+DESCRIPTION:Agenda: Planning Board Agenda Nov 4\, 2026 Planning Board Meeti
+ ng Agenda\nhttps://www.allenstownnh.gov/AgendaCenter/ViewFile/Agenda/_1104
+ 2026-377\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

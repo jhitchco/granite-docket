@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hinsdale Select board / council
+X-WR-CALDESC:Select board / council meetings in Hinsdale\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6658a94bd05ab1198040@granite-docket
+DTSTAMP:20261103T110911Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Hinsdale Select board / council
+LOCATION:Hinsdale\, NH
+URL:https://hinsdalenh.gov/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3B
+ F70DA5%7D/uploads/Minutes_2026.09.28.pdf
+DESCRIPTION:Minutes: Minutes_for September 28\, 2026\nhttps://hinsdalenh.go
+ v/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Minute
+ s_2026.09.28.pdf\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:70c90471900edf109884@granite-docket
+DTSTAMP:20261103T110709Z
+DTSTART;TZID=America/New_York:20260929T180000
+DURATION:PT2H
+SUMMARY:Hinsdale Select board / council
+LOCATION:Hinsdale\, NH
+URL:https://hinsdalenh.gov/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3B
+ F70DA5%7D/uploads/Agenda_2026.09.29.pdf
+DESCRIPTION:Agenda: Agenda for 09.28.26\nhttps://hinsdalenh.gov/vertical/si
+ tes/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Agenda_2026.09.29.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:56415f710226ea7dc9d5@granite-docket
+DTSTAMP:20261103T110911Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Hinsdale Select board / council
+LOCATION:Hinsdale\, NH
+URL:https://hinsdalenh.gov/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3B
+ F70DA5%7D/uploads/Agenda_2026.10.05.pdf
+DESCRIPTION:Agenda: Agenda for 10.05.26\nhttps://hinsdalenh.gov/vertical/si
+ tes/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Agenda_2026.10.05.p
+ df\n\nMinutes: Minutes_for October 5\, 2026\nhttps://hinsdalenh.gov/vertic
+ al/sites/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Minutes_2026.1
+ 0.05.pdf\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5140fd091777125ca711@granite-docket
+DTSTAMP:20261103T110911Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Hinsdale Select board / council
+LOCATION:Hinsdale\, NH
+URL:https://hinsdalenh.gov/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3B
+ F70DA5%7D/uploads/Agenda_2026.10.19.pdf
+DESCRIPTION:Agenda: Agenda for 10.19.26\nhttps://hinsdalenh.gov/vertical/si
+ tes/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Agenda_2026.10.19.p
+ df\n\nMinutes: Minutes_for October 19\, 2026\nhttps://hinsdalenh.gov/verti
+ cal/sites/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Minutes_2026.
+ 10.19_.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bfb40fcb6a31612ff57f@granite-docket
+DTSTAMP:20261109T094804Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Hinsdale Select board / council
+LOCATION:Hinsdale\, NH
+URL:https://hinsdalenh.gov/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3B
+ F70DA5%7D/uploads/Agenda_2026.10.26.pdf
+DESCRIPTION:Agenda: Agenda for 10.26.26\nhttps://hinsdalenh.gov/vertical/si
+ tes/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Agenda_2026.10.26.p
+ df\n\nMinutes: Minutes_for October 26\, 2026\nhttps://hinsdalenh.gov/verti
+ cal/sites/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Minutes_2026.
+ 10.26.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6841afcf99dd9c7fc1db@granite-docket
+DTSTAMP:20261116T095647Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Hinsdale Select board / council
+LOCATION:Hinsdale\, NH
+URL:https://hinsdalenh.gov/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3B
+ F70DA5%7D/uploads/Agenda_2026.11.02.pdf
+DESCRIPTION:Agenda: Agenda for 11.02.26\nhttps://hinsdalenh.gov/vertical/si
+ tes/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Agenda_2026.11.02.p
+ df\n\nMinutes: Minutes_for November 2\, 2026\nhttps://hinsdalenh.gov/verti
+ cal/sites/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Minutes_2026.
+ 11.02.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe1a70d2b3c57eb42b0f@granite-docket
+DTSTAMP:20261123T084928Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Hinsdale Select board / council
+LOCATION:Hinsdale\, NH
+URL:https://hinsdalenh.gov/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3B
+ F70DA5%7D/uploads/Agenda_2026.11.09.pdf
+DESCRIPTION:Agenda: Agenda for 11.09.26\nhttps://hinsdalenh.gov/vertical/si
+ tes/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Agenda_2026.11.09.p
+ df\n\nMinutes: Minutes_for November 9\, 2026\nhttps://hinsdalenh.gov/verti
+ cal/sites/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Minutes_2026.
+ 11.09.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0749f051a21c9ac4c0@granite-docket
+DTSTAMP:20261116T095427Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Hinsdale Select board / council
+LOCATION:Hinsdale\, NH
+URL:https://hinsdalenh.gov/vertical/sites/%7B8C942171-06B1-40C3-B454-A57F3B
+ F70DA5%7D/uploads/Agenda_2026.11.16.pdf
+DESCRIPTION:Agenda: Agenda for 11.16.26\nhttps://hinsdalenh.gov/vertical/si
+ tes/%7B8C942171-06B1-40C3-B454-A57F3BF70DA5%7D/uploads/Agenda_2026.11.16.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

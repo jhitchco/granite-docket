@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belmont Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Belmont\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6de2bd21359f3f5f878d@granite-docket
+DTSTAMP:20261103T104518Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Belmont Budget / CIP
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BCAgenda26110
+ 5.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda 11/05/2026 Download the Agenda\
+ nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BCAgenda261105.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:feb713f35396628751d4@granite-docket
+DTSTAMP:20261103T104549Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:Belmont Budget / CIP
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BCAgenda26111
+ 2.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda 11/12/2026 Download the Agenda\
+ nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BCAgenda261112.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:66a9315fc026a2f3e8eb@granite-docket
+DTSTAMP:20261103T105638Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Belmont Budget / CIP
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BCAgenda26111
+ 9.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda 11/19/2026 Download the Agenda\
+ nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BCAgenda261119.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:675a7337a3c64b5eff7b@granite-docket
+DTSTAMP:20261103T105634Z
+DTSTART;TZID=America/New_York:20261210T180000
+DURATION:PT2H
+SUMMARY:Belmont Budget / CIP
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BCAgenda26121
+ 0.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda 12/10/2026 Download the Agenda\
+ nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/10/BCAgenda261210.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Danbury Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Danbury\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ea6e82e35557b22f01f9@granite-docket
+DTSTAMP:20261123T095519Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Danbury Budget / CIP
+LOCATION:Danbury\, NH
+URL:https://www.townofdanburynh.com/site/assets/files/1097/bc_minutes_octob
+ er_29_2026.docx
+DESCRIPTION:Minutes: October 29\,2026\nhttps://www.townofdanburynh.com/site
+ /assets/files/1097/bc_minutes_october_29_2026.docx\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59f0d7797b6876d83b80@granite-docket
+DTSTAMP:20261123T095519Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Danbury Budget / CIP
+LOCATION:Danbury\, NH
+URL:https://www.townofdanburynh.com/site/assets/files/1097/draft_budget_com
+ mittee_minutes_11-5-26.pdf
+DESCRIPTION:Minutes: November 5\, 2026\nhttps://www.townofdanburynh.com/sit
+ e/assets/files/1097/draft_budget_committee_minutes_11-5-26.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+END:VCALENDAR

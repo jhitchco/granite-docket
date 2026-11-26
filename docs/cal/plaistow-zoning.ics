@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plaistow Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Plaistow\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bbf6636b4f951df94e1d@granite-docket
+DTSTAMP:20261103T100147Z
+DTSTART;TZID=America/New_York:20261001T140000
+DURATION:PT2H
+SUMMARY:Plaistow Zoning / ZBA
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10012026-296
+DESCRIPTION:Agenda: Zoning Ordinance Subcommittee Meeting\nhttps://www.plai
+ stow.com/AgendaCenter/ViewFile/Agenda/_10012026-296\n\nMinutes: Oct 1\, 20
+ 26 Zoning Ordinance Subcommittee Meeting\nhttps://www.plaistow.com/AgendaC
+ enter/ViewFile/Minutes/_10012026-296\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:074d903aace70e976a14@granite-docket
+DTSTAMP:20261103T102422Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Plaistow Zoning / ZBA
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/DocumentCenter/View/4661/Veterans-Day-Flyer
+DESCRIPTION:Other: Veterans Day Pancake Breakfast Town News & Announcements
+  Posted on October 21\, 2026\nhttps://www.plaistow.com/DocumentCenter/View
+ /4661/Veterans-Day-Flyer\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d01a0eee2cfeb1423f5@granite-docket
+DTSTAMP:20261103T104616Z
+DTSTART;TZID=America/New_York:20261027T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Plaistow Zoning / ZBA
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/DocumentCenter/View/4607/October-29
+DESCRIPTION:Notice: October 29\nhttps://www.plaistow.com/DocumentCenter/Vie
+ w/4607/October-29\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2077a050052c05577399@granite-docket
+DTSTAMP:20261103T100221Z
+DTSTART;TZID=America/New_York:20261029T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Plaistow Zoning / ZBA
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/AgendaCenter/ViewFile/Agenda/_10292026-298
+DESCRIPTION:Agenda: Zoning Board of Adjustment Meeting\nhttps://www.plaisto
+ w.com/AgendaCenter/ViewFile/Agenda/_10292026-298\n\nAgenda: Zoning Board o
+ f Adjustment Meeting - Nonpublic\nhttps://www.plaistow.com/AgendaCenter/Vi
+ ewFile/Agenda/_10292026-303\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f60f016e818d0ea285@granite-docket
+DTSTAMP:20261123T084624Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Plaistow Zoning / ZBA
+LOCATION:Plaistow\, NH
+URL:https://www.plaistow.com/DocumentCenter/View/4700/PLAISTOW-CONCOM-SEEKS
+ -VOLUNTEERS
+DESCRIPTION:Other: ConCom Seeks Volunteer(s) Town News & Announcements Post
+ ed on November 18\, 2026\nhttps://www.plaistow.com/DocumentCenter/View/470
+ 0/PLAISTOW-CONCOM-SEEKS-VOLUNTEERS\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

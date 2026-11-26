@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stoddard Select board / council
+X-WR-CALDESC:Select board / council meetings in Stoddard\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fe2557ed720658250ddd@granite-docket
+DTSTAMP:20261103T131418Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_09282026-347
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting Agenda\nhttps://stod
+ dardnh.org/AgendaCenter/ViewFile/Agenda/_09282026-347\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc42cd727c200933eff3@granite-docket
+DTSTAMP:20261103T131418Z
+DTSTART;TZID=America/New_York:20261001T173000
+DURATION:PT2H
+SUMMARY:Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_10012026-350
+DESCRIPTION:Agenda: Joint Selectboard & Solid Waste Committee Meeting\nhttp
+ s://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_10012026-350\n\nMinutes: 
+ Oct 1\, 2026 Joint Selectboard & Solid Waste Committee Meeting\nhttps://st
+ oddardnh.org/AgendaCenter/ViewFile/Minutes/_10012026-350\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce9e7527c84480d01a7@granite-docket
+DTSTAMP:20261103T131455Z
+DTSTART;TZID=America/New_York:20261005T141500
+DURATION:PT2H
+SUMMARY:Public hearing: Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_10052026-353
+DESCRIPTION:Agenda: Stoddard School Board Agenda 10.5.26\nhttps://stoddardn
+ h.org/AgendaCenter/ViewFile/Agenda/_10052026-353\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:11f759869a5a56a7be7a@granite-docket
+DTSTAMP:20261103T131417Z
+DTSTART;TZID=America/New_York:20261014T180000
+DURATION:PT2H
+SUMMARY:Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_10142026-355
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting Agenda\nhttps://stod
+ dardnh.org/AgendaCenter/ViewFile/Agenda/_10142026-355\n\nMinutes: Oct 14\,
+  2026 Board of Selectmen Regular Meeting Agenda\nhttps://stoddardnh.org/Ag
+ endaCenter/ViewFile/Minutes/_10142026-355\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6993dc3237cc22f3d24e@granite-docket
+DTSTAMP:20261103T131431Z
+DTSTART;TZID=America/New_York:20261019T200000
+DURATION:PT2H
+SUMMARY:Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_10192026-357
+DESCRIPTION:Agenda: BOT regular meeting\nhttps://stoddardnh.org/AgendaCente
+ r/ViewFile/Agenda/_10192026-357\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f812ae24727d79ed791@granite-docket
+DTSTAMP:20261103T131456Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+TRANSP:TRANSPARENT
+SUMMARY:Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_10232026-354
+DESCRIPTION:Agenda: PDF\nhttps://stoddardnh.org/AgendaCenter/ViewFile/Agend
+ a/_10232026-354\n\nAgenda: Packet\nhttps://stoddardnh.org/AgendaCenter/Vie
+ wFile/Agenda/_10232026-354?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8d08b84b1e3a991e7fc4@granite-docket
+DTSTAMP:20261103T131417Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_10262026-360
+DESCRIPTION:Agenda: Board of Selectmen Regular Meeting Agenda\nhttps://stod
+ dardnh.org/AgendaCenter/ViewFile/Agenda/_10262026-360\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:bfcc77c1fef2c8e4ab23@granite-docket
+DTSTAMP:20261103T131502Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_10272026-358
+DESCRIPTION:Agenda: Trustees of the Trust Funds Meeting\nhttps://stoddardnh
+ .org/AgendaCenter/ViewFile/Agenda/_10272026-358\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5a8bc37d4dd4d3cb4642@granite-docket
+DTSTAMP:20261103T131455Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_11022026-363
+DESCRIPTION:Agenda: Stoddard School Board Meeting Agenda 11/2/26\nhttps://s
+ toddardnh.org/AgendaCenter/ViewFile/Agenda/_11022026-363\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:97017d5f018423d84ce9@granite-docket
+DTSTAMP:20261103T131436Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_11052026-351
+DESCRIPTION:Agenda: Annual Public Meeting\nhttps://stoddardnh.org/AgendaCen
+ ter/ViewFile/Agenda/_11052026-351\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:94c2827efb97a4f2ac65@granite-docket
+DTSTAMP:20261103T131417Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Stoddard Select board / council
+LOCATION:Stoddard\, NH
+URL:https://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_11092026-362
+DESCRIPTION:Agenda: Public Hearing to Discuss Building Permit and Fee's\nht
+ tps://stoddardnh.org/AgendaCenter/ViewFile/Agenda/_11092026-362\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

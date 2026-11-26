@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sullivan NH meetings
+X-WR-CALDESC:Public meetings of Sullivan\, NH boards\, from posted agendas 
+ and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9b776dfe6c470244000f@granite-docket
+DTSTAMP:20261103T124042Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Sullivan Zoning / ZBA
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/ZBA_Public_Meeting_Minutes_10-01-2026.pdf
+DESCRIPTION:Minutes: ZBA_Public_Meeting_Minutes_10-01-2026 DRAFT.pdf\nhttps
+ ://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-21AA508B
+ D373%7D/uploads/ZBA_Public_Meeting_Minutes_10-01-2026.pdf\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a9405c352886a50165@granite-docket
+DTSTAMP:20261103T124258Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Sullivan Select board / council
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/10-06-2026.pdf
+DESCRIPTION:Minutes: 10-06-2026\nhttps://townofsullivannh.com/vertical/site
+ s/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/10-06-2026.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:410af84269c6b7b2670e@granite-docket
+DTSTAMP:20261123T100348Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Sullivan Planning board
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/10.07.2026_Planning_Board_Agenda.pdf
+DESCRIPTION:Agenda: 10.07.2026 Agenda\nhttps://townofsullivannh.com/vertica
+ l/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/10.07.2026_Plan
+ ning_Board_Agenda.pdf\n\nMinutes: 10.07.2026\nhttps://townofsullivannh.com
+ /vertical/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/10.07.2
+ 026_Planning_Board_Minutes_Final_signed.pdf\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ea3d5dada56bbcd99187@granite-docket
+DTSTAMP:20261123T101038Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Sullivan School
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/Sullivan_School_Board_October_14_2026.pdf
+DESCRIPTION:Minutes: Sullivan_School_Board_October_14_2026\nhttps://townofs
+ ullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/up
+ loads/Sullivan_School_Board_October_14_2026.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e41690d242b115ca8571@granite-docket
+DTSTAMP:20261123T101518Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Sullivan Select board / council
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/10-20-2026.pdf
+DESCRIPTION:Minutes: 10-20-2026\nhttps://townofsullivannh.com/vertical/site
+ s/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/10-20-2026.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d879fd26de15fcec365f@granite-docket
+DTSTAMP:20261123T101508Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Sullivan Select board / council
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/11-02-2026.pdf
+DESCRIPTION:Minutes: 11-02-2026\nhttps://townofsullivannh.com/vertical/site
+ s/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/11-02-2026.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b441a1a8bd974e5be93c@granite-docket
+DTSTAMP:20261123T100358Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Sullivan Planning board
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/11.04.2026_Planning_Board_Agenda.pdf
+DESCRIPTION:Agenda: 11.04.2026_Agenda\nhttps://townofsullivannh.com/vertica
+ l/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/11.04.2026_Plan
+ ning_Board_Agenda.pdf\n\nMinutes: 11.04.2026 Draft\nhttps://townofsullivan
+ nh.com/vertical/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/1
+ 1.04.2026_PB_Minutes_Draft.pdf\n\nMinutes: 09.02.026 v2.\nhttps://townofsu
+ llivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/upl
+ oads/09.02.026_Planning_Board_Minutes_Final_v2.pdf\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:71eb15175e77813bad35@granite-docket
+DTSTAMP:20261123T101208Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Sullivan Planning board
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/Public_Notice_Petition__(CPO_Gen_Stan_ADU)_11.10.2
+ 026(1).docx
+DESCRIPTION:Notice: Public_Notice_Petition__(CPO_Gen_Stan_ADU)_11.10.2026(1
+ ).docx\nhttps://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-
+ 9104-21AA508BD373%7D/uploads/Public_Notice_Petition__(CPO_Gen_Stan_ADU)_11
+ .10.2026(1).docx\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:697eceb9b1bc743d6b38@granite-docket
+DTSTAMP:20261123T101258Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Sullivan School
+LOCATION:Sullivan\, NH
+URL:https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-
+ 21AA508BD373%7D/uploads/Sullivan_Question_2_Recount_Results(2).pdf
+DESCRIPTION:Other: Sullivan_Question_2_Recount_Results.pdf\nhttps://townofs
+ ullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/up
+ loads/Sullivan_Question_2_Recount_Results(2).pdf\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

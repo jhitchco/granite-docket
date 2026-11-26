@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tamworth Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Tamworth\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:03fa9ba4705ffa88c8f5@granite-docket
+DTSTAMP:20261103T113327Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Tamworth Budget / CIP
+LOCATION:Tamworth\, NH
+URL:https://www.tamworthnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-304?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.tamworthnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_09282026-304?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:37b003be642f7d747c43@granite-docket
+DTSTAMP:20261103T113403Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Tamworth Budget / CIP
+LOCATION:Tamworth\, NH
+URL:https://www.tamworthnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-305?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.tamworthnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10052026-305?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4cdaa2d961de2129786f@granite-docket
+DTSTAMP:20261103T113419Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Tamworth Budget / CIP
+LOCATION:Tamworth\, NH
+URL:https://www.tamworthnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-310?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.tamworthnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10072026-310?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:95ba99433885c2459e36@granite-docket
+DTSTAMP:20261103T113504Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Tamworth Budget / CIP
+LOCATION:Tamworth\, NH
+URL:https://www.tamworthnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-312?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.tamworthnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10132026-312?packet=true\n\nAgenda: Packet\nhttps://www.tamworth
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-309?packet=true\n\nAgenda: P
+ acket\nhttps://www.tamworthnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-3
+ 14?packet=true\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd31fa2f855c145144f0@granite-docket
+DTSTAMP:20261103T113333Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Tamworth Budget / CIP
+LOCATION:Tamworth\, NH
+URL:https://www.tamworthnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-315?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.tamworthnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10192026-315?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

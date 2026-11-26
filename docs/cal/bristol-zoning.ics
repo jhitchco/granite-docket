@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bristol Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Bristol\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9a8e03b30e2bd51f1f05@granite-docket
+DTSTAMP:20261103T112746Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Bristol Zoning / ZBA
+LOCATION:Bristol\, NH
+URL:https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-241
+DESCRIPTION:Agenda: Zoning Board of Adjustment Meeting\nhttps://bristolnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10062026-241\n\nAgenda: Zoning Board of A
+ djustment Meeting\nhttps://bristolnh.gov/AgendaCenter/ViewFile/ArchivedAge
+ nda/_10062026-132\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2af554a947c9d9d8bd@granite-docket
+DTSTAMP:20261103T112741Z
+DTSTART;TZID=America/New_York:20261103T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Bristol Zoning / ZBA
+LOCATION:Bristol\, NH
+URL:https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-253
+DESCRIPTION:Agenda: Zoning Board of Adjustment Meeting\nhttps://bristolnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11032026-253\n\nAgenda: Zoning Board of A
+ djustment Meeting\nhttps://bristolnh.gov/AgendaCenter/ViewFile/ArchivedAge
+ nda/_11032026-142\n\nAgenda: Zoning Board of Adjustment Meeting\nhttps://b
+ ristolnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11032026-140\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

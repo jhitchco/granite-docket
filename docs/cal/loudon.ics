@@ -1,0 +1,171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Loudon NH meetings
+X-WR-CALDESC:Public meetings of Loudon\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4c5012799693d5240247@granite-docket
+DTSTAMP:20261103T125828Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Loudon Select board / council
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_09292026-215
+DESCRIPTION:Agenda: Board of Selectmen Agenda Sep 29\, 2026 Board of Select
+ men Work Session\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_0
+ 9292026-215\n\nAgenda: Packet\nhttps://www.loudonnh.org/AgendaCenter/ViewF
+ ile/Agenda/_09292026-215?packet=true\n\nAgenda: Packet\nhttps://www.loudon
+ nh.org/AgendaCenter/ViewFile/Agenda/_09292026-219?packet=true\n\nMinutes: 
+ Board of Selectmen Minutes Sep 29\, 2026 Board of Selectmen Work Session\n
+ https://www.loudonnh.org/AgendaCenter/ViewFile/Minutes/_09292026-215\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dea60afa41fc797c8db2@granite-docket
+DTSTAMP:20261103T125738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Loudon Planning board
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_09292026-219
+DESCRIPTION:Agenda: Planning Board Agenda Sep 29\, 2026 Planning Board Work
+  Session\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_09292026-
+ 219\n\nMinutes: Planning Board Minutes Sep 29\, 2026 Planning Board Work S
+ ession\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Minutes/_09292026-2
+ 19\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ce09790f5ca42dddf8cb@granite-docket
+DTSTAMP:20261103T125646Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Loudon Select board / council
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_10062026-210
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 6\, 2026 Board of Selectm
+ en Business Meeting\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agenda
+ /_10062026-210\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:94ff46fbfc97858b3d45@granite-docket
+DTSTAMP:20261103T125723Z
+DTSTART;TZID=America/New_York:20261007T174500
+DURATION:PT2H
+SUMMARY:Loudon Budget / CIP
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_10072026-209
+DESCRIPTION:Agenda: Maxfield Public Library Agenda Oct 7\, 2026 Board of Tr
+ ustees Meeting\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_100
+ 72026-209\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:20f36d558e10f9a39edb@granite-docket
+DTSTAMP:20261103T125737Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Loudon Planning board
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_10152026-211
+DESCRIPTION:Agenda: Planning Board Agenda Oct 15\, 2026 Planning Board Publ
+ ic Meeting\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_1015202
+ 6-211\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1f21e5dc18b586e8ce61@granite-docket
+DTSTAMP:20261103T125646Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Loudon Select board / council
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_10202026-217
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 20\, 2026 Board of Select
+ men Business Meeting\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agend
+ a/_10202026-217\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0fee900664a93c498f9c@granite-docket
+DTSTAMP:20261103T125722Z
+DTSTART;TZID=America/New_York:20261021T174500
+DURATION:PT2H
+SUMMARY:Loudon Maxfield Public Library Agenda Oct 21\, 2026 Board of Truste
+ es Meeting
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_10212026-216
+DESCRIPTION:Agenda: Maxfield Public Library Agenda Oct 21\, 2026 Board of T
+ rustees Meeting\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_10
+ 212026-216\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:73b9f53da74d4c0ca20f@granite-docket
+DTSTAMP:20261103T125811Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Loudon Zoning / ZBA
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_10222026-213
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 22\, 2026 Zoning 
+ Board of Adjustment Public Meeting\nhttps://www.loudonnh.org/AgendaCenter/
+ ViewFile/Agenda/_10222026-213\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b46fce6d2995031ec015@granite-docket
+DTSTAMP:20261103T125722Z
+DTSTART;TZID=America/New_York:20261104T174500
+DURATION:PT2H
+SUMMARY:Loudon Maxfield Public Library Agenda Nov 4\, 2026 Library Trustees
+  Meeting
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_11042026-220
+DESCRIPTION:Agenda: Maxfield Public Library Agenda Nov 4\, 2026 Library Tru
+ stees Meeting\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_1104
+ 2026-220\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d03a823ff9a531f5ca8@granite-docket
+DTSTAMP:20261116T084506Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Loudon Planning board
+LOCATION:Loudon\, NH
+URL:https://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_11192026-221
+DESCRIPTION:Agenda: Planning Board Agenda Nov 19\, 2026 Planning Board Publ
+ ic Meeting\nhttps://www.loudonnh.org/AgendaCenter/ViewFile/Agenda/_1119202
+ 6-221\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+END:VCALENDAR

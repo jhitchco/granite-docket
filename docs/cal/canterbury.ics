@@ -1,0 +1,487 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canterbury NH meetings
+X-WR-CALDESC:Public meetings of Canterbury\, NH boards\, from posted agenda
+ s and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4508515cfd73f325efcd@granite-docket
+DTSTAMP:20261103T131720Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Canterbury Conservation commission
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-9-29_Conse
+ rvation_Commission_Notice_Site-Walk.pdf
+DESCRIPTION:Notice: 2026-9-29_Conservation_Commission_Notice_Site-Walk.pdf\
+ nhttps://www.canterburynh.gov/wp-content/uploads/2026/10/2026-9-29_Conserv
+ ation_Commission_Notice_Site-Walk.pdf\n\nMinutes: 2026-9-29_Conservation_C
+ ommission_Site_Walk_Minutes_FINAL.pdf\nhttps://www.canterburynh.gov/wp-con
+ tent/uploads/2026/10/2026-9-29_Conservation_Commission_Site_Walk_Minutes_F
+ INAL.pdf\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2d98c8aed577b5ac017f@granite-docket
+DTSTAMP:20261103T113857Z
+DTSTART;TZID=America/New_York:20261005T170000
+DURATION:PT2H
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-05-Boar
+ d-of-Selectmen-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-05-Board-of-Selectmen-Agenda.pdf\nhttps://www.c
+ anterburynh.gov/wp-content/uploads/2026/10/2026-10-05-Board-of-Selectmen-A
+ genda.pdf\n\nMinutes: 2026-10-05-Board-of-Selectmen-Minutes.pdf\nhttps://w
+ ww.canterburynh.gov/wp-content/uploads/2026/10/2026-10-05-Board-of-Selectm
+ en-Minutes.pdf\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:726dde9a476c0f51e5d8@granite-docket
+DTSTAMP:20261103T131718Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Canterbury Conservation commission
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-08_Cons
+ ervation_Commission_Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-08_Conservation_Commission_Agenda.pdf\nhttps://
+ www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-08_Conservation_Co
+ mmission_Agenda.pdf\n\nMinutes: 2026-10-08-Conservation-Commission-Meeting
+ -Minutes-DRAFT.pdf\nhttps://www.canterburynh.gov/wp-content/uploads/2026/1
+ 0/2026-10-08-Conservation-Commission-Meeting-Minutes-DRAFT.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:984ee1173c255eb2af7b@granite-docket
+DTSTAMP:20261103T131856Z
+DTSTART;TZID=America/New_York:20261012T190000
+DURATION:PT2H
+SUMMARY:Canterbury Energy committee
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-12-Ener
+ gy-Committee-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-12-Energy-Committee-Agenda.pdf\nhttps://www.can
+ terburynh.gov/wp-content/uploads/2026/10/2026-10-12-Energy-Committee-Agend
+ a.pdf\n\nMinutes: 2026-10-12-Energy-Committee-Minutes.docx\nhttps://www.ca
+ nterburynh.gov/wp-content/uploads/2026/10/2026-10-12-Energy-Committee-Minu
+ tes.docx\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1848c3c41b807b701acb@granite-docket
+DTSTAMP:20261103T131622Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury 2026-10-13-Cemetery-Trustees-Minutes-DRAFT.pdf
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-13-Ceme
+ tery-Trustees-Minutes-DRAFT.pdf
+DESCRIPTION:Minutes: 2026-10-13-Cemetery-Trustees-Minutes-DRAFT.pdf\nhttps:
+ //www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-13-Cemetery-Trus
+ tees-Minutes-DRAFT.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2fc05dbae5ef009bbcbe@granite-docket
+DTSTAMP:20261103T114709Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Canterbury Planning board
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-13-Plan
+ ning-Board-Agenda-1.pdf
+DESCRIPTION:Agenda: 2026-10-13-Planning-Board-Agenda-1.pdf\nhttps://www.can
+ terburynh.gov/wp-content/uploads/2026/10/2026-10-13-Planning-Board-Agenda-
+ 1.pdf\n\nMinutes: 2026-10-13-Planning-Board-Minutes-DRAFT.pdf\nhttps://www
+ .canterburynh.gov/wp-content/uploads/2026/10/2026-10-13-Planning-Board-Min
+ utes-DRAFT.pdf\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca9af68ecbc8190ccd37@granite-docket
+DTSTAMP:20261103T131622Z
+DTSTART;TZID=America/New_York:20261013T090000
+DURATION:PT2H
+SUMMARY:Canterbury 2026-10-13-Cemetery-Trustees-Agenda.pdf
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-13-Ceme
+ tery-Trustees-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-13-Cemetery-Trustees-Agenda.pdf\nhttps://www.ca
+ nterburynh.gov/wp-content/uploads/2026/10/2026-10-13-Cemetery-Trustees-Age
+ nda.pdf\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:922bf5011e0b43ca55f2@granite-docket
+DTSTAMP:20261103T131538Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury Energy committee
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-14-Cant
+ erbury-Community-Power-Committee-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-14-Canterbury-Community-Power-Committee-Agenda.
+ pdf\nhttps://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-14-Ca
+ nterbury-Community-Power-Committee-Agenda.pdf\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7cbe77ab664b3df06f4@granite-docket
+DTSTAMP:20261103T113851Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-15-Budg
+ et-v-Actual.pdf
+DESCRIPTION:Minutes: 2026-10-15-Budget-v-Actual.pdf\nhttps://www.canterbury
+ nh.gov/wp-content/uploads/2026/10/2026-10-15-Budget-v-Actual.pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ce6f36cfbee9fc3fd60@granite-docket
+DTSTAMP:20261103T113852Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-16-Calv
+ in-Todd-Letter.pdf
+DESCRIPTION:Minutes: 2026-10-16-Calvin-Todd-Letter.pdf\nhttps://www.canterb
+ urynh.gov/wp-content/uploads/2026/10/2026-10-16-Calvin-Todd-Letter.pdf\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7efe99fa67e7c838b2b7@granite-docket
+DTSTAMP:20261109T101834Z
+DTSTART;TZID=America/New_York:20261019T170000
+DURATION:PT2H
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Boar
+ d-of-Selectmen-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-19-Board-of-Selectmen-Agenda.pdf\nhttps://www.c
+ anterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board-of-Selectmen-A
+ genda.pdf\n\nMinutes: 2026-10-19-Board-of-Selectmen-Minutes.pdf\nhttps://w
+ ww.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board-of-Selectm
+ en-Minutes.pdf\n\nMinutes: 2026-10-19-Board-of-Selectmen-Minutes-DRAFT.pdf
+ \nhttps://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board
+ -of-Selectmen-Minutes-DRAFT.pdf\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2651c8763e3d4c5af68d@granite-docket
+DTSTAMP:20261103T132311Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury Zoning / ZBA
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-Agricultur
+ al-Commission-By-Laws.pdf
+DESCRIPTION:Minutes: Agricultural Commission\nhttps://www.canterburynh.gov/
+ wp-content/uploads/2026/10/2026-Agricultural-Commission-By-Laws.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:37bec8ba2f67ac46443b@granite-docket
+DTSTAMP:20261103T131503Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-20-Agri
+ cultural-Commission-Minutes-DRAFT-1.pdf
+DESCRIPTION:Minutes: 2026-10-20-Agricultural-Commission-Minutes-DRAFT-1.pdf
+ \nhttps://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-20-Agric
+ ultural-Commission-Minutes-DRAFT-1.pdf\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa62f1d17d3887f033c@granite-docket
+DTSTAMP:20261103T131503Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Canterbury Planning board
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-20-Agri
+ cultural-Commission-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-20-Agricultural-Commission-Agenda.pdf\nhttps://
+ www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-20-Agricultural-Co
+ mmission-Agenda.pdf\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5525be5afe77aa786b6f@granite-docket
+DTSTAMP:20261103T132107Z
+DTSTART;TZID=America/New_York:20261021T173000
+DURATION:PT2H
+SUMMARY:Canterbury 2026-10-21-Trustees-of-the-Trust-Funds-Agenda.pdf
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-21-Trus
+ tees-of-the-Trust-Funds-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-21-Trustees-of-the-Trust-Funds-Agenda.pdf\nhttp
+ s://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-21-Trustees-of
+ -the-Trust-Funds-Agenda.pdf\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6de988cb5a81154a4ab1@granite-docket
+DTSTAMP:20261103T131922Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Canterbury Historic district
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-21-Hist
+ oric-District-Commission-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-21-Historic-District-Commission-Agenda.pdf\nhtt
+ ps://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-21-Historic-D
+ istrict-Commission-Agenda.pdf\n\nMinutes: 2026-10-21-Historic-District-Com
+ mission-Minutes-DRAFT.pdf\nhttps://www.canterburynh.gov/wp-content/uploads
+ /2026/10/2026-10-21-Historic-District-Commission-Minutes-DRAFT.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:94071f79aa63ff0acc88@granite-docket
+DTSTAMP:20261103T114700Z
+DTSTART;TZID=America/New_York:20261027T190000
+DURATION:PT2H
+SUMMARY:Canterbury Planning board
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-27-Plan
+ ning-Board-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-27-Planning-Board-Agenda.pdf\nhttps://www.cante
+ rburynh.gov/wp-content/uploads/2026/10/2026-10-27-Planning-Board-Agenda.pd
+ f\n\nMinutes: 2026-11-PB-M258-L31-32-Egan-Sullivan-Waiver-Request.pdf\nhtt
+ ps://www.canterburynh.gov/wp-content/uploads/2026/10/2026-11-PB-M258-L31-3
+ 2-Egan-Sullivan-Waiver-Request.pdf\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e509ef031728c53a852e@granite-docket
+DTSTAMP:20261109T101754Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/Canterbury-Mobi
+ le-Infrastructure-RFI-DRAFT-v1.0.pdf
+DESCRIPTION:Minutes: Canterbury-Mobile-Infrastructure-RFI-DRAFT-v1.0.pdf\nh
+ ttps://www.canterburynh.gov/wp-content/uploads/2026/11/Canterbury-Mobile-I
+ nfrastructure-RFI-DRAFT-v1.0.pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0727c8175e7e5a556c4d@granite-docket
+DTSTAMP:20261109T104554Z
+DTSTART;TZID=America/New_York:20261028T190000
+DURATION:PT2H
+SUMMARY:Canterbury Zoning / ZBA
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-28-Zoni
+ ng-Board-of-Adjustment-Agenda.pdf
+DESCRIPTION:Agenda: 2026-10-28-Zoning-Board-of-Adjustment-Agenda.pdf\nhttps
+ ://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-28-Zoning-Board
+ -of-Adjustment-Agenda.pdf\n\nMinutes: 2026-10-28-Zoning-Board-of-Adjustmen
+ t-Minutes-DRAFT.pdf\nhttps://www.canterburynh.gov/wp-content/uploads/2026/
+ 10/2026-10-28-Zoning-Board-of-Adjustment-Minutes-DRAFT.pdf\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:589a73fbff08424c1966@granite-docket
+DTSTAMP:20261123T091419Z
+DTSTART;TZID=America/New_York:20261102T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-11-02-Boar
+ d-of-Selectmen-Agenda.pdf
+DESCRIPTION:Agenda: 2026-11-02-Board-of-Selectmen-Agenda.pdf\nhttps://www.c
+ anterburynh.gov/wp-content/uploads/2026/10/2026-11-02-Board-of-Selectmen-A
+ genda.pdf\n\nNotice: C-PACER Ordinance DRAFT\nhttps://www.canterburynh.gov
+ /wp-content/uploads/2026/10/C-PACER-Ordinance-DRAFT.pdf\n\nMinutes: 2026-1
+ 1-02-Board-of-Selectmen-Minutes.pdf\nhttps://www.canterburynh.gov/wp-conte
+ nt/uploads/2026/10/2026-11-02-Board-of-Selectmen-Minutes.pdf\n\nMinutes: 2
+ 026-11-02-Board-of-Selectmen-Minutes-DRAFT.pdf\nhttps://www.canterburynh.g
+ ov/wp-content/uploads/2026/10/2026-11-02-Board-of-Selectmen-Minutes-DRAFT.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7c0a9533d2761d76e207@granite-docket
+DTSTAMP:20261123T100510Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Canterbury Energy committee
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-09-Ener
+ gy-Committee-Agenda.docx
+DESCRIPTION:Agenda: 2026-11-09-Energy-Committee-Agenda.docx\nhttps://www.ca
+ nterburynh.gov/wp-content/uploads/2026/11/2026-11-09-Energy-Committee-Agen
+ da.docx\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a4ef7d22cf4d35bd1730@granite-docket
+DTSTAMP:20261123T091359Z
+DTSTART;TZID=America/New_York:20261109T100000
+DURATION:PT2H
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-09-Boar
+ d-of-Selectmen-Agenda.pdf
+DESCRIPTION:Agenda: 2026-11-09-Board-of-Selectmen-Agenda.pdf\nhttps://www.c
+ anterburynh.gov/wp-content/uploads/2026/11/2026-11-09-Board-of-Selectmen-A
+ genda.pdf\n\nMinutes: 2026-11-09-Board-of-Selectmen-Minutes.pdf\nhttps://w
+ ww.canterburynh.gov/wp-content/uploads/2026/11/2026-11-09-Board-of-Selectm
+ en-Minutes.pdf\n\nMinutes: 2026-11-09-Board-of-Selectmen-Minutes-DRAFT.pdf
+ \nhttps://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-09-Board
+ -of-Selectmen-Minutes-DRAFT.pdf\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:25827685d2733fd4c035@granite-docket
+DTSTAMP:20261123T092729Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Canterbury Planning board
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-10-Plan
+ ning-Board-Agenda.pdf
+DESCRIPTION:Agenda: 2026-11-10-Planning-Board-Agenda.pdf\nhttps://www.cante
+ rburynh.gov/wp-content/uploads/2026/11/2026-11-10-Planning-Board-Agenda.pd
+ f\n\nMinutes: 2026-11-10-Planning-Board-Minutes-DRAFT.pdf\nhttps://www.can
+ terburynh.gov/wp-content/uploads/2026/11/2026-11-10-Planning-Board-Minutes
+ -DRAFT.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:86b4b2dc15a34b8da4b6@granite-docket
+DTSTAMP:20261116T102222Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-12-Capi
+ tal-Improvement-Plan-DRAFT.pdf
+DESCRIPTION:Minutes: 2026-11-12-Capital-Improvement-Plan-DRAFT.pdf\nhttps:/
+ /www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-12-Capital-Improv
+ ement-Plan-DRAFT.pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b699dc27a6d214574350@granite-docket
+DTSTAMP:20261123T095850Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Canterbury Conservation commission
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-12_Cons
+ ervation_Commission_Agenda.pdf
+DESCRIPTION:Agenda: 2026-11-12_Conservation_Commission_Agenda.pdf\nhttps://
+ www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-12_Conservation_Co
+ mmission_Agenda.pdf\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d39228592e557fd1b26d@granite-docket
+DTSTAMP:20261116T102232Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-13-Budg
+ et-v-Actual.pdf
+DESCRIPTION:Minutes: 2026-11-13-Budget-v-Actual.pdf\nhttps://www.canterbury
+ nh.gov/wp-content/uploads/2026/11/2026-11-13-Budget-v-Actual.pdf\n\nMinute
+ s: 2026-11-13-2027-Budget-DRAFT-1.pdf\nhttps://www.canterburynh.gov/wp-con
+ tent/uploads/2026/11/2026-11-13-2027-Budget-DRAFT-1.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd5559baa1c91cce1a49@granite-docket
+DTSTAMP:20261116T102202Z
+DTSTART;TZID=America/New_York:20261116T163000
+DURATION:PT2H
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-16-Boar
+ d-of-Selectmen-Agenda-2.pdf
+DESCRIPTION:Agenda: 2026-11-16-Board-of-Selectmen-Agenda-2.pdf\nhttps://www
+ .canterburynh.gov/wp-content/uploads/2026/11/2026-11-16-Board-of-Selectmen
+ -Agenda-2.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:98ec0a584605e4f2e850@granite-docket
+DTSTAMP:20261123T094229Z
+DTSTART;TZID=America/New_York:20261123T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Canterbury Zoning / ZBA
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-23-Zoni
+ ng-Board-of-Adjustment-Agenda.pdf
+DESCRIPTION:Agenda: 2026-11-23-Zoning-Board-of-Adjustment-Agenda.pdf\nhttps
+ ://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-23-Zoning-Board
+ -of-Adjustment-Agenda.pdf\n\nNotice: 2026-9-ZBA-Public-Notice.pdf\nhttps:/
+ /www.canterburynh.gov/wp-content/uploads/2026/11/2026-9-ZBA-Public-Notice.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:03f3698de1068ff0e37e@granite-docket
+DTSTAMP:20261123T091329Z
+DTSTART;TZID=America/New_York:20261130T170000
+DURATION:PT2H
+SUMMARY:Canterbury Select board / council
+LOCATION:Canterbury\, NH
+URL:https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-30-Boar
+ d-of-Selectmen-Agenda.pdf
+DESCRIPTION:Agenda: 2026-11-30-Board-of-Selectmen-Agenda.pdf\nhttps://www.c
+ anterburynh.gov/wp-content/uploads/2026/11/2026-11-30-Board-of-Selectmen-A
+ genda.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+END:VCALENDAR

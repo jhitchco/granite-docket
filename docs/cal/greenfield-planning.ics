@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Greenfield Planning board
+X-WR-CALDESC:Planning board meetings in Greenfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:49dea476d1a4663594d4@granite-docket
+DTSTAMP:20261103T120804Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenfield Planning board
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-17
+ 5
+DESCRIPTION:Agenda: Planning Board Agenda Sep 28\, 2026 — Amended Sep 28\
+ , 2026 7:35 PM Planning Board Meeting Agenda\nhttps://www.greenfield-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_09282026-175\n\nAgenda: Planning Board Age
+ nda Sep 28\, 2026 Planning Board Site Walk - Sawmill Rd - Map R2 Lot 17-2 
+ - 5pm\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_0928202
+ 6-171\n\nAgenda: Planning Board Agenda Sep 28\, 2026 Public Site Walk- 5pm
+  - Sawmill Rd\, Map R2 Lot 17-2\nhttps://www.greenfield-nh.gov/AgendaCente
+ r/ViewFile/Agenda/_09282026-170\n\nMinutes: Planning Board Minutes Sep 28\
+ , 2026 — Amended Sep 28\, 2026 7:35 PM Planning Board Meeting Agenda\nht
+ tps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Minutes/_09282026-175\n\
+ nMinutes: Planning Board Minutes Sep 28\, 2026 Public Site Walk- 5pm - Saw
+ mill Rd\, Map R2 Lot 17-2\nhttps://www.greenfield-nh.gov/AgendaCenter/View
+ File/Minutes/_09282026-170\n\nMinutes: Sep 28\, 2026 — Amended Sep 28\, 
+ 2026 7:35 PM Planning Board Meeting Agenda\nhttps://www.greenfield-nh.gov/
+ AgendaCenter/ViewFile/ArchivedMinutes/_09282026-72\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:58e05a7b252d5f4982c7@granite-docket
+DTSTAMP:20261116T105728Z
+DTSTART;TZID=America/New_York:20261026T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenfield Planning board
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10262026-18
+ 2
+DESCRIPTION:Agenda: Planning Board Agenda Oct 26\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 262026-182\n\nMinutes: Planning Board Minutes Oct 26\, 2026 Planning Board
+  Meeting Agenda\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Minut
+ es/_10262026-182\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3eeaa77a4345a42e895b@granite-docket
+DTSTAMP:20261109T104224Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenfield Planning board
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-19
+ 0
+DESCRIPTION:Agenda: Planning Board Agenda Nov 9\, 2026 Notice of Public Hea
+ ring - 11/9/26 at 7pm - Chelstin LLC - Site Pl\nhttps://www.greenfield-nh.
+ gov/AgendaCenter/ViewFile/Agenda/_11092026-190\n\nAgenda: Planning Board A
+ genda Nov 9\, 2026 Planning Board Meeting Agenda\nhttps://www.greenfield-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_11092026-192\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

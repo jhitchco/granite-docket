@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Franklin Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Franklin\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a11f641dd33c582a5f6b@granite-docket
+DTSTAMP:20261103T104912Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Franklin Town meeting / warrant
+LOCATION:Franklin\, NH
+URL:https://www.franklinnh.gov/DocumentCenter/View/3114
+DESCRIPTION:Notice: ​Click to Open​ · 10/13/2026 City Council Special 
+ Meeting Notice and Public Hearings on Resolutions \nhttps://www.franklinnh
+ .gov/DocumentCenter/View/3114\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b398d48efe67215ab22b@granite-docket
+DTSTAMP:20261123T081834Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Franklin Town meeting / warrant
+LOCATION:Franklin\, NH
+URL:https://www.franklinnh.gov/DocumentCenter/View/3863
+DESCRIPTION:Notice: 11/17/2026 City Council Special Meeting Notice Click to
+  Open\nhttps://www.franklinnh.gov/DocumentCenter/View/3863\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

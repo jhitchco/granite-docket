@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brentwood Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Brentwood\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bd7c311081bec24983f3@granite-docket
+DTSTAMP:20261123T084253Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Brentwood Town meeting / warrant
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14905
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14905\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:928f8760be10867f8cde@granite-docket
+DTSTAMP:20261123T084513Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Town meeting / warrant
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=fd&docid=54569
+DESCRIPTION:Other: Town_Meeting_SB_Recommended\nhttps://www.brentwoodnh.gov
+ /docview.aspx?doctype=fd&docid=54569\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d67bbd7a8713291561a@granite-docket
+DTSTAMP:20261123T084408Z
+DTSTART;TZID=America/New_York:20261118T160000
+DURATION:PT2H
+SUMMARY:Brentwood Town meeting / warrant
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14916
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14916\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

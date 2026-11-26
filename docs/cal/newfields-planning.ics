@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newfields Planning board
+X-WR-CALDESC:Planning board meetings in Newfields\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:601dae152a02887ecbf4@granite-docket
+DTSTAMP:20261103T120824Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Newfields Planning board
+LOCATION:Newfields\, NH
+URL:https://www.newfieldsnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-200
+DESCRIPTION:Agenda: Planning Board Agenda Oct 8\, 2026 — Amended Oct 16\,
+  2026 12:13 PM Planning Board Meeting Agenda 10.8\nhttps://www.newfieldsnh
+ .gov/AgendaCenter/ViewFile/Agenda/_10082026-200\n\nAgenda: Planning Board 
+ Meeting Agenda 10.8.2026\nhttps://www.newfieldsnh.gov/AgendaCenter/ViewFil
+ e/ArchivedAgenda/_10082026-241\n\nMinutes: Planning Board Minutes Oct 8\, 
+ 2026 — Amended Oct 16\, 2026 12:13 PM Planning Board Meeting Agenda 10.\
+ nhttps://www.newfieldsnh.gov/AgendaCenter/ViewFile/Minutes/_10082026-200\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5783f9cdd26a69ae2077@granite-docket
+DTSTAMP:20261103T120339Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Newfields Planning board
+LOCATION:Newfields\, NH
+URL:https://www.newfieldsnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-213
+DESCRIPTION:Agenda: Planning Board Agenda Nov 12\, 2026 Planning Board Meet
+ ing Agenda 11.12.2026\nhttps://www.newfieldsnh.gov/AgendaCenter/ViewFile/A
+ genda/_11122026-213\n\nAgenda: Planning Board Agenda Nov 12\, 2026 Propose
+ d Subdivision Regulations Amendment for Lot Shapes\nhttps://www.newfieldsn
+ h.gov/AgendaCenter/ViewFile/Agenda/_11122026-212\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

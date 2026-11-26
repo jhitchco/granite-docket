@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dummer Select board / council
+X-WR-CALDESC:Select board / council meetings in Dummer\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:427eae551b6bf8580f44@granite-docket
+DTSTAMP:20261103T124520Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Dummer Select board / council
+LOCATION:Dummer\, NH
+URL:https://dummernh.com/wp-content/uploads/2026/10/2026.10.13-Select-Board
+ -Meeting-Minutes.pdf
+DESCRIPTION:Minutes: 2026.10.13 Select Board Meeting Minutes pdf 1.7 MB\nht
+ tps://dummernh.com/wp-content/uploads/2026/10/2026.10.13-Select-Board-Meet
+ ing-Minutes.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:464f1aac11f339838598@granite-docket
+DTSTAMP:20261103T124520Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Dummer Select board / council
+LOCATION:Dummer\, NH
+URL:https://dummernh.com/wp-content/uploads/2026/11/2026.10.27-Select-Board
+ -Meeting-Minutes.pdf
+DESCRIPTION:Minutes: 2026.10.27 Select Board Meeting Minutes pdf 987 KB\nht
+ tps://dummernh.com/wp-content/uploads/2026/11/2026.10.27-Select-Board-Meet
+ ing-Minutes.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:406642a5dc463088b20b@granite-docket
+DTSTAMP:20261123T100646Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Dummer Select board / council
+LOCATION:Dummer\, NH
+URL:https://dummernh.com/wp-content/uploads/2026/11/2026.11.10-Select-Board
+ -Meeting-Minutes.pdf
+DESCRIPTION:Minutes: 2026.11.10 Select Board Meeting Minutes pdf 1.7 MB\nht
+ tps://dummernh.com/wp-content/uploads/2026/11/2026.11.10-Select-Board-Meet
+ ing-Minutes.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+END:VCALENDAR

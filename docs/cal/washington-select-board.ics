@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Washington Select board / council
+X-WR-CALDESC:Select board / council meetings in Washington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:980b7bf417721a04fea8@granite-docket
+DTSTAMP:20261103T122106Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Washington Select board / council
+LOCATION:Washington\, NH
+URL:https://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10012026-23
+ 2
+DESCRIPTION:Minutes: Select Board Agenda Oct 1\, 2026 Select Board Meeting 
+ Minutes\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10012
+ 026-232\n\nMinutes: Select Board Minutes Oct 1\, 2026 Select Board Meeting
+  Minutes\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Minutes/_100
+ 12026-232\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a603419bde208da2f86a@granite-docket
+DTSTAMP:20261103T122106Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Washington Select board / council
+LOCATION:Washington\, NH
+URL:https://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10082026-23
+ 4
+DESCRIPTION:Minutes: Select Board Agenda Oct 8\, 2026 Select Board Meeting 
+ Minutes\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10082
+ 026-234\n\nMinutes: Select Board Minutes Oct 8\, 2026 Select Board Meeting
+  Minutes\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Minutes/_100
+ 82026-234\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:701dfd0f90537cce8135@granite-docket
+DTSTAMP:20261103T122105Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Washington Select board / council
+LOCATION:Washington\, NH
+URL:https://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-23
+ 6
+DESCRIPTION:Minutes: Select Board Agenda Oct 15\, 2026 Select Board Meeting
+  Minutes\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_1015
+ 2026-236\n\nMinutes: Select Board Minutes Oct 15\, 2026 Select Board Meeti
+ ng Minutes\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Minutes/_1
+ 0152026-236\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a131faac65f383b53a5c@granite-docket
+DTSTAMP:20261103T122104Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Washington Select board / council
+LOCATION:Washington\, NH
+URL:https://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_10222026-23
+ 8
+DESCRIPTION:Minutes: Select Board Agenda Oct 22\, 2026 Select Board Meeting
+  Minutes\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Agenda/_1022
+ 2026-238\n\nMinutes: Select Board Minutes Oct 22\, 2026 Select Board Meeti
+ ng Minutes\nhttps://www.washington.nh.gov/AgendaCenter/ViewFile/Minutes/_1
+ 0222026-238\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+END:VCALENDAR

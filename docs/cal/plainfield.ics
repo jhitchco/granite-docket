@@ -1,0 +1,220 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plainfield NH meetings
+X-WR-CALDESC:Public meetings of Plainfield\, NH boards\, from posted agenda
+ s and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:17b25f8334c4daaffce5@granite-docket
+DTSTAMP:20261103T113726Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Minutes
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13387
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13387\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:483b244d92f0b9b2f951@granite-docket
+DTSTAMP:20261103T113726Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Plainfield Agenda
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13387
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13387\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6cb57b96357afbb37d59@granite-docket
+DTSTAMP:20261103T113711Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Budget / CIP
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13388
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13388\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:506fc56c3dcb2392a279@granite-docket
+DTSTAMP:20261103T113538Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Select board / council
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13393
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13393\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e527ec16425991f098@granite-docket
+DTSTAMP:20261103T113725Z
+DTSTART;TZID=America/New_York:20261012T180000
+DURATION:PT2H
+SUMMARY:Plainfield Zoning / ZBA
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13394
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13394\n\nMinutes: Minutes\nhttps://www.plainfieldnh.gov
+ /docview.aspx?doctype=minuteDoc&docid=13394\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a4727bb282b86febada5@granite-docket
+DTSTAMP:20261103T113707Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Budget / CIP
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13398
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13398\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:89381e4dc4eb7a2ae679@granite-docket
+DTSTAMP:20261103T113621Z
+DTSTART;TZID=America/New_York:20261018T123000
+DURATION:PT2H
+SUMMARY:Plainfield Agenda
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13404
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13404\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1e5600a3233fe70a37eb@granite-docket
+DTSTAMP:20261103T113456Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Plainfield Planning board
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13402
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13402\n\nMinutes: Minutes\nhttps://www.plainfieldnh.gov
+ /docview.aspx?doctype=minuteDoc&docid=13402\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f2708b87902a5c47ce2@granite-docket
+DTSTAMP:20261103T113722Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Plainfield Zoning / ZBA
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13399
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13399\n\nMinutes: Minutes\nhttps://www.plainfieldnh.gov
+ /docview.aspx?doctype=minuteDoc&docid=13399\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d45bd5731f9b0e25cd1b@granite-docket
+DTSTAMP:20261103T113536Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Select board / council
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13408
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13408\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5e0c6e894e41e3e5380c@granite-docket
+DTSTAMP:20261103T113651Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Plainfield Conservation commission
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13407
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13407\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:917d8a6cd1c99ca0b91d@granite-docket
+DTSTAMP:20261103T113651Z
+DTSTART;TZID=America/New_York:20261022T183000
+DURATION:PT2H
+SUMMARY:Plainfield Planning board
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13407
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13407\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b5c6fd254167a2f1708@granite-docket
+DTSTAMP:20261109T101451Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Select board / council
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13415
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13415\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e845fef066eb52be7d4@granite-docket
+DTSTAMP:20261109T101522Z
+DTSTART;TZID=America/New_York:20261111T180000
+DURATION:PT2H
+SUMMARY:Plainfield Zoning / ZBA
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13417
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13417\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8f00a7578556ce14ef3@granite-docket
+DTSTAMP:20261103T113445Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Plainfield Planning board
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13412
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13412\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

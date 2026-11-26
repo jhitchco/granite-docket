@@ -1,0 +1,1079 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Salem NH meetings
+X-WR-CALDESC:Public meetings of Salem\, NH boards\, from posted agendas and
+  minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b3e9d41321a7e9f02c5e@granite-docket
+DTSTAMP:20261103T152021Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1804
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_09282026-1804\n\nAgenda: Town Council Meeting Mate
+ rials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1805\n\n
+ Notice: here · The Salem Town Council will hold a public hearing on Monda
+ y\, September 28\, 2026 at 7:00 p.m. \nhttps://salemnh.gov/DocumentCenter/
+ View/7413/Finance---Amend-2027-Fee-Schedule---September-28-2026\n\nNotice:
+  A full copy of the public hearing notice may be viewed here . Copies of S
+ alem Municipal Code Chapter\nhttps://salemnh.gov/DocumentCenter/View/7415/
+ Public-Hearing-Notice---Municipal-Code-Chapter-490-September-28-2026\n\nMi
+ nutes: Sep 28\, 2026 Town Council Meeting Agenda\nhttps://salemnh.gov/Agen
+ daCenter/ViewFile/Minutes/_09282026-1804\n\nMinutes: Sep 28\, 2026 Town Co
+ uncil Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedMi
+ nutes/_09282026-2704\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:54d9206f2dd2c2c04ac2@granite-docket
+DTSTAMP:20261103T145305Z
+DTSTART;TZID=America/New_York:20260929T090000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-1809
+DESCRIPTION:Agenda: Finance Committee Meeting Agenda\nhttps://salemnh.gov/A
+ gendaCenter/ViewFile/Agenda/_09292026-1809\n\nMinutes: Sep 29\, 2026 — A
+ mended Oct 15\, 2026 9:35 AM Finance Committee Meeting Agenda\nhttps://sal
+ emnh.gov/AgendaCenter/ViewFile/Minutes/_09292026-1809\n\nMinutes: Sep 29\,
+  2026 Finance Committee Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/V
+ iewFile/ArchivedMinutes/_09292026-2634\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c6e871f861a7b793996@granite-docket
+DTSTAMP:20261103T145353Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-1806
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_10012026-1806\n\nAgenda: Town Council Meeting Agen
+ da\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10012026-259
+ 1\n\nAgenda: Town Council Meeting Agenda\nhttps://salemnh.gov/AgendaCenter
+ /ViewFile/ArchivedAgenda/_10012026-2590\n\nAgenda: Town Council Meeting Ag
+ enda\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10012026-2
+ 589\n\nAgenda: Town Council Meeting Agenda\nhttps://salemnh.gov/AgendaCent
+ er/ViewFile/ArchivedAgenda/_10012026-2587\n\nAgenda: Town Council Meeting 
+ Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10012026
+ -2567\n\nAgenda: Town Council Meeting Agenda\nhttps://salemnh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_10012026-2566\n\nMinutes: Oct 1\, 2026 Town 
+ Council Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/
+ _10012026-1806\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b84c2118a401e367179@granite-docket
+DTSTAMP:20261103T151741Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Salem Town meeting / warrant
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/DocumentCenter/View/7474
+DESCRIPTION:Other: Finance Committee 2027 Budget Review and Process Recomme
+ ndations (PDF)\nhttps://www.salemnh.gov/DocumentCenter/View/7474\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:8b5a9a7808832feddedd@granite-docket
+DTSTAMP:20261103T152107Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5168
+DESCRIPTION:Minutes: CC-10-5-26 (Site Walk) - Draft Minutes.pdf\nhttps://ww
+ w.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5168\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:01d64320a1ea3a1495da@granite-docket
+DTSTAMP:20261103T143920Z
+DTSTART;TZID=America/New_York:20261006T160000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-1808
+DESCRIPTION:Agenda: Ethics Committee Meeting\nhttps://salemnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_10062026-1808\n\nAgenda: PDF\nhttps://salemnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_10062026-1802\n\nAgenda: Packet\nhttps://salemn
+ h.gov/AgendaCenter/ViewFile/Agenda/_10062026-1802?packet=true\n\nMinutes: 
+ Oct 6\, 2026 Ethics Committee Meeting\nhttps://salemnh.gov/AgendaCenter/Vi
+ ewFile/Minutes/_10062026-1808\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:12f28e74094086a33993@granite-docket
+DTSTAMP:20261103T092626Z
+DTSTART;TZID=America/New_York:20261006T160000
+DURATION:PT2H
+SUMMARY:Salem Ethics Committee Agenda Oct 6\, 2026 Ethics Committee Meeting
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-1808
+DESCRIPTION:Agenda: Ethics Committee Agenda Oct 6\, 2026 Ethics Committee M
+ eeting\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-180
+ 8\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2502c2c1d5132c9008cc@granite-docket
+DTSTAMP:20261103T145700Z
+DTSTART;TZID=America/New_York:20261006T190000
+DURATION:PT2H
+SUMMARY:Salem Zoning / ZBA
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-1802
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 6\, 2026 Zoning B
+ oard of Adjustment Regular Meeting Materials\nhttps://www.salemnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10062026-1802\n\nAgenda: Zoning Board of Adjustm
+ ent Regular Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10062026-2642\n\nAgenda: Packet\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/ArchivedAgenda/_10062026-2642?packet=true\n\nMinutes: Oct 
+ 6\, 2026 Zoning Board of Adjustment Regular Meeting Materials\nhttps://sal
+ emnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-1802\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6ee4116bf81cb9835f61@granite-docket
+DTSTAMP:20261103T152121Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Salem Most Recent Agenda
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/MostRecent/Recreation-Advisory-Com
+ mittee-15-15
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://www.salemnh.gov/AgendaCente
+ r/MostRecent/Recreation-Advisory-Committee-15-15\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8b57fa0775f803c5ca11@granite-docket
+DTSTAMP:20261103T092627Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Salem Ethics Committee Minutes Oct 6\, 2026 Ethics Committee Meetin
+ g
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-1808
+DESCRIPTION:Minutes: Ethics Committee Minutes Oct 6\, 2026 Ethics Committee
+  Meeting\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-
+ 1808\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4938cf9f20814b0bc30@granite-docket
+DTSTAMP:20261103T145251Z
+DTSTART;TZID=America/New_York:20261006T160000
+DURATION:PT2H
+SUMMARY:Salem Ethics Committee Meeting
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10062026-2631
+DESCRIPTION:Agenda: Ethics Committee Meeting\nhttps://salemnh.gov/AgendaCen
+ ter/ViewFile/ArchivedAgenda/_10062026-2631\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:db8badf9d5941d544604@granite-docket
+DTSTAMP:20261123T081752Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Salem Oct 6\, 2026 Ethics Committee Meeting
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10062026-275
+ 4
+DESCRIPTION:Minutes: Oct 6\, 2026 Ethics Committee Meeting\nhttps://salemnh
+ .gov/AgendaCenter/ViewFile/ArchivedMinutes/_10062026-2754\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1740f9d55987505c89@granite-docket
+DTSTAMP:20261103T143827Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1810
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_10072026-1810\n\nMinutes: Oct 7\, 2026 Town Counci
+ l Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_10072
+ 026-1810\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c46840ceb7c6891a183@granite-docket
+DTSTAMP:20261103T094100Z
+DTSTART;TZID=America/New_York:20261007T150000
+DURATION:PT2H
+SUMMARY:Salem Trustees of Trust Funds Agenda Oct 7\, 2026 — Amended Oct 7
+ \, 2026 2:53 
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1815
+DESCRIPTION:Agenda: Trustees of Trust Funds Agenda Oct 7\, 2026 — Amended
+  Oct 7\, 2026 2:53 PM Cancelled - October 7\, 2026\nhttps://www.salemnh.go
+ v/AgendaCenter/ViewFile/Agenda/_10072026-1815\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:39ff15a9953c8abd99b6@granite-docket
+DTSTAMP:20261103T145625Z
+DTSTART;TZID=America/New_York:20261007T150000
+DURATION:PT2H
+SUMMARY:Salem October 7\, 2026 Trustee of Trust Funs Agenda
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-2628
+DESCRIPTION:Agenda: October 7\, 2026 Trustee of Trust Funs Agenda\nhttps://
+ salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-2628\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:61f5593b7d6ac0482186@granite-docket
+DTSTAMP:20261103T145142Z
+DTSTART;TZID=America/New_York:20261007T170000
+DURATION:PT2H
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1811
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 7\, 2026 10/7/26 Con
+ servation Commission Agenda & Meeting Material\nhttps://www.salemnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10072026-1811\n\nAgenda: 10/7/26 Conservation 
+ Commission Agenda & Meeting Materials\nhttps://salemnh.gov/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_10072026-2681\n\nAgenda: Packet\nhttps://salemnh.go
+ v/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-2681?packet=true\n\nMinut
+ es: Oct 7\, 2026 10/7/26 Conservation Commission Agenda & Meeting Material
+ s\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-1811\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f65b77120e2f6a9fcb@granite-docket
+DTSTAMP:20261103T143914Z
+DTSTART;TZID=America/New_York:20261007T150000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1811
+DESCRIPTION:Agenda: PDF\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_
+ 10072026-1811\n\nAgenda: Cancelled - October 7\, 2026 Trustee of Trust Fun
+ s Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1815\
+ n\nAgenda: Packet\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10072
+ 026-1811?packet=true\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6af3b42cec2ce5d2a60a@granite-docket
+DTSTAMP:20261116T081745Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Salem Recreation Advisory Committee Agenda
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10082026-2713
+DESCRIPTION:Agenda: Recreation Advisory Committee Agenda\nhttps://salemnh.g
+ ov/AgendaCenter/ViewFile/ArchivedAgenda/_10082026-2713\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b812c97c408d5d16f474@granite-docket
+DTSTAMP:20261103T143815Z
+DTSTART;TZID=America/New_York:20261008T150000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-1821
+DESCRIPTION:Agenda: MBAC Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/
+ Agenda/_10082026-1821\n\nAgenda: Recreation Advisory Committee Agenda\nhtt
+ ps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-1814\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5bacaeb75ca026876d@granite-docket
+DTSTAMP:20261103T092830Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Salem Recreation Advisory Committee Agenda Oct 8\, 2026 Recreation 
+ Advisory C
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-1814
+DESCRIPTION:Agenda: Recreation Advisory Committee Agenda Oct 8\, 2026 Recre
+ ation Advisory Committee Agenda\nhttps://www.salemnh.gov/AgendaCenter/View
+ File/Agenda/_10082026-1814\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:01052ba513b9a223d995@granite-docket
+DTSTAMP:20261103T152047Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Salem This project is funded through the New Hampshire Department o
+ f Environ
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/DocumentCenter/View/7435
+DESCRIPTION:Other: This project is funded through the New Hampshire Departm
+ ent of Environmental Services Clean Water St\nhttps://www.salemnh.gov/Docu
+ mentCenter/View/7435\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:425ce1422811575ccf99@granite-docket
+DTSTAMP:20261103T143804Z
+DTSTART;TZID=America/New_York:20261013T090000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-1817
+DESCRIPTION:Agenda: Finance Committee Meeting Agenda\nhttps://salemnh.gov/A
+ gendaCenter/ViewFile/Agenda/_10132026-1817\n\nAgenda: Packet\nhttps://www.
+ salemnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-1803?packet=true\n\nMin
+ utes: Oct 13\, 2026 Finance Committee Meeting Agenda\nhttps://salemnh.gov/
+ AgendaCenter/ViewFile/Minutes/_10132026-1817\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:88242237152e343445bf@granite-docket
+DTSTAMP:20261103T144019Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Salem Planning board
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-1803
+DESCRIPTION:Agenda: PDF\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_
+ 10132026-1803\n\nAgenda: Planning Board Regular Meeting Materials\nhttps:/
+ /salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-2644\n\nAgenda
+ : Planning Board Regular Meeting Materials\nhttps://salemnh.gov/AgendaCent
+ er/ViewFile/ArchivedAgenda/_10132026-2618\n\nAgenda: Planning Board Regula
+ r Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAge
+ nda/_10132026-2563\n\nAgenda: Planning Board Regular Meeting Materials\nht
+ tps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-2562\n\nA
+ genda: Planning Board Regular Meeting Materials\nhttps://salemnh.gov/Agend
+ aCenter/ViewFile/ArchivedAgenda/_10132026-2561\n\nAgenda: Packet\nhttps://
+ salemnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-1803?packet=true\n\nAge
+ nda: Packet\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_101
+ 32026-2644?packet=true\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59409a3926e004c7af49@granite-docket
+DTSTAMP:20261103T145345Z
+DTSTART;TZID=America/New_York:20261014T180000
+DURATION:PT2H
+SUMMARY:Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-1816
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_10142026-1816\n\nMinutes: Oct 14\, 2026 Town Counc
+ il Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_1014
+ 2026-1816\n\nMinutes: Oct 14\, 2026 Town Council Meeting Agenda\nhttps://s
+ alemnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10142026-2706\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb1b142df29c59a00eb4@granite-docket
+DTSTAMP:20261103T152111Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5174
+DESCRIPTION:Agenda: 8926 WOLK wetlands permit plan (10-14-26).pdf\nhttps://
+ www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5174\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6557ea6834c8d49e0a44@granite-docket
+DTSTAMP:20261123T082742Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1820
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_10192026-1820\n\nAgenda: Town Council Meeting Mate
+ rials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1823\n\n
+ Notice: here. · The Salem Town Council will hold a public hearing pursuan
+ t to NH RSA 31:95(b) on Monday\, Oct\nhttps://salemnh.gov/DocumentCenter/V
+ iew/7453/Police---NH-Office-of-Highway-Safety--October-19-2026---21200\n\n
+ Minutes: Oct 19\, 2026 Town Council Meeting Agenda\nhttps://salemnh.gov/Ag
+ endaCenter/ViewFile/Minutes/_10192026-1820\n\nMinutes: Oct 19\, 2026 Town 
+ Council Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Archi
+ vedMinutes/_10192026-2740\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:de700edd80780dec744e@granite-docket
+DTSTAMP:20261103T152108Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5172
+DESCRIPTION:Agenda: Salem Fire Station 3 NHDES Minimum Impact EXP Applicati
+ on Package.pdf\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fi
+ leID=5172\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4fec22f83e94ceecaced@granite-docket
+DTSTAMP:20261103T152110Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5171
+DESCRIPTION:Agenda: Salem Fire Station 3 - Wetlands Permitting Letter.pdf\n
+ https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5171\n\nAge
+ nda: Salem Fire Station 3 - Site Redevelopment Plans 10-20-26.pdf\nhttps:/
+ /www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5170\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:fb5ae27f7f169c08171e@granite-docket
+DTSTAMP:20261103T151905Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Salem Planning board
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Item/1181?fileID=5165
+DESCRIPTION:Agenda: Salem Fire Station No 3 - Site Redevelopment Plans 10-2
+ 0-26.pdf\nhttps://salemnh.gov/AgendaCenter/ViewFile/Item/1181?fileID=5165\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:899112ed54cf2f31c79d@granite-docket
+DTSTAMP:20261103T151742Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Salem Town meeting / warrant
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/DocumentCenter/View/7519/TC-Version-10212026
+DESCRIPTION:Other: Please click here to view the Town Council's Proposed 20
+ 27 Budget and supporting documents.\nhttps://www.salemnh.gov/DocumentCente
+ r/View/7519/TC-Version-10212026\n\nOther: Town Council's 2027 Recommended 
+ Budget\nhttps://www.salemnh.gov/DocumentCenter/View/7534/Town-Council-Budg
+ et-10-21-26\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d7e5d3ed00555e0f2e1@granite-docket
+DTSTAMP:20261103T092626Z
+DTSTART;TZID=America/New_York:20261021T180000
+DURATION:PT2H
+SUMMARY:Salem Ethics Committee Agenda Oct 21\, 2026 Ethics Committee- Gener
+ al Ethics 
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-1812
+DESCRIPTION:Agenda: Ethics Committee Agenda Oct 21\, 2026 Ethics Committee-
+  General Ethics Training Workshop\nhttps://www.salemnh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10212026-1812\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bce770f186b9fa73b95a@granite-docket
+DTSTAMP:20261103T143758Z
+DTSTART;TZID=America/New_York:20261021T180000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-1812
+DESCRIPTION:Agenda: Ethics Committee- General Ethics Training Workshop\nhtt
+ ps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-1812\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b3cce7971be063bbc7@granite-docket
+DTSTAMP:20261103T152115Z
+DTSTART;TZID=America/New_York:20261021T180000
+DURATION:PT2H
+SUMMARY:Salem Most Recent Agenda
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/MostRecent/Ethics-Committee-22-22
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://www.salemnh.gov/AgendaCente
+ r/MostRecent/Ethics-Committee-22-22\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:31d42d38b60caa6d2b6e@granite-docket
+DTSTAMP:20261103T092845Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Salem Supervisors of the Checklist Agenda Oct 22\, 2026 Supervisors
+  of the Ch
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-1824
+DESCRIPTION:Agenda: Supervisors of the Checklist Agenda Oct 22\, 2026 Super
+ visors of the Checklist Meeting Notice\nhttps://www.salemnh.gov/AgendaCent
+ er/ViewFile/Agenda/_10222026-1824\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5bc4dbf55337dc4fe87@granite-docket
+DTSTAMP:20261103T143820Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-1824
+DESCRIPTION:Agenda: Supervisors of the Checklist Meeting Notice\nhttps://sa
+ lemnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-1824\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:31a32bd1d016036d389f@granite-docket
+DTSTAMP:20261103T152112Z
+DTSTART;TZID=America/New_York:20261026T141700
+DURATION:PT2H
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5178
+DESCRIPTION:Agenda: Norwood Email DPW.pdf\nhttps://www.salemnh.gov/AgendaCe
+ nter/ViewFile/Item/1182?fileID=5178\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:94872f08c40821075e11@granite-docket
+DTSTAMP:20261103T094044Z
+DTSTART;TZID=America/New_York:20261026T160000
+DURATION:PT2H
+SUMMARY:Salem Transfer Station Study Committee Agenda Oct 26\, 2026 Transfe
+ r Station 
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-1827
+DESCRIPTION:Agenda: Transfer Station Study Committee Agenda Oct 26\, 2026 T
+ ransfer Station Study Committee Agenda\nhttps://www.salemnh.gov/AgendaCent
+ er/ViewFile/Agenda/_10262026-1827\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d9b116bdabf7505daa3@granite-docket
+DTSTAMP:20261103T143911Z
+DTSTART;TZID=America/New_York:20261026T160000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-1827
+DESCRIPTION:Agenda: Transfer Station Study Committee Agenda\nhttps://salemn
+ h.gov/AgendaCenter/ViewFile/Agenda/_10262026-1827\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:02d7f15d817fba6173ec@granite-docket
+DTSTAMP:20261103T094348Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-1819?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/A
+ genda/_10272026-1819?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec9139f867e301267543@granite-docket
+DTSTAMP:20261103T143544Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Salem Planning board
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-1819
+DESCRIPTION:Agenda: PDF\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_
+ 10272026-1819\n\nAgenda: Packet\nhttps://salemnh.gov/AgendaCenter/ViewFile
+ /Agenda/_10272026-1819?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8fc34a749a1e3b6e25@granite-docket
+DTSTAMP:20261123T075358Z
+DTSTART;TZID=America/New_York:20261029T180000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10292026-1830
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda\nhttps://salemnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10292026-1830\n\nAgenda: Budget Committee Meet
+ ing Notice (October 29\, 2026)\nhttps://salemnh.gov/AgendaCenter/ViewFile/
+ Agenda/_10292026-1807\n\nMinutes: Oct 29\, 2026 Budget Committee Meeting A
+ genda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_10292026-1830\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:94f8e9f90fc0effa7fce@granite-docket
+DTSTAMP:20261109T083433Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1185?fileID=5183
+DESCRIPTION:Agenda: 20261029_SalemStandardPlantList_Final.pdf\nhttps://www.
+ salemnh.gov/AgendaCenter/ViewFile/Item/1185?fileID=5183\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b734e36c41804755eb5@granite-docket
+DTSTAMP:20261109T083453Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Item/1185?fileID=5184
+DESCRIPTION:Agenda: 20261030_SalemPlantList.pdf\nhttps://www.salemnh.gov/Ag
+ endaCenter/ViewFile/Item/1185?fileID=5184\n\nAgenda: 20261030_SalemPlantLi
+ st.xlsx\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Item/1185?fileID=51
+ 85\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:64a60a9d0d3b4788e6a8@granite-docket
+DTSTAMP:20261116T083538Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Salem Planning board
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/1835?html=true
+DESCRIPTION:Agenda: AGENDA 23 South Broadway - Change of Use 141A Pelham Ro
+ ad - MacDonald Subdivision\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agen
+ da/1835?html=true\n\nAgenda: 23 S Broadway Unit 5 - Submission Letter and 
+ Photos.pdf\nhttps://salemnh.gov/AgendaCenter/ViewFile/Item/1188?fileID=518
+ 9\n\nAgenda: Butterworth - Salem NH - Change of Use Plan - 10-30-2026.pdf\
+ nhttps://salemnh.gov/AgendaCenter/ViewFile/Item/1188?fileID=5190\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d47ddd9c8e4b1898839@granite-docket
+DTSTAMP:20261116T075251Z
+DTSTART;TZID=America/New_York:20261102T181500
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-1829
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_11022026-1829\n\nAgenda: Town Council Meeting Mate
+ rials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-1831\n\n
+ Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/View
+ File/ArchivedAgenda/_11022026-2703\n\nNotice: here. · The Salem Town Coun
+ cil will hold a public hearing pursuant to NH RSA 31:95(b) on Monday\, Nov
+ \nhttps://salemnh.gov/DocumentCenter/View/7505/Police---30000---Victim-Adv
+ ocacy-Grant---November-2-2026\n\nMinutes: Nov 2\, 2026 Town Council Meetin
+ g Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_11022026-1829
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:39b81b8110375f92e7df@granite-docket
+DTSTAMP:20261116T083556Z
+DTSTART;TZID=America/New_York:20261103T161400
+DURATION:PT2H
+SUMMARY:Salem Planning board
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Item/1187?fileID=5188
+DESCRIPTION:Agenda: 141A Pelham Rd - Letter and Communication from Deputy F
+ ire Chief.pdf\nhttps://salemnh.gov/AgendaCenter/ViewFile/Item/1187?fileID=
+ 5188\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a11532df6708b8b1aafa@granite-docket
+DTSTAMP:20261109T075027Z
+DTSTART;TZID=America/New_York:20261104T170000
+DURATION:PT2H
+SUMMARY:Salem Conservation commission
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-1828
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 4\, 2026 11/4/26 Con
+ servation Commission Agenda & Meeting Material\nhttps://www.salemnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11042026-1828\n\nAgenda: 11/4/26 Conservation 
+ Commission Agenda & Meeting Materials\nhttps://www.salemnh.gov/AgendaCente
+ r/ViewFile/Agenda/1828?html=true\n\nAgenda: CC 11-4-26 Agenda.pdf\nhttps:/
+ /www.salemnh.gov/AgendaCenter/ViewFile/Item/1182?fileID=5167\n\nAgenda: Pa
+ cket\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-2
+ 711?packet=true\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b617bc5ea1eff54cc10c@granite-docket
+DTSTAMP:20261103T143727Z
+DTSTART;TZID=America/New_York:20261104T170000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-1828
+DESCRIPTION:Agenda: PDF\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_
+ 11042026-1828\n\nAgenda: Packet\nhttps://salemnh.gov/AgendaCenter/ViewFile
+ /Agenda/_11042026-1828?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:426e18ed0638e755843a@granite-docket
+DTSTAMP:20261103T143918Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-1822
+DESCRIPTION:Agenda: PDF\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_
+ 11052026-1822\n\nAgenda: Packet\nhttps://salemnh.gov/AgendaCenter/ViewFile
+ /Agenda/_11052026-1822?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7bc077941b091050fc4@granite-docket
+DTSTAMP:20261123T083755Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Salem Zoning / ZBA
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-1822
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 5\, 2026 Zoning B
+ oard of Adjustment Regular Meeting Materials\nhttps://www.salemnh.gov/Agen
+ daCenter/ViewFile/Agenda/_11052026-1822\n\nAgenda: AGENDA -November 2026.p
+ df\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Item/1184?fileID=5182\n\
+ nAgenda: Zoning Board of Adjustment Regular Meeting Materials\nhttps://sal
+ emnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11052026-2700\n\nAgenda: Zo
+ ning Board of Adjustment Regular Meeting Materials\nhttps://salemnh.gov/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_11052026-2699\n\nAgenda: Zoning Board 
+ of Adjustment Regular Meeting Materials\nhttps://salemnh.gov/AgendaCenter/
+ ViewFile/ArchivedAgenda/_11052026-2698\n\nAgenda: Zoning Board of Adjustme
+ nt Regular Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_11052026-2697\n\nAgenda: Zoning Board of Adjustment Regular 
+ Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgend
+ a/_11052026-2694\n\nAgenda: Zoning Board of Adjustment Regular Meeting Mat
+ erials\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11052026
+ -2693\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac1e4ce4e125ba987ba@granite-docket
+DTSTAMP:20261123T075528Z
+DTSTART;TZID=America/New_York:20261106T100000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11062026-1832
+DESCRIPTION:Agenda: Finance Committee Meeting Agenda\nhttps://salemnh.gov/A
+ gendaCenter/ViewFile/Agenda/_11062026-1832\n\nMinutes: Nov 6\, 2026 Financ
+ e Committee Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minu
+ tes/_11062026-1832\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:141a4cd05e3628b42401@granite-docket
+DTSTAMP:20261103T094348Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-1826?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/A
+ genda/_11102026-1826?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e33f7aae0da8def9bc@granite-docket
+DTSTAMP:20261123T075218Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Planning board
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-1826
+DESCRIPTION:Agenda: PDF\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_
+ 11102026-1826\n\nAgenda: AGENDA 170 LAWRENCE ROAD - SALEM FIRE STAION #3 -
+  SITE PLAN\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/1826?html=tru
+ e\n\nAgenda: pb agenda-11-10-26.pdf\nhttps://salemnh.gov/AgendaCenter/View
+ File/Item/1183?fileID=5181\n\nAgenda: Planning Board Regular Meeting Mater
+ ials\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-2
+ 696\n\nAgenda: Planning Board Regular Meeting Materials\nhttps://salemnh.g
+ ov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-2695\n\nAgenda: Planning
+  Board Regular Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFil
+ e/ArchivedAgenda/_11102026-2717\n\nAgenda: Packet\nhttps://salemnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_11102026-1826?packet=true\n\nAgenda: Packet\nht
+ tps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-2696?pack
+ et=true\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8c64a0eebc807ad3bf@granite-docket
+DTSTAMP:20261116T071005Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1833
+DESCRIPTION:Agenda: Recreation Advisory Committee Agenda Nov 12\, 2026 Recr
+ eation Advisory Committee Agenda\nhttps://www.salemnh.gov/AgendaCenter/Vie
+ wFile/Agenda/_11122026-1833\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2a3939da993edca0da@granite-docket
+DTSTAMP:20261116T075221Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1833
+DESCRIPTION:Agenda: Recreation Advisory Committee Agenda\nhttps://salemnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11122026-1833\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:57375804ab4d37a38ca6@granite-docket
+DTSTAMP:20261123T075539Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-1836
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_11162026-1836\n\nAgenda: Town Council Meeting Mate
+ rials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-1837\n\n
+ Notice: here · The Salem Town Council will hold a public hearing pursuant
+  to NH RSA 31:95(b) on Monday\, Nove\nhttps://salemnh.gov/DocumentCenter/V
+ iew/7555/Fire-Department---28163636---Assistance-to-Firefighters-Grant-Pro
+ gram---Paramedic-Training-November-16-2026---Revised\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:58454cd7e32cef8eb79d@granite-docket
+DTSTAMP:20261116T070945Z
+DTSTART;TZID=America/New_York:20261117T160000
+DURATION:PT2H
+SUMMARY:Salem Ethics Committee Agenda Nov 17\, 2026 Ethics Committee Meetin
+ g
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-1834
+DESCRIPTION:Agenda: Ethics Committee Agenda Nov 17\, 2026 Ethics Committee 
+ Meeting\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-18
+ 34\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:723a9149d750bdbb5ced@granite-docket
+DTSTAMP:20261123T075508Z
+DTSTART;TZID=America/New_York:20261117T160000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-1834
+DESCRIPTION:Agenda: Ethics Committee Meeting\nhttps://salemnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_11172026-1834\n\nMinutes: Nov 17\, 2026 Ethics Commit
+ tee Meeting\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_11172026-1
+ 834\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a238bdcdeaaf5e802590@granite-docket
+DTSTAMP:20261123T070502Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Salem Ethics Committee Minutes Nov 17\, 2026 Ethics Committee Meeti
+ ng
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Minutes/_11172026-1834
+DESCRIPTION:Minutes: Ethics Committee Minutes Nov 17\, 2026 Ethics Committe
+ e Meeting\nhttps://www.salemnh.gov/AgendaCenter/ViewFile/Minutes/_11172026
+ -1834\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc41f01726e4b84734bb@granite-docket
+DTSTAMP:20261123T081722Z
+DTSTART;TZID=America/New_York:20261117T160000
+DURATION:PT2H
+SUMMARY:Salem Ethics Committee Meeting
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11172026-2755
+DESCRIPTION:Agenda: Ethics Committee Meeting\nhttps://salemnh.gov/AgendaCen
+ ter/ViewFile/ArchivedAgenda/_11172026-2755\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e758abe12174e389a354@granite-docket
+DTSTAMP:20261123T075458Z
+DTSTART;TZID=America/New_York:20261117T173000
+DURATION:PT2H
+SUMMARY:Salem Economic development
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-1839
+DESCRIPTION:Agenda: Economic Development Committee Agenda\nhttps://salemnh.
+ gov/AgendaCenter/ViewFile/Agenda/_11172026-1839\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:da8803fe8c89c85b0bba@granite-docket
+DTSTAMP:20261123T080902Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-1838
+DESCRIPTION:Agenda: Budget Committee Meeting Notice (November 19\, 2026)\nh
+ ttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-1838\n\nAgenda: 
+ Budget Committee Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile
+ /Agenda/_11192026-1840\n\nAgenda: Budget Committee Meeting Agenda\nhttps:/
+ /salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026-2743\n\nNotice
+ : here. · The Salem Municipal Budget Committee will hold a public hearing
+  on Thursday\, November 19\, 20\nhttps://salemnh.gov/DocumentCenter/View/7
+ 556/Budget-Committee---Public-Hearing-Notice----2027-Budget---November-19-
+ 2026-published-November-6-2026\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:09767512a8fff83ec5a5@granite-docket
+DTSTAMP:20261123T075518Z
+DTSTART;TZID=America/New_York:20261124T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-1843
+DESCRIPTION:Agenda: Finance Committee Meeting\nhttps://salemnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_11242026-1843\n\nAgenda: Packet\nhttps://www.salemnh
+ .gov/AgendaCenter/ViewFile/Agenda/_11242026-1835?packet=true\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:267ca041f911633efcfa@granite-docket
+DTSTAMP:20261116T083517Z
+DTSTART;TZID=America/New_York:20261124T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Planning board
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-1835
+DESCRIPTION:Agenda: PDF\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_
+ 11242026-1835\n\nAgenda: pb agenda-11-24-26.pdf\nhttps://salemnh.gov/Agend
+ aCenter/ViewFile/Item/1186?fileID=5186\n\nAgenda: Planning Board Regular M
+ eeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11242026-2724\n\nAgenda: Planning Board Regular Meeting Materials\nhttps
+ ://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11242026-2723\n\nAgen
+ da: Planning Board Regular Meeting Materials\nhttps://salemnh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_11242026-2722\n\nAgenda: Planning Board Regu
+ lar Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedA
+ genda/_11242026-2721\n\nAgenda: Packet\nhttps://salemnh.gov/AgendaCenter/V
+ iewFile/Agenda/_11242026-1835?packet=true\n\nAgenda: Packet\nhttps://salem
+ nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11242026-2724?packet=true\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:59fc745eb3d29eecc224@granite-docket
+DTSTAMP:20261123T083716Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Salem Zoning / ZBA
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-1842
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Dec 1\, 2026 Zoning B
+ oard of Adjustment Regular Meeting Materials\nhttps://www.salemnh.gov/Agen
+ daCenter/ViewFile/Agenda/_12012026-1842\n\nAgenda: Zoning Board of Adjustm
+ ent Regular Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_12012026-2756\n\nAgenda: Zoning Board of Adjustment Regular
+  Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgen
+ da/_12012026-2753\n\nAgenda: Zoning Board of Adjustment Regular Meeting Ma
+ terials\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1201202
+ 6-2752\n\nAgenda: Zoning Board of Adjustment Regular Meeting Materials\nht
+ tps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12012026-2751\n\nA
+ genda: Zoning Board of Adjustment Regular Meeting Materials\nhttps://salem
+ nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12012026-2750\n\nAgenda: Pack
+ et\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_12012026-275
+ 6?packet=true\n\nAgenda: Packet\nhttps://salemnh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_12012026-2753?packet=true\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ff66bd6d98fa2ebe3775@granite-docket
+DTSTAMP:20261123T075609Z
+DTSTART;TZID=America/New_York:20261201T190000
+DURATION:PT2H
+SUMMARY:Salem Budget / CIP
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-1842
+DESCRIPTION:Agenda: PDF\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_
+ 12012026-1842\n\nAgenda: Packet\nhttps://salemnh.gov/AgendaCenter/ViewFile
+ /Agenda/_12012026-1842?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f43752ae55b71e1c7ea@granite-docket
+DTSTAMP:20261116T083155Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Salem Town meeting / warrant
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/DocumentCenter/View/7613/Submitttal-Guidelines-
+ for-Citizen-Petition-Warrant-Articles---2027-revised
+DESCRIPTION:Warrant: here · Article 5\, Section 5.6.C of the Charter requi
+ res that any petitioned warrant article for appr\nhttps://www.salemnh.gov/
+ DocumentCenter/View/7613/Submitttal-Guidelines-for-Citizen-Petition-Warran
+ t-Articles---2027-revised\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

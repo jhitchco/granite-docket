@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stratham Historic district
+X-WR-CALDESC:Historic district meetings in Stratham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6277cff95484a697eaa4@granite-docket
+DTSTAMP:20261116T083432Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Historic district
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Heritage Com
+ mission/Agendas and Minutes/2026/agendas/2026.10.13 HC AGENDA.pdf?t=202610
+ 130953140
+DESCRIPTION:Minutes: 10/13/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Heritage Commission/Agendas and Minutes/2026/agend
+ as/2026.10.13 HC AGENDA.pdf?t=202610130953140\n\nMinutes: 10/13/2026 Agend
+ a Minutes\nhttps://www.strathamnh.gov/Documents/Boards and Committees/Heri
+ tage Commission/Agendas and Minutes/2026/minutes/Approved HC Minutes 2026.
+ 10.13.pdf?t=202611120815360\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:12dcf6777ced449ed7e6@granite-docket
+DTSTAMP:20261116T083432Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Historic district
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Heritage Com
+ mission/Agendas and Minutes/2026/agendas/2026.11.10 HC AGENDA.pdf?t=202611
+ 090938220
+DESCRIPTION:Minutes: 11/10/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Heritage Commission/Agendas and Minutes/2026/agend
+ as/2026.11.10 HC AGENDA.pdf?t=202611090938220\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8734ff18729e74319ea@granite-docket
+DTSTAMP:20261116T083431Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Historic district
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Heritage Com
+ mission/Agendas and Minutes/2026/agendas/2026.11.21 HC AGENDA.pdf?t=202611
+ 120812040
+DESCRIPTION:Minutes: 11/21/2026 Agenda\nhttps://www.strathamnh.gov/Document
+ s/Boards and Committees/Heritage Commission/Agendas and Minutes/2026/agend
+ as/2026.11.21 HC AGENDA.pdf?t=202611120812040\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:692d2dbcbde1323d1a39@granite-docket
+DTSTAMP:20261116T083436Z
+DTSTART;TZID=America/New_York:20261130T180000
+DURATION:PT2H
+SUMMARY:Stratham Historic district
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/SHPA/2026/ag
+ endas/11 30 2026 meeting notice.pdf?t=202611101019280
+DESCRIPTION:Agenda: 11/30/2026 Agenda\nhttps://www.strathamnh.gov/Documents
+ /Boards and Committees/SHPA/2026/agendas/11 30 2026 meeting notice.pdf?t=2
+ 02611101019280\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+END:VCALENDAR

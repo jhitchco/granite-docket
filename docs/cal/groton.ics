@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Groton NH meetings
+X-WR-CALDESC:Public meetings of Groton\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c546eb147622e8170da0@granite-docket
+DTSTAMP:20261103T124219Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2026-WS/260929ws.pdf
+DESCRIPTION:Minutes: September 15\, 2026 September 22\, 2026 September 29\,
+  2026 October 6\, 2026 October 13\, 2026 No Public \nhttps://grotonnh.gov/
+ Select%20Board%20Meetings/2026-WS/260929ws.pdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3afdd59b241dc3713567@granite-docket
+DTSTAMP:20261103T124107Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Groton School
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Pasquaney%20School%20Board%20Public%20Forum.pdf
+DESCRIPTION:Other: Click here to view the Pasquaney School Annual Report .\
+ nhttps://grotonnh.gov/Pasquaney%20School%20Board%20Public%20Forum.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d0a0171ca69f2cf381@granite-docket
+DTSTAMP:20261103T124207Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2010/100126.pdf
+DESCRIPTION:Minutes: January 5\, 2010 January 12\, 2010 January 19\, 2010 J
+ anuary 26\, 2010\nhttps://grotonnh.gov/Select%20Board%20Meetings/2010/1001
+ 26.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:be827a290290c9c185ba@granite-docket
+DTSTAMP:20261103T124337Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Groton Planning board
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/planningboard/2010/100526pb.pdf
+DESCRIPTION:Minutes: May 26\, 2010\nhttps://grotonnh.gov/planningboard/2010
+ /100526pb.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1176e97e1b5bc74ed1a1@granite-docket
+DTSTAMP:20261103T124220Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2026/261006.pdf
+DESCRIPTION:Minutes: September 8\, 2026 No Select Board Meeting September 1
+ 5\, 2026 September 22\, 2026 No Select Board Meet\nhttps://grotonnh.gov/Se
+ lect%20Board%20Meetings/2026/261006.pdf\n\nMinutes: September 15\, 2026 Se
+ ptember 22\, 2026 September 29\, 2026 October 6\, 2026 October 13\, 2026 N
+ o Public \nhttps://grotonnh.gov/Select%20Board%20Meetings/2026-WS/261006ws
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8111af0ee4b2a04836b6@granite-docket
+DTSTAMP:20261103T124205Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2010/101026.pdf
+DESCRIPTION:Minutes: October 5\, 2010 October 12\, 2010 October 19\, 2010 O
+ ctober 26\, 2010\nhttps://grotonnh.gov/Select%20Board%20Meetings/2010/1010
+ 26.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5a12d83a0bb2d72abc75@granite-docket
+DTSTAMP:20261123T100442Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2026/261020.pdf
+DESCRIPTION:Minutes: October 13\, 2026 No Select Board Meeting October 20\,
+  2026 October 27\, 2026 No Select Board Meeting N\nhttps://grotonnh.gov/Se
+ lect%20Board%20Meetings/2026/261020.pdf\n\nMinutes: October 20\, 2026 Octo
+ ber 27\, 2026 No Public Work Session November 3\, 2026 November 10\, 2026 
+ No Publi\nhttps://grotonnh.gov/Select%20Board%20Meetings/2026-WS/261020ws.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b40d5483177a51adf982@granite-docket
+DTSTAMP:20261103T124108Z
+DTSTART;TZID=America/New_York:20261021T163000
+DURATION:PT2H
+SUMMARY:Groton School
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Public%20Info%20Session%2010.21.26.pdf
+DESCRIPTION:Agenda: The Pasquaney School District will be meeting on Wednes
+ day\, October 21\, 2026 at 4:30pm at the BHVS L\nhttps://grotonnh.gov/Publ
+ ic%20Info%20Session%2010.21.26.pdf\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d85a10a1bbce202e92c7@granite-docket
+DTSTAMP:20261103T124339Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+SUMMARY:Groton Planning board
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/planningboard/2011/110126pb.pdf
+DESCRIPTION:Other: January 26\, 2011\nhttps://grotonnh.gov/planningboard/20
+ 11/110126pb.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:28480cb489ad8731fe7d@granite-docket
+DTSTAMP:20261123T100442Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2026-WS/261103ws.pdf
+DESCRIPTION:Minutes: October 20\, 2026 October 27\, 2026 No Public Work Ses
+ sion November 3\, 2026 November 10\, 2026 No Publi\nhttps://grotonnh.gov/S
+ elect%20Board%20Meetings/2026-WS/261103ws.pdf\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7572fa9ffe0f347853fd@granite-docket
+DTSTAMP:20261103T124108Z
+DTSTART;TZID=America/New_York:20261104T100000
+DURATION:PT2H
+SUMMARY:Groton Click here to view the Agenda for the Office of the Commissi
+ oners Meet
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Meeting%20Notice%2011-4-26.pdf
+DESCRIPTION:Agenda: Click here to view the Agenda for the Office of the Com
+ missioners Meeting that will be taking place \nhttps://grotonnh.gov/Meetin
+ g%20Notice%2011-4-26.pdf\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1631c5892adfecf0626@granite-docket
+DTSTAMP:20261103T124204Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2011/110426.pdf
+DESCRIPTION:Minutes: April 5\, 2011 April 12\, 2011 April 19\, 2011 April 2
+ 6\, 2011\nhttps://grotonnh.gov/Select%20Board%20Meetings/2011/110426.pdf\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:850fd8f493a11f284ad3@granite-docket
+DTSTAMP:20261103T124203Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2011/110726.pdf
+DESCRIPTION:Minutes: July 5\, 2011 July 12\, 2011 No Meeting July 19\, 2011
+  July 26\, 2011\nhttps://grotonnh.gov/Select%20Board%20Meetings/2011/11072
+ 6.pdf\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4984614f648974f5ef@granite-docket
+DTSTAMP:20261103T124337Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Groton Planning board
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/planningboard/2011/111026pb.pdf
+DESCRIPTION:Other: October 26\, 2011\nhttps://grotonnh.gov/planningboard/20
+ 11/111026pb.pdf\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:dccdc5b512cace02da43@granite-docket
+DTSTAMP:20261123T100435Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/11-17-26%20Agenda.pdf
+DESCRIPTION:Agenda: Agenda (the agenda for the current week will be availab
+ le on Mondays after 4:00pm)\nhttps://grotonnh.gov/Select%20Board%20Meeting
+ s/11-17-26%20Agenda.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c05110bef1bf3c9a8cf@granite-docket
+DTSTAMP:20261103T124201Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+SUMMARY:Groton Select board / council
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Select%20Board%20Meetings/2012/120626.pdf
+DESCRIPTION:Other: June 5\, 2012 June 12\, 2012 No Meeting June 19\, 2012 J
+ une 26\, 2012\nhttps://grotonnh.gov/Select%20Board%20Meetings/2012/120626.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:99abc2ec2ef5cad358ca@granite-docket
+DTSTAMP:20261103T124531Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+TRANSP:TRANSPARENT
+SUMMARY:Groton September 26\, 2012
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/Road%20Committee/2012%20Minutes/120926rc.pdf
+DESCRIPTION:Minutes: September 26\, 2012\nhttps://grotonnh.gov/Road%20Commi
+ ttee/2012%20Minutes/120926rc.pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e585d564c6766c0aea@granite-docket
+DTSTAMP:20261103T124341Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Groton Planning board
+LOCATION:Groton\, NH
+URL:https://grotonnh.gov/planningboard/2012/120926pb.pdf
+DESCRIPTION:Minutes: January 25\, 2012 February 29\, 2012 March 28\, 2012 A
+ pril 25\, 2012 May 30\, 2012 June 27\, 2012 July 25\,\nhttps://grotonnh.go
+ v/planningboard/2012/120926pb.pdf\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newton Select board / council
+X-WR-CALDESC:Select board / council meetings in Newton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7d3f2400c6bddd25615b@granite-docket
+DTSTAMP:20261103T105900Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Newton Select board / council
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-244
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 6\, 2026 BOS Meeting\nhtt
+ ps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-244\n\nMinut
+ es: Board of Selectmen Minutes Oct 6\, 2026 BOS Meeting\nhttps://www.newto
+ n-nh.gov/AgendaCenter/ViewFile/Minutes/_10062026-244\n\nOther: Click here 
+ to view the ALS Slide Presentation by Plaistow Fire Cheif Knutsen\, to wat
+ ch the discussio\nhttps://www.newton-nh.gov/DocumentCenter/View/4007\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:11a4c12d77b238a46642@granite-docket
+DTSTAMP:20261103T104442Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+TRANSP:TRANSPARENT
+SUMMARY:Newton Select board / council
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10092026-247
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 9\, 2026 BOS Agenda- Emer
+ gency Non-Public Meeting @ 2PM\nhttps://www.newton-nh.gov/AgendaCenter/Vie
+ wFile/Agenda/_10092026-247\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:05b38650b31eed9cf9a2@granite-docket
+DTSTAMP:20261103T104442Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Newton Select board / council
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10202026-250
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 20\, 2026 BOS Agenda\nhtt
+ ps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10202026-250\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea95d1b3b667ac4c3fe5@granite-docket
+DTSTAMP:20261116T085645Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Newton Select board / council
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-258
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 17\, 2026 BOS Agenda 11--
+ 17-26\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-25
+ 8\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+END:VCALENDAR

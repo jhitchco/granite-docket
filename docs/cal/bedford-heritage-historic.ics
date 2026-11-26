@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bedford Historic district
+X-WR-CALDESC:Historic district meetings in Bedford\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:83fa845b20f775fa3072@granite-docket
+DTSTAMP:20261123T070523Z
+DTSTART;TZID=America/New_York:20261201T183000
+DURATION:PT2H
+SUMMARY:Bedford Historic district
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-3035
+DESCRIPTION:Agenda: December 1\, 2026 Historic District Commission Agenda\n
+ https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-3035\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4a4f40f13cc0397f52@granite-docket
+DTSTAMP:20261103T095233Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Historic district
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/DocumentCenter/View/9135/2026-HDC-Meeting-Dates-a
+ nd-Deadlines
+DESCRIPTION:Other: 2026 HDC Meeting Dates and Deadlines\nhttps://bedfordnh.
+ gov/DocumentCenter/View/9135/2026-HDC-Meeting-Dates-and-Deadlines\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+END:VCALENDAR

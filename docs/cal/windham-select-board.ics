@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Windham Select board / council
+X-WR-CALDESC:Select board / council meetings in Windham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9eb80de73676d506ba20@granite-docket
+DTSTAMP:20261103T135701Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Windham Select board / council
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-3050
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://windhamnh.gov/AgendaCente
+ r/ViewFile/Agenda/_09282026-3050\n\nAgenda: Select Board Non-Public Meetin
+ g\nhttps://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-3051\n\nAg
+ enda: Select Board Meeting\nhttps://windhamnh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_09282026-2696\n\nMinutes: Sep 28\, 2026 Select Board Meeting
+ \nhttps://windhamnh.gov/AgendaCenter/ViewFile/Minutes/_09282026-3050\n\nMi
+ nutes: Sep 28\, 2026 Select Board Non-Public Meeting\nhttps://windhamnh.go
+ v/AgendaCenter/ViewFile/Minutes/_09282026-3051\n\nMinutes: Sep 28\, 2026 S
+ elect Board Meeting\nhttps://windhamnh.gov/AgendaCenter/ViewFile/ArchivedM
+ inutes/_09282026-2706\n\nMinutes: Sep 28\, 2026 Select Board Non-Public Me
+ eting\nhttps://windhamnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_092820
+ 26-2705\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e60d12fc30113cc7be@granite-docket
+DTSTAMP:20261103T135650Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Windham Select board / council
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-3057
+DESCRIPTION:Agenda: Select Board Non-Public Meeting\nhttps://windhamnh.gov/
+ AgendaCenter/ViewFile/Agenda/_10052026-3057\n\nMinutes: Oct 5\, 2026 Selec
+ t Board Non-Public Meeting\nhttps://windhamnh.gov/AgendaCenter/ViewFile/Mi
+ nutes/_10052026-3057\n\nMinutes: Oct 5\, 2026 Select Board Non-Public Meet
+ ing\nhttps://windhamnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10052026
+ -2707\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f09548d6148f66d08be@granite-docket
+DTSTAMP:20261109T075814Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Windham Select board / council
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3064
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://windhamnh.gov/AgendaCente
+ r/ViewFile/Agenda/_10192026-3064\n\nMinutes: Oct 19\, 2026 Select Board Me
+ eting\nhttps://windhamnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-3064\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d51ca3fefd032dd3fd@granite-docket
+DTSTAMP:20261103T140436Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Windham Select board / council
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/DocumentCenter/View/21626/10-21-26-Press-Release-
+ re-Drought-Conditions-Lifted
+DESCRIPTION:Minutes: Water Ban Restrictions Lifted Additional Info...\nhttp
+ s://windhamnh.gov/DocumentCenter/View/21626/10-21-26-Press-Release-re-Drou
+ ght-Conditions-Lifted\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd32e34e269765c79bef@granite-docket
+DTSTAMP:20261116T080615Z
+DTSTART;TZID=America/New_York:20261026T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Windham Select board / council
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-3069
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://windhamnh.gov/AgendaCente
+ r/ViewFile/Agenda/_10262026-3069\n\nAgenda: Select Board Meeting\nhttps://
+ windhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026-2709\n\nAgend
+ a: Select Board Meeting\nhttps://windhamnh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_10262026-2708\n\nMinutes: Oct 26\, 2026 Select Board Meeting\nh
+ ttps://windhamnh.gov/AgendaCenter/ViewFile/Minutes/_10262026-3069\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8e6705f99b6c01233bbd@granite-docket
+DTSTAMP:20261109T075804Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Windham Select board / council
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-3075
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://windhamnh.gov/AgendaCente
+ r/ViewFile/Agenda/_11092026-3075\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca81cd503b30db1b99a@granite-docket
+DTSTAMP:20261116T080604Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Windham Select board / council
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3079
+DESCRIPTION:Agenda: Select Board Meeting\nhttps://windhamnh.gov/AgendaCente
+ r/ViewFile/Agenda/_11162026-3079\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c33604f74e3eb26294db@granite-docket
+DTSTAMP:20261123T082610Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+TRANSP:TRANSPARENT
+SUMMARY:Windham Select board / council
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/DocumentCenter/View/21796/Press-Release-re-2026-T
+ ax-Rate
+DESCRIPTION:Minutes: TAX RATE SET Additional Info...\nhttps://windhamnh.gov
+ /DocumentCenter/View/21796/Press-Release-re-2026-Tax-Rate\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

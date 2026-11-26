@@ -1,0 +1,602 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hanover NH meetings
+X-WR-CALDESC:Public meetings of Hanover\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bee4acfeb27223f96794@granite-docket
+DTSTAMP:20261103T094644Z
+DTSTART;TZID=America/New_York:20260930T083000
+DURATION:PT2H
+SUMMARY:Hanover School
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_09302026-1341
+DESCRIPTION:Agenda: Trustees of the Trust Funds Regular Meeting\nhttps://ha
+ novernh.org/AgendaCenter/ViewFile/Agenda/_09302026-1341\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fc403d8a4c68cac27c64@granite-docket
+DTSTAMP:20261123T072908Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Select board / council
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Minutes/_09302026-1341
+DESCRIPTION:Minutes: Sep 30\, 2026 Trustees of the Trust Funds Regular Meet
+ ing\nhttps://hanovernh.org/AgendaCenter/ViewFile/Minutes/_09302026-1341\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:737dc9199a46569b8df2@granite-docket
+DTSTAMP:20261123T070429Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Budget / CIP
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_10012026-1365
+DESCRIPTION:Agenda: Capital Improvement Program Committee Agenda Oct 1\, 20
+ 26 10/01/2026 CIPC Agenda\nhttps://www.hanovernh.org/AgendaCenter/ViewFile
+ /Agenda/_10012026-1365\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b7b482189b596c42b03a@granite-docket
+DTSTAMP:20261123T072618Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Packet
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10012026-1345?packe
+ t=true
+DESCRIPTION:Agenda: Packet\nhttps://hanovernh.org/AgendaCenter/ViewFile/Age
+ nda/_10012026-1345?packet=true\n\nAgenda: Packet\nhttps://hanovernh.org/Ag
+ endaCenter/ViewFile/Agenda/_10012026-1365?packet=true\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b956e2ca55efda03e342@granite-docket
+DTSTAMP:20261123T072608Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Hanover PDF
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10012026-1345
+DESCRIPTION:Agenda: PDF\nhttps://hanovernh.org/AgendaCenter/ViewFile/Agenda
+ /_10012026-1345\n\nAgenda: PDF\nhttps://hanovernh.org/AgendaCenter/ViewFil
+ e/Agenda/_10012026-1365\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d1ca4ea3231d504d4d2d@granite-docket
+DTSTAMP:20261103T094654Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Zoning / ZBA
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_10012026-1345
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 1\, 2026 Delibera
+ tions on Case heard 9/24/22026\nhttps://www.hanovernh.org/AgendaCenter/Vie
+ wFile/Agenda/_10012026-1345\n\nMinutes: Oct 1\, 2026 Deliberations on Case
+  heard 9/24/22026\nhttps://hanovernh.org/AgendaCenter/ViewFile/Minutes/_10
+ 012026-1345\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:57412738363da3d60d27@granite-docket
+DTSTAMP:20261103T094650Z
+DTSTART;TZID=America/New_York:20261005T134500
+DURATION:PT2H
+SUMMARY:Hanover Town meeting / warrant
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10052026-1347
+DESCRIPTION:Agenda: 10-05-2026 Workforce Housing Task Force\nhttps://hanove
+ rnh.org/AgendaCenter/ViewFile/Agenda/_10052026-1347\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e9266612ee01bdd9a3f@granite-docket
+DTSTAMP:20261103T094524Z
+DTSTART;TZID=America/New_York:20261006T133000
+DURATION:PT2H
+SUMMARY:Hanover Zoning / ZBA
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10062026-1343
+DESCRIPTION:Agenda: MPRC agenda 10/06/26 (PDF)\nhttps://hanovernh.org/Agend
+ aCenter/ViewFile/Agenda/_10062026-1343\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc38b94703c883e089ec@granite-docket
+DTSTAMP:20261103T094527Z
+DTSTART;TZID=America/New_York:20261006T190000
+DURATION:PT2H
+SUMMARY:Hanover Planning board
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10062026-1342
+DESCRIPTION:Agenda: Planning Board Agenda 10/06/26 (PDF)\nhttps://hanovernh
+ .org/AgendaCenter/ViewFile/Agenda/_10062026-1342\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:181645eb3b9cbb24a202@granite-docket
+DTSTAMP:20261123T072718Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Hanover School
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Minutes/_10192026-1361
+DESCRIPTION:Minutes: Oct 19\, 2026 10/19/2026 HBW Agenda\nhttps://hanovernh
+ .org/AgendaCenter/ViewFile/Minutes/_10192026-1361\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbde457844b9deebb4f7@granite-docket
+DTSTAMP:20261103T094650Z
+DTSTART;TZID=America/New_York:20261019T134500
+DURATION:PT2H
+SUMMARY:Hanover Town meeting / warrant
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10192026-1349
+DESCRIPTION:Agenda: 10-19-2026 Workforce Housing Taskforce\nhttps://hanover
+ nh.org/AgendaCenter/ViewFile/Agenda/_10192026-1349\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5334da0fa0d6de316e4@granite-docket
+DTSTAMP:20261123T072708Z
+DTSTART;TZID=America/New_York:20261019T160000
+DURATION:PT2H
+SUMMARY:Hanover 10/19/2026 HBW Agenda
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10192026-1361
+DESCRIPTION:Agenda: 10/19/2026 HBW Agenda\nhttps://hanovernh.org/AgendaCent
+ er/ViewFile/Agenda/_10192026-1361\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e3ae926631dd09dedb@granite-docket
+DTSTAMP:20261123T070519Z
+DTSTART;TZID=America/New_York:20261019T160000
+DURATION:PT2H
+SUMMARY:Hanover Hanover Bike Walk Committee Agenda Oct 19\, 2026 10/19/2026
+  HBW Agenda
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_10192026-1361
+DESCRIPTION:Agenda: Hanover Bike Walk Committee Agenda Oct 19\, 2026 10/19/
+ 2026 HBW Agenda\nhttps://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_1
+ 0192026-1361\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fab5d1818a2219f5ead1@granite-docket
+DTSTAMP:20261123T080903Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Select board / council
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/DocumentCenter/View/10208/ADOPTED-10-19-26-2026-2
+ 027-Selectboard-OKRs-
+DESCRIPTION:Other: 2026-2027 Town of Hanover Selectboard Objectives & Key R
+ esults (OKRs)\nhttps://hanovernh.org/DocumentCenter/View/10208/ADOPTED-10-
+ 19-26-2026-2027-Selectboard-OKRs-\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:911ace95cb2da94bbf63@granite-docket
+DTSTAMP:20261123T070639Z
+DTSTART;TZID=America/New_York:20261021T100000
+DURATION:PT2H
+SUMMARY:Hanover Energy committee
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_10212026-1360
+DESCRIPTION:Agenda: Sustainable Hanover Committee Agenda Oct 21\, 2026 2026
+ -10-21 SH Agenda\nhttps://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_
+ 10212026-1360\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6bdf6c441be35e2db9@granite-docket
+DTSTAMP:20261123T072849Z
+DTSTART;TZID=America/New_York:20261021T100000
+DURATION:PT2H
+SUMMARY:Hanover Town meeting / warrant
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10212026-1360
+DESCRIPTION:Agenda: 2026-10-21 SH Agenda\nhttps://hanovernh.org/AgendaCente
+ r/ViewFile/Agenda/_10212026-1360\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f29ce01edb740e06f6c@granite-docket
+DTSTAMP:20261103T094653Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Zoning / ZBA
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10222026-1346
+DESCRIPTION:Agenda: ZBA Hearings\nhttps://hanovernh.org/AgendaCenter/ViewFi
+ le/Agenda/_10222026-1346\n\nMinutes: Oct 22\, 2026 ZBA Hearings\nhttps://h
+ anovernh.org/AgendaCenter/ViewFile/Minutes/_10222026-1346\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2887f152e9966627161f@granite-docket
+DTSTAMP:20261103T092854Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Hanover Public Art Committee Agenda Oct 27\, 2026 10/27/202
+ 6 Public Art
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_10272026-1353
+DESCRIPTION:Agenda: Hanover Public Art Committee Agenda Oct 27\, 2026 10/27
+ /2026 Public Art Committee Agenda\nhttps://www.hanovernh.org/AgendaCenter/
+ ViewFile/Agenda/_10272026-1353\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3ab2cbb4f30bcc287849@granite-docket
+DTSTAMP:20261123T070549Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Hanover Public Art Committee Minutes Oct 27\, 2026 10/27/20
+ 26 Public Ar
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Minutes/_10272026-1353
+DESCRIPTION:Minutes: Hanover Public Art Committee Minutes Oct 27\, 2026 10/
+ 27/2026 Public Art Committee Agenda\nhttps://www.hanovernh.org/AgendaCente
+ r/ViewFile/Minutes/_10272026-1353\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:888d63a90d926d153e11@granite-docket
+DTSTAMP:20261103T094522Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Hanover 10/27/2026 Public Art Committee Agenda
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10272026-1353
+DESCRIPTION:Agenda: 10/27/2026 Public Art Committee Agenda\nhttps://hanover
+ nh.org/AgendaCenter/ViewFile/Agenda/_10272026-1353\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c6908896ad930e99d2fc@granite-docket
+DTSTAMP:20261123T072758Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Oct 27\, 2026 10/27/2026 Public Art Committee Agenda
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Minutes/_10272026-1353
+DESCRIPTION:Minutes: Oct 27\, 2026 10/27/2026 Public Art Committee Agenda\n
+ https://hanovernh.org/AgendaCenter/ViewFile/Minutes/_10272026-1353\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:666b2d43974a2bffc7fc@granite-docket
+DTSTAMP:20261103T094454Z
+DTSTART;TZID=America/New_York:20261028T174500
+DURATION:PT2H
+SUMMARY:Hanover Conservation commission
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10282026-1352
+DESCRIPTION:Agenda: Conservation Commission agenda 10/28/2026 (PDF)\nhttps:
+ //hanovernh.org/AgendaCenter/ViewFile/Agenda/_10282026-1352\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c6bef53129fc67a034d@granite-docket
+DTSTAMP:20261123T072858Z
+DTSTART;TZID=America/New_York:20261028T083000
+DURATION:PT2H
+SUMMARY:Hanover Trustees of the Trust Funds Regular Meeting
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10282026-1367
+DESCRIPTION:Agenda: Trustees of the Trust Funds Regular Meeting\nhttps://ha
+ novernh.org/AgendaCenter/ViewFile/Agenda/_10282026-1367\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4e880f14a934b32fe16@granite-docket
+DTSTAMP:20261123T070649Z
+DTSTART;TZID=America/New_York:20261028T083000
+DURATION:PT2H
+SUMMARY:Hanover Trustees of Trust Funds Agenda Oct 28\, 2026 Trustees of th
+ e Trust Fund
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_10282026-1367
+DESCRIPTION:Agenda: Trustees of Trust Funds Agenda Oct 28\, 2026 Trustees o
+ f the Trust Funds Regular Meeting\nhttps://www.hanovernh.org/AgendaCenter/
+ ViewFile/Agenda/_10282026-1367\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:17002e50d9b505435bf7@granite-docket
+DTSTAMP:20261103T094650Z
+DTSTART;TZID=America/New_York:20261102T134500
+DURATION:PT2H
+SUMMARY:Hanover 11-02-2026 Workforce Housing Taskforce
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11022026-1354
+DESCRIPTION:Agenda: 11-02-2026 Workforce Housing Taskforce\nhttps://hanover
+ nh.org/AgendaCenter/ViewFile/Agenda/_11022026-1354\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8cb63daa3c05ee0fec@granite-docket
+DTSTAMP:20261116T072639Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Nov 2\, 2026 11-02-2026 Workforce Housing Taskforce
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Minutes/_11022026-1354
+DESCRIPTION:Minutes: Nov 2\, 2026 11-02-2026 Workforce Housing Taskforce\nh
+ ttps://hanovernh.org/AgendaCenter/ViewFile/Minutes/_11022026-1354\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:7bb767c9be6f6114e10e@granite-docket
+DTSTAMP:20261116T070945Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Workforce Housing Taskforce Minutes Nov 2\, 2026 11-02-2026
+  Workforce H
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Minutes/_11022026-1354
+DESCRIPTION:Minutes: Workforce Housing Taskforce Minutes Nov 2\, 2026 11-02
+ -2026 Workforce Housing Taskforce\nhttps://www.hanovernh.org/AgendaCenter/
+ ViewFile/Minutes/_11022026-1354\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f91df12828278145c7@granite-docket
+DTSTAMP:20261103T093058Z
+DTSTART;TZID=America/New_York:20261102T134500
+DURATION:PT2H
+SUMMARY:Hanover Workforce Housing Taskforce Agenda Nov 2\, 2026 11-02-2026 
+ Workforce Ho
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_11022026-1354
+DESCRIPTION:Agenda: Workforce Housing Taskforce Agenda Nov 2\, 2026 11-02-2
+ 026 Workforce Housing Taskforce\nhttps://www.hanovernh.org/AgendaCenter/Vi
+ ewFile/Agenda/_11022026-1354\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b73cc39bb14f75b51aca@granite-docket
+DTSTAMP:20261103T094526Z
+DTSTART;TZID=America/New_York:20261103T190000
+DURATION:PT2H
+SUMMARY:Hanover Planning board
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11032026-1351
+DESCRIPTION:Agenda: Planning Board Agenda 11/03/26 (PDF)\nhttps://hanovernh
+ .org/AgendaCenter/ViewFile/Agenda/_11032026-1351\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:23188e63ec0f6323ccf6@granite-docket
+DTSTAMP:20261123T070459Z
+DTSTART;TZID=America/New_York:20261109T160000
+DURATION:PT2H
+SUMMARY:Hanover Hanover Bike Walk Committee Agenda Nov 9\, 2026 11/09/2026 
+ HBW Agenda
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_11092026-1362
+DESCRIPTION:Agenda: Hanover Bike Walk Committee Agenda Nov 9\, 2026 11/09/2
+ 026 HBW Agenda\nhttps://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_11
+ 092026-1362\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a8096a79207751478ed@granite-docket
+DTSTAMP:20261123T072648Z
+DTSTART;TZID=America/New_York:20261109T160000
+DURATION:PT2H
+SUMMARY:Hanover 11/09/2026 HBW Agenda
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11092026-1362
+DESCRIPTION:Agenda: 11/09/2026 HBW Agenda\nhttps://hanovernh.org/AgendaCent
+ er/ViewFile/Agenda/_11092026-1362\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:93c770a0913dd504b601@granite-docket
+DTSTAMP:20261123T072658Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Nov 9\, 2026 11/09/2026 HBW Agenda
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Minutes/_11092026-1362
+DESCRIPTION:Minutes: Nov 9\, 2026 11/09/2026 HBW Agenda\nhttps://hanovernh.
+ org/AgendaCenter/ViewFile/Minutes/_11092026-1362\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca952286a992877b22dc@granite-docket
+DTSTAMP:20261123T070509Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Hanover Bike Walk Committee Minutes Nov 9\, 2026 11/09/2026
+  HBW Agenda
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Minutes/_11092026-1362
+DESCRIPTION:Minutes: Hanover Bike Walk Committee Minutes Nov 9\, 2026 11/09
+ /2026 HBW Agenda\nhttps://www.hanovernh.org/AgendaCenter/ViewFile/Minutes/
+ _11092026-1362\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1dffd8a304426b179d34@granite-docket
+DTSTAMP:20261109T072110Z
+DTSTART;TZID=America/New_York:20261110T103000
+DURATION:PT2H
+SUMMARY:Hanover Board of Cemetery Trustees November Meeting Agenda
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11102026-1356
+DESCRIPTION:Agenda: Board of Cemetery Trustees November Meeting Agenda\nhtt
+ ps://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11102026-1356\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:3b976d4a956a77fc0d6d@granite-docket
+DTSTAMP:20261109T070347Z
+DTSTART;TZID=America/New_York:20261110T103000
+DURATION:PT2H
+SUMMARY:Hanover Cemetery Trustees Board Agenda Nov 10\, 2026 Board of Cemet
+ ery Trustees
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_11102026-1356
+DESCRIPTION:Agenda: Cemetery Trustees Board Agenda Nov 10\, 2026 Board of C
+ emetery Trustees November Meeting Agenda\nhttps://www.hanovernh.org/Agenda
+ Center/ViewFile/Agenda/_11102026-1356\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:36ba2114dd90f1a3d1ca@granite-docket
+DTSTAMP:20261123T072638Z
+DTSTART;TZID=America/New_York:20261111T170000
+DURATION:PT2H
+SUMMARY:Hanover Conservation commission
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11112026-1358
+DESCRIPTION:Agenda: Conservation Commission agenda 11/11/2026 (PDF)\nhttps:
+ //hanovernh.org/AgendaCenter/ViewFile/Agenda/_11112026-1358\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b781920f7ebe846dcd1e@granite-docket
+DTSTAMP:20261116T072629Z
+DTSTART;TZID=America/New_York:20261116T134500
+DURATION:PT2H
+SUMMARY:Hanover Zoning / ZBA
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11162026-1357
+DESCRIPTION:Agenda: 11-16-2026 Workforce Housing Taskforce\nhttps://hanover
+ nh.org/AgendaCenter/ViewFile/Agenda/_11162026-1357\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1f641d769f4f53db1b15@granite-docket
+DTSTAMP:20261123T072748Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Hanover 11/18/2025 Public Art Committee Agenda
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11182026-1363
+DESCRIPTION:Agenda: 11/18/2025 Public Art Committee Agenda\nhttps://hanover
+ nh.org/AgendaCenter/ViewFile/Agenda/_11182026-1363\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ddcb76cdd41295c4d70@granite-docket
+DTSTAMP:20261123T070539Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Hanover Public Art Committee Agenda Nov 18\, 2026 11/18/202
+ 5 Public Art
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_11182026-1363
+DESCRIPTION:Agenda: Hanover Public Art Committee Agenda Nov 18\, 2026 11/18
+ /2025 Public Art Committee Agenda\nhttps://www.hanovernh.org/AgendaCenter/
+ ViewFile/Agenda/_11182026-1363\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7983a06e71a7d3215968@granite-docket
+DTSTAMP:20261123T072838Z
+DTSTART;TZID=America/New_York:20261118T100000
+DURATION:PT2H
+SUMMARY:Hanover Energy committee
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11182026-1359
+DESCRIPTION:Agenda: 2026-11-18 SH Agenda\nhttps://hanovernh.org/AgendaCente
+ r/ViewFile/Agenda/_11182026-1359\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6526313a9ebcfb049137@granite-docket
+DTSTAMP:20261123T072548Z
+DTSTART;TZID=America/New_York:20261119T100000
+DURATION:PT2H
+SUMMARY:Hanover Budget / CIP
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11192026-1364
+DESCRIPTION:Agenda: 11/19/2026 CIPC Agenda\nhttps://hanovernh.org/AgendaCen
+ ter/ViewFile/Agenda/_11192026-1364\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff820ebb369afa5653c@granite-docket
+DTSTAMP:20261123T070609Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Hanover Joint Loss Management Committee Agenda Dec 1\, 2026 12/01/2
+ 026 Joint Lo
+LOCATION:Hanover\, NH
+URL:https://www.hanovernh.org/AgendaCenter/ViewFile/Agenda/_12012026-1366
+DESCRIPTION:Agenda: Joint Loss Management Committee Agenda Dec 1\, 2026 12/
+ 01/2026 Joint Loss Management Committee\nhttps://www.hanovernh.org/AgendaC
+ enter/ViewFile/Agenda/_12012026-1366\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e3d0422907fd761b5c@granite-docket
+DTSTAMP:20261123T072819Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+TRANSP:TRANSPARENT
+SUMMARY:Hanover 12/01/2026 Joint Loss Management Committee
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_12012026-1366
+DESCRIPTION:Agenda: 12/01/2026 Joint Loss Management Committee\nhttps://han
+ overnh.org/AgendaCenter/ViewFile/Agenda/_12012026-1366\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

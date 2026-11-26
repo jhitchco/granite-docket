@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Warner Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Warner\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3fc67f2ad39a7ea1e515@granite-docket
+DTSTAMP:20261103T112717Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Warner Conservation commission
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/tow/meetings/agendas/concom/agenda-concom-20261007
+ .pdf
+DESCRIPTION:Agenda: 10/07/2026: agenda-concom-20261007.pdf\nhttps://warnern
+ h.gov/tow/meetings/agendas/concom/agenda-concom-20261007.pdf\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:2fd0ec10d2b363b40254@granite-docket
+DTSTAMP:20261103T112717Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Warner Conservation commission
+LOCATION:Warner\, NH
+URL:https://warnernh.gov/tow/meetings/agendas/concom/agenda-concom-20261104
+ .pdf
+DESCRIPTION:Agenda: 11/04/2026: agenda-concom-20261104.pdf\nhttps://warnern
+ h.gov/tow/meetings/agendas/concom/agenda-concom-20261104.pdf\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sandown Planning board
+X-WR-CALDESC:Planning board meetings in Sandown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0b46bcd3869b81e33256@granite-docket
+DTSTAMP:20261103T102659Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Sandown Planning board
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10202026-314
+DESCRIPTION:Agenda: Planning Board Agenda Oct 20\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_10202026-
+ 314\n\nAgenda: Planning Board Meeting Agenda\nhttps://www.sandown.us/Agend
+ aCenter/ViewFile/ArchivedAgenda/_10202026-103\n\nNotice: 10-20-26 - Bobcat
+  Way\, M2 L33\nhttps://www.sandown.us/DocumentCenter/View/3820/10-20-26---
+ Bobcat-Way-M2-L33\n\nMinutes: Planning Board Minutes Oct 20\, 2026 Plannin
+ g Board Meeting Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Minut
+ es/_10202026-314\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b19699c8cebb560436c3@granite-docket
+DTSTAMP:20261116T084158Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Sandown Planning board
+LOCATION:Sandown\, NH
+URL:https://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11172026-325
+DESCRIPTION:Agenda: Planning Board Agenda Nov 17\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.sandown.us/AgendaCenter/ViewFile/Agenda/_11172026-
+ 325\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

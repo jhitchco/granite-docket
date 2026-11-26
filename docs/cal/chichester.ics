@@ -1,0 +1,515 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chichester NH meetings
+X-WR-CALDESC:Public meetings of Chichester\, NH boards\, from posted agenda
+ s and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:69b6b071217fa4fe7fb5@granite-docket
+DTSTAMP:20261116T101920Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Zoning / ZBA
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_09282026-278
+ ?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/Agenda/_09282026-278?packet=true\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f41f35965ba5285ce2d@granite-docket
+DTSTAMP:20261116T101750Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Budget / CIP
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_09282026-278
+DESCRIPTION:Agenda: Budget Advisory Committee Agenda Sep 28\, 2026 Budget A
+ dvisory Committee Meeting\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/Agenda/_09282026-278\n\nMinutes: Budget Advisory Committee Minutes Sep
+  28\, 2026 Budget Advisory Committee Meeting\nhttps://www.chichesternh.org
+ /AgendaCenter/ViewFile/Minutes/_09282026-278\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a6aa228a5f1ec8a15e6@granite-docket
+DTSTAMP:20261103T112919Z
+DTSTART;TZID=America/New_York:20260929T180000
+DURATION:PT2H
+SUMMARY:Chichester Select board / council
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_09292026-260
+DESCRIPTION:Agenda: Selectmen's Office Agenda Sep 29\, 2026 Selectmen's Off
+ ice Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/View
+ File/Agenda/_09292026-260\n\nMinutes: Selectmen's Office Minutes Sep 29\, 
+ 2026 Selectmen's Office Regular Meeting Agenda\nhttps://www.chichesternh.o
+ rg/AgendaCenter/ViewFile/Minutes/_09292026-260\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7229451673c4482c9c@granite-docket
+DTSTAMP:20261103T113430Z
+DTSTART;TZID=America/New_York:20261001T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Chichester Planning board
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10012026-264
+DESCRIPTION:Agenda: Planning Board Agenda Oct 1\, 2026 Planning Board Regul
+ ar Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agen
+ da/_10012026-264\n\nMinutes: Planning Board Minutes Oct 1\, 2026 Planning 
+ Board Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/Vi
+ ewFile/Minutes/_10012026-264\n\nMinutes: Oct 1\, 2026 Planning Board Regul
+ ar Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Arch
+ ivedMinutes/_10012026-172\n\nMinutes: Oct 1\, 2026 Planning Board Regular 
+ Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Archive
+ dMinutes/_10012026-171\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1340f3125e31117e290a@granite-docket
+DTSTAMP:20261103T112703Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Chichester Cemetery Trustees Agenda Oct 5\, 2026 Chiches
+ ter Cemetery Tr
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10052026-267
+DESCRIPTION:Agenda: Chichester Cemetery Trustees Agenda Oct 5\, 2026 Chiche
+ ster Cemetery Trustees\nhttps://www.chichesternh.org/AgendaCenter/ViewFile
+ /Agenda/_10052026-267\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d67d85cecee53134b4a@granite-docket
+DTSTAMP:20261103T112726Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Chichester Conservation commission
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10052026-262
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 5\, 2026 Conservatio
+ n Commission\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_1
+ 0052026-262\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:34db8f1cb532682c5e5b@granite-docket
+DTSTAMP:20261103T112703Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Historic district
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Minutes/_10052026-26
+ 7
+DESCRIPTION:Minutes: Chichester Cemetery Trustees Minutes Oct 5\, 2026 Chic
+ hester Cemetery Trustees\nhttps://www.chichesternh.org/AgendaCenter/ViewFi
+ le/Minutes/_10052026-267\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3adeff8c3d0aa08e966d@granite-docket
+DTSTAMP:20261103T113110Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Zoning / ZBA
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10052026-267
+ ?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/Agenda/_10052026-267?packet=true\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0f3824fbb70b85f0062d@granite-docket
+DTSTAMP:20261103T113233Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Chichester Cemetery Commission
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1006
+ 2026-177
+DESCRIPTION:Agenda: Chichester Cemetery Commission\nhttps://www.chichestern
+ h.org/AgendaCenter/ViewFile/ArchivedAgenda/_10062026-177\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1be2236200f8a323c5de@granite-docket
+DTSTAMP:20261103T113231Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Historic district
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedMinutes/_100
+ 62026-178
+DESCRIPTION:Minutes: Oct 6\, 2026 Chichester Cemetery Trustees\nhttps://www
+ .chichesternh.org/AgendaCenter/ViewFile/ArchivedMinutes/_10062026-178\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e86fb47c6c6a4a28893@granite-docket
+DTSTAMP:20261103T113234Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Packet
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1006
+ 2026-178?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/ArchivedAgenda/_10062026-178?packet=true\n\nAgenda: Packet\nhttps://ww
+ w.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10062026-177?pack
+ et=true\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0c8604ae09b8bda6261@granite-docket
+DTSTAMP:20261103T113230Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Chichester Cemetery Trustees
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1006
+ 2026-178
+DESCRIPTION:Agenda: Chichester Cemetery Trustees\nhttps://www.chichesternh.
+ org/AgendaCenter/ViewFile/ArchivedAgenda/_10062026-178\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eecb51a998df002ebe00@granite-docket
+DTSTAMP:20261103T113625Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Chichester Select board / council
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10062026-263
+DESCRIPTION:Agenda: Selectmen's Office Agenda Oct 6\, 2026 Selectmen's Offi
+ ce Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/Agenda/_10062026-263\n\nAgenda: Selectmen's Office Regular Meeting Age
+ nda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_10
+ 062026-173\n\nMinutes: Selectmen's Office Minutes Oct 6\, 2026 Selectmen's
+  Office Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/
+ ViewFile/Minutes/_10062026-263\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6993febb3da3ec2ddfae@granite-docket
+DTSTAMP:20261103T113546Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Chichester RAC 10-12-2026 Agenda
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1012
+ 2026-165
+DESCRIPTION:Agenda: RAC 10-12-2026 Agenda\nhttps://www.chichesternh.org/Age
+ ndaCenter/ViewFile/ArchivedAgenda/_10122026-165\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:772df567b01e35c900fb@granite-docket
+DTSTAMP:20261103T112820Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Road Advisory Committee Agenda Oct 12\, 2026 Road Adviso
+ ry Committee
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10122026-261
+DESCRIPTION:Agenda: Road Advisory Committee Agenda Oct 12\, 2026 Road Advis
+ ory Committee\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_
+ 10122026-261\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:016801bc79f3f05cef5a@granite-docket
+DTSTAMP:20261103T113618Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Chichester Select board / council
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10132026-265
+DESCRIPTION:Agenda: Selectmen's Office Agenda Oct 13\, 2026 Selectmen's Off
+ ice Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/View
+ File/Agenda/_10132026-265\n\nAgenda: Selectmen's Office Regular Meeting Ag
+ enda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0132026-175\n\nMinutes: Selectmen's Office Minutes Oct 13\, 2026 Selectmen
+ 's Office Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCente
+ r/ViewFile/Minutes/_10132026-265\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:100e55d88fc9b0e6fa15@granite-docket
+DTSTAMP:20261103T113044Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Trustees of the Trust Agenda Oct 16\, 2026 Trustees of t
+ he Trust
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10162026-269
+DESCRIPTION:Agenda: Trustees of the Trust Agenda Oct 16\, 2026 Trustees of 
+ the Trust\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_1016
+ 2026-269\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:80057dd064e9e9c61e49@granite-docket
+DTSTAMP:20261103T113827Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Trustees
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1016
+ 2026-179
+DESCRIPTION:Agenda: Trustees\nhttps://www.chichesternh.org/AgendaCenter/Vie
+ wFile/ArchivedAgenda/_10162026-179\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8204f010382bd19739ef@granite-docket
+DTSTAMP:20261103T113135Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Zoning / ZBA
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10162026-269
+ ?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/Agenda/_10162026-269?packet=true\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ba3a4ff15da17610f703@granite-docket
+DTSTAMP:20261103T113827Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Packet
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1016
+ 2026-179?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/ArchivedAgenda/_10162026-179?packet=true\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f3638754e913e14f4a81@granite-docket
+DTSTAMP:20261103T113044Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Select board / council
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Minutes/_10162026-26
+ 9
+DESCRIPTION:Minutes: Trustees of the Trust Minutes Oct 16\, 2026 Trustees o
+ f the Trust\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Minutes/_1
+ 0162026-269\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:33b2ed77acf1ba693c6c@granite-docket
+DTSTAMP:20261103T112914Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Chichester Select board / council
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10202026-268
+DESCRIPTION:Agenda: Selectmen's Office Agenda Oct 20\, 2026 Selectmen's Off
+ ice Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/View
+ File/Agenda/_10202026-268\n\nMinutes: Selectmen's Office Minutes Oct 20\, 
+ 2026 Selectmen's Office Regular Meeting Agenda\nhttps://www.chichesternh.o
+ rg/AgendaCenter/ViewFile/Minutes/_10202026-268\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:44a23dd33e90888eb3da@granite-docket
+DTSTAMP:20261103T113612Z
+DTSTART;TZID=America/New_York:20261027T180000
+DURATION:PT2H
+SUMMARY:Chichester Select board / council
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10272026-273
+DESCRIPTION:Agenda: Selectmen's Office Agenda Oct 27\, 2026 Selectmen's Off
+ ice Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/View
+ File/Agenda/_10272026-273\n\nAgenda: Selectmen's Office Regular Meeting Ag
+ enda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0272026-182\n\nMinutes: Selectmen's Office Minutes Oct 27\, 2026 Selectmen
+ 's Office Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCente
+ r/ViewFile/Minutes/_10272026-273\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b8741d48051030fe503@granite-docket
+DTSTAMP:20261116T101730Z
+DTSTART;TZID=America/New_York:20261029T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Chichester Zoning / ZBA
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_10292026-281
+DESCRIPTION:Agenda: Board of Adjustment Agenda Oct 29\, 2026 Board of Adjus
+ tment Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/Vi
+ ewFile/Agenda/_10292026-281\n\nMinutes: Board of Adjustment Minutes Oct 29
+ \, 2026 Board of Adjustment Regular Meeting Agenda\nhttps://www.chichester
+ nh.org/AgendaCenter/ViewFile/Minutes/_10292026-281\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7f80fa34731d87b6a27b@granite-docket
+DTSTAMP:20261116T101940Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Zoning / ZBA
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_11022026-280
+ ?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/Agenda/_11022026-280?packet=true\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:85ccc4bfbfc78f634a58@granite-docket
+DTSTAMP:20261116T101800Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Select board / council
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Minutes/_11022026-28
+ 0
+DESCRIPTION:Minutes: Chichester Cemetery Trustees Minutes Nov 2\, 2026 Chic
+ hester Cemetery Trustees\nhttps://www.chichesternh.org/AgendaCenter/ViewFi
+ le/Minutes/_11022026-280\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb3069e874d317ea59c0@granite-docket
+DTSTAMP:20261103T112725Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Chichester Conservation commission
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_11022026-277
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 2\, 2026 Conservatio
+ n Commission\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_1
+ 1022026-277\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3b87e4dd09076152190@granite-docket
+DTSTAMP:20261116T101810Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Chichester Cemetery Trustees Agenda Nov 2\, 2026 Chiches
+ ter Cemetery Tr
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_11022026-280
+DESCRIPTION:Agenda: Chichester Cemetery Trustees Agenda Nov 2\, 2026 Chiche
+ ster Cemetery Trustees\nhttps://www.chichesternh.org/AgendaCenter/ViewFile
+ /Agenda/_11022026-280\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1f42ae5fca06982c0e6e@granite-docket
+DTSTAMP:20261116T101820Z
+DTSTART;TZID=America/New_York:20261105T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Chichester Planning board
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_11052026-275
+DESCRIPTION:Agenda: Planning Board Agenda Nov 5\, 2026 Planning Board Regul
+ ar Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agen
+ da/_11052026-275\n\nMinutes: Planning Board Minutes Nov 5\, 2026 Planning 
+ Board Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/Vi
+ ewFile/Minutes/_11052026-275\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:97049c871a7db70b9199@granite-docket
+DTSTAMP:20261103T112820Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Road Advisory Committee Agenda Nov 9\, 2026 Road Advisor
+ y Committee
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_11092026-272
+DESCRIPTION:Agenda: Road Advisory Committee Agenda Nov 9\, 2026 Road Adviso
+ ry Committee\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_1
+ 1092026-272\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c564a919c1c493db9064@granite-docket
+DTSTAMP:20261103T113542Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Chichester RAC Agenda
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_1109
+ 2026-181
+DESCRIPTION:Agenda: RAC Agenda\nhttps://www.chichesternh.org/AgendaCenter/V
+ iewFile/ArchivedAgenda/_11092026-181\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9260ef85dbc639d39806@granite-docket
+DTSTAMP:20261116T102810Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Chichester Select board / council
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Agenda/_11102026-279
+DESCRIPTION:Agenda: Selectmen's Office Agenda Nov 10\, 2026 Selectmens Offi
+ ce Regular Meeting Agenda\nhttps://www.chichesternh.org/AgendaCenter/ViewF
+ ile/Agenda/_11102026-279\n\nAgenda: Selectmens Office Regular Meeting Agen
+ da\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_111
+ 02026-186\n\nAgenda: Selectmens Office Regular Meeting Agenda\nhttps://www
+ .chichesternh.org/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-185\n\nAg
+ enda: Packet\nhttps://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedA
+ genda/_11102026-185?packet=true\n\nMinutes: Selectmen's Office Minutes Nov
+  10\, 2026 Selectmens Office Regular Meeting Agenda\nhttps://www.chicheste
+ rnh.org/AgendaCenter/ViewFile/Minutes/_11102026-279\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

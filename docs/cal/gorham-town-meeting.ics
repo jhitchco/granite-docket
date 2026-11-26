@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gorham Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Gorham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:61881409d15b408fb412@granite-docket
+DTSTAMP:20261123T090111Z
+DTSTART;TZID=America/New_York:20261120T183000
+DURATION:PT2H
+SUMMARY:Gorham Town meeting / warrant
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/297/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 97/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.i
+ o/go/gorham-nh/agendas/297/pdf_packet/get_agenda_document_link\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Windham Planning board
+X-WR-CALDESC:Planning board meetings in Windham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dff30e76416a47b779fc@granite-docket
+DTSTAMP:20261103T135057Z
+DTSTART;TZID=America/New_York:20261006T110000
+DURATION:PT2H
+SUMMARY:Windham Planning board
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-3049
+DESCRIPTION:Agenda: Growth Management Subcommittee Meeting\nhttps://windham
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-3049\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d5f6864b739b403ca8c@granite-docket
+DTSTAMP:20261123T075938Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Windham Planning board
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-3060
+DESCRIPTION:Agenda: Planning Board Meeting / Workshop\nhttps://windhamnh.go
+ v/AgendaCenter/ViewFile/Agenda/_10072026-3060\n\nMinutes: Oct 7\, 2026 Pla
+ nning Board Meeting / Workshop\nhttps://windhamnh.gov/AgendaCenter/ViewFil
+ e/Minutes/_10072026-3060\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b368cce2b070dfde82@granite-docket
+DTSTAMP:20261103T135057Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Windham Planning board
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-3065
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://windhamnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_10212026-3065\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6d55cb9dd9bcc8b685c5@granite-docket
+DTSTAMP:20261103T135537Z
+DTSTART;TZID=America/New_York:20261029T180000
+DURATION:PT2H
+SUMMARY:Windham Planning board
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-27
+ 10
+DESCRIPTION:Agenda: Growth Management Ordinance Subcommittee\nhttps://windh
+ amnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-2710\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:a718c9e998254571936a@granite-docket
+DTSTAMP:20261103T135056Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Windham Planning board
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-3072
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://windhamnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_11042026-3072\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:678cd5b393d79774c0c9@granite-docket
+DTSTAMP:20261123T080722Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Windham Planning board
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-3067
+DESCRIPTION:Agenda: Growth Management Ordinance Subcommittee\nhttps://windh
+ amnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-3067\n\nAgenda: Growth Man
+ agement Ordinance Subcommittee\nhttps://windhamnh.gov/AgendaCenter/ViewFil
+ e/ArchivedAgenda/_11172026-2712\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c50b4d69ba935de47c89@granite-docket
+DTSTAMP:20261116T080534Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Windham Planning board
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-3078
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://windhamnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_11182026-3078\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:eca1d90ddddedd03e526@granite-docket
+DTSTAMP:20261123T075928Z
+DTSTART;TZID=America/New_York:20261124T194500
+DURATION:PT2H
+SUMMARY:Windham Planning board
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-3082
+DESCRIPTION:Agenda: Growth Management Subcommittee Meeting\nhttps://windham
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11242026-3082\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portsmouth Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Portsmouth\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:61be1ae3248b47ead107@granite-docket
+DTSTAMP:20261103T141322Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation+Commission/Oct
+ ober/Combined.pdf
+DESCRIPTION:Agenda: NHDES Correspondence\nhttps://files.portsmouthnh.gov/ag
+ endas/2026/Conservation+Commission/October/Combined.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f27f6d64314d29b3d90@granite-docket
+DTSTAMP:20261123T071712Z
+DTSTART;TZID=America/New_York:20261014T160000
+DURATION:PT2H
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation+Commission/Oct
+ ober/10-14-26_CC_ag.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/Con
+ servation+Commission/October/10-14-26_CC_ag.pdf\n\nAgenda: Action Sheet\nh
+ ttps://files.portsmouthnh.gov/agendas/2026/Conservation+Commission/October
+ /10-14-26_CC_as.pdf\n\nAgenda: Meeting Packet - Revised\nhttps://files.por
+ tsmouthnh.gov/agendas/2026/Conservation+Commission/October/Packet_CC_10142
+ 6REV.pdf\n\nMinutes: Minutes\nhttps://files.portsmouthnh.gov/minutes/2026/
+ ConCom/Conservation Committion Meeting Minutes 2026..10.14.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e7605b54b40788322e7@granite-docket
+DTSTAMP:20261116T071012Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation Commission/Nov
+ ember/175+Middle+Road+WCUP.pdf
+DESCRIPTION:Agenda: 175 Middle Road WCUP\nhttps://files.portsmouthnh.gov/ag
+ endas/2026/Conservation Commission/November/175+Middle+Road+WCUP.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:758a5bb6ae304ff82709@granite-docket
+DTSTAMP:20261116T071011Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation Commission/Nov
+ ember/50+Andrew+Jarvis+Drive+WCUP.pdf
+DESCRIPTION:Agenda: 50 Andrew Jarvis Drive WCUP\nhttps://files.portsmouthnh
+ .gov/agendas/2026/Conservation Commission/November/50+Andrew+Jarvis+Drive+
+ WCUP.pdf\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d9cda598e239bbb27f1@granite-docket
+DTSTAMP:20261116T071014Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation Commission/Nov
+ ember/182+Birch+Street+WS.pdf
+DESCRIPTION:Agenda: 182 Birch Street - Work Session\nhttps://files.portsmou
+ thnh.gov/agendas/2026/Conservation Commission/November/182+Birch+Street+WS
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0d86c9e89758e0bd12d@granite-docket
+DTSTAMP:20261103T092655Z
+DTSTART;TZID=America/New_York:20261103T093800
+DURATION:PT2H
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/TAC/11-3-2026+Meeting/64+Br
+ idge_tac_11032026_pp.pdf
+DESCRIPTION:Agenda: 64 Bridge Street - REQUEST TO POSTPONE\nhttps://files.p
+ ortsmouthnh.gov/agendas/2026/TAC/11-3-2026+Meeting/64+Bridge_tac_11032026_
+ pp.pdf\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:051bb60b4a6b9a84cfd6@granite-docket
+DTSTAMP:20261109T070846Z
+DTSTART;TZID=America/New_York:20261104T150000
+DURATION:PT2H
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation+Commission/Sit
+ e+Walks/11-4-26_CC_SiteWalk.pdf
+DESCRIPTION:Agenda: Site Walk Agenda\nhttps://files.portsmouthnh.gov/agenda
+ s/2026/Conservation+Commission/Site+Walks/11-4-26_CC_SiteWalk.pdf\n\nAgend
+ a: Site Walk Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/Conservat
+ ion+Commission/Site+Walks/11-4-26_CC_SiteWalk_REV.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:565437f49545156ad607@granite-docket
+DTSTAMP:20261116T071013Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation Commission/Nov
+ ember/Borthwick+%26+Coakley+Connector+WCUP.pdf
+DESCRIPTION:Agenda: Borthwick & Coakley Connector WCUP\nhttps://files.ports
+ mouthnh.gov/agendas/2026/Conservation Commission/November/Borthwick+%26+Co
+ akley+Connector+WCUP.pdf\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c59fd76edd090ce47b@granite-docket
+DTSTAMP:20261116T071437Z
+DTSTART;TZID=America/New_York:20261109T183000
+DURATION:PT2H
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/City Clerk/11.9.2026 Notice
+  of Quorum CC.pdf
+DESCRIPTION:Agenda: Notice of Quorum\nhttps://files.portsmouthnh.gov/agenda
+ s/2026/City Clerk/11.9.2026 Notice of Quorum CC.pdf\n\nAgenda: Notice of Q
+ uorum\nhttps://files.portsmouthnh.gov/agendas/2026/City Clerk/11.9.2026 No
+ tice of Quorum CC.docx\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1befbf7b02fe60c931b2@granite-docket
+DTSTAMP:20261116T071014Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation Commission/Nov
+ ember/NHDES+Correspondence.pdf
+DESCRIPTION:Agenda: NHDES Correspondence\nhttps://files.portsmouthnh.gov/ag
+ endas/2026/Conservation Commission/November/NHDES+Correspondence.pdf\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:55825e5299c749a0cbd0@granite-docket
+DTSTAMP:20261116T071014Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation Commission/Nov
+ ember/Staff+Memo_REV.pdf
+DESCRIPTION:Agenda: Staff Memo\nhttps://files.portsmouthnh.gov/agendas/2026
+ /Conservation Commission/November/Staff+Memo_REV.pdf\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b323a870ab8b72f1213a@granite-docket
+DTSTAMP:20261116T071321Z
+DTSTART;TZID=America/New_York:20261116T130000
+DURATION:PT2H
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Arts and Cultural Commissio
+ n/A&CC Agenda 11.16.26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/Art
+ s and Cultural Commission/A&CC Agenda 11.16.26.pdf\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3af1c25ded1eb79368a7@granite-docket
+DTSTAMP:20261123T071312Z
+DTSTART;TZID=America/New_York:20261118T160000
+DURATION:PT2H
+SUMMARY:Portsmouth Conservation commission
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Conservation Commission/Nov
+ ember/11-18-26_CC_ag.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/Con
+ servation Commission/November/11-18-26_CC_ag.pdf\n\nAgenda: Action Sheet\n
+ https://files.portsmouthnh.gov/agendas/2026/Conservation Commission/Novemb
+ er/11-18-26_CC_as.pdf\n\nAgenda: Meeting Packet\nhttps://files.portsmouthn
+ h.gov/agendas/2026/Conservation Commission/November/Packet_CC_111826.pdf\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portsmouth Economic development
+X-WR-CALDESC:Economic development meetings in Portsmouth\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3774adef45532691c8e8@granite-docket
+DTSTAMP:20261103T140254Z
+DTSTART;TZID=America/New_York:20261106T080000
+DURATION:PT2H
+SUMMARY:Portsmouth Economic development
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/Economic Development Commis
+ sion/EDC Agenda 11.6.26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://files.portsmouthnh.gov/agendas/2026/Eco
+ nomic Development Commission/EDC Agenda 11.6.26.pdf\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1513 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Laconia NH meetings
+X-WR-CALDESC:Public meetings of Laconia\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f260cbc2ef3979d83749@granite-docket
+DTSTAMP:20261103T135451Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_09282026-3207
+DESCRIPTION:Agenda: City Council Agenda Sep 28\, 2026 Regular City Council 
+ meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_09282026-
+ 3207\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Ag
+ enda/_09282026-3207?packet=true\n\nMinutes: City Council Minutes Sep 28\, 
+ 2026 Regular City Council meeting\nhttps://www.laconianh.gov/AgendaCenter/
+ ViewFile/Minutes/_09282026-3207\n\nMinutes: Sep 28\, 2026 Regular City Cou
+ ncil meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinu
+ tes/_09282026-8379\n\nMinutes: Sep 28\, 2026 Regular City Council meeting\
+ nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_09282026
+ -8319\n\nMinutes: Sep 28\, 2026 Regular City Council meeting\nhttps://www.
+ laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_09282026-8318\n\nMinu
+ tes: Sep 28\, 2026 Regular City Council meeting\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedMinutes/_09282026-8317\n\nMinutes: Sep 28\,
+  2026 Regular City Council meeting\nhttps://www.laconianh.gov/AgendaCenter
+ /ViewFile/ArchivedMinutes/_09282026-8316\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3cdb5f7ea4411ddeb20b@granite-docket
+DTSTAMP:20261103T143721Z
+DTSTART;TZID=America/New_York:20261001T113000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10012026-3231
+DESCRIPTION:Agenda: WRBP Study Commission Agenda Oct 1\, 2026 Winnipesaukee
+  River Basin Program Commission (PDF)\nhttps://www.laconianh.gov/AgendaCen
+ ter/ViewFile/Agenda/_10012026-3231\n\nAgenda: Packet\nhttps://www.laconian
+ h.gov/AgendaCenter/ViewFile/Agenda/_10012026-3230?packet=true\n\nAgenda: P
+ acket\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10012026-32
+ 31?packet=true\n\nMinutes: Colonial Theatre Advisory Board Minutes Oct 1\,
+  2026 Colonial Theatre Advisory Board\nhttps://www.laconianh.gov/AgendaCen
+ ter/ViewFile/Minutes/_10012026-3226\n\nMinutes: WRBP Study Commission Minu
+ tes Oct 1\, 2026 Winnipesaukee River Basin Program Commission (PDF)\nhttps
+ ://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10012026-3231\n\nMinut
+ es: Oct 1\, 2026 Winnipesaukee River Basin Program Commission (PDF)\nhttps
+ ://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10012026-8429\
+ n\nMinutes: Oct 1\, 2026 Winnipesaukee River Basin Program Commission (PDF
+ )\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_100120
+ 26-8353\n\nMinutes: Oct 1\, 2026 Winnipesaukee River Basin Program Commiss
+ ion (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes
+ /_10012026-8339\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7fac16459520494c1778@granite-docket
+DTSTAMP:20261103T092655Z
+DTSTART;TZID=America/New_York:20261001T173000
+DURATION:PT2H
+SUMMARY:Laconia Colonial Theatre Advisory Board Agenda Oct 1\, 2026 Colonia
+ l Theatre Ad
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10012026-3226
+DESCRIPTION:Agenda: Colonial Theatre Advisory Board Agenda Oct 1\, 2026 Col
+ onial Theatre Advisory Board\nhttps://www.laconianh.gov/AgendaCenter/ViewF
+ ile/Agenda/_10012026-3226\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:83fb404d013a3db13a7f@granite-docket
+DTSTAMP:20261103T145323Z
+DTSTART;TZID=America/New_York:20261001T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10012026-3230
+DESCRIPTION:Agenda: Capital Improvement Committee Agenda Oct 1\, 2026 Capit
+ al Improvement Committee (PDF)\nhttps://www.laconianh.gov/AgendaCenter/Vie
+ wFile/Agenda/_10012026-3230\n\nAgenda: Packet\nhttps://www.laconianh.gov/A
+ gendaCenter/ViewFile/ArchivedAgenda/_10012026-8390?packet=true\n\nMinutes:
+  Capital Improvement Committee Minutes Oct 1\, 2026 Capital Improvement Co
+ mmittee (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10
+ 012026-3230\n\nMinutes: Oct 1\, 2026 Capital Improvement Committee (PDF)\n
+ https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10012026-
+ 8390\n\nOther: Capital Improvements Committee Meeting Schedule 2026.pdf\nh
+ ttps://www.laconianh.gov/DocumentCenter/View/13021/Capital-Improvements-Co
+ mmittee-Meeting-Schedule-2026pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2018dc9ae50dfe79c027@granite-docket
+DTSTAMP:20261103T133131Z
+DTSTART;TZID=America/New_York:20261005T173000
+DURATION:PT2H
+SUMMARY:Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10052026-3233
+DESCRIPTION:Agenda: Water Commission Agenda Oct 5\, 2026 Board of Water Com
+ missioners Regular Meeting of October 5\, 2026\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_10052026-3233\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d5616469519545ebe35e@granite-docket
+DTSTAMP:20261103T143551Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10052026-3233
+DESCRIPTION:Minutes: Water Commission Minutes Oct 5\, 2026 Board of Water C
+ ommissioners Regular Meeting of October 5\, 2026\nhttps://www.laconianh.go
+ v/AgendaCenter/ViewFile/Minutes/_10052026-3233\n\nMinutes: Oct 5\, 2026 Bo
+ ard of Water Commissioners Regular Meeting of October 5\, 2026\nhttps://ww
+ w.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10052026-8400\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:14284749bdfb8aca3072@granite-docket
+DTSTAMP:20261109T074505Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Laconia Planning board
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10062026-3225
+DESCRIPTION:Agenda: Planning Board Agenda Oct 6\, 2026 Planning Board Regul
+ ar Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/A
+ genda/_10062026-3225\n\nAgenda: Planning Board Regular Meeting Agenda (PDF
+ )\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1006202
+ 6-8324\n\nAgenda: Planning Board Regular Meeting Agenda (PDF)\nhttps://www
+ .laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10062026-8323\n\nAgen
+ da: Planning Board Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_10062026-8322\n\nMinutes: Planning 
+ Board Minutes Oct 6\, 2026 Planning Board Regular Meeting Agenda (PDF)\nht
+ tps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10062026-3225\n\nMi
+ nutes: Oct 6\, 2026 Planning Board Regular Meeting Agenda (PDF)\nhttps://w
+ ww.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10062026-8374\n\nM
+ inutes: Oct 6\, 2026 Planning Board Regular Meeting Agenda (PDF)\nhttps://
+ www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10062026-8457\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0bfafc55eead9cfa3339@granite-docket
+DTSTAMP:20261109T073945Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Oct 7\, 2026 Licensing Board Meeting
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_100720
+ 26-8445
+DESCRIPTION:Minutes: Oct 7\, 2026 Licensing Board Meeting\nhttps://www.laco
+ nianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10072026-8445\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:318f942f2d6dabf8ec37@granite-docket
+DTSTAMP:20261103T093035Z
+DTSTART;TZID=America/New_York:20261007T114500
+DURATION:PT2H
+SUMMARY:Laconia Licensing Board Agenda Oct 7\, 2026 Licensing Board Meeting
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10072026-3235
+DESCRIPTION:Agenda: Licensing Board Agenda Oct 7\, 2026 Licensing Board Mee
+ ting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10072026-323
+ 5\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:52b6dc243a498db1f7e6@granite-docket
+DTSTAMP:20261103T145335Z
+DTSTART;TZID=America/New_York:20261007T114500
+DURATION:PT2H
+SUMMARY:Laconia Call to Order Roll Call Recording Secretary
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/3262?html=true
+DESCRIPTION:Agenda: Call to Order Roll Call Recording Secretary\nhttps://ww
+ w.laconianh.gov/AgendaCenter/ViewFile/Agenda/3262?html=true\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:52d156e99c89b7c3be86@granite-docket
+DTSTAMP:20261103T135043Z
+DTSTART;TZID=America/New_York:20261007T160000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10072026-3238
+DESCRIPTION:Agenda: City Council Agenda Oct 7\, 2026 City Council Subcommit
+ tee - Government Operations & Ordinances\nhttps://www.laconianh.gov/Agenda
+ Center/ViewFile/Agenda/_10072026-3238\n\nAgenda: City Council Agenda Oct 7
+ \, 2026 City Council Subcommittee - Public Safety\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10072026-3237\n\nAgenda: Special Events R
+ eview Committee Agenda Oct 7\, 2026 **CANCELLED - NO APPLICATIONS** Specia
+ l Events Re\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10072
+ 026-3240\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFil
+ e/Agenda/_10072026-3237?packet=true\n\nAgenda: Packet\nhttps://www.laconia
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-3238?packet=true\n\nAgenda: 
+ Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10072026-3
+ 234?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/
+ ViewFile/Agenda/_10072026-3235?packet=true\n\nAgenda: Packet\nhttps://www.
+ laconianh.gov/AgendaCenter/ViewFile/Agenda/_10072026-3240?packet=true\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe88a241d02f30a5764@granite-docket
+DTSTAMP:20261103T093035Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Licensing Board Minutes Oct 7\, 2026 Licensing Board Meetin
+ g
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10072026-3235
+DESCRIPTION:Minutes: Licensing Board Minutes Oct 7\, 2026 Licensing Board M
+ eeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10072026-
+ 3235\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8496a0c0a510230af9b7@granite-docket
+DTSTAMP:20261103T145335Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Draft Minutes from 10.7.26.pdf
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Item/42007?fileID=55064
+DESCRIPTION:Minutes: Draft Minutes from 10.7.26.pdf\nhttps://www.laconianh.
+ gov/AgendaCenter/ViewFile/Item/42007?fileID=55064\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:93e753f2836af70d9cc8@granite-docket
+DTSTAMP:20261109T073956Z
+DTSTART;TZID=America/New_York:20261007T114500
+DURATION:PT2H
+SUMMARY:Laconia Packet
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1007202
+ 6-8445?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_10072026-8445?packet=true\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ac0ad0da0f0b149b215@granite-docket
+DTSTAMP:20261103T140430Z
+DTSTART;TZID=America/New_York:20261007T170000
+DURATION:PT2H
+SUMMARY:Laconia Conservation commission
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10072026-3234
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 7\, 2026 Conservatio
+ n Committee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/Agenda
+ Center/ViewFile/Agenda/_10072026-3234\n\nAgenda: Packet\nhttps://www.lacon
+ ianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-8380?packet=true\n
+ \nMinutes: Conservation Commission Minutes Oct 7\, 2026 Conservation Commi
+ ttee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/
+ ViewFile/Minutes/_10072026-3234\n\nMinutes: Oct 7\, 2026 Conservation Comm
+ ittee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter
+ /ViewFile/ArchivedMinutes/_10072026-8380\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d992f995c28e2ac6d5@granite-docket
+DTSTAMP:20261109T073935Z
+DTSTART;TZID=America/New_York:20261007T114500
+DURATION:PT2H
+SUMMARY:Laconia Licensing Board Meeting
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1007202
+ 6-8445
+DESCRIPTION:Agenda: Licensing Board Meeting\nhttps://www.laconianh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_10072026-8445\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7994eaefcce63c2df0@granite-docket
+DTSTAMP:20261103T133405Z
+DTSTART;TZID=America/New_York:20261008T183000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10082026-3241?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_10082026-3241?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e03185a1a98edeb984b8@granite-docket
+DTSTAMP:20261103T140421Z
+DTSTART;TZID=America/New_York:20261008T183000
+DURATION:PT2H
+SUMMARY:Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10082026-3241
+DESCRIPTION:Agenda: Capital Improvement Committee Agenda Oct 8\, 2026 Capit
+ al Improvement Committee (PDF)\nhttps://www.laconianh.gov/AgendaCenter/Vie
+ wFile/Agenda/_10082026-3241\n\nAgenda: Packet\nhttps://www.laconianh.gov/A
+ gendaCenter/ViewFile/ArchivedAgenda/_10082026-8389?packet=true\n\nMinutes:
+  Capital Improvement Committee Minutes Oct 8\, 2026 Capital Improvement Co
+ mmittee (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10
+ 082026-3241\n\nMinutes: Oct 8\, 2026 Capital Improvement Committee (PDF)\n
+ https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10082026-
+ 8389\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:762f74f603fa16041343@granite-docket
+DTSTAMP:20261103T143711Z
+DTSTART;TZID=America/New_York:20261009T113000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10092026-3239
+DESCRIPTION:Agenda: WRBP Study Commission Agenda Oct 9\, 2026 Winnipesaukee
+  River Basin Program Commission Regular Meetin\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_10092026-3239\n\nAgenda: Winnipesaukee River
+  Basin Program Commission Regular Meeting Agenda (PDF)\nhttps://www.laconi
+ anh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10092026-8383\n\nAgenda: Win
+ nipesaukee River Basin Program Commission Regular Meeting Agenda (PDF)\nht
+ tps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10092026-838
+ 2\n\nAgenda: Winnipesaukee River Basin Program Commission Regular Meeting 
+ Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgen
+ da/_10092026-8362\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCente
+ r/ViewFile/Agenda/_10092026-3239?packet=true\n\nAgenda: Packet\nhttps://ww
+ w.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10092026-8383?packet
+ =true\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10092026-8382?packet=true\n\nAgenda: Packet\nhttps://www.la
+ conianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10092026-8362?packet=tru
+ e\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:22e77c4b61e2112bdbdf@granite-docket
+DTSTAMP:20261103T135434Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10132026-3228
+DESCRIPTION:Agenda: City Council Agenda Oct 13\, 2026 Regular City Council 
+ meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10132026-
+ 3228\n\nAgenda: Regular City Council meeting\nhttps://www.laconianh.gov/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_10132026-8363\n\nAgenda: Packet\nhttps
+ ://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10132026-3228?packet=tr
+ ue\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Arch
+ ivedAgenda/_10132026-8363?packet=true\n\nMinutes: City Council Minutes Oct
+  13\, 2026 Regular City Council meeting\nhttps://www.laconianh.gov/AgendaC
+ enter/ViewFile/Minutes/_10132026-3228\n\nMinutes: Oct 13\, 2026 Regular Ci
+ ty Council meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Archiv
+ edMinutes/_10132026-8378\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6dcb741eb8653018f22c@granite-docket
+DTSTAMP:20261103T093008Z
+DTSTART;TZID=America/New_York:20261013T090000
+DURATION:PT2H
+SUMMARY:Laconia Laconia Putnam Fund Agenda Oct 13\, 2026 Laconia Putnam Fun
+ d (Meeting n
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10132026-3236
+DESCRIPTION:Agenda: Laconia Putnam Fund Agenda Oct 13\, 2026 Laconia Putnam
+  Fund (Meeting not held due to lack of a quoru\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_10132026-3236\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4bea472b00c3937b400@granite-docket
+DTSTAMP:20261103T141226Z
+DTSTART;TZID=America/New_York:20261013T090000
+DURATION:PT2H
+SUMMARY:Laconia Laconia Putnam Fund
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1013202
+ 6-8365
+DESCRIPTION:Agenda: Laconia Putnam Fund\nhttps://www.laconianh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_10132026-8365\n\nAgenda: Laconia Putnam Fund
+ \nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10132026
+ -8332\n\nAgenda: Laconia Putnam Fund\nhttps://www.laconianh.gov/AgendaCent
+ er/ViewFile/ArchivedAgenda/_10132026-8326\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e6b0c50deec649b94029@granite-docket
+DTSTAMP:20261103T141225Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Oct 13\, 2026 Laconia Putnam Fund
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_101320
+ 26-8332
+DESCRIPTION:Minutes: Oct 13\, 2026 Laconia Putnam Fund\nhttps://www.laconia
+ nh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10132026-8332\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:321477df3d519b17250f@granite-docket
+DTSTAMP:20261103T133529Z
+DTSTART;TZID=America/New_York:20261014T160000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10142026-3211?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_10142026-3211?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f61e1f58a915a62afa0@granite-docket
+DTSTAMP:20261103T141055Z
+DTSTART;TZID=America/New_York:20261014T160000
+DURATION:PT2H
+SUMMARY:Laconia Historic district
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10142026-3211
+DESCRIPTION:Agenda: Heritage Commission Agenda Oct 14\, 2026 — Amended Oc
+ t 13\, 2026 2:56 PM Heritage Commission Meeting *\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10142026-3211\n\nAgenda: Heritage Commiss
+ ion Meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgend
+ a/_10142026-8373\n\nAgenda: Heritage Commission Meeting\nhttps://www.lacon
+ ianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-8366\n\nAgenda: He
+ ritage Commission Meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_10142026-8364\n\nAgenda: Packet\nhttps://www.laconianh.go
+ v/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-8373?packet=true\n\nAgend
+ a: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/
+ _10142026-8366?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_10142026-8364?packet=true\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:196914ed8ba7b327bf8e@granite-docket
+DTSTAMP:20261103T093008Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Laconia Putnam Fund Minutes Oct 15\, 2026 Laconia Putnam Fu
+ nd
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10152026-3243
+DESCRIPTION:Minutes: Laconia Putnam Fund Minutes Oct 15\, 2026 Laconia Putn
+ am Fund\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10152026
+ -3243\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e8fa425a627837fbe4b@granite-docket
+DTSTAMP:20261116T074021Z
+DTSTART;TZID=America/New_York:20261015T183000
+DURATION:PT2H
+SUMMARY:Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10152026-3246
+DESCRIPTION:Agenda: Capital Improvement Committee Agenda Oct 15\, 2026 Capi
+ tal Improvement Committee (PDF)\nhttps://www.laconianh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10152026-3246\n\nAgenda: Packet\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/ArchivedAgenda/_10152026-8455?packet=true\n\nMinutes
+ : Capital Improvement Committee Minutes Oct 15\, 2026 Capital Improvement 
+ Committee (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_
+ 10152026-3246\n\nMinutes: Oct 15\, 2026 Capital Improvement Committee (PDF
+ )\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_101520
+ 26-8462\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8af07a045d048c922ee0@granite-docket
+DTSTAMP:20261103T143706Z
+DTSTART;TZID=America/New_York:20261015T120000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10152026-3244
+DESCRIPTION:Agenda: WRBP Study Commission Agenda Oct 15\, 2026 Winnipesauke
+ e River Basin Program Commission Regular Meeti\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_10152026-3244\n\nAgenda: Winnipesaukee River
+  Basin Program Commission Regular Meeting Agenda (PDF)\nhttps://www.laconi
+ anh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10152026-8386\n\nAgenda: Pac
+ ket\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10152026-3246
+ ?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/Vie
+ wFile/Agenda/_10152026-3244?packet=true\n\nAgenda: Packet\nhttps://www.lac
+ onianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10152026-8386?packet=true
+ \n\nMinutes: WRBP Study Commission Minutes Oct 15\, 2026 Winnipesaukee Riv
+ er Basin Program Commission Regular Meet\nhttps://www.laconianh.gov/Agenda
+ Center/ViewFile/Minutes/_10152026-3244\n\nMinutes: Oct 15\, 2026 Winnipesa
+ ukee River Basin Program Commission Regular Meeting Agenda (PDF)\nhttps://
+ www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10152026-8409\n\n
+ Minutes: Oct 15\, 2026 Winnipesaukee River Basin Program Commission Regula
+ r Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Ar
+ chivedMinutes/_10152026-8397\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c48635689bad8f1d43d2@granite-docket
+DTSTAMP:20261103T093008Z
+DTSTART;TZID=America/New_York:20261015T083000
+DURATION:PT2H
+SUMMARY:Laconia Laconia Putnam Fund Agenda Oct 15\, 2026 Laconia Putnam Fun
+ d
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10152026-3243
+DESCRIPTION:Agenda: Laconia Putnam Fund Agenda Oct 15\, 2026 Laconia Putnam
+  Fund\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10152026-32
+ 43\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0989538e97053e5a22af@granite-docket
+DTSTAMP:20261123T075218Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Oct 19\, 2026 Parks and Recreation Commission Regular Meeti
+ ng Agenda (p
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_101920
+ 26-8489
+DESCRIPTION:Minutes: Oct 19\, 2026 Parks and Recreation Commission Regular 
+ Meeting Agenda (pdf)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Arch
+ ivedMinutes/_10192026-8489\n\nMinutes: Oct 19\, 2026 Parks and Recreation 
+ Commission Regular Meeting Agenda (pdf)\nhttps://www.laconianh.gov/AgendaC
+ enter/ViewFile/ArchivedMinutes/_10192026-8488\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4e25e40b7160b96465@granite-docket
+DTSTAMP:20261116T071227Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Laconia School
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10192026-3247
+DESCRIPTION:Minutes: Trustees of the Trust Fund Minutes Oct 19\, 2026 Trust
+ ees of the Trust Fund\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Min
+ utes/_10192026-3247\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2010c7c181b27f6b046f@granite-docket
+DTSTAMP:20261123T075148Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Laconia Parks and Recreation Commission Regular Meeting Agenda (pdf
+ )
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1019202
+ 6-8489
+DESCRIPTION:Agenda: Parks and Recreation Commission Regular Meeting Agenda 
+ (pdf)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_101
+ 92026-8489\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:26a404c232cc0ed63606@granite-docket
+DTSTAMP:20261109T070442Z
+DTSTART;TZID=America/New_York:20261019T183000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3242?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_10192026-3242?packet=true\n\nMinutes: Water Commission Minutes Oc
+ t 19\, 2026 Board of Water Commissioners Regular Meeting of October 19\, 2
+ 0\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10192026-3245\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:33a1e4f4be9a17ca2eb8@granite-docket
+DTSTAMP:20261103T133130Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3245
+DESCRIPTION:Agenda: Water Commission Agenda Oct 19\, 2026 Board of Water Co
+ mmissioners Regular Meeting of October 19\, 202\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/Agenda/_10192026-3245\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7f85bb6dba6885c290bd@granite-docket
+DTSTAMP:20261103T093610Z
+DTSTART;TZID=America/New_York:20261019T140000
+DURATION:PT2H
+SUMMARY:Laconia Trustees of the Trust Fund Agenda Oct 19\, 2026 Trustees of
+  the Trust F
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3247
+DESCRIPTION:Agenda: Trustees of the Trust Fund Agenda Oct 19\, 2026 Trustee
+ s of the Trust Fund\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agend
+ a/_10192026-3247\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c7c827a2900063e895c@granite-docket
+DTSTAMP:20261103T093133Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Laconia Parks & Recreation Commission Agenda Oct 19\, 2026 Parks an
+ d Recreation
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3251
+DESCRIPTION:Agenda: Parks & Recreation Commission Agenda Oct 19\, 2026 Park
+ s and Recreation Commission Regular Meeting Ag\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_10192026-3251\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc58c9353ca3f92eb594@granite-docket
+DTSTAMP:20261103T141433Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Laconia Agenda for the Parks and Recreation Commission regular meet
+ ing schedul
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1019202
+ 6-8385
+DESCRIPTION:Agenda: Agenda for the Parks and Recreation Commission regular 
+ meeting scheduled for Monday\, October 19\, 202\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_10192026-8385\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cceae834082e72430995@granite-docket
+DTSTAMP:20261103T093134Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Parks & Recreation Commission Minutes Oct 19\, 2026 Parks a
+ nd Recreatio
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10192026-3251
+DESCRIPTION:Minutes: Parks & Recreation Commission Minutes Oct 19\, 2026 Pa
+ rks and Recreation Commission Regular Meeting A\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/Minutes/_10192026-3251\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fdf0360a3687878e1590@granite-docket
+DTSTAMP:20261103T143820Z
+DTSTART;TZID=America/New_York:20261019T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Zoning / ZBA
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3242
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 19\, 2026 — Ame
+ nded Oct 13\, 2026 4:08 PM Zoning Board of Adjust\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10192026-3242\n\nAgenda: Zoning Board of 
+ Adjustment Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_10192026-8376\n\nAgenda: Zoning Board of Ad
+ justment Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCen
+ ter/ViewFile/ArchivedAgenda/_10192026-8375\n\nAgenda: Packet\nhttps://www.
+ laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-8420?packet=t
+ rue\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Arc
+ hivedAgenda/_10192026-8376?packet=true\n\nAgenda: Packet\nhttps://www.laco
+ nianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-8375?packet=true\
+ n\nMinutes: Zoning Board of Adjustment Minutes Oct 19\, 2026 — Amended O
+ ct 13\, 2026 4:08 PM Zoning Board of Adjus\nhttps://www.laconianh.gov/Agen
+ daCenter/ViewFile/Minutes/_10192026-3242\n\nMinutes: Oct 19\, 2026 — Ame
+ nded Oct 22\, 2026 3:21 PM Zoning Board of Adjustment Regular Meeting Agen
+ da (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/
+ _10192026-8420\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:014bddec1cc6313c9d10@granite-docket
+DTSTAMP:20261103T135114Z
+DTSTART;TZID=America/New_York:20261020T100000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10202026-3249?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_10202026-3249?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:185117660ae05d6af9a0@granite-docket
+DTSTAMP:20261103T143246Z
+DTSTART;TZID=America/New_York:20261020T100000
+DURATION:PT2H
+SUMMARY:Laconia Zoning / ZBA
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1020202
+ 6-8388
+DESCRIPTION:Agenda: Technical Review Committee Regular Meeting (PDF)\nhttps
+ ://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-8388\n
+ \nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Archived
+ Agenda/_10202026-8388?packet=true\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a6b1a49fe794fdae5c4@granite-docket
+DTSTAMP:20261123T075949Z
+DTSTART;TZID=America/New_York:20261020T100000
+DURATION:PT2H
+SUMMARY:Laconia Planning board
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10202026-3249
+DESCRIPTION:Agenda: Technical Review Committee Agenda Oct 20\, 2026 Technic
+ al Review Committee Regular Meeting (PDF)\nhttps://www.laconianh.gov/Agend
+ aCenter/ViewFile/Agenda/_10202026-3249\n\nAgenda: Technical Review Committ
+ ee Regular Meeting (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_10202026-8387\n\nAgenda: Packet\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_10202026-8387?packet=true\n\nAgenda
+ : Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_
+ 10202026-8491?packet=true\n\nMinutes: Technical Review Committee Minutes O
+ ct 20\, 2026 Technical Review Committee Regular Meeting (PDF)\nhttps://www
+ .laconianh.gov/AgendaCenter/ViewFile/Minutes/_10202026-3249\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a3753a7755ac89438dc@granite-docket
+DTSTAMP:20261116T081330Z
+DTSTART;TZID=America/New_York:20261021T113000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10212026-3252
+DESCRIPTION:Agenda: WRBP Study Commission Agenda Oct 21\, 2026 Winnipesauke
+ e River Basin Program Commission Regular Meeti\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_10212026-3252\n\nAgenda: Winnipesaukee River
+  Basin Program Commission Regular Meeting Agenda (PDF)\nhttps://www.laconi
+ anh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-8399\n\nAgenda: Win
+ nipesaukee River Basin Program Commission Regular Meeting Agenda (PDF)\nht
+ tps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-839
+ 8\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agend
+ a/_10212026-3248?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_10212026-3250?packet=true\n\nAgenda: Packet\
+ nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10212026-3252?pac
+ ket=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFil
+ e/ArchivedAgenda/_10212026-8399?packet=true\n\nAgenda: Packet\nhttps://www
+ .laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-8398?packet=
+ true\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d64a943a5c61e4bfcdf7@granite-docket
+DTSTAMP:20261123T073948Z
+DTSTART;TZID=America/New_York:20261021T170000
+DURATION:PT2H
+SUMMARY:Laconia Conservation commission
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10212026-3248
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 21\, 2026 Conservati
+ on Committee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/Agend
+ aCenter/ViewFile/Agenda/_10212026-3248\n\nAgenda: Packet\nhttps://www.laco
+ nianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-8474?packet=true\
+ n\nMinutes: Conservation Commission Minutes Oct 21\, 2026 Conservation Com
+ mittee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCente
+ r/ViewFile/Minutes/_10212026-3248\n\nMinutes: Oct 21\, 2026 Conservation C
+ ommittee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCen
+ ter/ViewFile/ArchivedMinutes/_10212026-8474\n\nMinutes: Oct 21\, 2026 Cons
+ ervation Committee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedMinutes/_10212026-8498\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f1437f55cf88274bffa2@granite-docket
+DTSTAMP:20261103T143631Z
+DTSTART;TZID=America/New_York:20261021T140000
+DURATION:PT2H
+SUMMARY:Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10212026-3250
+DESCRIPTION:Agenda: Weirs TIF Advisory Board Agenda Oct 21\, 2026 — Amend
+ ed Oct 21\, 2026 2:51 PM City of Laconia Weirs TI\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10212026-3250\n\nAgenda: City of Laconia 
+ Weirs TIF Advisory Board\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_10212026-8403\n\nAgenda: City of Laconia Weirs TIF Advisor
+ y Board\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0212026-8384\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/Vie
+ wFile/ArchivedAgenda/_10212026-8403?packet=true\n\nAgenda: Packet\nhttps:/
+ /www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-8384?pac
+ ket=true\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1838021f2ca5e5ae4128@granite-docket
+DTSTAMP:20261103T133404Z
+DTSTART;TZID=America/New_York:20261022T103000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10222026-3222?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_10222026-3222?packet=true\n\nAgenda: Packet\nhttps://www.laconian
+ h.gov/AgendaCenter/ViewFile/Agenda/_10222026-3254?packet=true\n\nMinutes: 
+ Board of Library Trustees Minutes Oct 22\, 2026 Library Board of Trustees 
+ Regular Meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_
+ 10222026-3255\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b82da4b4cb4dc45d21e@granite-docket
+DTSTAMP:20261103T092547Z
+DTSTART;TZID=America/New_York:20261022T103000
+DURATION:PT2H
+SUMMARY:Laconia Board of Assessors Agenda Oct 22\, 2026 Board of Assessors 
+ Regular Meet
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10222026-3222
+DESCRIPTION:Agenda: Board of Assessors Agenda Oct 22\, 2026 Board of Assess
+ ors Regular Meeting (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_10222026-3222\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae8a3e8c9f1c7649fb52@granite-docket
+DTSTAMP:20261103T092546Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Board of Assessors Minutes Oct 22\, 2026 Board of Assessors
+  Regular Mee
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10222026-3222
+DESCRIPTION:Minutes: Board of Assessors Minutes Oct 22\, 2026 Board of Asse
+ ssors Regular Meeting (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFi
+ le/Minutes/_10222026-3222\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:edcb09c1b6a437411983@granite-docket
+DTSTAMP:20261116T073941Z
+DTSTART;TZID=America/New_York:20261022T173000
+DURATION:PT2H
+SUMMARY:Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10222026-3255
+DESCRIPTION:Agenda: Board of Library Trustees Agenda Oct 22\, 2026 Library 
+ Board of Trustees Regular Meeting\nhttps://www.laconianh.gov/AgendaCenter/
+ ViewFile/Agenda/_10222026-3255\n\nAgenda: Capital Improvement Committee Ag
+ enda Oct 22\, 2026 Capital Improvement Committee (PDF)\nhttps://www.laconi
+ anh.gov/AgendaCenter/ViewFile/Agenda/_10222026-3254\n\nAgenda: Packet\nhtt
+ ps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10222026-8454
+ ?packet=true\n\nMinutes: Capital Improvement Committee Minutes Oct 22\, 20
+ 26 Capital Improvement Committee (PDF)\nhttps://www.laconianh.gov/AgendaCe
+ nter/ViewFile/Minutes/_10222026-3254\n\nMinutes: Oct 22\, 2026 Capital Imp
+ rovement Committee (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ ArchivedMinutes/_10222026-8461\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:221d9c156c5dc32e81e9@granite-docket
+DTSTAMP:20261109T071813Z
+DTSTART;TZID=America/New_York:20261026T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10262026-3253
+DESCRIPTION:Agenda: City Council Agenda Oct 26\, 2026 Regular City Council 
+ meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10262026-
+ 3253\n\nAgenda: Regular City Council meeting\nhttps://www.laconianh.gov/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_10262026-8404\n\nAgenda: Packet\nhttps
+ ://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10262026-3253?packet=tr
+ ue\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Arch
+ ivedAgenda/_10262026-8404?packet=true\n\nMinutes: City Council Minutes Oct
+  26\, 2026 Regular City Council meeting\nhttps://www.laconianh.gov/AgendaC
+ enter/ViewFile/Minutes/_10262026-3253\n\nMinutes: Oct 26\, 2026 Regular Ci
+ ty Council meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Archiv
+ edMinutes/_10262026-8446\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:058b035ddb3e80e2f78f@granite-docket
+DTSTAMP:20261116T071155Z
+DTSTART;TZID=America/New_York:20261030T140000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10302026-3258
+DESCRIPTION:Agenda: Police Commission Agenda Oct 30\, 2026 LACONIA POLICE C
+ OMMISSION MEETING\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/
+ _10302026-3258\n\nMinutes: Police Commission Minutes Oct 30\, 2026 LACONIA
+  POLICE COMMISSION MEETING\nhttps://www.laconianh.gov/AgendaCenter/ViewFil
+ e/Minutes/_10302026-3258\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:50f88da856bb3895bf34@granite-docket
+DTSTAMP:20261116T071135Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Laconia Planning board
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11022026-3257
+DESCRIPTION:Agenda: Planning Board Agenda Nov 2\, 2026 Planning Board Regul
+ ar Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/A
+ genda/_11022026-3257\n\nMinutes: Planning Board Minutes Nov 2\, 2026 Plann
+ ing Board Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCe
+ nter/ViewFile/Minutes/_11022026-3257\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:53157b1719ffa8117d87@granite-docket
+DTSTAMP:20261103T133130Z
+DTSTART;TZID=America/New_York:20261102T173000
+DURATION:PT2H
+SUMMARY:Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11022026-3263
+DESCRIPTION:Agenda: Water Commission Agenda Nov 2\, 2026 Board of Water Com
+ missioners Regular Meeting of November 2\, 2026\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/Agenda/_11022026-3263\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:80a5804a74d4fac3c350@granite-docket
+DTSTAMP:20261116T071245Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11022026-3257?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_11022026-3257?packet=true\n\nMinutes: Water Commission Minutes No
+ v 2\, 2026 Board of Water Commissioners Regular Meeting of November 2\, 20
+ 2\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_11022026-3263\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0841126ce6da7857372b@granite-docket
+DTSTAMP:20261103T135043Z
+DTSTART;TZID=America/New_York:20261104T120000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11042026-3256
+DESCRIPTION:Agenda: Special Events Review Committee Agenda Nov 4\, 2026 Spe
+ cial Events Review Committee (PDF)\nhttps://www.laconianh.gov/AgendaCenter
+ /ViewFile/Agenda/_11042026-3256\n\nAgenda: Packet\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11042026-3264?packet=true\n\nAgenda: Pack
+ et\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11042026-3262?
+ packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/View
+ File/Agenda/_11042026-3256?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:39cfa5e5a172b8f7ffbd@granite-docket
+DTSTAMP:20261123T073838Z
+DTSTART;TZID=America/New_York:20261104T170000
+DURATION:PT2H
+SUMMARY:Laconia Conservation commission
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11042026-3264
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 4\, 2026 Conservatio
+ n Commission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/Agend
+ aCenter/ViewFile/Agenda/_11042026-3264\n\nAgenda: Packet\nhttps://www.laco
+ nianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-8501?packet=true\
+ n\nMinutes: Conservation Commission Minutes Nov 4\, 2026 Conservation Comm
+ ission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCente
+ r/ViewFile/Minutes/_11042026-3264\n\nMinutes: Nov 4\, 2026 Conservation Co
+ mmission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCen
+ ter/ViewFile/ArchivedMinutes/_11042026-8501\n\nMinutes: Nov 4\, 2026 Conse
+ rvation Commission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedMinutes/_11042026-8500\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4442ecd70a18ae7410@granite-docket
+DTSTAMP:20261116T071205Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Planning board
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_11042026-3256
+DESCRIPTION:Minutes: Special Events Review Committee Minutes Nov 4\, 2026 S
+ pecial Events Review Committee (PDF)\nhttps://www.laconianh.gov/AgendaCent
+ er/ViewFile/Minutes/_11042026-3256\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4435f20181ffe3570707@granite-docket
+DTSTAMP:20261103T093035Z
+DTSTART;TZID=America/New_York:20261104T114500
+DURATION:PT2H
+SUMMARY:Laconia Licensing Board Agenda Nov 4\, 2026 Licensing Board Meeting
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11042026-3262
+DESCRIPTION:Agenda: Licensing Board Agenda Nov 4\, 2026 Licensing Board Mee
+ ting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11042026-326
+ 2\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:accecb10a23072bbe827@granite-docket
+DTSTAMP:20261109T070431Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Licensing Board Minutes Nov 4\, 2026 Licensing Board Meetin
+ g
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_11042026-3262
+DESCRIPTION:Minutes: Licensing Board Minutes Nov 4\, 2026 Licensing Board M
+ eeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_11042026-
+ 3262\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:73b433f45eb62cfe7df3@granite-docket
+DTSTAMP:20261116T071035Z
+DTSTART;TZID=America/New_York:20261105T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Budget / CIP
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11052026-3266
+DESCRIPTION:Agenda: Capital Improvement Committee Agenda Nov 5\, 2026 Capit
+ al Improvement Committee (PDF)\nhttps://www.laconianh.gov/AgendaCenter/Vie
+ wFile/Agenda/_11052026-3266\n\nAgenda: Capital Improvement Committee (PDF)
+ \nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11052026
+ -8444\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_11052026-8444?packet=true\n\nAgenda: Packet\nhttps://www.la
+ conianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11052026-8443?packet=tru
+ e\n\nMinutes: Capital Improvement Committee Minutes Nov 5\, 2026 — Amend
+ ed Nov 5\, 2026 8:55 AM Capital Improvement \nhttps://www.laconianh.gov/Ag
+ endaCenter/ViewFile/Minutes/_11052026-3266\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8f6fdc3b0236daca2df9@granite-docket
+DTSTAMP:20261116T071025Z
+DTSTART;TZID=America/New_York:20261105T153000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11052026-3259
+DESCRIPTION:Agenda: City Council Agenda Nov 5\, 2026 City Council Subcommit
+ tee - Government Operations & Ordinances\nhttps://www.laconianh.gov/Agenda
+ Center/ViewFile/Agenda/_11052026-3259\n\nAgenda: City Council Agenda Nov 5
+ \, 2026 City Council Subcommittee- Finance Committee\nhttps://www.laconian
+ h.gov/AgendaCenter/ViewFile/Agenda/_11052026-3260\n\nAgenda: City Council 
+ Agenda Nov 5\, 2026 Quorum of the Public Safety Committee - Govt. Ops & Or
+ dinances meeti\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 052026-3261\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/View
+ File/Agenda/_11052026-3259?packet=true\n\nAgenda: Packet\nhttps://www.laco
+ nianh.gov/AgendaCenter/ViewFile/Agenda/_11052026-3260?packet=true\n\nAgend
+ a: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_1105202
+ 6-3266?packet=true\n\nMinutes: City Council Minutes Nov 5\, 2026 City Coun
+ cil Subcommittee - Government Operations & Ordinances\nhttps://www.laconia
+ nh.gov/AgendaCenter/ViewFile/Minutes/_11052026-3259\n\nMinutes: City Counc
+ il Minutes Nov 5\, 2026 City Council Subcommittee- Finance Committee\nhttp
+ s://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_11052026-3260\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:73fecbdada0c4e1fbe5a@granite-docket
+DTSTAMP:20261116T071005Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11092026-3267
+DESCRIPTION:Agenda: City Council Agenda Nov 9\, 2026 Regular City Council m
+ eeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11092026-3
+ 267\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Age
+ nda/_11092026-3267?packet=true\n\nMinutes: City Council Minutes Nov 9\, 20
+ 26 Regular City Council meeting\nhttps://www.laconianh.gov/AgendaCenter/Vi
+ ewFile/Minutes/_11092026-3267\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:af20c8c8c843963dbb11@granite-docket
+DTSTAMP:20261116T071116Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Laconia Putnam Fund Minutes Nov 10\, 2026 Laconia Putnam Fu
+ nd
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_11102026-3268
+DESCRIPTION:Minutes: Laconia Putnam Fund Minutes Nov 10\, 2026 Laconia Putn
+ am Fund\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_11102026
+ -3268\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef9e977c7e5ba56ccb4f@granite-docket
+DTSTAMP:20261109T070421Z
+DTSTART;TZID=America/New_York:20261110T090000
+DURATION:PT2H
+SUMMARY:Laconia Laconia Putnam Fund Agenda Nov 10\, 2026 Laconia Putnam Fun
+ d
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11102026-3268
+DESCRIPTION:Agenda: Laconia Putnam Fund Agenda Nov 10\, 2026 Laconia Putnam
+  Fund\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11102026-32
+ 68\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:75c6e859cd23bc9bdf70@granite-docket
+DTSTAMP:20261103T145332Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Historic district
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/DocumentCenter/View/12205/Heritage-Commission
+ -Meeting-Schedule-2026
+DESCRIPTION:Other: Heritage Commission Meeting Schedule 2026\nhttps://www.l
+ aconianh.gov/DocumentCenter/View/12205/Heritage-Commission-Meeting-Schedul
+ e-2026\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:62ce2c4fe1979f2bb105@granite-docket
+DTSTAMP:20261116T072006Z
+DTSTART;TZID=America/New_York:20261112T150000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3265
+DESCRIPTION:Agenda: City Council Agenda Nov 12\, 2026 City Council Subcommi
+ ttee - Lands & Buildings\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ Agenda/_11122026-3265\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaC
+ enter/ViewFile/Agenda/_11122026-3265?packet=true\n\nAgenda: Packet\nhttps:
+ //www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3270?packet=tru
+ e\n\nMinutes: City Council Minutes Nov 12\, 2026 City Council Subcommittee
+  - Lands & Buildings\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Minu
+ tes/_11122026-3265\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd4a47ad153d72ef246@granite-docket
+DTSTAMP:20261116T071105Z
+DTSTART;TZID=America/New_York:20261112T160000
+DURATION:PT2H
+SUMMARY:Laconia Historic district
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3270
+DESCRIPTION:Agenda: Heritage Commission Agenda Nov 12\, 2026 Heritage Commi
+ ssion Meeting **CANCELLED**\nhttps://www.laconianh.gov/AgendaCenter/ViewFi
+ le/Agenda/_11122026-3270\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0932d2fde4221455464e@granite-docket
+DTSTAMP:20261116T071125Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Laconia Parks & Recreation Commission Agenda Nov 16\, 2026 Parks an
+ d Recreation
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3275
+DESCRIPTION:Agenda: Parks & Recreation Commission Agenda Nov 16\, 2026 Park
+ s and Recreation Commission Regular Meeting Ag\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_11162026-3275\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c91f1190b7b7fde41dc@granite-docket
+DTSTAMP:20261123T081205Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Laconia Zoning / ZBA
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3269
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 16\, 2026 Zoning 
+ Board of Adjustment Regular Meeting Agenda (PD\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_11162026-3269\n\nAgenda: Packet\nhttps://www
+ .laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11162026-8497?packet=
+ true\n\nMinutes: Zoning Board of Adjustment Minutes Nov 16\, 2026 Zoning B
+ oard of Adjustment Regular Meeting Agenda (P\nhttps://www.laconianh.gov/Ag
+ endaCenter/ViewFile/Minutes/_11162026-3269\n\nMinutes: Nov 16\, 2026 Zonin
+ g Board of Adjustment Regular Meeting Agenda (PDF)\nhttps://www.laconianh.
+ gov/AgendaCenter/ViewFile/ArchivedMinutes/_11162026-8497\n\nMinutes: Nov 1
+ 6\, 2026 Zoning Board of Adjustment Regular Meeting Agenda (PDF)\nhttps://
+ www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_11162026-8495\n\n
+ Minutes: Nov 16\, 2026 Zoning Board of Adjustment Regular Meeting Agenda (
+ PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_111
+ 62026-8487\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:927fb59f61ee9eb25141@granite-docket
+DTSTAMP:20261123T070527Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Parks & Recreation Commission Minutes Nov 16\, 2026 Parks a
+ nd Recreatio
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_11162026-3275
+DESCRIPTION:Minutes: Parks & Recreation Commission Minutes Nov 16\, 2026 Pa
+ rks and Recreation Commission Regular Meeting A\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/Minutes/_11162026-3275\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bfdab78ede7b3de07b02@granite-docket
+DTSTAMP:20261116T071235Z
+DTSTART;TZID=America/New_York:20261116T173000
+DURATION:PT2H
+SUMMARY:Laconia Water Commission Agenda Nov 16\, 2026 Board of Water Commis
+ sioners Regu
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3274
+DESCRIPTION:Agenda: Water Commission Agenda Nov 16\, 2026 Board of Water Co
+ mmissioners Regular Meeting of November 16\, 20\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/Agenda/_11162026-3274\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e221f6e556df1d17d94c@granite-docket
+DTSTAMP:20261109T071704Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3269?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_11162026-3269?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e7f2dcbaa4d67bab9ba@granite-docket
+DTSTAMP:20261123T075913Z
+DTSTART;TZID=America/New_York:20261117T100000
+DURATION:PT2H
+SUMMARY:Laconia Planning board
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11172026-3271
+DESCRIPTION:Agenda: Technical Review Committee Agenda Nov 17\, 2026 Technic
+ al Review Committee Regular Meeting (PDF)\nhttps://www.laconianh.gov/Agend
+ aCenter/ViewFile/Agenda/_11172026-3271\n\nAgenda: Technical Review Committ
+ ee Regular Meeting (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_11172026-8481\n\nAgenda: Packet\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11172026-8481?packet=true\n\nAgenda
+ : Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_
+ 11172026-8479?packet=true\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fce175bf0c4240611b23@granite-docket
+DTSTAMP:20261123T072450Z
+DTSTART;TZID=America/New_York:20261117T150000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11172026-3272
+DESCRIPTION:Agenda: City Council Agenda Nov 17\, 2026 City Council Subcommi
+ ttee - Appointments Committee\nhttps://www.laconianh.gov/AgendaCenter/View
+ File/Agenda/_11172026-3272\n\nAgenda: City Council Subcommittee - Appointm
+ ents Committee\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAg
+ enda/_11172026-8470\n\nAgenda: City Council Subcommittee - Appointments Co
+ mmittee\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1172026-8483\n\nAgenda: City Council Subcommittee - Appointments Committee
+ \nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11172026
+ -8482\n\nAgenda: City Council Subcommittee - Appointments Committee\nhttps
+ ://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11172026-8480\n
+ \nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_
+ 11172026-3272?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/Age
+ ndaCenter/ViewFile/Agenda/_11172026-3271?packet=true\n\nAgenda: Packet\nht
+ tps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11172026-847
+ 0?packet=true\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:70faa8f6cdd1702f50a7@granite-docket
+DTSTAMP:20261123T070537Z
+DTSTART;TZID=America/New_York:20261118T140000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11182026-3276
+DESCRIPTION:Agenda: Police Commission Agenda Nov 18\, 2026 LACONIA POLICE C
+ OMMISSION MEETING\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/
+ _11182026-3276\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/V
+ iewFile/Agenda/_11182026-3277?packet=true\n\nMinutes: Police Commission Mi
+ nutes Nov 18\, 2026 LACONIA POLICE COMMISSION MEETING\nhttps://www.laconia
+ nh.gov/AgendaCenter/ViewFile/Minutes/_11182026-3276\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5921312402f841beea8@granite-docket
+DTSTAMP:20261123T073742Z
+DTSTART;TZID=America/New_York:20261118T170000
+DURATION:PT2H
+SUMMARY:Laconia Conservation commission
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11182026-3277
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 18\, 2026 Conservati
+ on Commission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/Agen
+ daCenter/ViewFile/Agenda/_11182026-3277\n\nAgenda: Conservation Commission
+  Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/View
+ File/ArchivedAgenda/_11182026-8477\n\nAgenda: Conservation Commission Regu
+ lar Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_11182026-8476\n\nAgenda: Conservation Commission Regular M
+ eeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_11182026-8475\n\nAgenda: Packet\nhttps://www.laconianh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_11182026-8477?packet=true\n\nAgenda: Pac
+ ket\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182
+ 026-8476?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_11182026-8475?packet=true\n\nAgenda: Packet\
+ nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-
+ 8490?packet=true\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aa5f1c24a69612f03fe1@granite-docket
+DTSTAMP:20261123T072320Z
+DTSTART;TZID=America/New_York:20261119T140000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11192026-3273
+DESCRIPTION:Agenda: City Council Agenda Nov 19\, 2026 City Council Subcommi
+ ttee - Appointments Committee\nhttps://www.laconianh.gov/AgendaCenter/View
+ File/Agenda/_11192026-3273\n\nAgenda: City Council Subcommittee - Appointm
+ ents Committee\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAg
+ enda/_11192026-8472\n\nAgenda: City Council Subcommittee - Appointments Co
+ mmittee\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1192026-8471\n\nAgenda: City Council Subcommittee - Appointments Committee
+ \nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026
+ -8466\n\nAgenda: City Council Subcommittee - Appointments Committee\nhttps
+ ://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026-8494\n
+ \nAgenda: City Council Subcommittee - Appointments Committee\nhttps://www.
+ laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026-8493\n\nAgend
+ a: City Council Subcommittee - Appointments Committee\nhttps://www.laconia
+ nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026-8485\n\nAgenda: Pack
+ et\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11192026-3273?
+ packet=true\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc18085836e44833a343@granite-docket
+DTSTAMP:20261123T073318Z
+DTSTART;TZID=America/New_York:20261119T090000
+DURATION:PT2H
+SUMMARY:Laconia Town meeting / warrant
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11192026-3278
+DESCRIPTION:Agenda: Board of Assessors Agenda Nov 19\, 2026 — Amended Nov
+  18\, 2026 10:40 AM ****CANCELLED******Board of A\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11192026-3278\n\nAgenda: Board of Assesso
+ rs Regular Meeting (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_11192026-8492\n\nAgenda: Packet\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11192026-8492?packet=true\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:aae6d538993e8275437d@granite-docket
+DTSTAMP:20261123T072210Z
+DTSTART;TZID=America/New_York:20261123T190000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11232026-3279
+DESCRIPTION:Agenda: City Council Agenda Nov 23\, 2026 Regular City Council 
+ meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11232026-
+ 3279\n\nAgenda: Regular City Council meeting\nhttps://www.laconianh.gov/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_11232026-8506\n\nAgenda: Regular City 
+ Council meeting\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedA
+ genda/_11232026-8505\n\nAgenda: Regular City Council meeting\nhttps://www.
+ laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11232026-8504\n\nAgend
+ a: Regular City Council meeting\nhttps://www.laconianh.gov/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_11232026-8503\n\nAgenda: Regular City Council meeti
+ ng\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_112320
+ 26-8502\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_11232026-3279?packet=true\n\nAgenda: Packet\nhttps://www.laconian
+ h.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11232026-8506?packet=true\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:22ae92676a67843087f6@granite-docket
+DTSTAMP:20261123T071029Z
+DTSTART;TZID=America/New_York:20261125T140000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11252026-3283?p
+ acket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_11252026-3283?packet=true\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:efc54630f2b95e9d3687@granite-docket
+DTSTAMP:20261123T070502Z
+DTSTART;TZID=America/New_York:20261125T140000
+DURATION:PT2H
+SUMMARY:Laconia Town meeting / warrant
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11252026-3283
+DESCRIPTION:Agenda: Board of Assessors Agenda Nov 25\, 2026 Board of Assess
+ ors Regular Meeting (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile
+ /Agenda/_11252026-3283\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6c0bfc8b21601f24cd@granite-docket
+DTSTAMP:20261103T145337Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+TRANSP:TRANSPARENT
+SUMMARY:Laconia EV - Celebrate Laconia.pdf
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Item/42004?fileID=55061
+DESCRIPTION:Agenda: EV - Celebrate Laconia.pdf\nhttps://www.laconianh.gov/A
+ gendaCenter/ViewFile/Item/42004?fileID=55061\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f6e530b73f02b2405913@granite-docket
+DTSTAMP:20261123T072020Z
+DTSTART;TZID=America/New_York:20261201T153000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_12012026-3281
+DESCRIPTION:Agenda: City Council Agenda Dec 1\, 2026 City Council Subcommit
+ tee - Government Operations & Ordinances\nhttps://www.laconianh.gov/Agenda
+ Center/ViewFile/Agenda/_12012026-3281\n\nAgenda: City Council Agenda Dec 1
+ \, 2026 City Council Subcommittee- Finance Committee\nhttps://www.laconian
+ h.gov/AgendaCenter/ViewFile/Agenda/_12012026-3280\n\nAgenda: City Council 
+ Subcommittee - Public Safety\nhttps://www.laconianh.gov/AgendaCenter/ViewF
+ ile/ArchivedAgenda/_12012026-8507\n\nAgenda: Packet\nhttps://www.laconianh
+ .gov/AgendaCenter/ViewFile/Agenda/_12012026-3280?packet=true\n\nAgenda: Pa
+ cket\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_12012026-328
+ 1?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_12012026-8507?packet=true\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:33e7370b0104202d67ac@granite-docket
+DTSTAMP:20261123T070628Z
+DTSTART;TZID=America/New_York:20261209T150000
+DURATION:PT2H
+SUMMARY:Laconia Select board / council
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_12092026-3282
+DESCRIPTION:Agenda: City Council Agenda Dec 9\, 2026 City Council Subcommit
+ tee - Public Safety\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Agend
+ a/_12092026-3282\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter
+ /ViewFile/Agenda/_12092026-3282?packet=true\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f9be7578f0c24abcfd@granite-docket
+DTSTAMP:20261103T145310Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Zoning / ZBA
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/DocumentCenter/View/12695/Zoning-Board-Of-Adj
+ ustment-2026pdf
+DESCRIPTION:Minutes: Zoning Board Of Adjustment 2026.pdf\nhttps://www.lacon
+ ianh.gov/DocumentCenter/View/12695/Zoning-Board-Of-Adjustment-2026pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+END:VCALENDAR

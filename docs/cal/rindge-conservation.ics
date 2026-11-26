@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Rindge Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Rindge\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:038f4505372960e5d484@granite-docket
+DTSTAMP:20261103T102020Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Rindge Conservation commission
+LOCATION:Rindge\, NH
+URL:https://rindgenh.gov/Documents/Boards Commission/Conservation Commissio
+ n/Agenda Minutes/2026/Agenda/RCC Agenda 101226.pdf?t=202610090948480
+DESCRIPTION:Minutes: 10/12/26 Regular Meeting Agenda Minutes\nhttps://rindg
+ enh.gov/Documents/Boards Commission/Conservation Commission/Agenda Minutes
+ /2026/Agenda/RCC Agenda 101226.pdf?t=202610090948480\n\nMinutes: 10/12/26 
+ Regular Meeting Agenda Minutes\nhttps://rindgenh.gov/Documents/Boards Comm
+ ission/Conservation Commission/Agenda Minutes/2026/Minutes/RCC Minutes 101
+ 226.pdf?t=202610251120330\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:438cc2df286408b702ef@granite-docket
+DTSTAMP:20261116T084102Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Rindge Conservation commission
+LOCATION:Rindge\, NH
+URL:https://rindgenh.gov/Documents/Boards Commission/Conservation Commissio
+ n/Agenda Minutes/2026/Agenda/RCC Agenda 102226.pdf?t=202610211009410
+DESCRIPTION:Minutes: 10/22/26 Regular Meeting Agenda\nhttps://rindgenh.gov/
+ Documents/Boards Commission/Conservation Commission/Agenda Minutes/2026/Ag
+ enda/RCC Agenda 102226.pdf?t=202610211009410\n\nMinutes: 10/22/26 Regular 
+ Meeting Agenda Minutes\nhttps://rindgenh.gov/Documents/Boards Commission/C
+ onservation Commission/Agenda Minutes/2026/Minutes/RCC Minutes 102226.pdf?
+ t=202611131314020\n\nMinutes: 10/22/26 Regular Meeting Agenda Minutes\nhtt
+ ps://rindgenh.gov/Documents/Boards Commission/Conservation Commission/Agen
+ da Minutes/2026/Minutes/RCC Minutes 102226 DRAFT.pdf?t=202611070749570\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:009723e14eeb95bc87b3@granite-docket
+DTSTAMP:20261109T083847Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Rindge Conservation commission
+LOCATION:Rindge\, NH
+URL:https://rindgenh.gov/Documents/Boards Commission/Conservation Commissio
+ n/Agenda Minutes/2026/Agenda/RCC Agenda 110926.pdf?t=202611070751120
+DESCRIPTION:Minutes: 11/09/26 Regular Meeting Agenda\nhttps://rindgenh.gov/
+ Documents/Boards Commission/Conservation Commission/Agenda Minutes/2026/Ag
+ enda/RCC Agenda 110926.pdf?t=202611070751120\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

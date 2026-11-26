@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Ipswich Planning board
+X-WR-CALDESC:Planning board meetings in New Ipswich\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e2bff61448c8b89c538b@granite-docket
+DTSTAMP:20261103T105304Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:New Ipswich Planning board
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/408/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: 'PB' Agenda Show Home Agenda Read the full agenda Agend
+ a PDF Packet Planning Board Wednesday\, Octobe\nhttps://towncloud.io/go/ne
+ w-ipswich-nh/agendas/408/PDF/get_agenda_document_link\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7069a17c63f0a8a919da@granite-docket
+DTSTAMP:20261103T104432Z
+DTSTART;TZID=America/New_York:20261009T190000
+DURATION:PT2H
+SUMMARY:New Ipswich Planning board
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/416/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/416/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/416/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:21a3ccb3099d2c724a51@granite-docket
+DTSTAMP:20261103T105257Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Public hearing: New Ipswich Planning board
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/425/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/425/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/425/pdf_packet/get_agenda_document_link\n
+ \nMinutes: Minutes 'PB' Agenda Show Home Agenda Read the full agenda Agend
+ a PDF Packet Planning Board Wednesday\nhttps://towncloud-core-prod.s3.us-w
+ est-2.amazonaws.com/uploads/new-ipswich-nh/meetings/item_attachment/attach
+ ment/319/Planning_Board_meeting_minutes_10-13-2026_DRAFT.docx\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c7c817736af0097c96ba@granite-docket
+DTSTAMP:20261103T105303Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:New Ipswich Planning board
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/409/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: 'PB' Agenda Show Home Agenda Read the full agenda Agend
+ a PDF Packet Planning Board Wednesday\, Octobe\nhttps://towncloud.io/go/ne
+ w-ipswich-nh/agendas/409/PDF/get_agenda_document_link\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e6ee53f80d162b6e132@granite-docket
+DTSTAMP:20261103T104429Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:New Ipswich Planning board
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/427/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/427/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/427/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c529014d8b3559a14f77@granite-docket
+DTSTAMP:20261116T084927Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: New Ipswich Planning board
+LOCATION:New Ipswich\, NH
+URL:https://towncloud-core-prod.s3.us-west-2.amazonaws.com/uploads/new-ipsw
+ ich-nh/meetings/item_attachment/attachment/323/Planning_Board_Meeting_Minu
+ tes_11-04-2026.docx
+DESCRIPTION:Minutes: Minutes 'PB' Agenda Show Home Agenda Read the full age
+ nda Agenda PDF Packet Planning Board Wednesday\nhttps://towncloud-core-pro
+ d.s3.us-west-2.amazonaws.com/uploads/new-ipswich-nh/meetings/item_attachme
+ nt/attachment/323/Planning_Board_Meeting_Minutes_11-04-2026.docx\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:24c55fb2397d89cde31c@granite-docket
+DTSTAMP:20261116T084854Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:New Ipswich Planning board
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/428/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/428/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/428/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+END:VCALENDAR

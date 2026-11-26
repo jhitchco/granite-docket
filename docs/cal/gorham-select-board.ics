@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gorham Select board / council
+X-WR-CALDESC:Select board / council meetings in Gorham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d8b2fb5d4c7cd5a89ec1@granite-docket
+DTSTAMP:20261103T112828Z
+DTSTART;TZID=America/New_York:20260930T180000
+DURATION:PT2H
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/244/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 44/PDF/get_agenda_document_link\n\nAgenda: 'PN' Agenda Show Home Agenda Re
+ ad the full agenda Agenda PDF Packet Public Notice Wednesday\, Septemb\nht
+ tps://towncloud.io/go/gorham-nh/agendas/242/PDF/get_agenda_document_link\n
+ \nAgenda: Packet PDF\nhttps://towncloud.io/go/gorham-nh/agendas/244/pdf_pa
+ cket/get_agenda_document_link\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c87b187748624d708e72@granite-docket
+DTSTAMP:20261103T112522Z
+DTSTART;TZID=America/New_York:20261006T100000
+DURATION:PT2H
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/243/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 43/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.i
+ o/go/gorham-nh/agendas/243/pdf_packet/get_agenda_document_link\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:ed92f8b877ba446d9b74@granite-docket
+DTSTAMP:20261103T112508Z
+DTSTART;TZID=America/New_York:20261009T183000
+DURATION:PT2H
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/246/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 46/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.i
+ o/go/gorham-nh/agendas/246/pdf_packet/get_agenda_document_link\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe5b44605cf4be426c7@granite-docket
+DTSTAMP:20261103T112506Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/246/minutes/get_agenda_docume
+ nt_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/gorham-nh/agendas
+ /246/minutes/get_agenda_document_link\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7043d7676d210cfa1578@granite-docket
+DTSTAMP:20261103T112501Z
+DTSTART;TZID=America/New_York:20261023T183000
+DURATION:PT2H
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/251/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 51/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.i
+ o/go/gorham-nh/agendas/251/pdf_packet/get_agenda_document_link\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:bee8e6f49d9a496f033f@granite-docket
+DTSTAMP:20261103T112502Z
+DTSTART;TZID=America/New_York:20261026T173000
+DURATION:PT2H
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/252/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 52/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.i
+ o/go/gorham-nh/agendas/252/pdf_packet/get_agenda_document_link\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a99908c6aae50833011@granite-docket
+DTSTAMP:20261109T100919Z
+DTSTART;TZID=America/New_York:20261109T183000
+DURATION:PT2H
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/257/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 57/PDF/get_agenda_document_link\n\nAgenda: Agenda PDF\nhttps://towncloud.i
+ o/go/gorham-nh/agendas/256/PDF/get_agenda_document_link\n\nAgenda: Packet 
+ PDF\nhttps://towncloud.io/go/gorham-nh/agendas/257/pdf_packet/get_agenda_d
+ ocument_link\n\nAgenda: Packet PDF\nhttps://towncloud.io/go/gorham-nh/agen
+ das/256/pdf_packet/get_agenda_document_link\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d166962faa75c7f067fa@granite-docket
+DTSTAMP:20261116T101640Z
+DTSTART;TZID=America/New_York:20261116T173000
+DURATION:PT2H
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/295/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 95/PDF/get_agenda_document_link\n\nAgenda: 'BOSP' Agenda Show Home Agenda 
+ Read the full agenda Agenda PDF Packet Board of Select - Public Monda\nhtt
+ ps://towncloud.io/go/gorham-nh/agendas/261/PDF/get_agenda_document_link\n\
+ nAgenda: Packet PDF\nhttps://towncloud.io/go/gorham-nh/agendas/295/pdf_pac
+ ket/get_agenda_document_link\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a9a406adeb3ddb4723f@granite-docket
+DTSTAMP:20261123T090111Z
+DTSTART;TZID=America/New_York:20261123T173000
+DURATION:PT2H
+SUMMARY:Gorham Select board / council
+LOCATION:Gorham\, NH
+URL:https://towncloud.io/go/gorham-nh/agendas/298/PDF/get_agenda_document_l
+ ink
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/gorham-nh/agendas/2
+ 98/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.i
+ o/go/gorham-nh/agendas/298/pdf_packet/get_agenda_document_link\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deering Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Deering\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a2ff450fef936f3fa77b@granite-docket
+DTSTAMP:20261103T120301Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Deering Budget / CIP
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10052026-450
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Oct 5\, 2026 Cemetery Trustees
+  October Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_
+ 10052026-450\n\nMinutes: Cemetery Trustees Minutes Oct 5\, 2026 Cemetery T
+ rustees October Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/M
+ inutes/_10052026-450\n\nMinutes: Library Trustees Minutes Oct 5\, 2026 Lib
+ rary Trustee Meeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFi
+ le/Minutes/_10052026-445\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e93d0a45be7540841c55@granite-docket
+DTSTAMP:20261109T103229Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Deering Budget / CIP
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_1109202
+ 6-141
+DESCRIPTION:Agenda: Library Board of Trustees November Meeting\nhttps://www
+ .deering.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-141\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:488039d935876b2de4cd@granite-docket
+DTSTAMP:20261109T102629Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Deering Budget / CIP
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11102026-462
+DESCRIPTION:Agenda: Library Trustees Agenda Nov 10\, 2026 Library Board of 
+ Trustees November Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile
+ /Agenda/_11102026-462\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

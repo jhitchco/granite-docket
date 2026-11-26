@@ -1,0 +1,340 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Londonderry Select board / council
+X-WR-CALDESC:Select board / council meetings in Londonderry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c880e55b933e73fda2a8@granite-docket
+DTSTAMP:20261103T094711Z
+DTSTART;TZID=America/New_York:20260929T180000
+DURATION:PT2H
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_09292026-13
+ 03?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_09292026-1303?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:27fc7761775f6a0bab32@granite-docket
+DTSTAMP:20261103T095148Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10052026-13
+ 04
+DESCRIPTION:Agenda: Town Council Agenda Oct 5\, 2026 — Amended Oct 2\, 20
+ 26 10:05 AM Town Council Regular Meeting Material\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-1304\n\nAgenda: Traffic Safe
+ ty Committee Agenda Oct 5\, 2026 — Amended Sep 25\, 2026 9:59 AM Traffic
+  Safety Committee \nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Ag
+ enda/_10052026-1297\n\nAgenda: Town Council Regular Meeting Materials\nhtt
+ ps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-
+ 1169\n\nAgenda: Town Council Regular Meeting Materials\nhttps://www.london
+ derrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-1166\n\nAgenda:
+  Packet\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10052
+ 026-1304?packet=true\n\nAgenda: Packet\nhttps://www.londonderrynh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_10052026-1169?packet=true\n\nAgenda: Pac
+ ket\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0052026-1166?packet=true\n\nMinutes: Town Council Minutes Oct 5\, 2026 —
+  Amended Oct 2\, 2026 10:05 AM Town Council Regular Meeting Materia\nhttps
+ ://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_10052026-1304\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2c4919955dd235f67c20@granite-docket
+DTSTAMP:20261103T094945Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10062026-13
+ 11?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_10062026-1311?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6523c02621977e938e0a@granite-docket
+DTSTAMP:20261103T094830Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10072026-12
+ 99?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_10072026-1299?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3102defaddb19f2ce1@granite-docket
+DTSTAMP:20261123T071826Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10082026-13
+ 06
+DESCRIPTION:Agenda: Arts Council Agenda Oct 8\, 2026 Arts Council Regular M
+ eeting Agenda (PDF)\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/A
+ genda/_10082026-1306\n\nMinutes: Arts Council Minutes Oct 8\, 2026 Arts Co
+ uncil Regular Meeting Agenda (PDF)\nhttps://www.londonderrynh.gov/AgendaCe
+ nter/ViewFile/Minutes/_10082026-1306\n\nMinutes: Oct 8\, 2026 Arts Council
+  Regular Meeting Agenda (PDF)\nhttps://www.londonderrynh.gov/AgendaCenter/
+ ViewFile/ArchivedMinutes/_10082026-1214\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1ddd070c52324884fdc7@granite-docket
+DTSTAMP:20261103T095129Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10192026-13
+ 12
+DESCRIPTION:Agenda: Town Council Agenda Oct 19\, 2026 — Amended Oct 16\, 
+ 2026 4:39 PM Town Council Regular Meeting Materia\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1312\n\nAgenda: Town Council
+  Regular Meeting Materials\nhttps://www.londonderrynh.gov/AgendaCenter/Vie
+ wFile/ArchivedAgenda/_10192026-1184\n\nAgenda: Town Council Regular Meetin
+ g Materials\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedA
+ genda/_10192026-1180\n\nAgenda: Packet\nhttps://www.londonderrynh.gov/Agen
+ daCenter/ViewFile/Agenda/_10192026-1312?packet=true\n\nAgenda: Packet\nhtt
+ ps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-
+ 1184?packet=true\n\nAgenda: Packet\nhttps://www.londonderrynh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_10192026-1180?packet=true\n\nMinutes: Town C
+ ouncil Minutes Oct 19\, 2026 — Amended Oct 16\, 2026 4:39 PM Town Counci
+ l Regular Meeting Materi\nhttps://www.londonderrynh.gov/AgendaCenter/ViewF
+ ile/Minutes/_10192026-1312\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4301652e6bb13b3165fc@granite-docket
+DTSTAMP:20261103T094952Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10212026-13
+ 15?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_10212026-1315?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:47eec9c073b36d355799@granite-docket
+DTSTAMP:20261103T141042Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/DocumentCenter/View/3145
+DESCRIPTION:Other: October 28\, 2026 Town Council Press Release (DOC)\nhttp
+ s://www.londonderrynh.gov/DocumentCenter/View/3145\n\nOther: October 28\, 
+ 2026 Town Council Press Release (PDF)\nhttps://www.londonderrynh.gov/Docum
+ entCenter/View/3146\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea80efce9ee596abc4ae@granite-docket
+DTSTAMP:20261123T070439Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11022026-13
+ 27
+DESCRIPTION:Agenda: Town Council Agenda Nov 2\, 2026 — Amended Nov 2\, 20
+ 26 10:41 AM Town Council Regular Meeting Material\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-1327\n\nAgenda: Town Council
+  Regular Meeting Materials\nhttps://www.londonderrynh.gov/AgendaCenter/Vie
+ wFile/ArchivedAgenda/_11022026-1197\n\nAgenda: Packet\nhttps://www.londond
+ errynh.gov/AgendaCenter/ViewFile/Agenda/_11022026-1327?packet=true\n\nAgen
+ da: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/ArchivedAg
+ enda/_11022026-1197?packet=true\n\nMinutes: Town Council Minutes Nov 2\, 2
+ 026 — Amended Nov 2\, 2026 10:41 AM Town Council Regular Meeting Materia
+ \nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_11022026-13
+ 27\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:16507288d20963ad3ea4@granite-docket
+DTSTAMP:20261123T070429Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11092026-13
+ 31
+DESCRIPTION:Agenda: Town Council Agenda Nov 9\, 2026 Town Council Meeting a
+ nd Budget Workshop Materials\nhttps://www.londonderrynh.gov/AgendaCenter/V
+ iewFile/Agenda/_11092026-1331\n\nAgenda: Packet\nhttps://www.londonderrynh
+ .gov/AgendaCenter/ViewFile/Agenda/_11092026-1331?packet=true\n\nMinutes: T
+ own Council Minutes Nov 9\, 2026 Town Council Meeting and Budget Workshop 
+ Materials\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_11
+ 092026-1331\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:02c6919a5fa55fa328f0@granite-docket
+DTSTAMP:20261116T071631Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11102026-13
+ 36?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_11102026-1336?packet=true\n\nAgenda: Packet\nhttps://www.lond
+ onderrynh.gov/AgendaCenter/ViewFile/Agenda/_11102026-1335?packet=true\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7c1410785c43bcc7a950@granite-docket
+DTSTAMP:20261123T070450Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11122026-13
+ 33
+DESCRIPTION:Agenda: Arts Council Agenda Nov 12\, 2026 Arts Council Regular 
+ Meeting Agenda (PDF)\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/
+ Agenda/_11122026-1333\n\nMinutes: Arts Council Minutes Nov 12\, 2026 Arts 
+ Council Regular Meeting Agenda (PDF)\nhttps://www.londonderrynh.gov/Agenda
+ Center/ViewFile/Minutes/_11122026-1333\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd1ec26fd675d511f0b5@granite-docket
+DTSTAMP:20261116T071851Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11162026-13
+ 39
+DESCRIPTION:Agenda: Town Council Agenda Nov 16\, 2026 — Amended Nov 14\, 
+ 2026 6:28 PM Town Council Meeting and Budget Work\nhttps://www.londonderry
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-1339\n\nAgenda: Town Council
+  Meeting and Budget Workshop Materials\nhttps://www.londonderrynh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_11162026-1211\n\nAgenda: Town Council Me
+ eting and Budget Workshop Materials\nhttps://www.londonderrynh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11162026-1210\n\nAgenda: Packet\nhttps://ww
+ w.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11162026-1339?packet=tru
+ e\n\nAgenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_11162026-1211?packet=true\n\nAgenda: Packet\nhttps://www.lo
+ ndonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11162026-1210?packet
+ =true\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2968d46603119ffe39ab@granite-docket
+DTSTAMP:20261123T070900Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11172026-13
+ 41?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_11172026-1341?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:902824cc788efa5a988b@granite-docket
+DTSTAMP:20261116T071741Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11182026-13
+ 34?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_11182026-1334?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:79980ead365f30f1c75c@granite-docket
+DTSTAMP:20261123T070700Z
+DTSTART;TZID=America/New_York:20261123T180000
+DURATION:PT2H
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11232026-13
+ 44?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.londonderrynh.gov/AgendaCenter/View
+ File/Agenda/_11232026-1344?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:90c89b46e705808a5ac6@granite-docket
+DTSTAMP:20261103T140351Z
+DTSTART;TZID=America/New_York:20270111T173000
+DURATION:PT2H
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_01112027-13
+ 25
+DESCRIPTION:Agenda: Traffic Safety Committee Regular Meeting Materials\nhtt
+ ps://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_01112027-1325\n\n
+ Agenda: Traffic Safety Committee Regular Meeting Materials\nhttps://www.lo
+ ndonderrynh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_01112027-1195\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7be774bd5a556006c40@granite-docket
+DTSTAMP:20261103T094943Z
+DTSTART;TZID=America/New_York:20270119T180000
+DURATION:PT2H
+SUMMARY:Londonderry Select board / council
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_01192027-13
+ 21
+DESCRIPTION:Agenda: Supervisors of the Checklist Regular Meeting (PDF)\nhtt
+ ps://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_01192027-1321\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+END:VCALENDAR

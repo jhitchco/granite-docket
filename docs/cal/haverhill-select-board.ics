@@ -1,0 +1,135 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Haverhill Select board / council
+X-WR-CALDESC:Select board / council meetings in Haverhill\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1f16537075950f775205@granite-docket
+DTSTAMP:20261103T105150Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Haverhill Select board / council
+LOCATION:Haverhill\, NH
+URL:https://www.haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-
+ 81AAD9EE8E62%7D/uploads/Haverhill_Selectboard_Agenda_09-28-2026_UPDATED_AP
+ POINTMENTS.docx
+DESCRIPTION:Agenda: Selectboard Meeting Agenda 09-28-2026\nhttps://www.have
+ rhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/upl
+ oads/Haverhill_Selectboard_Agenda_09-28-2026_UPDATED_APPOINTMENTS.docx\n\n
+ Minutes: Haverhill Select Board Approved Minutes 9-28-26\nhttps://www.have
+ rhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/upl
+ oads/Haverhill_Select_Board_Approved_Minutes_9-28-26.pdf\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f7745e1e80f1694ba8@granite-docket
+DTSTAMP:20261103T105149Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Haverhill Select board / council
+LOCATION:Haverhill\, NH
+URL:https://www.haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-
+ 81AAD9EE8E62%7D/uploads/Haverhill_Selectboard_Agenda_10-13-2026.docx
+DESCRIPTION:Agenda: Selectboard Meeting Agenda 10-13-2026\nhttps://www.have
+ rhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/upl
+ oads/Haverhill_Selectboard_Agenda_10-13-2026.docx\n\nMinutes: Haverhill Se
+ lect Board Approved Minutes 10-13-26\nhttps://www.haverhill-nh.com/vertica
+ l/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/uploads/Haverhill_Selec
+ t_Board_Approved_Minutes_10-13-26.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a7ed01ee3670fe21f87@granite-docket
+DTSTAMP:20261103T112044Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Haverhill Select board / council
+LOCATION:Haverhill\, NH
+URL:https://www.haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-
+ 81AAD9EE8E62%7D/uploads/BP-70C55_20261019_102700.pdf
+DESCRIPTION:Notice: Public Hearing 10/26/2026\nhttps://www.haverhill-nh.com
+ /vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/uploads/BP-70C5
+ 5_20261019_102700.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4389a12f5c53ffecab@granite-docket
+DTSTAMP:20261123T090055Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Haverhill Select board / council
+LOCATION:Haverhill\, NH
+URL:https://www.haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-
+ 81AAD9EE8E62%7D/uploads/Haverhill_Selectboard_Agenda_10-26-2026_FINAL_REVI
+ EW.docx
+DESCRIPTION:Agenda: Selectboard Meeting Agenda 10-26-2026\nhttps://www.have
+ rhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/upl
+ oads/Haverhill_Selectboard_Agenda_10-26-2026_FINAL_REVIEW.docx\n\nMinutes:
+  Haverhill Select Board Approved Minutes 10-26-26\nhttps://www.haverhill-n
+ h.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/uploads/Ha
+ verhill_Select_Board_Approved_Minutes_10-26-26.pdf\n\nMinutes: Haverhill S
+ elect Board Draft Minutes 10-26-26_revised\nhttps://www.haverhill-nh.com/v
+ ertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/uploads/Haverhill
+ _Select_Board_Draft_Minutes_10-26-26_revised.pdf\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:28a9be4ff3cb2716f21b@granite-docket
+DTSTAMP:20261123T090045Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Haverhill Select board / council
+LOCATION:Haverhill\, NH
+URL:https://www.haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-
+ 81AAD9EE8E62%7D/uploads/Haverhill_RSA_79E_Public_Hearing_Notice_11-09-2026
+ _(3).docx
+DESCRIPTION:Notice: Haverhill RSA 79E Public Hearing Notice 11-09-2026\nhtt
+ ps://www.haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9
+ EE8E62%7D/uploads/Haverhill_RSA_79E_Public_Hearing_Notice_11-09-2026_(3).d
+ ocx\n\nMinutes: Haverhill Select Board Draft Minutes 11-9-26\nhttps://www.
+ haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D
+ /uploads/Haverhill_Select_Board_Draft_Minutes_11-9-26.pdf\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0b32a0ef1d7ddfab6ef4@granite-docket
+DTSTAMP:20261123T085015Z
+DTSTART;TZID=America/New_York:20261123T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Haverhill Select board / council
+LOCATION:Haverhill\, NH
+URL:https://www.haverhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-
+ 81AAD9EE8E62%7D/uploads/Haverhill_Selectboard_Agenda_11-23-2026_(2).docx
+DESCRIPTION:Agenda: Selectboard Meeting Agenda 11-23-2026\nhttps://www.have
+ rhill-nh.com/vertical/sites/%7B7B636F77-2058-47A7-A817-81AAD9EE8E62%7D/upl
+ oads/Haverhill_Selectboard_Agenda_11-23-2026_(2).docx\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

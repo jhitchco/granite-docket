@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Candia Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Candia\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:722ddf7386fb4b41fa6c@granite-docket
+DTSTAMP:20261103T110951Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Candia Zoning / ZBA
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10132026-614
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda - PUBLIC HEARING\nhtt
+ ps://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10132026-614\n\nAgenda
+ : Oct 13\, 2026 Zoning Board of Adjustment Agenda - PUBLIC HEARING\nhttps:
+ //www.candianh.org/DocumentCenter/View/7398/2026-10-13-ZBA-Meeting-Audio-F
+ ile\n\nMinutes: Oct 13\, 2026 Zoning Board of Adjustment Agenda - PUBLIC H
+ EARING\nhttps://www.candianh.org/AgendaCenter/ViewFile/Minutes/_10132026-6
+ 14\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b982e62b255ba378ba9@granite-docket
+DTSTAMP:20261123T084915Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Candia Zoning / ZBA
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11102026-629
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda - PUBLIC HEARING\nhtt
+ ps://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11102026-629\n\nMinute
+ s: Nov 10\, 2026 Zoning Board of Adjustment Agenda - PUBLIC HEARING\nhttps
+ ://www.candianh.org/AgendaCenter/ViewFile/Minutes/_11102026-629\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pembroke Planning board
+X-WR-CALDESC:Planning board meetings in Pembroke\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d4f3e611bf1a7cf9dda2@granite-docket
+DTSTAMP:20261103T100432Z
+DTSTART;TZID=America/New_York:20261020T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Pembroke Planning board
+LOCATION:Pembroke\, NH
+URL:https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_10202026-418
+DESCRIPTION:Agenda: Planning Board Workshop Agenda\nhttps://www.pembroke-nh
+ .com/AgendaCenter/ViewFile/Agenda/_10202026-418\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c31285c2dd17502332@granite-docket
+DTSTAMP:20261103T100432Z
+DTSTART;TZID=America/New_York:20261027T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Pembroke Planning board
+LOCATION:Pembroke\, NH
+URL:https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_10272026-424
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.pemb
+ roke-nh.com/AgendaCenter/ViewFile/Agenda/_10272026-424\n\nAgenda: Planning
+  Board Public Hearing Notice\nhttps://www.pembroke-nh.com/AgendaCenter/Vie
+ wFile/Agenda/_10272026-417\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:161407c3dca4aaa98d7e@granite-docket
+DTSTAMP:20261109T083555Z
+DTSTART;TZID=America/New_York:20261110T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Pembroke Planning board
+LOCATION:Pembroke\, NH
+URL:https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_11102026-432
+DESCRIPTION:Agenda: Planning Board Workshop Agenda\nhttps://www.pembroke-nh
+ .com/AgendaCenter/ViewFile/Agenda/_11102026-432\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:adc801f266d44981cea3@granite-docket
+DTSTAMP:20261123T083356Z
+DTSTART;TZID=America/New_York:20261124T163000
+DURATION:PT2H
+SUMMARY:Pembroke Planning board
+LOCATION:Pembroke\, NH
+URL:https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_11242026-441
+DESCRIPTION:Agenda: Planning Board Regular Meeting Cancellation Notice\nhtt
+ ps://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_11242026-441\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+END:VCALENDAR

@@ -243,3 +243,6 @@ ol.docs a{display:block}
 .mlist .tag{justify-self:start}
 .mlist li.empty{display:block;color:var(--muted)}
 .tc.civpilot{border-color:var(--accent);background:var(--accent-soft)}
+.calbox p{margin:0 0 6px}
+.bfeeds{display:inline-block;margin:0 10px 4px 0;font-size:13px}
+.bfeeds summary{cursor:pointer;color:var(--accent)}

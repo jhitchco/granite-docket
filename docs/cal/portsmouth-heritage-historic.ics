@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Portsmouth Historic district
+X-WR-CALDESC:Historic district meetings in Portsmouth\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:62266a660a0dabda6f47@granite-docket
+DTSTAMP:20261123T071719Z
+DTSTART;TZID=America/New_York:20261007T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Portsmouth Historic district
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/10-07-26_HDC_ag_REV_3.pdf
+DESCRIPTION:Agenda: Administrative Approvals\nhttps://files.portsmouthnh.go
+ v/agendas/2026/10-07-26_HDC_ag_REV_3.pdf\n\nAgenda: Action Sheet\nhttps://
+ files.portsmouthnh.gov/agendas/2026/HDC/Back+Log+Uploads/10-07-26_HDC_as.p
+ df\n\nAgenda: Agenda- Revised\nhttps://files.portsmouthnh.gov/agendas/2026
+ /HDC/October+07%2C+2026/10-07-26_HDC_ag_REV4.pdf\n\nAgenda: Staff Report\n
+ https://files.portsmouthnh.gov/agendas/2026/HDC/October+07%2C+2026/StaffRe
+ port_HDC_100726.pdf\n\nAgenda: 163 Deer Street- Work Session\nhttps://file
+ s.portsmouthnh.gov/agendas/2026/HDC/October+07%2C+2026/DeerSt_163_HDC_WS_1
+ 00726.pdf\n\nAgenda: Public Comment\nhttps://files.portsmouthnh.gov/agenda
+ s/2026/HDC/October+07%2C+2026/PublicComment_HDC_100726.pdf\n\nAgenda: 56 M
+ arket Street- Public Hearing\nhttps://files.portsmouthnh.gov/agendas/2026/
+ HDC/October+07%2C+2026/MarketSt_56_HDC_PH_100726.pdf\n\nAgenda: 69 Hunking
+  Street- Public Hearing\nhttps://files.portsmouthnh.gov/agendas/2026/HDC/O
+ ctober+07%2C+2026/HunkingSt_69_HDC_PH_100726.pdf\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e365cae001debf371b@granite-docket
+DTSTAMP:20261123T071718Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Portsmouth Historic district
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/agendas/2026/HDC/Back+Log+Uploads/11-04-
+ 26_HDC_as.pdf
+DESCRIPTION:Agenda: Action Sheet\nhttps://files.portsmouthnh.gov/agendas/20
+ 26/HDC/Back+Log+Uploads/11-04-26_HDC_as.pdf\n\nAgenda: 163 Deer Street- Wo
+ rk Session\nhttps://files.portsmouthnh.gov/agendas/2026/HDC/November+04%2C
+ +2026/DeerSt_163_HDC_WS_110426.pdf\n\nAgenda: Public Comment\nhttps://file
+ s.portsmouthnh.gov/agendas/2026/HDC/November+04%2C+2026/PublicComment_HDC_
+ 110426.pdf\n\nAgenda: 413 Islington Street- Public Hearing\nhttps://files.
+ portsmouthnh.gov/agendas/2026/HDC/November+04%2C+2026/IslingtonSt_413_HDC_
+ PH_110426.pdf\n\nAgenda: 134 Pleasant Street- Work Session/Public Hearing\
+ nhttps://files.portsmouthnh.gov/agendas/2026/HDC/November+04%2C+2026/Pleas
+ antSt_134_HDC_WSPH_110426.pdf\n\nAgenda: 357 Maplewood Avenue- Public Hear
+ ing\nhttps://files.portsmouthnh.gov/agendas/2026/HDC/November+04%2C+2026/M
+ aplewoodAvenue_357_HDC_PH_110426.pdf\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f11150d09abf456eb3e5@granite-docket
+DTSTAMP:20261116T071438Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Portsmouth Historic district
+LOCATION:Portsmouth\, NH
+URL:https://files.portsmouthnh.gov/publicworks/Projects/Mechanic Street/Mec
+ h St Presentation 11AM 11-9-26.pdf
+DESCRIPTION:Agenda: Meeting Presentation\nhttps://files.portsmouthnh.gov/pu
+ blicworks/Projects/Mechanic Street/Mech St Presentation 11AM 11-9-26.pdf\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Durham Planning board
+X-WR-CALDESC:Planning board meetings in Durham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:de8915b7cae751b6207f@granite-docket
+DTSTAMP:20261103T092447Z
+DTSTART;TZID=America/New_York:20260930T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Durham Planning board
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_09302026-413
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://www.durhamnh.gov/Agenda
+ Center/ViewFile/Agenda/_09302026-413\n\nMinutes: Sep 30\, 2026 Planning Bo
+ ard Meeting\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Minutes/_09302
+ 026-413\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4c11bdaf1277e22c88b9@granite-docket
+DTSTAMP:20261103T092355Z
+DTSTART;TZID=America/New_York:20261007T080000
+DURATION:PT2H
+SUMMARY:Durham Planning board
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-418
+DESCRIPTION:Agenda: IWMAC Meeting\nhttps://www.durhamnh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10072026-418\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8d0fa4df89e67409be72@granite-docket
+DTSTAMP:20261103T092926Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Durham Planning board
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-420
+DESCRIPTION:Agenda: PDF\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Age
+ nda/_10142026-420\n\nAgenda: Planning Board Meeting\nhttps://www.durhamnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-205\n\nAgenda: Planning
+  Board Meeting\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/ArchivedAge
+ nda/_10142026-204\n\nAgenda: Packet\nhttps://www.durhamnh.gov/AgendaCenter
+ /ViewFile/Agenda/_10142026-420?packet=true\n\nAgenda: Packet\nhttps://www.
+ durhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-205?packet=tru
+ e\n\nAgenda: Packet\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Archiv
+ edAgenda/_10142026-204?packet=true\n\nMinutes: Oct 14\, 2026 Planning Boar
+ d Meeting\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Minutes/_1014202
+ 6-420\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6d0d53296150ec3dd4d5@granite-docket
+DTSTAMP:20261103T092354Z
+DTSTART;TZID=America/New_York:20261021T080000
+DURATION:PT2H
+SUMMARY:Durham Planning board
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-423
+DESCRIPTION:Agenda: IWMAC Meeting\nhttps://www.durhamnh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10212026-423\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:62e24a08e0b090289f63@granite-docket
+DTSTAMP:20261103T092924Z
+DTSTART;TZID=America/New_York:20261028T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Durham Planning board
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-426
+DESCRIPTION:Agenda: PDF\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Age
+ nda/_10282026-426\n\nAgenda: Planning Board Meeting\nhttps://www.durhamnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10282026-220\n\nAgenda: Packet\n
+ https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-426?packet
+ =true\n\nAgenda: Packet\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_10282026-220?packet=true\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:23791921912bbff39955@granite-docket
+DTSTAMP:20261103T092353Z
+DTSTART;TZID=America/New_York:20261104T080000
+DURATION:PT2H
+SUMMARY:Durham Planning board
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-431
+DESCRIPTION:Agenda: IWMAC Meeting\nhttps://www.durhamnh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_11042026-431\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1341e12fbc3bc9fec8fd@granite-docket
+DTSTAMP:20261103T094518Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Durham Planning board
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/DocumentCenter/View/20730/361-Durham-Point-Roa
+ d-Variance-Application-Rehearing---November-10-2026
+DESCRIPTION:Notice: 361 Durham Point Road Variance Application (Rehearing) 
+ - November 10\, 2026\nhttps://www.durhamnh.gov/DocumentCenter/View/20730/3
+ 61-Durham-Point-Road-Variance-Application-Rehearing---November-10-2026\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6a20a2118b3dbf02239d@granite-docket
+DTSTAMP:20261123T075918Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Durham Planning board
+LOCATION:Durham\, NH
+URL:https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-438
+DESCRIPTION:Agenda: PDF\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Age
+ nda/_11182026-438\n\nAgenda: November 18\, 2026\nhttps://www.durhamnh.gov/
+ DocumentCenter/View/20935/November-18-2026\n\nAgenda: Planning Board Meeti
+ ng\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1118202
+ 6-238\n\nAgenda: Planning Board Meeting\nhttps://www.durhamnh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_11182026-237\n\nAgenda: Planning Board Meeti
+ ng\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1118202
+ 6-236\n\nAgenda: Packet\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/Ag
+ enda/_11182026-438?packet=true\n\nAgenda: Packet\nhttps://www.durhamnh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11182026-238?packet=true\n\nAgenda:
+  Packet\nhttps://www.durhamnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11
+ 182026-237?packet=true\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

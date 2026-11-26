@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Salem Select board / council
+X-WR-CALDESC:Select board / council meetings in Salem\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b3e9d41321a7e9f02c5e@granite-docket
+DTSTAMP:20261103T152021Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1804
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_09282026-1804\n\nAgenda: Town Council Meeting Mate
+ rials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1805\n\n
+ Notice: here · The Salem Town Council will hold a public hearing on Monda
+ y\, September 28\, 2026 at 7:00 p.m. \nhttps://salemnh.gov/DocumentCenter/
+ View/7413/Finance---Amend-2027-Fee-Schedule---September-28-2026\n\nNotice:
+  A full copy of the public hearing notice may be viewed here . Copies of S
+ alem Municipal Code Chapter\nhttps://salemnh.gov/DocumentCenter/View/7415/
+ Public-Hearing-Notice---Municipal-Code-Chapter-490-September-28-2026\n\nMi
+ nutes: Sep 28\, 2026 Town Council Meeting Agenda\nhttps://salemnh.gov/Agen
+ daCenter/ViewFile/Minutes/_09282026-1804\n\nMinutes: Sep 28\, 2026 Town Co
+ uncil Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedMi
+ nutes/_09282026-2704\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1c6e871f861a7b793996@granite-docket
+DTSTAMP:20261103T145353Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-1806
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_10012026-1806\n\nAgenda: Town Council Meeting Agen
+ da\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10012026-259
+ 1\n\nAgenda: Town Council Meeting Agenda\nhttps://salemnh.gov/AgendaCenter
+ /ViewFile/ArchivedAgenda/_10012026-2590\n\nAgenda: Town Council Meeting Ag
+ enda\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10012026-2
+ 589\n\nAgenda: Town Council Meeting Agenda\nhttps://salemnh.gov/AgendaCent
+ er/ViewFile/ArchivedAgenda/_10012026-2587\n\nAgenda: Town Council Meeting 
+ Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10012026
+ -2567\n\nAgenda: Town Council Meeting Agenda\nhttps://salemnh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_10012026-2566\n\nMinutes: Oct 1\, 2026 Town 
+ Council Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/
+ _10012026-1806\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d1740f9d55987505c89@granite-docket
+DTSTAMP:20261103T143827Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1810
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_10072026-1810\n\nMinutes: Oct 7\, 2026 Town Counci
+ l Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_10072
+ 026-1810\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59409a3926e004c7af49@granite-docket
+DTSTAMP:20261103T145345Z
+DTSTART;TZID=America/New_York:20261014T180000
+DURATION:PT2H
+SUMMARY:Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-1816
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_10142026-1816\n\nMinutes: Oct 14\, 2026 Town Counc
+ il Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_1014
+ 2026-1816\n\nMinutes: Oct 14\, 2026 Town Council Meeting Agenda\nhttps://s
+ alemnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10142026-2706\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:6557ea6834c8d49e0a44@granite-docket
+DTSTAMP:20261123T082742Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1820
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_10192026-1820\n\nAgenda: Town Council Meeting Mate
+ rials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1823\n\n
+ Notice: here. · The Salem Town Council will hold a public hearing pursuan
+ t to NH RSA 31:95(b) on Monday\, Oct\nhttps://salemnh.gov/DocumentCenter/V
+ iew/7453/Police---NH-Office-of-Highway-Safety--October-19-2026---21200\n\n
+ Minutes: Oct 19\, 2026 Town Council Meeting Agenda\nhttps://salemnh.gov/Ag
+ endaCenter/ViewFile/Minutes/_10192026-1820\n\nMinutes: Oct 19\, 2026 Town 
+ Council Meeting Materials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Archi
+ vedMinutes/_10192026-2740\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6d47ddd9c8e4b1898839@granite-docket
+DTSTAMP:20261116T075251Z
+DTSTART;TZID=America/New_York:20261102T181500
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-1829
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_11022026-1829\n\nAgenda: Town Council Meeting Mate
+ rials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-1831\n\n
+ Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/AgendaCenter/View
+ File/ArchivedAgenda/_11022026-2703\n\nNotice: here. · The Salem Town Coun
+ cil will hold a public hearing pursuant to NH RSA 31:95(b) on Monday\, Nov
+ \nhttps://salemnh.gov/DocumentCenter/View/7505/Police---30000---Victim-Adv
+ ocacy-Grant---November-2-2026\n\nMinutes: Nov 2\, 2026 Town Council Meetin
+ g Agenda\nhttps://salemnh.gov/AgendaCenter/ViewFile/Minutes/_11022026-1829
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8c64a0eebc807ad3bf@granite-docket
+DTSTAMP:20261116T071005Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://www.salemnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1833
+DESCRIPTION:Agenda: Recreation Advisory Committee Agenda Nov 12\, 2026 Recr
+ eation Advisory Committee Agenda\nhttps://www.salemnh.gov/AgendaCenter/Vie
+ wFile/Agenda/_11122026-1833\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:57375804ab4d37a38ca6@granite-docket
+DTSTAMP:20261123T075539Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Salem Select board / council
+LOCATION:Salem\, NH
+URL:https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-1836
+DESCRIPTION:Agenda: Town Council Meeting Agenda\nhttps://salemnh.gov/Agenda
+ Center/ViewFile/Agenda/_11162026-1836\n\nAgenda: Town Council Meeting Mate
+ rials\nhttps://salemnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-1837\n\n
+ Notice: here · The Salem Town Council will hold a public hearing pursuant
+  to NH RSA 31:95(b) on Monday\, Nove\nhttps://salemnh.gov/DocumentCenter/V
+ iew/7555/Fire-Department---28163636---Assistance-to-Firefighters-Grant-Pro
+ gram---Paramedic-Training-November-16-2026---Revised\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

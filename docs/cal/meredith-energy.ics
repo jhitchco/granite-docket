@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meredith Energy committee
+X-WR-CALDESC:Energy committee meetings in Meredith\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b2ad5bc855da5ed61f3b@granite-docket
+DTSTAMP:20261103T101537Z
+DTSTART;TZID=America/New_York:20261014T123000
+DURATION:PT2H
+SUMMARY:Meredith Energy committee
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-1427
+DESCRIPTION:Agenda: Energy Committee Agenda Oct 14\, 2026 Energy Committee 
+ Agenda\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-
+ 1427\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbbbae24afe4faae86c2@granite-docket
+DTSTAMP:20261116T084052Z
+DTSTART;TZID=America/New_York:20261112T123000
+DURATION:PT2H
+SUMMARY:Meredith Energy committee
+LOCATION:Meredith\, NH
+URL:https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1438
+DESCRIPTION:Agenda: Energy Committee Agenda Nov 12\, 2026 Energy Committee 
+ Meeting\nhttps://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11122026
+ -1438\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+END:VCALENDAR

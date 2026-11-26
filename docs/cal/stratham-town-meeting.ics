@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Stratham Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Stratham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bb1becd4f7640eb24398@granite-docket
+DTSTAMP:20261103T100142Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Town meeting / warrant
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/minutes/9 28 2026 sb minutes.pdf?t=2026100614072
+ 30
+DESCRIPTION:Minutes: 09/28/2026 Select Board Special Meeting Agenda Minutes
+ \nhttps://www.strathamnh.gov/Documents/Boards and Committees/Select Board/
+ Agendas and Minutes/2026/minutes/9 28 2026 sb minutes.pdf?t=20261006140723
+ 0\n\nMinutes: 09/28/2026 Select Board Special Meeting Agenda Minutes\nhttp
+ s://www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agenda
+ s and Minutes/2026/Agendas/special meetings/Meeting Notice Sept 28 2026.pd
+ f?t=202609221358150\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aead144b8cd051cd1015@granite-docket
+DTSTAMP:20261103T103618Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Town meeting / warrant
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/General Election Info Nov.3rd 2026.pdf?t=202
+ 610081244380
+DESCRIPTION:Other: Elections\, School and Town Meetings: The polling hours 
+ are 7:00am to 7:00pm. 39 Gifford Farm Road (S\nhttps://www.strathamnh.gov/
+ General Election Info Nov.3rd 2026.pdf?t=202610081244380\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:424b5c967aa8a1438d6b@granite-docket
+DTSTAMP:20261123T083048Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Town meeting / warrant
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/minutes/11 4 2026 special sb meeting.pdf?t=20261
+ 1180802310
+DESCRIPTION:Minutes: 11/04/2026 Select Board Special Meeting Agenda Minutes
+ \nhttps://www.strathamnh.gov/Documents/Boards and Committees/Select Board/
+ Agendas and Minutes/2026/minutes/11 4 2026 special sb meeting.pdf?t=202611
+ 180802310\n\nMinutes: 11/04/2026 Select Board Special Meeting Agenda\nhttp
+ s://www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agenda
+ s and Minutes/2026/Agendas/special meetings/Meeting Notice November 4 2026
+ .pdf?t=202611021357380\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fcb09d56deea29cb0368@granite-docket
+DTSTAMP:20261103T100137Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Stratham Town meeting / warrant
+LOCATION:Stratham\, NH
+URL:https://www.strathamnh.gov/Documents/Boards and Committees/Select Board
+ /Agendas and Minutes/2026/Agendas/special meetings/Meeting Notice November
+  13 2026.pdf?t=202610270749190
+DESCRIPTION:Minutes: 11/13/2026 Select Board Special Meeting Agenda\nhttps:
+ //www.strathamnh.gov/Documents/Boards and Committees/Select Board/Agendas 
+ and Minutes/2026/Agendas/special meetings/Meeting Notice November 13 2026.
+ pdf?t=202610270749190\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

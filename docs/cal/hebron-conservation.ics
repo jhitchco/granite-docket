@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hebron Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Hebron\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:18d4cd854d52ea5097b1@granite-docket
+DTSTAMP:20261103T124838Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Hebron Conservation commission
+LOCATION:Hebron\, NH
+URL:https://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-148
+DESCRIPTION:Agenda: Hebron Space Needs Committee Agenda\nhttps://hebronnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_09282026-148\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d57178d19eee7bf42fe@granite-docket
+DTSTAMP:20261103T124839Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Hebron Conservation commission
+LOCATION:Hebron\, NH
+URL:https://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-155
+DESCRIPTION:Agenda: Library Trustees Meeting Agenda\nhttps://hebronnh.gov/A
+ gendaCenter/ViewFile/Agenda/_10052026-155\n\nMinutes: Oct 5\, 2026 — Ame
+ nded Oct 6\, 2026 2:13 PM Library Trustees Meeting Agenda\nhttps://hebronn
+ h.gov/AgendaCenter/ViewFile/Minutes/_10052026-155\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a20050677dc4b666b42f@granite-docket
+DTSTAMP:20261103T124838Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Hebron Conservation commission
+LOCATION:Hebron\, NH
+URL:https://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-157
+DESCRIPTION:Agenda: Historic District Commission Meeting Agenda (pdf)\nhttp
+ s://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-157\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c1b38d5a7c5d627e0a@granite-docket
+DTSTAMP:20261103T124833Z
+DTSTART;TZID=America/New_York:20261021T191500
+DURATION:PT2H
+SUMMARY:Hebron Conservation commission
+LOCATION:Hebron\, NH
+URL:https://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-159
+DESCRIPTION:Agenda: Conservation Commission Meeting Agenda (pdf)\nhttps://h
+ ebronnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-159\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d299dd51aadc69b85312@granite-docket
+DTSTAMP:20261103T124838Z
+DTSTART;TZID=America/New_York:20261026T150000
+DURATION:PT2H
+SUMMARY:Hebron Conservation commission
+LOCATION:Hebron\, NH
+URL:https://hebronnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-160
+DESCRIPTION:Agenda: Hebron Space Needs Committee Agenda\nhttps://hebronnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10262026-160\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

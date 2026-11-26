@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Madison Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Madison\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:101364fd49261f95d8e7@granite-docket
+DTSTAMP:20261103T113614Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Madison Budget / CIP
+LOCATION:Madison\, NH
+URL:https://www.madison-nh.org/wp-content/uploads/2026/10/ABC-10-6-26_FINAL
+ .pdf
+DESCRIPTION:Minutes: October 6\, 2026 · 2025-2026 Advisory Budget Committe
+ e Minutes July 29\, 2025 August 27\, 2025 Septembe\nhttps://www.madison-nh
+ .org/wp-content/uploads/2026/10/ABC-10-6-26_FINAL.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a41351cdbdc0a9d69fae@granite-docket
+DTSTAMP:20261103T113629Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+TRANSP:TRANSPARENT
+SUMMARY:Madison Budget / CIP
+LOCATION:Madison\, NH
+URL:https://www.madison-nh.org/wp-content/uploads/2026/01/CIP-Minutes_Dec_1
+ 8_2025_FINAL.pdf
+DESCRIPTION:Minutes: 2025 October 9\, 2025 November 6\, 2025 November 20\, 
+ 2025 December 4\, 2025 December 18\, 2026\nhttps://www.madison-nh.org/wp-c
+ ontent/uploads/2026/01/CIP-Minutes_Dec_18_2025_FINAL.pdf\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

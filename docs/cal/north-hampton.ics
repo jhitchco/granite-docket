@@ -1,0 +1,896 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:North Hampton NH meetings
+X-WR-CALDESC:Public meetings of North Hampton\, NH boards\, from posted age
+ ndas and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4ee098e46fd2f27078e9@granite-docket
+DTSTAMP:20261103T105134Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-
+ 531
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_09282026-531\n\nMinutes: Sep 28\, 2026
+  Select Board Meeting Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter
+ /ViewFile/Minutes/_09282026-531\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59b03b0a01e0c12ffead@granite-docket
+DTSTAMP:20261103T105220Z
+DTSTART;TZID=America/New_York:20260928T160000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-
+ 554
+DESCRIPTION:Agenda: LBH Commissioners Meeting\nhttps://www.northhampton-nh.
+ gov/AgendaCenter/ViewFile/Agenda/_09282026-554\n\nMinutes: Sep 28\, 2026 L
+ BH Commissioners Meeting\nhttps://www.northhampton-nh.gov/AgendaCenter/Vie
+ wFile/Minutes/_09282026-554\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eef61bd3c81429748143@granite-docket
+DTSTAMP:20261109T092619Z
+DTSTART;TZID=America/New_York:20260928T111500
+DURATION:PT2H
+SUMMARY:North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_0
+ 9282026-414
+DESCRIPTION:Agenda: Planning Board Long Range Planning Committee\nhttps://w
+ ww.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-414\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:da056c7a73c05cf3a424@granite-docket
+DTSTAMP:20261103T105133Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_09302026-
+ 532
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_09302026-532\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e626fcd83ede3db7c27@granite-docket
+DTSTAMP:20261103T105132Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-
+ 533
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_10052026-533\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:15d32f2f47db49fab0dd@granite-docket
+DTSTAMP:20261109T091639Z
+DTSTART;TZID=America/New_York:20261006T070000
+DURATION:PT2H
+SUMMARY:North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-
+ 568
+DESCRIPTION:Agenda: Planning Board Meeting Agenda\nhttps://www.northhampton
+ -nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-568\n\nMinutes: Oct 6\, 202
+ 6 Planning Board Meeting Agenda\nhttps://www.northhampton-nh.gov/AgendaCen
+ ter/ViewFile/Minutes/_10062026-568\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e363a16e07be74c9ef@granite-docket
+DTSTAMP:20261116T090607Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-
+ 534
+DESCRIPTION:Agenda: Recreation Commission Meeting Agenda\nhttps://www.north
+ hampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-534\n\nMinutes: Oct 
+ 7\, 2026 Recreation Commission Meeting Agenda\nhttps://www.northhampton-nh
+ .gov/AgendaCenter/ViewFile/Minutes/_10072026-534\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a3d65b19f5945b8500a@granite-docket
+DTSTAMP:20261103T105255Z
+DTSTART;TZID=America/New_York:20261013T173000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-
+ 545
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_10132026-545\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_10132026-545?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f71444f530e09f1cfde@granite-docket
+DTSTAMP:20261109T091619Z
+DTSTART;TZID=America/New_York:20261013T070000
+DURATION:PT2H
+SUMMARY:North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-
+ 567
+DESCRIPTION:Agenda: Planning Board Meeting Agenda\nhttps://www.northhampton
+ -nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-567\n\nAgenda: LBH Planning
+  Board Meeting\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Arch
+ ivedAgenda/_10132026-405\n\nAgenda: LBH Planning Board Meeting\nhttps://ww
+ w.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-404\n
+ \nAgenda: LBH Planning Meeting\nhttps://www.northhampton-nh.gov/AgendaCent
+ er/ViewFile/ArchivedAgenda/_10132026-398\n\nAgenda: Little Boar's Head Pla
+ nning Meeting\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_10132026-396\n\nAgenda: Packet\nhttps://www.northhampton-nh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_10132026-405?packet=true\n\nAgenda:
+  Packet\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAge
+ nda/_10132026-404?packet=true\n\nAgenda: Packet\nhttps://www.northhampton-
+ nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10132026-398?packet=true\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b23947a4223a177289f@granite-docket
+DTSTAMP:20261103T111237Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Town meeting / warrant
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/DocumentCenter/View/5359/2025-Little-Bo
+ ars-Head-MS737
+DESCRIPTION:Warrant: 2025 Little Boars Head MS737\nhttps://www.northhampton
+ -nh.gov/DocumentCenter/View/5359/2025-Little-Boars-Head-MS737\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4203754744ceb133942@granite-docket
+DTSTAMP:20261123T084424Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:North Hampton Conservation commission
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-
+ 591
+DESCRIPTION:Agenda: Conservation Commission Meeting Agenda\nhttps://www.nor
+ thhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-591\n\nMinutes: Oc
+ t 13\, 2026 Conservation Commission Meeting Agenda\nhttps://www.northhampt
+ on-nh.gov/AgendaCenter/ViewFile/Minutes/_10132026-591\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a90c8aa9242e384f805a@granite-docket
+DTSTAMP:20261103T105217Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-
+ 553
+DESCRIPTION:Minutes: LBH Commissioners Meeting (Draft Minutes)\nhttps://www
+ .northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-553\n\nMinutes
+ : Oct 15\, 2026 LBH Commissioners Meeting (Draft Minutes)\nhttps://www.nor
+ thhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_10152026-553\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:c25b263656ea28635649@granite-docket
+DTSTAMP:20261109T091559Z
+DTSTART;TZID=America/New_York:20261015T111500
+DURATION:PT2H
+SUMMARY:North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-
+ 566
+DESCRIPTION:Agenda: Planning Board Long Range Planning Committee Meeting\nh
+ ttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-566\
+ n\nMinutes: Oct 15\, 2026 Planning Board Long Range Planning Committee Mee
+ ting\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_10152
+ 026-566\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd0bfcf4afe83efb487@granite-docket
+DTSTAMP:20261123T084345Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-
+ 526
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_10192026-526\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_10192026-526?packet=true\n\nMinutes: Oct 1
+ 9\, 2026 Budget Committee Meeting\nhttps://www.northhampton-nh.gov/AgendaC
+ enter/ViewFile/Minutes/_10192026-526\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2128d6c0a7148954289a@granite-docket
+DTSTAMP:20261109T091539Z
+DTSTART;TZID=America/New_York:20261020T173000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10202026-
+ 535
+DESCRIPTION:Agenda: LBH Planning Board Meeting\nhttps://www.northhampton-nh
+ .gov/AgendaCenter/ViewFile/Agenda/_10202026-535\n\nAgenda: Planning Board 
+ Work Session Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile
+ /Agenda/_10202026-565\n\nMinutes: Oct 20\, 2026 LBH Planning Board Meeting
+ \nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_10202026-
+ 535\n\nMinutes: Oct 20\, 2026 Planning Board Work Session Agenda\nhttps://
+ www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_10202026-565\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e90d7b1f8d597a6e1100@granite-docket
+DTSTAMP:20261103T105132Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10262026-
+ 536
+DESCRIPTION:Agenda: Select Board Budget Workshop - CANCELLED\nhttps://www.n
+ orthhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10262026-536\n\nAgenda: S
+ elect Board Meeting Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/V
+ iewFile/Agenda/_10262026-537\n\nMinutes: Oct 26\, 2026 Select Board Meetin
+ g Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_1
+ 0262026-537\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:34c8b7c78944578de65b@granite-docket
+DTSTAMP:20261103T110115Z
+DTSTART;TZID=America/New_York:20261029T153000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0292026-407
+DESCRIPTION:Agenda: LBH Planning Board Zoning Ordinance Working Group — W
+ ork Session\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Archive
+ dAgenda/_10292026-407\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a10bcda18c6a0ec80127@granite-docket
+DTSTAMP:20261116T090737Z
+DTSTART;TZID=America/New_York:20261029T111500
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-
+ 544
+DESCRIPTION:Agenda: Planning Board Long Range Planning Committee\nhttps://w
+ ww.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-544\n\nMinut
+ es: Oct 29\, 2026 Planning Board Long Range Planning Committee\nhttps://ww
+ w.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_10292026-544\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c8acc97af0f1df61dac9@granite-docket
+DTSTAMP:20261109T091809Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-
+ 550
+DESCRIPTION:Agenda: Select Board Workshop Agenda\nhttps://www.northhampton-
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-550\n\nMinutes: Oct 29\, 202
+ 6 Select Board Workshop Agenda\nhttps://www.northhampton-nh.gov/AgendaCent
+ er/ViewFile/Minutes/_10292026-550\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7e966ebe32d45dceecef@granite-docket
+DTSTAMP:20261109T091919Z
+DTSTART;TZID=America/New_York:20261030T103000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_10302026-
+ 557
+DESCRIPTION:Agenda: LBH Planning Board Zoning Ordinance Working Group — W
+ ork Session\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/
+ _10302026-557\n\nMinutes: Oct 30\, 2026 LBH Planning Board Zoning Ordinanc
+ e Working Group — Work Session\nhttps://www.northhampton-nh.gov/AgendaCe
+ nter/ViewFile/Minutes/_10302026-557\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0f5fc3566389bd092d29@granite-docket
+DTSTAMP:20261103T110059Z
+DTSTART;TZID=America/New_York:20261102T170000
+DURATION:PT2H
+SUMMARY:North Hampton Historic district
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1022026-408
+DESCRIPTION:Agenda: Little Boar's Head Heritage Meeting\nhttps://www.northh
+ ampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11022026-408\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:4bef89c8e664fb38f4c1@granite-docket
+DTSTAMP:20261103T105249Z
+DTSTART;TZID=America/New_York:20261102T170000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-
+ 560
+DESCRIPTION:Agenda: Little Boar's Head Heritage Commission Meeting\nhttps:/
+ /www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-560\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b53da4cf38f13f3b921@granite-docket
+DTSTAMP:20261109T091759Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-
+ 558
+DESCRIPTION:Agenda: Select Board Workshop Agenda\nhttps://www.northhampton-
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-558\n\nMinutes: Nov 2\, 2026
+  Select Board Workshop Agenda\nhttps://www.northhampton-nh.gov/AgendaCente
+ r/ViewFile/Minutes/_11022026-558\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:160bb5aafe120a43a59e@granite-docket
+DTSTAMP:20261103T111424Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: North Hampton To review a sample ballot\, click her
+ e: November 3\, 2026 Sample Ballot
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/DocumentCenter/View/1190
+DESCRIPTION:Notice: To review a sample ballot\, click here: November 3\, 20
+ 26 Sample Ballot\nhttps://www.northhampton-nh.gov/DocumentCenter/View/1190
+ \n\nNotice: To review a sample ballot\, click here: November 3\, 2026 Samp
+ le Ballot\nhttps://www.northhampton-nh.gov/DocumentCenter/View/5439\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:312631dae3416b6ed494@granite-docket
+DTSTAMP:20261109T100130Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: North Hampton November 3\, 2026 Election Results
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/DocumentCenter/View/5479
+DESCRIPTION:Notice: November 3\, 2026 Election Results\nhttps://www.northha
+ mpton-nh.gov/DocumentCenter/View/5479\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ad80ab9ba4fafd58c732@granite-docket
+DTSTAMP:20261116T090727Z
+DTSTART;TZID=America/New_York:20261103T070000
+DURATION:PT2H
+SUMMARY:North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11032026-
+ 559
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.northhampton-nh.gov/
+ AgendaCenter/ViewFile/Agenda/_11032026-559\n\nMinutes: Nov 3\, 2026 Planni
+ ng Board Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Min
+ utes/_11032026-559\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bdbc1f4bd11747cb0ca2@granite-docket
+DTSTAMP:20261116T090557Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11042026-
+ 570
+DESCRIPTION:Agenda: Recreation Commission Meeting Agenda\nhttps://www.north
+ hampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11042026-570\n\nMinutes: Nov 
+ 4\, 2026 Recreation Commission Meeting Agenda\nhttps://www.northhampton-nh
+ .gov/AgendaCenter/ViewFile/Minutes/_11042026-570\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa7257433396bcc8d141@granite-docket
+DTSTAMP:20261103T110110Z
+DTSTART;TZID=America/New_York:20261104T143000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11042026-
+ 563
+DESCRIPTION:Agenda: LBH Planning Board Zoning Ordinance Working Group — W
+ ork Session\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/
+ _11042026-563\n\nAgenda: LBH Planning Board Zoning Ordinance Working Group
+  — Work Session\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_11042026-410\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b2522298ae73b322de@granite-docket
+DTSTAMP:20261109T091819Z
+DTSTART;TZID=America/New_York:20261105T183000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11052026-
+ 564
+DESCRIPTION:Agenda: North Hampton School Board Regular Meeting\nhttps://www
+ .northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11052026-564\n\nAgenda:
+  Joint Little Boars Head and Rye Beach Commissioners Meeting\nhttps://www.
+ northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11052026-562\n\nMinutes:
+  Nov 5\, 2026 — Amended Nov 7\, 2026 9:36 AM Joint Little Boars Head and
+  Rye Beach Commissioners Meetin\nhttps://www.northhampton-nh.gov/AgendaCen
+ ter/ViewFile/Minutes/_11052026-562\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c6c8106bf7a76ece8a3e@granite-docket
+DTSTAMP:20261109T093259Z
+DTSTART;TZID=America/New_York:20261105T160000
+DURATION:PT2H
+SUMMARY:North Hampton Joint Little Boars Head and Rye Beach Commissioners M
+ eeting
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1052026-419
+DESCRIPTION:Agenda: Joint Little Boars Head and Rye Beach Commissioners Mee
+ ting\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11052026-419\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:243c1cfccd35eadf90f0@granite-docket
+DTSTAMP:20261116T092047Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1092026-418
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-418\n\nAgenda: Select
+  Board Meeting Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFi
+ le/ArchivedAgenda/_11092026-415\n\nAgenda: Select Board Meeting Agenda\nht
+ tps://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_110920
+ 26-428\n\nAgenda: Packet\nhttps://www.northhampton-nh.gov/AgendaCenter/Vie
+ wFile/ArchivedAgenda/_11092026-418?packet=true\n\nAgenda: Packet\nhttps://
+ www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-428
+ ?packet=true\n\nMinutes: Nov 9\, 2026 Select Board Meeting Agenda\nhttps:/
+ /www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_11092026-573\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:65f27c11a620dfec161d@granite-docket
+DTSTAMP:20261109T091909Z
+DTSTART;TZID=America/New_York:20261109T140000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-
+ 574
+DESCRIPTION:Agenda: LBH Planning Board Zoning Ordinance Working Group — W
+ ork Session Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/
+ Agenda/_11092026-574\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d317ffb043df3eb63935@granite-docket
+DTSTAMP:20261109T091749Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-
+ 573
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_11092026-573\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_11092026-573?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5460e151cae6c1769bb8@granite-docket
+DTSTAMP:20261109T091859Z
+DTSTART;TZID=America/New_York:20261110T173000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11102026-
+ 576
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_11102026-576\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_11102026-576?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd6ab2efe0c2b4c4b9c@granite-docket
+DTSTAMP:20261116T090847Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_11102026
+ -576
+DESCRIPTION:Minutes: Nov 10\, 2026 LBH Planning Board Regular Meeting Agend
+ a\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_11102026
+ -576\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:752271ba1047c6b04896@granite-docket
+DTSTAMP:20261109T091959Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11122026-
+ 575
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_11122026-575\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_11122026-575?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc83d2bce1aa9c41775@granite-docket
+DTSTAMP:20261123T084655Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1122026-424
+DESCRIPTION:Agenda: LBH Zoning Board of Adjustment Meeting Agenda\nhttps://
+ www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-424
+ \n\nAgenda: LBH Zoning Board of Adjustment Meeting Agenda\nhttps://www.nor
+ thhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-423\n\nAge
+ nda: LBH Zoning Board of Adjustment Meeting Agenda\nhttps://www.northhampt
+ on-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-427\n\nAgenda: LB
+ H Zoning Board of Adjustment Meeting Agenda\nhttps://www.northhampton-nh.g
+ ov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-426\n\nAgenda: Packet\nh
+ ttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11122
+ 026-424?packet=true\n\nAgenda: Packet\nhttps://www.northhampton-nh.gov/Age
+ ndaCenter/ViewFile/ArchivedAgenda/_11122026-423?packet=true\n\nAgenda: Pac
+ ket\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/
+ _11122026-427?packet=true\n\nAgenda: Packet\nhttps://www.northhampton-nh.g
+ ov/AgendaCenter/ViewFile/ArchivedAgenda/_11122026-426?packet=true\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1eae4e299cc0ca41d09@granite-docket
+DTSTAMP:20261109T091519Z
+DTSTART;TZID=America/New_York:20261112T111500
+DURATION:PT2H
+SUMMARY:North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11122026-
+ 571
+DESCRIPTION:Agenda: Long Range Planning Committee Agenda\nhttps://www.north
+ hampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11122026-571\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4e571f2096edced2e28@granite-docket
+DTSTAMP:20261123T084325Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-
+ 527
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_11162026-527\n\nAgenda: Budget Committee Agenda\nhttps://www.n
+ orthhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-581\n\nAgenda: A
+ griculture Commission Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter
+ /ViewFile/Agenda/_11162026-589\n\nAgenda: Budget Committee Agenda\nhttps:/
+ /www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11162026-44
+ 6\n\nAgenda: Packet\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile
+ /Agenda/_11162026-527?packet=true\n\nMinutes: Nov 16\, 2026 Budget Committ
+ ee Agenda\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Minutes/_
+ 11162026-581\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ba92c9251e42328f3e@granite-docket
+DTSTAMP:20261116T090747Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-
+ 583
+DESCRIPTION:Agenda: Select Board Notice of Quorum\nhttps://www.northhampton
+ -nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-583\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbab8a90d355e0349e5b@granite-docket
+DTSTAMP:20261116T091627Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-
+ 561
+DESCRIPTION:Agenda: Planning Board Public Hearing\nhttps://www.northhampton
+ -nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-561\n\nAgenda: Planning Boa
+ rd Public Hearing\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_11172026-453\n\nAgenda: Packet\nhttps://www.northhampton-nh
+ .gov/AgendaCenter/ViewFile/ArchivedAgenda/_11172026-453?packet=true\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fe5e7658469b6727efb5@granite-docket
+DTSTAMP:20261116T090817Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-
+ 587
+DESCRIPTION:Agenda: Little Boars Head Commissioners Meeting Agenda\nhttps:/
+ /www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-587\n\nAge
+ nda: Packet\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/
+ _11172026-561?packet=true\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:aa476bebee2cff1c4b9b@granite-docket
+DTSTAMP:20261123T084404Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:North Hampton Conservation commission
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11182026-
+ 590
+DESCRIPTION:Agenda: Conservation Commission Meeting Agenda\nhttps://www.nor
+ thhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11182026-590\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7447c10c30a1fd4e538f@granite-docket
+DTSTAMP:20261123T084915Z
+DTSTART;TZID=America/New_York:20261119T093000
+DURATION:PT2H
+SUMMARY:North Hampton Historic district
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 1192026-454
+DESCRIPTION:Agenda: Heritage Commission Meeting Agenda\nhttps://www.northha
+ mpton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026-454\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:bcadc4497005d7e3d8c4@granite-docket
+DTSTAMP:20261123T084504Z
+DTSTART;TZID=America/New_York:20261119T093000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11192026-
+ 588
+DESCRIPTION:Agenda: Heritage Commission Agenda\nhttps://www.northhampton-nh
+ .gov/AgendaCenter/ViewFile/Agenda/_11192026-588\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:58d0f2871107d7e58705@granite-docket
+DTSTAMP:20261123T084604Z
+DTSTART;TZID=America/New_York:20261120T100000
+DURATION:PT2H
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11202026-
+ 598
+DESCRIPTION:Agenda: Joint Little Boar's Head and Rye Beach Commissioners Me
+ eting\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11202
+ 026-598\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca94004b39c0ec1ee7df@granite-docket
+DTSTAMP:20261123T084545Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Select board / council
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11232026-
+ 599
+DESCRIPTION:Agenda: Select Board Meeting Agenda\nhttps://www.northhampton-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_11232026-599\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aab68b4a75d7a8670495@granite-docket
+DTSTAMP:20261109T091359Z
+DTSTART;TZID=America/New_York:20261124T183000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Zoning / ZBA
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/DocumentCenter/View/5480/20261124-Zonin
+ g-Board-Public-Hearing-Notice
+DESCRIPTION:Notice: 2026/11/24 Zoning Board Public Hearing Notice\nhttps://
+ www.northhampton-nh.gov/DocumentCenter/View/5480/20261124-Zoning-Board-Pub
+ lic-Hearing-Notice\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:eca68c84583739c45c12@granite-docket
+DTSTAMP:20261109T092029Z
+DTSTART;TZID=America/New_York:20261124T183000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11242026-
+ 572
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_11242026-572\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_11242026-572?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:21513e139d918b76d704@granite-docket
+DTSTAMP:20261103T104947Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_11302026-
+ 528
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_11302026-528\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_11302026-528?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cec688346a959faaf664@granite-docket
+DTSTAMP:20261116T090657Z
+DTSTART;TZID=America/New_York:20261201T183000
+DURATION:PT2H
+SUMMARY:North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_12012026-
+ 585
+DESCRIPTION:Agenda: Planning Board Public Hearing\nhttps://www.northhampton
+ -nh.gov/AgendaCenter/ViewFile/Agenda/_12012026-585\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a4215afd25110ce39281@granite-docket
+DTSTAMP:20261116T090647Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_12032026-
+ 586
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_12032026-586\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_12032026-586?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c2db0f96d02122d98ba2@granite-docket
+DTSTAMP:20261103T104946Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_12072026-
+ 529
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_12072026-529\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_12072026-529?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a310e41c21d96cfa402b@granite-docket
+DTSTAMP:20261103T104944Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+TRANSP:TRANSPARENT
+SUMMARY:North Hampton Budget / CIP
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_12102026-
+ 530
+DESCRIPTION:Agenda: PDF\nhttps://www.northhampton-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_12102026-530\n\nAgenda: Packet\nhttps://www.northhampton-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_12102026-530?packet=true\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0fdf70648900025a21b7@granite-docket
+DTSTAMP:20261123T084515Z
+DTSTART;TZID=America/New_York:20261215T183000
+DURATION:PT2H
+SUMMARY:Public hearing: North Hampton Planning board
+LOCATION:North Hampton\, NH
+URL:https://www.northhampton-nh.gov/AgendaCenter/ViewFile/Agenda/_12152026-
+ 597
+DESCRIPTION:Agenda: Planning Board Public Hearing Notice\nhttps://www.north
+ hampton-nh.gov/AgendaCenter/ViewFile/Agenda/_12152026-597\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

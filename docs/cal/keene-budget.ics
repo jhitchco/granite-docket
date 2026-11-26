@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keene Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Keene\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:47e9aa4fa4225d157b04@granite-docket
+DTSTAMP:20261103T092239Z
+DTSTART;TZID=America/New_York:20261008T180000
+DURATION:PT2H
+SUMMARY:Keene Budget / CIP
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/2026_10_08_FOP_Canceled.
+ pdf
+DESCRIPTION:Agenda: Finance\, Organization and Personnel Committee Canceled
+  Agendas for October 8\, 2026 - Canceled\nhttps://keenenh.gov/wp-content/u
+ ploads/2026/10/2026_10_08_FOP_Canceled.pdf\n\nMinutes: Finance\, Organizat
+ ion and Personnel Committee Canceled Minutes for October 8\, 2026 - Cancel
+ ed\nhttps://keenenh.gov/wp-content/uploads/2026/10/2026_10_08_FOP_Meeting_
+ Canceled.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1b66fa6797e7791c842d@granite-docket
+DTSTAMP:20261103T092235Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Keene Budget / CIP
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/2026_10_13_ARPAB-Agenda-
+ Budget.docx
+DESCRIPTION:Agenda: Ashuelot River Park Advisory Board Agendas for October 
+ 13\, 2026\nhttps://keenenh.gov/wp-content/uploads/2026/10/2026_10_13_ARPAB
+ -Agenda-Budget.docx\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:58c13df0955500b219a3@granite-docket
+DTSTAMP:20261116T070927Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Keene Budget / CIP
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/2026_10_22_FOP_Agneda_op
+ timized.pdf
+DESCRIPTION:Agenda: Finance\, Organization and Personnel Committee Agendas 
+ for October 22\, 2026\nhttps://keenenh.gov/wp-content/uploads/2026/10/2026
+ _10_22_FOP_Agneda_optimized.pdf\n\nMinutes: Finance\, Organization and Per
+ sonnel Committee Minutes for October 22\, 2026\nhttps://keenenh.gov/wp-con
+ tent/uploads/2026/11/2026_10_22_FOP_Minutes_Adopted.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7364db09d77eddb53292@granite-docket
+DTSTAMP:20261123T070808Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:Keene Budget / CIP
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/11/2026_11_12_FOP_Committee
+ _Agenda_Packet_optimized.pdf
+DESCRIPTION:Agenda: Finance\, Organization and Personnel Committee Agendas 
+ for November 12\, 2026\nhttps://keenenh.gov/wp-content/uploads/2026/11/202
+ 6_11_12_FOP_Committee_Agenda_Packet_optimized.pdf\n\nMinutes: 11-12-2026 K
+ PL Trustees Finance Committee Minutes\nhttps://keenenh.gov/wp-content/uplo
+ ads/2026/11/KPL-Finance-Meeting-Minutes-11-12-2026a.pdf\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

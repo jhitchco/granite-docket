@@ -1,0 +1,342 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newton NH meetings
+X-WR-CALDESC:Public meetings of Newton\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b0d7b1224de462110a22@granite-docket
+DTSTAMP:20261103T105319Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Newton October 5\, 2026 @ 10am
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/3995
+DESCRIPTION:Agenda: October 5\, 2026 @ 10am\nhttps://www.newton-nh.gov/Docu
+ mentCenter/View/3995\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d3f2400c6bddd25615b@granite-docket
+DTSTAMP:20261103T105900Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Newton Select board / council
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-244
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 6\, 2026 BOS Meeting\nhtt
+ ps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10062026-244\n\nMinut
+ es: Board of Selectmen Minutes Oct 6\, 2026 BOS Meeting\nhttps://www.newto
+ n-nh.gov/AgendaCenter/ViewFile/Minutes/_10062026-244\n\nOther: Click here 
+ to view the ALS Slide Presentation by Plaistow Fire Cheif Knutsen\, to wat
+ ch the discussio\nhttps://www.newton-nh.gov/DocumentCenter/View/4007\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f2760ee47f3bab806f3@granite-docket
+DTSTAMP:20261109T085954Z
+DTSTART;TZID=America/New_York:20261007T183000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-245
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 7\, 2026 ZBA Publ
+ ic Meeting\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_100720
+ 26-245\n\nMinutes: Zoning Board of Adjustment Minutes Oct 7\, 2026 ZBA Pub
+ lic Meeting\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Minutes/_1007
+ 2026-245\n\nMinutes: Oct 7\, 2026 ZBA Public Meeting\nhttps://www.newton-n
+ h.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10072026-145\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:11a4c12d77b238a46642@granite-docket
+DTSTAMP:20261103T104442Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+TRANSP:TRANSPARENT
+SUMMARY:Newton Select board / council
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10092026-247
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 9\, 2026 BOS Agenda- Emer
+ gency Non-Public Meeting @ 2PM\nhttps://www.newton-nh.gov/AgendaCenter/Vie
+ wFile/Agenda/_10092026-247\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:064e7898966eb0630249@granite-docket
+DTSTAMP:20261116T085725Z
+DTSTART;TZID=America/New_York:20261013T190000
+DURATION:PT2H
+SUMMARY:Newton Planning board
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-246
+DESCRIPTION:Agenda: Planning Board Agenda Oct 13\, 2026 Planning Board Agen
+ da\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-246\n
+ \nMinutes: Planning Board Minutes Oct 13\, 2026 Planning Board Agenda\nhtt
+ ps://www.newton-nh.gov/AgendaCenter/ViewFile/Minutes/_10132026-246\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:30b8510a21abc2a4ad38@granite-docket
+DTSTAMP:20261103T104736Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-249
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 14\, 2026 — Ame
+ nded Oct 13\, 2026 12:51 PM Meeting canceled per \nhttps://www.newton-nh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10142026-249\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:37f91315d02c4c7f9012@granite-docket
+DTSTAMP:20261116T085715Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Newton Gale Library Minutes Oct 14\, 2026 Gale Library Trustees Mee
+ ting Agenda
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Minutes/_10142026-248
+DESCRIPTION:Minutes: Gale Library Minutes Oct 14\, 2026 Gale Library Truste
+ es Meeting Agenda\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Minutes
+ /_10142026-248\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:595607bac623f6e9a3c3@granite-docket
+DTSTAMP:20261103T104549Z
+DTSTART;TZID=America/New_York:20261014T100000
+DURATION:PT2H
+SUMMARY:Newton Gale Library Agenda Oct 14\, 2026 Gale Library Trustees Meet
+ ing Agenda
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-248
+DESCRIPTION:Agenda: Gale Library Agenda Oct 14\, 2026 Gale Library Trustees
+  Meeting Agenda\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_1
+ 0142026-248\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd384723b59bf5eacf96@granite-docket
+DTSTAMP:20261103T105343Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/4028
+DESCRIPTION:Other: 12-4-9 +12-4-9-1- 11 Merrimac Rd\, Lot Line Adjustment w
+ ith the creation of NO new Lots\nhttps://www.newton-nh.gov/DocumentCenter/
+ View/4028\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c63217d0eb85eb4c571@granite-docket
+DTSTAMP:20261103T110541Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Newton Planning board
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/4033/13-2-17-11-121-S-Mai
+ n-ST-Conditional-Use-Home-Business
+DESCRIPTION:Notice: 13-2-17-11-121 S Main ST\, Conditional Use-Home Busines
+ s\nhttps://www.newton-nh.gov/DocumentCenter/View/4033/13-2-17-11-121-S-Mai
+ n-ST-Conditional-Use-Home-Business\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:9acbee560866b9c5975a@granite-docket
+DTSTAMP:20261103T105319Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Newton October 16\, 2026 @ 10:00 am
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/3980
+DESCRIPTION:Agenda: October 16\, 2026 @ 10:00 am\nhttps://www.newton-nh.gov
+ /DocumentCenter/View/3980\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:05b38650b31eed9cf9a2@granite-docket
+DTSTAMP:20261103T104442Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Newton Select board / council
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10202026-250
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 20\, 2026 BOS Agenda\nhtt
+ ps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10202026-250\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9f3ea924b0f1c5b2a4@granite-docket
+DTSTAMP:20261116T085705Z
+DTSTART;TZID=America/New_York:20261021T093000
+DURATION:PT2H
+SUMMARY:Newton Budget / CIP
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10212026-251
+DESCRIPTION:Agenda: Gale Library Agenda Oct 21\, 2026 Gale Library Special 
+ Budget Meeting\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 212026-251\n\nMinutes: Gale Library Minutes Oct 21\, 2026 Gale Library Spe
+ cial Budget Meeting\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Minut
+ es/_10212026-251\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59d7c529197bea945690@granite-docket
+DTSTAMP:20261103T105320Z
+DTSTART;TZID=America/New_York:20261026T100000
+DURATION:PT2H
+SUMMARY:Newton October 26\, 2026 @ 10:00 am
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/3981
+DESCRIPTION:Agenda: October 26\, 2026 @ 10:00 am\nhttps://www.newton-nh.gov
+ /DocumentCenter/View/3981\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9179dc5cccca6cf252c1@granite-docket
+DTSTAMP:20261103T105107Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11042026-252
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 4\, 2026 — Amen
+ ded Nov 2\, 2026 11:02 AM Public ZBA meeting Nove\nhttps://www.newton-nh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11042026-252\n\nAgenda: Public ZBA meetin
+ g November\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11042026-142\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1051ef623e2ac79db79d@granite-docket
+DTSTAMP:20261103T104956Z
+DTSTART;TZID=America/New_York:20261109T150000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-254
+DESCRIPTION:Agenda: Joint Loss Management Committee Agenda Nov 9\, 2026 —
+  Amended Nov 2\, 2026 10:27 AM meeting at fire st\nhttps://www.newton-nh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11092026-254\n\nAgenda: meeting at fire s
+ tation 3pm\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda
+ /_11092026-141\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:760b2b68256a616be99d@granite-docket
+DTSTAMP:20261109T085104Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Newton Gale Library Agenda Nov 9\, 2026 Gale Library Trustee's Meet
+ ing Agenda
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-256
+DESCRIPTION:Agenda: Gale Library Agenda Nov 9\, 2026 Gale Library Trustee's
+  Meeting Agenda\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_1
+ 1092026-256\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ced48a7ee62f34a7509f@granite-docket
+DTSTAMP:20261109T085114Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Newton Planning board
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11102026-255
+DESCRIPTION:Agenda: Planning Board Agenda Nov 10\, 2026 Planning Board Agen
+ da November 10\, 2026\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Age
+ nda/_11102026-255\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d8963b20c5f3f6078e7b@granite-docket
+DTSTAMP:20261103T104956Z
+DTSTART;TZID=America/New_York:20261110T150000
+DURATION:PT2H
+SUMMARY:Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1110202
+ 6-140
+DESCRIPTION:Agenda: meeting at fire station 3pm\nhttps://www.newton-nh.gov/
+ AgendaCenter/ViewFile/ArchivedAgenda/_11102026-140\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7c8d90e3ad5fcbae104a@granite-docket
+DTSTAMP:20261116T085655Z
+DTSTART;TZID=America/New_York:20261111T180000
+DURATION:PT2H
+SUMMARY:Newton Conservation commission
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11112026-257
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 11\, 2026 public mee
+ ting\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11112026-257
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea95d1b3b667ac4c3fe5@granite-docket
+DTSTAMP:20261116T085645Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Newton Select board / council
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-258
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 17\, 2026 BOS Agenda 11--
+ 17-26\nhttps://www.newton-nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-25
+ 8\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b075be90ab1fc97a2bea@granite-docket
+DTSTAMP:20261103T110731Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Newton Zoning / ZBA
+LOCATION:Newton\, NH
+URL:https://www.newton-nh.gov/DocumentCenter/View/3830/2-04-27-McSweeney---
+ 8-9-21---NOD
+DESCRIPTION:Notice: 2-04-27 McSweeney - 8-9-21 - NOD\nhttps://www.newton-nh
+ .gov/DocumentCenter/View/3830/2-04-27-McSweeney---8-9-21---NOD\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

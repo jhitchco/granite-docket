@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Holderness NH meetings
+X-WR-CALDESC:Public meetings of Holderness\, NH boards\, from posted agenda
+ s and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4fd31d07cd0e78eeb4a4@granite-docket
+DTSTAMP:20261103T115919Z
+DTSTART;TZID=America/New_York:20260928T173000
+DURATION:PT2H
+SUMMARY:Holderness Budget / CIP
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-14
+ 6
+DESCRIPTION:Agenda: Recreation Board Agenda Sep 28\, 2026 Recreation Board 
+ regular meeting agenda (PDF)\nhttps://www.holderness-nh.gov/AgendaCenter/V
+ iewFile/Agenda/_09282026-146\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:113cd059456f8564f343@granite-docket
+DTSTAMP:20261103T115955Z
+DTSTART;TZID=America/New_York:20261005T170000
+DURATION:PT2H
+SUMMARY:Holderness Select board / council
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-14
+ 8
+DESCRIPTION:Agenda: Select Board Agenda Oct 5\, 2026 Select Board Meeting A
+ genda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_1005202
+ 6-148\n\nMinutes: Select Board Minutes Oct 5\, 2026 Select Board Meeting A
+ genda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Minutes/_100520
+ 26-148\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:01b04b8a0aaee092820e@granite-docket
+DTSTAMP:20261103T120058Z
+DTSTART;TZID=America/New_York:20261013T160000
+DURATION:PT2H
+SUMMARY:Holderness Conservation commission
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-14
+ 9
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 13\, 2026 — Amende
+ d Oct 6\, 2026 3:33 PM Conservation Commission Me\nhttps://www.holderness-
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-149\n\nAgenda: Conservation 
+ Commission Meeting\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_10132026-22\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b4dc783f200e153dfee@granite-docket
+DTSTAMP:20261103T120033Z
+DTSTART;TZID=America/New_York:20261013T181500
+DURATION:PT2H
+SUMMARY:Holderness Zoning / ZBA
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-14
+ 5
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 13\, 2026 Zoning 
+ Board of Appeals Agenda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFi
+ le/Agenda/_10132026-145\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fdc903c2072c68abc299@granite-docket
+DTSTAMP:20261103T121148Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Holderness Zoning / ZBA
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/DocumentCenter/View/1828
+DESCRIPTION:Other: ZBA NOD Case# 532-09-02 McDonough\nhttps://www.holdernes
+ s-nh.gov/DocumentCenter/View/1828\n\nOther: ZBA NOD Case# 533-09-03 Darnel
+ l\nhttps://www.holderness-nh.gov/DocumentCenter/View/1827\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e8e90aeaa17ad72dd53c@granite-docket
+DTSTAMP:20261103T115918Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Holderness Budget / CIP
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-15
+ 2
+DESCRIPTION:Agenda: Recreation Board Agenda Oct 19\, 2026 Recreation Board 
+ regular meeting agenda (PDF)\nhttps://www.holderness-nh.gov/AgendaCenter/V
+ iewFile/Agenda/_10192026-152\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cf143b67a92e6d8d079@granite-docket
+DTSTAMP:20261103T115902Z
+DTSTART;TZID=America/New_York:20261020T173000
+DURATION:PT2H
+SUMMARY:Holderness Planning board
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10202026-15
+ 1
+DESCRIPTION:Agenda: Planning Board Agenda Oct 20\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 202026-151\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb2dd539a19abb242049@granite-docket
+DTSTAMP:20261103T115954Z
+DTSTART;TZID=America/New_York:20261021T170000
+DURATION:PT2H
+SUMMARY:Holderness Select board / council
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10212026-15
+ 0
+DESCRIPTION:Agenda: Select Board Agenda Oct 21\, 2026 Select Board Agenda\n
+ https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10212026-150\n
+ \nMinutes: Select Board Minutes Oct 21\, 2026 Select Board Agenda\nhttps:/
+ /www.holderness-nh.gov/AgendaCenter/ViewFile/Minutes/_10212026-150\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3dee60335243e263b11@granite-docket
+DTSTAMP:20261103T115953Z
+DTSTART;TZID=America/New_York:20261102T170000
+DURATION:PT2H
+SUMMARY:Holderness Select board / council
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-15
+ 5
+DESCRIPTION:Agenda: Select Board Agenda Nov 2\, 2026 Select Board Meeting A
+ genda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_1102202
+ 6-155\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8357c2193f05ad3a0a25@granite-docket
+DTSTAMP:20261109T103532Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Holderness ELECTION RESULTS: NOVEMBER 3\, 2026 Town of Holderness
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/DocumentCenter/View/1848
+DESCRIPTION:Other: ELECTION RESULTS: NOVEMBER 3\, 2026 Town of Holderness\n
+ https://www.holderness-nh.gov/DocumentCenter/View/1848\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e00920a4d5553ddf76@granite-docket
+DTSTAMP:20261109T102252Z
+DTSTART;TZID=America/New_York:20261110T160000
+DURATION:PT2H
+SUMMARY:Holderness Conservation commission
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_11102026-15
+ 7
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 10\, 2026 Conservati
+ on Commission Meeting Agenda\nhttps://www.holderness-nh.gov/AgendaCenter/V
+ iewFile/Agenda/_11102026-157\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bde4ed6160b5d8fbf001@granite-docket
+DTSTAMP:20261103T120131Z
+DTSTART;TZID=America/New_York:20261110T181500
+DURATION:PT2H
+SUMMARY:Holderness Zoning / ZBA
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_11102026-15
+ 4
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 10\, 2026 Zoning 
+ Board of Appeals Agenda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFi
+ le/Agenda/_11102026-154\n\nAgenda: Zoning Board of Appeals Agenda\nhttps:/
+ /www.holderness-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-26\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:25b4230a7b8020d67076@granite-docket
+DTSTAMP:20261103T120119Z
+DTSTART;TZID=America/New_York:20261117T173000
+DURATION:PT2H
+SUMMARY:Holderness Planning board
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-15
+ 6
+DESCRIPTION:Agenda: Planning Board Agenda Nov 17\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 172026-156\n\nAgenda: Planning Board Meeting Agenda\nhttps://www.holdernes
+ s-nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11172026-27\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

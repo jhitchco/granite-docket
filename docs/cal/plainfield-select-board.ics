@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plainfield Select board / council
+X-WR-CALDESC:Select board / council meetings in Plainfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:506fc56c3dcb2392a279@granite-docket
+DTSTAMP:20261103T113538Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Select board / council
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13393
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13393\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d45bd5731f9b0e25cd1b@granite-docket
+DTSTAMP:20261103T113536Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Select board / council
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13408
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13408\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b5c6fd254167a2f1708@granite-docket
+DTSTAMP:20261109T101451Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Plainfield Select board / council
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=minuteDoc&docid=13415
+DESCRIPTION:Minutes: Minutes\nhttps://www.plainfieldnh.gov/docview.aspx?doc
+ type=minuteDoc&docid=13415\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

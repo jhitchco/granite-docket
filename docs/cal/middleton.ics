@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Middleton NH meetings
+X-WR-CALDESC:Public meetings of Middleton\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dc8cb03305f1cc915c84@granite-docket
+DTSTAMP:20261103T120541Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Middleton Select board / council
+LOCATION:Middleton\, NH
+URL:https://middletonnh.gov/uploads/2026.09.28-board-of-selectmen-meeting-m
+ inutes.pdf
+DESCRIPTION:Minutes: Download\nhttps://middletonnh.gov/uploads/2026.09.28-b
+ oard-of-selectmen-meeting-minutes.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:25f87023eba4e7e7a7b5@granite-docket
+DTSTAMP:20261103T115855Z
+DTSTART;TZID=America/New_York:20260929T183000
+DURATION:PT2H
+SUMMARY:Middleton Select board / council
+LOCATION:Middleton\, NH
+URL:https://towncloud.io/go/middleton-nh/agendas/454/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/middleton-nh/agenda
+ s/454/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/middleton-nh/agendas/454/pdf_packet/get_agenda_document_link\n\nMi
+ nutes: Minutes PDF\nhttps://towncloud.io/go/middleton-nh/agendas/454/minut
+ es/get_agenda_document_link\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b53fa6274bfac7abc6ee@granite-docket
+DTSTAMP:20261116T105318Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Middleton Budget / CIP
+LOCATION:Middleton\, NH
+URL:https://middletonnh.gov/uploads/land-use-inquiry-form-rev-2026-10-08.pd
+ f
+DESCRIPTION:Minutes: Download\nhttps://middletonnh.gov/uploads/land-use-inq
+ uiry-form-rev-2026-10-08.pdf\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4187006d6b5c2876f1f5@granite-docket
+DTSTAMP:20261103T120601Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Middleton Conservation commission
+LOCATION:Middleton\, NH
+URL:https://middletonnh.gov/uploads/2026.10.13-conservation-committee-meeti
+ ng-minutes.docx
+DESCRIPTION:Minutes: Download\nhttps://middletonnh.gov/uploads/2026.10.13-c
+ onservation-committee-meeting-minutes.docx\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:094d056557eb8918ad65@granite-docket
+DTSTAMP:20261116T105312Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Middleton Select board / council
+LOCATION:Middleton\, NH
+URL:https://middletonnh.gov/uploads/2026.10.15-board-of-selectmen-dept-head
+ -meeting-minutes.pdf
+DESCRIPTION:Minutes: Download\nhttps://middletonnh.gov/uploads/2026.10.15-b
+ oard-of-selectmen-dept-head-meeting-minutes.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8b22e1fc1d450d48a5d@granite-docket
+DTSTAMP:20261103T115854Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Middleton Select board / council
+LOCATION:Middleton\, NH
+URL:https://towncloud.io/go/middleton-nh/agendas/455/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/middleton-nh/agenda
+ s/455/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/middleton-nh/agendas/455/pdf_packet/get_agenda_document_link\n\nMi
+ nutes: Minutes PDF\nhttps://towncloud.io/go/middleton-nh/agendas/455/minut
+ es/get_agenda_document_link\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cf3b08d7a7141a80a0cc@granite-docket
+DTSTAMP:20261116T105312Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Middleton Select board / council
+LOCATION:Middleton\, NH
+URL:https://middletonnh.gov/uploads/2026.10.26-board-of-selectmen-meeting-m
+ inutes.pdf
+DESCRIPTION:Minutes: Download\nhttps://middletonnh.gov/uploads/2026.10.26-b
+ oard-of-selectmen-meeting-minutes.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2308c8c29a7c3d54ea11@granite-docket
+DTSTAMP:20261109T103128Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Middleton Select board / council
+LOCATION:Middleton\, NH
+URL:https://towncloud.io/go/middleton-nh/agendas/458/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/middleton-nh/agenda
+ s/458/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/middleton-nh/agendas/458/pdf_packet/get_agenda_document_link\n\nMi
+ nutes: Minutes PDF\nhttps://towncloud.io/go/middleton-nh/agendas/458/minut
+ es/get_agenda_document_link\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc16c894af42f37a53e@granite-docket
+DTSTAMP:20261123T095009Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Middleton Conservation commission
+LOCATION:Middleton\, NH
+URL:https://middletonnh.gov/uploads/2026.11.10-conservation-commission-minu
+ tes-.docx
+DESCRIPTION:Minutes: Download\nhttps://middletonnh.gov/uploads/2026.11.10-c
+ onservation-commission-minutes-.docx\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb019d981c627e737252@granite-docket
+DTSTAMP:20261116T105242Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Middleton Select board / council
+LOCATION:Middleton\, NH
+URL:https://towncloud.io/go/middleton-nh/agendas/459/PDF/get_agenda_documen
+ t_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/middleton-nh/agenda
+ s/459/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclou
+ d.io/go/middleton-nh/agendas/459/pdf_packet/get_agenda_document_link\n\nMi
+ nutes: Minutes PDF\nhttps://towncloud.io/go/middleton-nh/agendas/459/minut
+ es/get_agenda_document_link\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

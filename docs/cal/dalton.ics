@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dalton NH meetings
+X-WR-CALDESC:Public meetings of Dalton\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b3fb6c90f35639f270ac@granite-docket
+DTSTAMP:20261103T122616Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Dalton Select board / council
+LOCATION:Dalton\, NH
+URL:https://townofdaltonnh.gov/wp-content/uploads/2026/10/9.28.2026-Meeting
+ -Minutes.pdf
+DESCRIPTION:Minutes: 9/28/2026 Meeting Minutes\nhttps://townofdaltonnh.gov/
+ wp-content/uploads/2026/10/9.28.2026-Meeting-Minutes.pdf\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e69cf08e6a9d1a8b77b@granite-docket
+DTSTAMP:20261103T122656Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Dalton Conservation commission
+LOCATION:Dalton\, NH
+URL:https://townofdaltonnh.gov/wp-content/uploads/2026/10/10-20-2026-DCC-Dr
+ aft-Minutes.pdf
+DESCRIPTION:Minutes: DRAFT Meeting Minutes October 20\, 2026\nhttps://towno
+ fdaltonnh.gov/wp-content/uploads/2026/10/10-20-2026-DCC-Draft-Minutes.pdf\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd2fa2c692cf509ff75@granite-docket
+DTSTAMP:20261103T122618Z
+DTSTART;TZID=America/New_York:20261010T163800
+DURATION:PT2H
+SUMMARY:Public hearing: Dalton Select board / council
+LOCATION:Dalton\, NH
+URL:https://townofdaltonnh.gov/wp-content/uploads/2026/10/10.15.2026-Public
+ -Hearing-and-Working-Session.pdf
+DESCRIPTION:Notice: 10/15/2026 Public Hearing and Working Session\nhttps://
+ townofdaltonnh.gov/wp-content/uploads/2026/10/10.15.2026-Public-Hearing-an
+ d-Working-Session.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:dcb86d88a65eff80b4e0@granite-docket
+DTSTAMP:20261103T122417Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Dalton Select board / council
+LOCATION:Dalton\, NH
+URL:https://townofdaltonnh.gov/wp-content/uploads/2026/10/State-Funds-Recei
+ ved_10262026.pdf
+DESCRIPTION:Other: State Funds Received\nhttps://townofdaltonnh.gov/wp-cont
+ ent/uploads/2026/10/State-Funds-Received_10262026.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:965264b21e626009f514@granite-docket
+DTSTAMP:20261123T095808Z
+DTSTART;TZID=America/New_York:20261123T183000
+DURATION:PT2H
+SUMMARY:Dalton Select board / council
+LOCATION:Dalton\, NH
+URL:https://townofdaltonnh.gov/wp-content/uploads/2026/11/Agenda-11.23_draf
+ t.pdf
+DESCRIPTION:Agenda: AGENDA\nhttps://townofdaltonnh.gov/wp-content/uploads/2
+ 026/11/Agenda-11.23_draft.pdf\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

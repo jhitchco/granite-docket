@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swanzey Planning board
+X-WR-CALDESC:Planning board meetings in Swanzey\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:84bd54a47b0425e1ec9b@granite-docket
+DTSTAMP:20261103T100805Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Planning board
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/9.28 SGC meeting.pdf?t=202610270841530
+DESCRIPTION:Minutes: 09/28/26 Swanzey Governance Committee Agenda Minutes\n
+ https://www.swanzeynh.gov/9.28 SGC meeting.pdf?t=202610270841530\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:90cfb44537693634b3ee@granite-docket
+DTSTAMP:20261103T100455Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Swanzey Planning board
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/PB Packet 10 8 2026.pdf?t=202610011601460
+DESCRIPTION:Minutes: 10/08/26 Planning Board Agenda Packet Minutes\nhttps:/
+ /www.swanzeynh.gov/PB Packet 10 8 2026.pdf?t=202610011601460\n\nMinutes: 1
+ 0/08/26 Planning Board Agenda Packet Minutes\nhttps://www.swanzeynh.gov/PB
+  Agenda 10 8 2026v2.pdf?t=202610011602120\n\nMinutes: 10/08/26 Planning Bo
+ ard Agenda Packet Minutes\nhttps://www.swanzeynh.gov/10 8 2026 PB Draft Mi
+ nutes.pdf?t=202610151427080\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1dca931576715c32163e@granite-docket
+DTSTAMP:20261103T102822Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Planning board
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Hearing Notice - 765 W Swanzey Rd SPR.
+ pdf?t=202610131140460
+DESCRIPTION:Notice: Public Hearing Notice - 765 W Swanzey Rd Site Plan Revi
+ ew document _recordid 1178\nhttps://www.swanzeynh.gov/Public Hearing Notic
+ e - 765 W Swanzey Rd SPR.pdf?t=202610131140460\n\nMinutes: 10/22/26 Planni
+ ng Board Agenda Packet Minutes\nhttps://www.swanzeynh.gov/PB Agenda 10 22 
+ 2026.pdf?t=202610151531450\n\nMinutes: 10/22/26 Planning Board Agenda Pack
+ et Minutes\nhttps://www.swanzeynh.gov/PB Packet - 10 22 2026.pdf?t=2026101
+ 51532120\n\nMinutes: 10/22/26 Planning Board Agenda Packet Minutes\nhttps:
+ //www.swanzeynh.gov/10 22 2026 Draft PB Minutes.pdf?t=202610271556080\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea1da258b36633de98e@granite-docket
+DTSTAMP:20261103T100446Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Planning board
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/PB Agenda 11 5 2026.pdf?t=202611021208060
+DESCRIPTION:Agenda: 11/05/26 Planning Board Agenda Packet\nhttps://www.swan
+ zeynh.gov/PB Agenda 11 5 2026.pdf?t=202611021208060\n\nAgenda: 11/05/26 Pl
+ anning Board Agenda Packet\nhttps://www.swanzeynh.gov/PB Packet 11 5 2026.
+ pdf?t=202611021208240\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

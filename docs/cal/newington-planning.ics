@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newington Planning board
+X-WR-CALDESC:Planning board meetings in Newington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6716d1bcdec04d2f82da@granite-docket
+DTSTAMP:20261103T131447Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-222
+DESCRIPTION:Agenda: Planning Board Agenda Sep 28\, 2026 Planning Board Meet
+ ing at Town Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda
+ /_09282026-222\n\nAgenda: Planning Board Agenda Sep 28\, 2026 Planning Boa
+ rd Meeting at Town Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile
+ /Agenda/_09282026-223\n\nAgenda: Planning Board Meeting at Town Hall\nhttp
+ s://www.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-44\
+ n\nAgenda: Packet\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_09282026-44?packet=true\n\nMinutes: Planning Board Minutes Sep 
+ 28\, 2026 Planning Board Meeting at Town Hall\nhttps://www.newingtonnh.gov
+ /AgendaCenter/ViewFile/Minutes/_09282026-222\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c06527092c885725b56@granite-docket
+DTSTAMP:20261103T131342Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-228
+DESCRIPTION:Agenda: Planning Board Agenda Oct 5\, 2026 Planning Board Meeti
+ ng at Town Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/
+ _10052026-228\n\nMinutes: Planning Board Minutes Oct 5\, 2026 Planning Boa
+ rd Meeting at Town Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile
+ /Minutes/_10052026-228\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1af23c6ce03fe698e33e@granite-docket
+DTSTAMP:20261103T131342Z
+DTSTART;TZID=America/New_York:20261009T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10092026-237
+DESCRIPTION:Agenda: Planning Board Agenda Oct 9\, 2026 Planning Board Agend
+ a 11-9-26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10092
+ 026-237\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d2e90a4783e52b4b9df8@granite-docket
+DTSTAMP:20261103T131342Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-232
+DESCRIPTION:Agenda: Planning Board Agenda Oct 26\, 2026 Planning Board at T
+ own Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_102620
+ 26-232\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:302a5f6a07020b6d6566@granite-docket
+DTSTAMP:20261103T131341Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-238
+DESCRIPTION:Agenda: Planning Board Agenda Nov 9\, 2026 Planning Board Agend
+ a\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-238\
+ n\nAgenda: Planning Board Agenda Nov 9\, 2026 Planning Board Agenda\nhttps
+ ://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-239\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

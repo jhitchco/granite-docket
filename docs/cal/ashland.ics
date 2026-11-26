@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ashland NH meetings
+X-WR-CALDESC:Public meetings of Ashland\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e4d9b5ea54b53aeeb7da@granite-docket
+DTSTAMP:20261103T115853Z
+DTSTART;TZID=America/New_York:20261001T183000
+DURATION:PT2H
+SUMMARY:Ashland Planning board
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/142/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 142/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/142/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d47d3a20312c7771a9@granite-docket
+DTSTAMP:20261109T102444Z
+DTSTART;TZID=America/New_York:20261005T173000
+DURATION:PT2H
+SUMMARY:Ashland Select board / council
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/323/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 323/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/323/pdf_packet/get_agenda_document_link\n\nMinute
+ s: Minutes PDF\nhttps://towncloud.io/go/ashland-nh/agendas/323/minutes/get
+ _agenda_document_link\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:70f2cf95c0c62516703f@granite-docket
+DTSTAMP:20261103T115849Z
+DTSTART;TZID=America/New_York:20261009T173000
+DURATION:PT2H
+SUMMARY:Ashland Economic development
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/325/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 325/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/325/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:41bc8bd3d598478ec3a5@granite-docket
+DTSTAMP:20261103T115851Z
+DTSTART;TZID=America/New_York:20261015T183000
+DURATION:PT2H
+SUMMARY:Ashland Planning board
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/143/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 143/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/143/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1f805418eb27a1a7de@granite-docket
+DTSTAMP:20261103T115850Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Ashland Planning board
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/324/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 324/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/324/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea703e1ab20212057eae@granite-docket
+DTSTAMP:20261109T102444Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Ashland Select board / council
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/324/minutes/get_agenda_docum
+ ent_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/ashland-nh/agenda
+ s/324/minutes/get_agenda_document_link\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f8dff53735a6b1d7fd1@granite-docket
+DTSTAMP:20261103T115849Z
+DTSTART;TZID=America/New_York:20261029T173000
+DURATION:PT2H
+SUMMARY:Ashland Economic development
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/329/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 329/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/329/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:6519caeb7e98cdbaa83b@granite-docket
+DTSTAMP:20261103T115849Z
+DTSTART;TZID=America/New_York:20261102T173000
+DURATION:PT2H
+SUMMARY:Ashland Planning board
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/326/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 326/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/326/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:e160f8b7cec8c4df8404@granite-docket
+DTSTAMP:20261103T115854Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Ashland Select board / council
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/328/minutes/get_agenda_docum
+ ent_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/ashland-nh/agenda
+ s/328/minutes/get_agenda_document_link\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:af5ffad3b3fef86135b9@granite-docket
+DTSTAMP:20261109T102454Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Ashland Select board / council
+LOCATION:Ashland\, NH
+URL:https://ashland.nh.gov/uploads/ashland.pdf
+DESCRIPTION:Other: Download\nhttps://ashland.nh.gov/uploads/ashland.pdf\n\n
+ Other: Download\nhttps://ashland.nh.gov/uploads/lrcd-settlement-agreement-
+ 11.3.26.pdf\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:44e953542719c93a28cb@granite-docket
+DTSTAMP:20261103T115822Z
+DTSTART;TZID=America/New_York:20261105T183000
+DURATION:PT2H
+SUMMARY:Ashland Planning board
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/144/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 144/PDF/get_agenda_document_link\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c154c7ed5d14a6c16cf@granite-docket
+DTSTAMP:20261116T103202Z
+DTSTART;TZID=America/New_York:20261109T173000
+DURATION:PT2H
+SUMMARY:Ashland Economic development
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/330/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 330/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/330/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:17fe4cade8fc8186a14f@granite-docket
+DTSTAMP:20261116T103202Z
+DTSTART;TZID=America/New_York:20261116T173000
+DURATION:PT2H
+SUMMARY:Ashland Town meeting / warrant
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/327/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 327/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/327/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb51206ffe36cd8ca35e@granite-docket
+DTSTAMP:20261116T103202Z
+DTSTART;TZID=America/New_York:20261117T163000
+DURATION:PT2H
+SUMMARY:Ashland Select board / council
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/331/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 331/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/331/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:ba5ad64d6ad8e12d874f@granite-docket
+DTSTAMP:20261123T094842Z
+DTSTART;TZID=America/New_York:20261119T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Ashland Planning board
+LOCATION:Ashland\, NH
+URL:https://towncloud.io/go/ashland-nh/agendas/145/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/ashland-nh/agendas/
+ 145/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/ashland-nh/agendas/145/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f64ede57786c2ac766d3@granite-docket
+DTSTAMP:20261103T120606Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Ashland Planning board
+LOCATION:Ashland\, NH
+URL:https://towncloud-core-prod.s3.us-west-2.amazonaws.com/uploads/ashland-
+ nh/meetings/item_attachment/attachment/175/Minutes_12.18.26.pdf
+DESCRIPTION:Minutes: Minutes 'PB' Agenda Show Home Agenda Read the full age
+ nda Agenda PDF Packet Planning Board Thursday\,\nhttps://towncloud-core-pr
+ od.s3.us-west-2.amazonaws.com/uploads/ashland-nh/meetings/item_attachment/
+ attachment/175/Minutes_12.18.26.pdf\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

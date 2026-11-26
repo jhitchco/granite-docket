@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plainfield Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Plainfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a3e527ec16425991f098@granite-docket
+DTSTAMP:20261103T113725Z
+DTSTART;TZID=America/New_York:20261012T180000
+DURATION:PT2H
+SUMMARY:Plainfield Zoning / ZBA
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13394
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13394\n\nMinutes: Minutes\nhttps://www.plainfieldnh.gov
+ /docview.aspx?doctype=minuteDoc&docid=13394\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f2708b87902a5c47ce2@granite-docket
+DTSTAMP:20261103T113722Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Plainfield Zoning / ZBA
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13399
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13399\n\nMinutes: Minutes\nhttps://www.plainfieldnh.gov
+ /docview.aspx?doctype=minuteDoc&docid=13399\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9e845fef066eb52be7d4@granite-docket
+DTSTAMP:20261109T101522Z
+DTSTART;TZID=America/New_York:20261111T180000
+DURATION:PT2H
+SUMMARY:Plainfield Zoning / ZBA
+LOCATION:Plainfield\, NH
+URL:https://www.plainfieldnh.gov/docview.aspx?doctype=agendaDoc&docid=13417
+DESCRIPTION:Agenda: Agenda\nhttps://www.plainfieldnh.gov/docview.aspx?docty
+ pe=agendaDoc&docid=13417\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Holderness Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Holderness\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4fd31d07cd0e78eeb4a4@granite-docket
+DTSTAMP:20261103T115919Z
+DTSTART;TZID=America/New_York:20260928T173000
+DURATION:PT2H
+SUMMARY:Holderness Budget / CIP
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-14
+ 6
+DESCRIPTION:Agenda: Recreation Board Agenda Sep 28\, 2026 Recreation Board 
+ regular meeting agenda (PDF)\nhttps://www.holderness-nh.gov/AgendaCenter/V
+ iewFile/Agenda/_09282026-146\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e8e90aeaa17ad72dd53c@granite-docket
+DTSTAMP:20261103T115918Z
+DTSTART;TZID=America/New_York:20261019T173000
+DURATION:PT2H
+SUMMARY:Holderness Budget / CIP
+LOCATION:Holderness\, NH
+URL:https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-15
+ 2
+DESCRIPTION:Agenda: Recreation Board Agenda Oct 19\, 2026 Recreation Board 
+ regular meeting agenda (PDF)\nhttps://www.holderness-nh.gov/AgendaCenter/V
+ iewFile/Agenda/_10192026-152\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

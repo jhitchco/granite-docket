@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sugar Hill Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Sugar Hill\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6422705626613f6005e7@granite-docket
+DTSTAMP:20261123T100330Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Sugar Hill Town meeting / warrant
+LOCATION:Sugar Hill\, NH
+URL:https://www.sugarhillnh.org/wp-content/uploads/2026/11/Minutes-of-the-S
+ HCC-October-15-2026.pdf
+DESCRIPTION:Minutes: October 15 2026DRAFT · January 15 2026 February 19 20
+ 26 March 19 2026 April 16 2026 May 21 2026 June\nhttps://www.sugarhillnh.o
+ rg/wp-content/uploads/2026/11/Minutes-of-the-SHCC-October-15-2026.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d81e727b9d4a1a5cdbf5@granite-docket
+DTSTAMP:20261123T100314Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Sugar Hill Town meeting / warrant
+LOCATION:Sugar Hill\, NH
+URL:https://www.sugarhillnh.org/wp-content/uploads/2026/11/MX-3071_20261103
+ _170525.pdf
+DESCRIPTION:Warrant: 2026 Election Warrant\nhttps://www.sugarhillnh.org/wp-
+ content/uploads/2026/11/MX-3071_20261103_170525.pdf\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

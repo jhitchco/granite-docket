@@ -1,0 +1,635 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bedford NH meetings
+X-WR-CALDESC:Public meetings of Bedford\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9cc5d15937e0b6b2b9f8@granite-docket
+DTSTAMP:20261103T093255Z
+DTSTART;TZID=America/New_York:20261001T083000
+DURATION:PT2H
+SUMMARY:Bedford Water & Sewer Advisory Committee Meeting
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-3013
+DESCRIPTION:Agenda: Water & Sewer Advisory Committee Meeting\nhttps://bedfo
+ rdnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-3013\n\nAgenda: Water & Se
+ wer Advisory Committee Meeting\nhttps://bedfordnh.gov/AgendaCenter/ViewFil
+ e/ArchivedAgenda/_10012026-3204\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e726dc325c2cfc66b7ea@granite-docket
+DTSTAMP:20261103T095341Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Town meeting / warrant
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/Archive.aspx?ADID=1489
+DESCRIPTION:Warrant: Oct 01\, 2026 AP Check Warrant\nhttps://bedfordnh.gov/
+ Archive.aspx?ADID=1489\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:407fd57acecfd5cf6f60@granite-docket
+DTSTAMP:20261103T092928Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Bedford Planning board
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-3011
+DESCRIPTION:Agenda: October 5\, 2026 Planning Board Agenda\nhttps://bedford
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-3011\n\nAgenda: October 5\, 
+ 2026 Planning Board Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_10052026-3206\n\nMinutes: Oct 5\, 2026 — Amended Oct 2\, 2
+ 026 1:57 PM October 5\, 2026 Planning Board Agenda\nhttps://bedfordnh.gov/
+ AgendaCenter/ViewFile/Minutes/_10052026-3011\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0fcdf32bbc2c71691b4d@granite-docket
+DTSTAMP:20261103T092351Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Packet
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-3003?packe
+ t=true
+DESCRIPTION:Agenda: Packet\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Age
+ nda/_10062026-3003?packet=true\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c79cbf75b2a61fe82a2@granite-docket
+DTSTAMP:20261103T092350Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Bedford PDF
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-3003
+DESCRIPTION:Agenda: PDF\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Agenda
+ /_10062026-3003\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a27fc00e7515bad2252@granite-docket
+DTSTAMP:20261116T071125Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10082026-3016
+DESCRIPTION:Minutes: Oct 8\, 2026 Facilities Committee Meeting\nhttps://bed
+ fordnh.gov/AgendaCenter/ViewFile/Minutes/_10082026-3016\n\nMinutes: Oct 8\
+ , 2026 — Amended Oct 5\, 2026 11:04 AM October 8\, 2026 Poles & Wires Co
+ mmittee Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10082
+ 026-3015\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc5d83ef41f44114789e@granite-docket
+DTSTAMP:20261103T095341Z
+DTSTART;TZID=America/New_York:20261008T173000
+DURATION:PT2H
+SUMMARY:Bedford Town meeting / warrant
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-3016
+DESCRIPTION:Agenda: Facilities Committee Meeting\nhttps://bedfordnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_10082026-3016\n\nAgenda: October 8\, 2026 Poles
+  & Wires Committee Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Age
+ nda/_10082026-3015\n\nAgenda: October 8\, 2026 Poles & Wires Committee Age
+ nda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10082026-
+ 3207\n\nWarrant: Oct 08\, 2026 AP Check Warrant\nhttps://bedfordnh.gov/Arc
+ hive.aspx?ADID=1488\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbf1a75e97220e366b95@granite-docket
+DTSTAMP:20261103T092450Z
+DTSTART;TZID=America/New_York:20261014T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-3017
+DESCRIPTION:Agenda: Town Council Meeting\nhttps://bedfordnh.gov/AgendaCente
+ r/ViewFile/Agenda/_10142026-3017\n\nMinutes: Oct 14\, 2026 Town Council Me
+ eting\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-3017\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c272970394abeab49f0e@granite-docket
+DTSTAMP:20261103T095337Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Town meeting / warrant
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/Archive.aspx?ADID=1500
+DESCRIPTION:Warrant: Oct 15\, 2026 AP Check Warrant\nhttps://bedfordnh.gov/
+ Archive.aspx?ADID=1500\n\nWarrant: Oct 15\, 2026 ES AP Check Warrant\nhttp
+ s://bedfordnh.gov/Archive.aspx?ADID=1499\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:727da100bfe3bec2586c@granite-docket
+DTSTAMP:20261103T092415Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Packet
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3018?packe
+ t=true
+DESCRIPTION:Agenda: Packet\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Age
+ nda/_10192026-3018?packet=true\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9340614d1998136f86a@granite-docket
+DTSTAMP:20261103T092415Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Bedford PDF
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3018
+DESCRIPTION:Agenda: PDF\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Agenda
+ /_10192026-3018\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4d34d6e49b4742afade9@granite-docket
+DTSTAMP:20261103T092538Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Bedford PDF
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-3014
+DESCRIPTION:Agenda: PDF\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Agenda
+ /_10202026-3014\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:534ca820826b3ddcda35@granite-docket
+DTSTAMP:20261103T092539Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Packet
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-3014?packe
+ t=true
+DESCRIPTION:Agenda: Packet\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Age
+ nda/_10202026-3014?packet=true\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e53cdd2cf3c10cddd920@granite-docket
+DTSTAMP:20261103T092217Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Bedford School
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/DocumentCenter/View/9630/PFAS-Nov-16-Public-Meeti
+ ng-Flyer
+DESCRIPTION:Other: Public Meeting - Update on Regional PFAS Contamination P
+ osted on October 21\, 2026 The NH Department \nhttps://bedfordnh.gov/Docum
+ entCenter/View/9630/PFAS-Nov-16-Public-Meeting-Flyer\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:993fb095b199a56772f9@granite-docket
+DTSTAMP:20261103T092316Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Bedford Energy committee
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-3023
+DESCRIPTION:Agenda: Energy Commission Meeting\nhttps://bedfordnh.gov/Agenda
+ Center/ViewFile/Agenda/_10222026-3023\n\nMinutes: Oct 22\, 2026 Energy Com
+ mission Meeting\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_1022
+ 2026-3023\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5c91a00069dfa7e6d4c@granite-docket
+DTSTAMP:20261103T092332Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10222026-3022
+DESCRIPTION:Minutes: Oct 22\, 2026 Facilities Committee Meeting\nhttps://be
+ dfordnh.gov/AgendaCenter/ViewFile/Minutes/_10222026-3022\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e3345a5adecd77a65cb2@granite-docket
+DTSTAMP:20261103T092331Z
+DTSTART;TZID=America/New_York:20261022T173000
+DURATION:PT2H
+SUMMARY:Bedford Town meeting / warrant
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-3022
+DESCRIPTION:Agenda: Facilities Committee Meeting\nhttps://bedfordnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_10222026-3022\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:672d08bd8f25f3edfcd5@granite-docket
+DTSTAMP:20261103T092343Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10272026-3024
+DESCRIPTION:Minutes: Oct 27\, 2026 Highway Safety Committee Meeting\nhttps:
+ //bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10272026-3024\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:7f41de452b1b251d67ce@granite-docket
+DTSTAMP:20261103T092343Z
+DTSTART;TZID=America/New_York:20261027T081500
+DURATION:PT2H
+SUMMARY:Bedford Highway Safety Committee Meeting
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-3024
+DESCRIPTION:Agenda: Highway Safety Committee Meeting\nhttps://bedfordnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10272026-3024\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee035a6c462f671e135@granite-docket
+DTSTAMP:20261123T070432Z
+DTSTART;TZID=America/New_York:20261027T190000
+DURATION:PT2H
+SUMMARY:Bedford Conservation commission
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-3019
+DESCRIPTION:Agenda: October 27\, 2026 Conservation Commission - WORKSHOP\nh
+ ttps://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-3019\n\nMinute
+ s: Oct 27\, 2026 October 27\, 2026 Conservation Commission - WORKSHOP\nhtt
+ ps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10272026-3019\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c511861b547de01c69b@granite-docket
+DTSTAMP:20261109T070617Z
+DTSTART;TZID=America/New_York:20261028T163000
+DURATION:PT2H
+SUMMARY:Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-3026
+DESCRIPTION:Agenda: Town Council Meeting\nhttps://bedfordnh.gov/AgendaCente
+ r/ViewFile/Agenda/_10282026-3026\n\nMinutes: Oct 28\, 2026 Town Council Me
+ eting\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10282026-3026\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5d6dac7c0b7b11e7f8d0@granite-docket
+DTSTAMP:20261109T070654Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10292026-3025
+DESCRIPTION:Minutes: Oct 29\, 2026 BCTV-WBNH Board of Overseers Meeting Age
+ nda October 29\, 2026\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes
+ /_10292026-3025\n\nMinutes: Oct 29\, 2026 BCTV-WBNH Board of Overseers Mee
+ ting Agenda October 29\, 2026\nhttps://bedfordnh.gov/AgendaCenter/ViewFile
+ /ArchivedMinutes/_10292026-3231\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:faf344dbbe2abd099dc5@granite-docket
+DTSTAMP:20261103T092233Z
+DTSTART;TZID=America/New_York:20261029T183000
+DURATION:PT2H
+SUMMARY:Bedford Town meeting / warrant
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10292026-3025
+DESCRIPTION:Agenda: BCTV-WBNH Board of Overseers Meeting Agenda October 29\
+ , 2026\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10292026-3025\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d015a936cfc73dfd1fb@granite-docket
+DTSTAMP:20261103T093548Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Planning board
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/DocumentCenter/View/9620/2027-Planning-Board-Meet
+ ing-Dates-and-Deadlines-FINAL
+DESCRIPTION:Other: Please click HERE to display 2027 Planning Board Meeting
+  Dates & Deadlines\nhttps://bedfordnh.gov/DocumentCenter/View/9620/2027-Pl
+ anning-Board-Meeting-Dates-and-Deadlines-FINAL\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b64cb93f5200c97fbe12@granite-docket
+DTSTAMP:20261109T070514Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Bedford Planning board
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-3020
+DESCRIPTION:Agenda: November 2\, 2026 Planning Board Agenda\nhttps://bedfor
+ dnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-3020\n\nAgenda: November 2\
+ , 2026 Planning Board Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_11022026-3224\n\nMinutes: Nov 2\, 2026 — Amended Oct 30\
+ , 2026 11:13 AM November 2\, 2026 Planning Board Agenda\nhttps://bedfordnh
+ .gov/AgendaCenter/ViewFile/Minutes/_11022026-3020\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:52f91d993bced8144030@granite-docket
+DTSTAMP:20261103T092350Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Packet
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-3021?packe
+ t=true
+DESCRIPTION:Agenda: Packet\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Age
+ nda/_11032026-3021?packet=true\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aaf9e63e751c8517d3b5@granite-docket
+DTSTAMP:20261103T092349Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Bedford PDF
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-3021
+DESCRIPTION:Agenda: PDF\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Agenda
+ /_11032026-3021\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4dc498122469b058fd33@granite-docket
+DTSTAMP:20261123T070643Z
+DTSTART;TZID=America/New_York:20261104T173000
+DURATION:PT2H
+SUMMARY:Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-3028
+DESCRIPTION:Agenda: Town Council Budget Workshop\nhttps://bedfordnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_11042026-3028\n\nMinutes: Nov 4\, 2026 Town Cou
+ ncil Budget Workshop\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/
+ _11042026-3028\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b942d5c1e15864f9b1@granite-docket
+DTSTAMP:20261123T070633Z
+DTSTART;TZID=America/New_York:20261107T080000
+DURATION:PT2H
+SUMMARY:Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11072026-3029
+DESCRIPTION:Agenda: Town Council Budget Workshop\nhttps://bedfordnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_11072026-3029\n\nMinutes: Nov 7\, 2026 Town Cou
+ ncil Budget Workshop\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/
+ _11072026-3029\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d687d903ced7b8b4bcf2@granite-docket
+DTSTAMP:20261116T083627Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Bedford Zoning / ZBA
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/1188/2027-Zoning-Amendment-Schedule
+DESCRIPTION:Other: 2027 Zoning Amendment Schedule\nhttps://bedfordnh.gov/11
+ 88/2027-Zoning-Amendment-Schedule\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2d2041e65ef05ad4ec0f@granite-docket
+DTSTAMP:20261123T071019Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Bedford Conservation commission
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3031
+DESCRIPTION:Agenda: November 12\, 2026 Conservation Commission Agenda\nhttp
+ s://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3031\n\nAgenda: C
+ onservation Commission agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_11122026-3233\n\nAgenda: November 12\, 2026 Conservation 
+ Commission Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/ArchivedAge
+ nda/_11122026-3236\n\nAgenda: November 12\, 2026 Conservation Commission A
+ genda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1112202
+ 6-3242\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:57a0bf5bc64030a1a1fa@granite-docket
+DTSTAMP:20261109T070544Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Bedford PDF
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3032
+DESCRIPTION:Agenda: PDF\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Agenda
+ /_11122026-3032\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:88cb2923926f9f936647@granite-docket
+DTSTAMP:20261109T070554Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Packet
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3032?packe
+ t=true
+DESCRIPTION:Agenda: Packet\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Age
+ nda/_11122026-3032?packet=true\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbb3850e3f0f453513e5@granite-docket
+DTSTAMP:20261116T071025Z
+DTSTART;TZID=America/New_York:20261112T173000
+DURATION:PT2H
+SUMMARY:Bedford Town meeting / warrant
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3033
+DESCRIPTION:Agenda: Facilities Committee Meeting\nhttps://bedfordnh.gov/Age
+ ndaCenter/ViewFile/Agenda/_11122026-3033\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a7247b663d185cacd62@granite-docket
+DTSTAMP:20261123T071852Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Bedford Planning board
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3030
+DESCRIPTION:Agenda: November 16\, 2026 Planning Board Agenda\nhttps://bedfo
+ rdnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3030\n\nAgenda: November 1
+ 6\, 2026 Planning Board Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFil
+ e/ArchivedAgenda/_11162026-3239\n\nAgenda: November 16\, 2026 Planning Boa
+ rd Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_111
+ 62026-3241\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d1c6e2c4a4f9321ecc2e@granite-docket
+DTSTAMP:20261123T072808Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Bedford Zoning / ZBA
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-3027
+DESCRIPTION:Agenda: November 17\, 2026 Zoning Board Agenda\nhttps://bedford
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11172026-3027\n\nAgenda: November 17\
+ , 2026 Zoning Board Agenda\nhttps://bedfordnh.gov/AgendaCenter/ViewFile/Ar
+ chivedAgenda/_11172026-3244\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1af6bc49a50016d037e@granite-docket
+DTSTAMP:20261116T071155Z
+DTSTART;TZID=America/New_York:20261118T163000
+DURATION:PT2H
+SUMMARY:Bedford Select board / council
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-3034
+DESCRIPTION:Agenda: Town Council Meeting\nhttps://bedfordnh.gov/AgendaCente
+ r/ViewFile/Agenda/_11182026-3034\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8f721e38fd9809a6807@granite-docket
+DTSTAMP:20261123T070512Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Bedford Energy committee
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-3036
+DESCRIPTION:Agenda: Energy Commission Meeting\nhttps://bedfordnh.gov/Agenda
+ Center/ViewFile/Agenda/_11192026-3036\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:83fa845b20f775fa3072@granite-docket
+DTSTAMP:20261123T070523Z
+DTSTART;TZID=America/New_York:20261201T183000
+DURATION:PT2H
+SUMMARY:Bedford Historic district
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-3035
+DESCRIPTION:Agenda: December 1\, 2026 Historic District Commission Agenda\n
+ https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-3035\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:0f6d28fb7c78d28e99f5@granite-docket
+DTSTAMP:20261123T070653Z
+DTSTART;TZID=America/New_York:20261203T083000
+DURATION:PT2H
+SUMMARY:Bedford Water & Sewer Advisory Committee
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_12032026-3037
+DESCRIPTION:Agenda: Water & Sewer Advisory Committee\nhttps://bedfordnh.gov
+ /AgendaCenter/ViewFile/Agenda/_12032026-3037\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4a4f40f13cc0397f52@granite-docket
+DTSTAMP:20261103T095233Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Historic district
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/DocumentCenter/View/9135/2026-HDC-Meeting-Dates-a
+ nd-Deadlines
+DESCRIPTION:Other: 2026 HDC Meeting Dates and Deadlines\nhttps://bedfordnh.
+ gov/DocumentCenter/View/9135/2026-HDC-Meeting-Dates-and-Deadlines\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:6564a91017de9be39405@granite-docket
+DTSTAMP:20261103T095236Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Click HERE for 2026 Poles & Wires Committee Meeting Dates &
+  Deadlines
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/DocumentCenter/View/7996/2026--Poles--Wires-Meeti
+ ng-Dates-and-Deadlines-
+DESCRIPTION:Other: Click HERE for 2026 Poles & Wires Committee Meeting Date
+ s & Deadlines\nhttps://bedfordnh.gov/DocumentCenter/View/7996/2026--Poles-
+ -Wires-Meeting-Dates-and-Deadlines-\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8bef08324b1eca2c6a66@granite-docket
+DTSTAMP:20261103T095126Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+TRANSP:TRANSPARENT
+SUMMARY:Bedford Conservation commission
+LOCATION:Bedford\, NH
+URL:https://bedfordnh.gov/DocumentCenter/View/9081/2026-ConCom-Meeting-Date
+ s_Deadlines---FINAL
+DESCRIPTION:Other: Please click HERE to display Conservation Commission Mee
+ ting Dates & Deadlines.\nhttps://bedfordnh.gov/DocumentCenter/View/9081/20
+ 26-ConCom-Meeting-Dates_Deadlines---FINAL\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

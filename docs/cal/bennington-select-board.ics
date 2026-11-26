@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bennington Select board / council
+X-WR-CALDESC:Select board / council meetings in Bennington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6f97768dab7ee23814a4@granite-docket
+DTSTAMP:20261109T105628Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Bennington Select board / council
+LOCATION:Bennington\, NH
+URL:https://townofbennington.com/wp-content/uploads/2026/10/BOS-10.19.26-ag
+ enda.pdf
+DESCRIPTION:Minutes: October 19\, 2026 Agenda · MINUTES Note: All agendas\
+ , minutes\, and notices provided on this web site \nhttps://townofbenningt
+ on.com/wp-content/uploads/2026/10/BOS-10.19.26-agenda.pdf\n\nMinutes: Octo
+ ber 19\, 2026 Minutes · MINUTES Note: All agendas\, minutes\, and notices
+  provided on this web site\nhttps://townofbennington.com/wp-content/upload
+ s/2026/11/BOS-10.19.26-minutes.pdf\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:59a032920bd6fccbcb80@granite-docket
+DTSTAMP:20261103T121203Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Bennington Select board / council
+LOCATION:Bennington\, NH
+URL:https://townofbennington.com/wp-content/uploads/2026/10/BOS-11.02.26-ag
+ enda.pdf
+DESCRIPTION:Minutes: November 2\, 2026 Agenda · MINUTES Note: All agendas\
+ , minutes\, and notices provided on this web site \nhttps://townofbenningt
+ on.com/wp-content/uploads/2026/10/BOS-11.02.26-agenda.pdf\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6ff4c35217e3b30c6fd7@granite-docket
+DTSTAMP:20261123T095323Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:Bennington Select board / council
+LOCATION:Bennington\, NH
+URL:https://townofbennington.com/wp-content/uploads/2026/11/BOS-11.16.26-ag
+ enda.pdf
+DESCRIPTION:Minutes: November 16\, 2026 Agenda · MINUTES Note: All agendas
+ \, minutes\, and notices provided on this web site\nhttps://townofbenningt
+ on.com/wp-content/uploads/2026/11/BOS-11.16.26-agenda.pdf\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f75b09dfbee177504e@granite-docket
+DTSTAMP:20261123T095323Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:Bennington Select board / council
+LOCATION:Bennington\, NH
+URL:https://townofbennington.com/wp-content/uploads/2026/11/BOS-11.23.26-ag
+ enda.pdf
+DESCRIPTION:Minutes: November 23\, 2026 Agenda · MINUTES Note: All agendas
+ \, minutes\, and notices provided on this web site\nhttps://townofbenningt
+ on.com/wp-content/uploads/2026/11/BOS-11.23.26-agenda.pdf\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

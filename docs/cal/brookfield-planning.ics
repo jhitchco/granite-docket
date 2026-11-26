@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brookfield Planning board
+X-WR-CALDESC:Planning board meetings in Brookfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c1a1b8ad2960e27dbc1c@granite-docket
+DTSTAMP:20261123T100424Z
+DTSTART;TZID=America/New_York:20261012T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Brookfield Planning board
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10122026-153
+DESCRIPTION:Agenda: Planning Board Agenda 10-12-2026\nhttps://www.brookfiel
+ dnh.gov/AgendaCenter/ViewFile/Agenda/_10122026-153\n\nAgenda: Planning Boa
+ rd Agenda 10-12-2026\nhttps://www.brookfieldnh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10122026-46\n\nMinutes: Oct 12\, 2026 — Amended Oct 7\, 2
+ 026 4:58 PM Planning Board Agenda 10-12-2026\nhttps://www.brookfieldnh.gov
+ /AgendaCenter/ViewFile/Minutes/_10122026-153\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:308008724ed58a5bd6a7@granite-docket
+DTSTAMP:20261103T125030Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookfield Planning board
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/1388/Rules-of-Procedure
+DESCRIPTION:Other: Rules of Procedure\nhttps://www.brookfieldnh.gov/1388/Ru
+ les-of-Procedure\n\nOther: Application for Subdivision of Land/Lots\nhttps
+ ://www.brookfieldnh.gov/DocumentCenter/View/1799/Application-for-Subdivisi
+ on-of-Land-Lots\n\nOther: Application for Site Plan Review: Major/Minor\nh
+ ttps://www.brookfieldnh.gov/DocumentCenter/View/1797/Application-for-Site-
+ Plan-Review-MajorMinor\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:21325326a3c2e7e8768d@granite-docket
+DTSTAMP:20261103T124205Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Brookfield Planning board
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-158
+DESCRIPTION:Agenda: Planning Board Agenda 11-9-2026\nhttps://www.brookfield
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-158\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

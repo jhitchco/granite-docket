@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hudson Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Hudson\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:27361d08148d16994147@granite-docket
+DTSTAMP:20261103T094429Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Hudson Conservation commission
+LOCATION:Hudson\, NH
+URL:https://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026
+ -445
+DESCRIPTION:Agenda: Conservation Commission Agenda and Packet\nhttps://www.
+ hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-445\n\nAgenda:
+  Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10
+ 192026-445?packet=true\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:17e7910627d5fc897d17@granite-docket
+DTSTAMP:20261109T073927Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Hudson Conservation commission
+LOCATION:Hudson\, NH
+URL:https://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026
+ -472
+DESCRIPTION:Agenda: Conservation Commission Meeting Agenda and Packet\nhttp
+ s://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-472\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+END:VCALENDAR

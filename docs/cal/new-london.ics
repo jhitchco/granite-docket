@@ -1,0 +1,757 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New London NH meetings
+X-WR-CALDESC:Public meetings of New London\, NH boards\, from posted agenda
+ s and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:61c53c5cc5f6c7f19a06@granite-docket
+DTSTAMP:20261103T115840Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/9-29-26_SHEET_1__KELLETT.pdf
+DESCRIPTION:Other: SHEET 1 Trail Haven\nhttps://newlondon.nh.gov/vertical/s
+ ites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/9-29-26_SHEET_1__K
+ ELLETT.pdf\n\nOther: SHEET 2 Trail Haven\nhttps://newlondon.nh.gov/vertica
+ l/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/9-29-26_SHEET_2
+ __KELLETT.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a49fd4d8e64f70e3e8f@granite-docket
+DTSTAMP:20261103T114725Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BC_Meeting_Schedule_FY28_-_FINAL.pdf
+DESCRIPTION:Other: Budget Committee Meeting Schedule FY28\nhttps://newlondo
+ n.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads
+ /BC_Meeting_Schedule_FY28_-_FINAL.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c7cf283188f418eddc9f@granite-docket
+DTSTAMP:20261103T112412Z
+DTSTART;TZID=America/New_York:20261005T173000
+DURATION:PT2H
+SUMMARY:New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Rec._Commission_Agenda_10-5-26.pdf
+DESCRIPTION:Agenda: Rec._Commission_Agenda_10-5-26.pdf\nhttps://newlondon.n
+ h.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Re
+ c._Commission_Agenda_10-5-26.pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0df0331aca9b18d99aa6@granite-docket
+DTSTAMP:20261103T114712Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Zoning / ZBA
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/ZBA_Meeting_Agenda_-_10-06-2026.pdf
+DESCRIPTION:Agenda: Zoning Board of Adjustments Meeting Agenda 10-06-2026\n
+ https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB
+ 7F549%7D/uploads/ZBA_Meeting_Agenda_-_10-06-2026.pdf\n\nNotice: 10-06-2026
+  ZBA Public Hearing Notice\nhttps://newlondon.nh.gov/vertical/sites/%7B26F
+ 9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/10-06-2026_Bar_Harbor_Bank__T
+ rust_-_26-05_-_PHN.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0520e140f471519a67cd@granite-docket
+DTSTAMP:20261103T105452Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:New London Energy committee
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/2026-10-07_Energy_Committee_Agenda.pdf
+DESCRIPTION:Agenda: Energy Committee Agenda - October 7\, 2026\nhttps://new
+ london.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/up
+ loads/2026-10-07_Energy_Committee_Agenda.pdf\n\nMinutes: Energy Committee 
+ Meeting Minutes: October 7\, 2026 - DRAFT\nhttps://newlondon.nh.gov/vertic
+ al/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/2026-10-07_Ene
+ rgy_Committee_Minutes.pdf\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3fce289b0934bc064d90@granite-docket
+DTSTAMP:20261103T105625Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/How_a_Petition_to_Close_Sutton_Central_School_Would_Wo
+ rk_(1)_(1).pdf
+DESCRIPTION:Other: How a Petition to Close Sutton Central School Would Work
+ \nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EEC
+ BB7F549%7D/uploads/How_a_Petition_to_Close_Sutton_Central_School_Would_Wor
+ k_(1)_(1).pdf\n\nOther: Memo to Selectmen- Pumpkin People Contest Fee Waiv
+ er\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1E
+ ECBB7F549%7D/uploads/Memo_to_Selectmen_Pumpkin_People_Contest_Use_Forms_an
+ d_Fee_Waiver_(1).pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e8f70f61e639ccb6ba1e@granite-docket
+DTSTAMP:20261103T112929Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Board_of_Firewards_Oct._2026_Meeting_Minutes.pdf
+DESCRIPTION:Minutes: Board of Firewards Minutes: October 12\, 2026 - DRAFT\
+ nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECB
+ B7F549%7D/uploads/Board_of_Firewards_Oct._2026_Meeting_Minutes.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:07d0a5ed14c7f1c114a5@granite-docket
+DTSTAMP:20261103T111826Z
+DTSTART;TZID=America/New_York:20261013T143000
+DURATION:PT2H
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/NL_Housing_Commission_Agenda_10-13-2026_(1).pdf
+DESCRIPTION:Agenda: Housing Commission Meeting Agenda: October 13\, 2026\nh
+ ttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7
+ F549%7D/uploads/NL_Housing_Commission_Agenda_10-13-2026_(1).pdf\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:142403e3824b0399827d@granite-docket
+DTSTAMP:20261103T114659Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10-13-2026_PB_Agenda.pdf
+DESCRIPTION:Agenda: Planning Board Meeting Agenda: October 13\, 2026\nhttps
+ ://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549
+ %7D/uploads/10-13-2026_PB_Agenda.pdf\n\nNotice: 10-13-2026 PB Public Heari
+ ng Notice\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-9
+ 5D7-E1EECBB7F549%7D/uploads/10-13-2026_PB_Public_Hearing_Notice.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:21a3c743c125e10bb171@granite-docket
+DTSTAMP:20261116T092754Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/COLA__Step_Information_-_2026.pdf
+DESCRIPTION:Other: COLA and Step Information - 2026\nhttps://newlondon.nh.g
+ ov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/COLA_
+ _Step_Information_-_2026.pdf\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:247f2c2b6653aa96a437@granite-docket
+DTSTAMP:20261103T105435Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:New London Conservation commission
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/CC_agenda10-14-26.pdf
+DESCRIPTION:Agenda: CC Agenda 10-14-26\nhttps://newlondon.nh.gov/vertical/s
+ ites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/CC_agenda10-14-26.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:52388deb352cb5b5d46e@granite-docket
+DTSTAMP:20261123T090109Z
+DTSTART;TZID=America/New_York:20261014T180000
+DURATION:PT2H
+SUMMARY:New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BC_Meeting_Agenda_10.14.26_.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda: October 14\, 2026\nhttps://new
+ london.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/up
+ loads/BC_Meeting_Agenda_10.14.26_.pdf\n\nMinutes: Budget Committee Minutes
+ : October 14\, 2026 DRAFT\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9
+ F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BC_Meeting_Minutes_10.14.26_DR
+ AFT.pdf\n\nMinutes: Budget Committee Minutes: October 14\, 2026\nhttps://n
+ ewlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/
+ uploads/BC_Meeting_Minutes_10.14.26_FINAL.pdf\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ff86f431c2da59e8dc25@granite-docket
+DTSTAMP:20261103T105623Z
+DTSTART;TZID=America/New_York:20261015T173000
+DURATION:PT2H
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BOS_Agenda_10-15-2026.pdf
+DESCRIPTION:Agenda: BOS Agenda 10-15-2026\nhttps://newlondon.nh.gov/vertica
+ l/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS_Agenda_10-1
+ 5-2026.pdf\n\nMinutes: BOS Minutes: 10-15-26 - DRAFT\nhttps://newlondon.nh
+ .gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS
+ _minutes_10-15-26_DRAFT.pdf\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c2fa3ce2b0b04315cdd3@granite-docket
+DTSTAMP:20261103T105622Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Wage_Study_Benefit_Memo_-_Updated_to_2026.pdf
+DESCRIPTION:Other: Wage Study Benefit Memo - October 2026\nhttps://newlondo
+ n.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads
+ /Wage_Study_Benefit_Memo_-_Updated_to_2026.pdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed5af4b6d57917067b4@granite-docket
+DTSTAMP:20261103T112610Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Zoning / ZBA
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/ZBA_Meeting_Agenda_-_10-20-2026.pdf
+DESCRIPTION:Agenda: Zoning Board of Adjustments Meeting Agenda: 10-20-2026\
+ nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECB
+ B7F549%7D/uploads/ZBA_Meeting_Agenda_-_10-20-2026.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:110fbde5a4c77ce18b7f@granite-docket
+DTSTAMP:20261103T115842Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Support_Letter.pdf
+DESCRIPTION:Other: Support Letter\nhttps://newlondon.nh.gov/vertical/sites/
+ %7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Support_Letter.pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:710f826c5d1c2f79315a@granite-docket
+DTSTAMP:20261103T105435Z
+DTSTART;TZID=America/New_York:20261021T083000
+DURATION:PT2H
+SUMMARY:New London Conservation commission
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10-21-2026_CC_Agenda.pdf
+DESCRIPTION:Agenda: CC Agenda 10-21-26\nhttps://newlondon.nh.gov/vertical/s
+ ites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/10-21-2026_CC_Agen
+ da.pdf\n\nMinutes: Conservation Commission Meeting Minutes: October 21\, 2
+ 026 - DRAFT\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423
+ -95D7-E1EECBB7F549%7D/uploads/Conservation_Commission_Minutes_10-21-26_(1)
+ Draft.pdf\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:009dbaabf5aed783a23c@granite-docket
+DTSTAMP:20261103T105622Z
+DTSTART;TZID=America/New_York:20261022T160000
+DURATION:PT2H
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Joint_Selectmen_and_Fire_wards_NONPUBLIC_-_10.22.26.pd
+ f
+DESCRIPTION:Agenda: Joint Selectmen and Fire wards [NONPUBLIC]-10.22.26\nht
+ tps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F
+ 549%7D/uploads/Joint_Selectmen_and_Fire_wards_NONPUBLIC_-_10.22.26.pdf\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6dc40e50e2cccbf454e7@granite-docket
+DTSTAMP:20261103T105406Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:New London Bicycle & Pedestrian Advisory Committee Meeting Minutes:
+  October 22\, 2
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10.22.26_Minutes(1).pdf
+DESCRIPTION:Minutes: Bicycle & Pedestrian Advisory Committee Meeting Minute
+ s: October 22\, 2026\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-
+ D5BE-4423-95D7-E1EECBB7F549%7D/uploads/10.22.26_Minutes(1).pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:a43907e9c10a1f605c66@granite-docket
+DTSTAMP:20261103T105406Z
+DTSTART;TZID=America/New_York:20261022T170000
+DURATION:PT2H
+SUMMARY:New London Conservation commission
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10-22-2026_Agenda.pdf
+DESCRIPTION:Agenda: Bicycle & Pedestrian Advisory Committee Agenda: October
+  22\, 2026\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-
+ 95D7-E1EECBB7F549%7D/uploads/10-22-2026_Agenda.pdf\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb24ebceb48303c403c@granite-docket
+DTSTAMP:20261103T105621Z
+DTSTART;TZID=America/New_York:20261023T090000
+DURATION:PT2H
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BOS_Agenda_10-23-2026_-_Budget_Review.pdf
+DESCRIPTION:Agenda: BOS Agenda - Budget Review - 10.23.26\nhttps://newlondo
+ n.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads
+ /BOS_Agenda_10-23-2026_-_Budget_Review.pdf\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b041cc486f91c535a61@granite-docket
+DTSTAMP:20261103T105626Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+TRANSP:TRANSPARENT
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Memo_to_Selectmen_Request_for_Municipal_Parking_Lot_10
+ -25-26_for_Haunted_Happenings.pdf
+DESCRIPTION:Other: Memo to Selectmen Request for Municipal Parking Lot - 20
+ 26 Haunted Happenings\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697
+ -D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Memo_to_Selectmen_Request_for_Muni
+ cipal_Parking_Lot_10-25-26_for_Haunted_Happenings.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ca584ce070e6b889d2@granite-docket
+DTSTAMP:20261116T092734Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/New_London_Compensation_History_Grade__Step_20162023.p
+ df
+DESCRIPTION:Other: New London Compensation History Grade and Step 2016- 202
+ 3\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/New_London_Compensation_History_Grade__Step_20162023.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a96f316074c8ca1bd4@granite-docket
+DTSTAMP:20261103T114700Z
+DTSTART;TZID=America/New_York:20261027T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/10-27-2026_PB_Agenda.pdf
+DESCRIPTION:Agenda: Planning Board Meeting Agenda: October 27\, 2026\nhttps
+ ://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549
+ %7D/uploads/10-27-2026_PB_Agenda.pdf\n\nNotice: 10-27-2026 PB Public Heari
+ ng Notice\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-9
+ 5D7-E1EECBB7F549%7D/uploads/10-27-2026_PB_Public_Hearing_Notice.pdf\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec9aca8e09bf9da4db9@granite-docket
+DTSTAMP:20261103T115819Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Letter_of_Support_-_Kellett-10-28-2026.pdf
+DESCRIPTION:Other: Letter of Support - Kellett\nhttps://newlondon.nh.gov/ve
+ rtical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Letter_of_
+ Support_-_Kellett-10-28-2026.pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4f597cc4c4f216e436@granite-docket
+DTSTAMP:20261109T092134Z
+DTSTART;TZID=America/New_York:20261029T173000
+DURATION:PT2H
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BOS_Agenda_10-29-2026.pdf
+DESCRIPTION:Agenda: BOS Agenda-10-29-2026\nhttps://newlondon.nh.gov/vertica
+ l/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS_Agenda_10-2
+ 9-2026.pdf\n\nMinutes: BOS Minutes 10-29-26 - DRAFT\nhttps://newlondon.nh.
+ gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS_
+ minutes_10-29-26_DRAFT.pdf\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc82878814bee15acd5@granite-docket
+DTSTAMP:20261116T104425Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Sogaard_Site_Plan_10-30-26.pdf
+DESCRIPTION:Other: Sogaard_Site_Plan_10-30-26.pdf\nhttps://newlondon.nh.gov
+ /vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Sogaard
+ _Site_Plan_10-30-26.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0d89753c88fa133b3a3@granite-docket
+DTSTAMP:20261116T101414Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Board_of_Firewards_-_Nov_2026.pdf
+DESCRIPTION:Minutes: Board of Firewards Meeting Minutes: November 2\, 2026 
+ - DRAFT\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D
+ 7-E1EECBB7F549%7D/uploads/Board_of_Firewards_-_Nov_2026.pdf\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ec9d1bf5fb928d2c8a@granite-docket
+DTSTAMP:20261103T112412Z
+DTSTART;TZID=America/New_York:20261102T173000
+DURATION:PT2H
+SUMMARY:New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Rec._Commission_Agenda_11-2-26.pdf
+DESCRIPTION:Agenda: Rec._Commission_Agenda_11-2-26.pdf\nhttps://newlondon.n
+ h.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Re
+ c._Commission_Agenda_11-2-26.pdf\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f78a849b882fb5a47114@granite-docket
+DTSTAMP:20261123T100233Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/95550-12_Site_Plans_R01.pdf
+DESCRIPTION:Other: Bar Harbor Site Plans\nhttps://newlondon.nh.gov/vertical
+ /sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/95550-12_Site_Pl
+ ans_R01.pdf\n\nOther: Bar Harbor Waiver Request\nhttps://newlondon.nh.gov/
+ vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Bar_Harb
+ or-Waiver_Request.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f5bd1e0a4965b89ecd7c@granite-docket
+DTSTAMP:20261103T105624Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/HB_1300__What_Changes_in_Our_Budget_Process_(4).pdf
+DESCRIPTION:Other: HB 1300 What Changes in Our Budget Process\nhttps://newl
+ ondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/upl
+ oads/HB_1300__What_Changes_in_Our_Budget_Process_(4).pdf\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1f156583c8ac937d2515@granite-docket
+DTSTAMP:20261103T105451Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:New London Energy committee
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/11.4.26_Energy_Committee_Agenda(1).pdf
+DESCRIPTION:Agenda: Energy Committee Agenda: November 4\, 2026\nhttps://new
+ london.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/up
+ loads/11.4.26_Energy_Committee_Agenda(1).pdf\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e1dd0af9cd7cb21c17@granite-docket
+DTSTAMP:20261116T092744Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:New London Zoning / ZBA
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Draft_Cost-of-Living_Adjustment_(COLA)_Policy_-_v.2_-_
+ 11.5.26.pdf
+DESCRIPTION:Other: Cost-of-Living Adjustment (COLA) Policy - DRAFT\nhttps:/
+ /newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7
+ D/uploads/Draft_Cost-of-Living_Adjustment_(COLA)_Policy_-_v.2_-_11.5.26.pd
+ f\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc66c5c8fe13582c444@granite-docket
+DTSTAMP:20261116T104154Z
+DTSTART;TZID=America/New_York:20261109T173000
+DURATION:PT2H
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BOS_Agenda_11-9-2026.pdf
+DESCRIPTION:Agenda: BOS Agenda 11-9-2026\nhttps://newlondon.nh.gov/vertical
+ /sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS_Agenda_11-9-
+ 2026.pdf\n\nMinutes: BOS Minutes 11-9-26- DRAFT\nhttps://newlondon.nh.gov/
+ vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS_minu
+ tes_11-9-26_DRAFT.pdf\n\nOther: Consolidated SB Proposed Budget -Page 1 DR
+ AFT\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1
+ EECBB7F549%7D/uploads/DRAFT_V2_BC_Meeting_Nov_12_-_Pg_1_Consolidated_SB_Pr
+ oposed_Budget.pdf\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:122aa6aa2b4d1ca44a82@granite-docket
+DTSTAMP:20261103T111924Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/11-10-2026_PB_Agenda.pdf
+DESCRIPTION:Agenda: Planning Board Meeting Agenda: November 10\, 2026\nhttp
+ s://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F54
+ 9%7D/uploads/11-10-2026_PB_Agenda.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:296eb93a0a33f4df1955@granite-docket
+DTSTAMP:20261109T092227Z
+DTSTART;TZID=America/New_York:20261110T143000
+DURATION:PT2H
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/NL_Housing_Commission_Agenda_11-10-2026_(1).pdf
+DESCRIPTION:Agenda: Housing Commission Meeting Agenda: November 10\, 2026\n
+ https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB
+ 7F549%7D/uploads/NL_Housing_Commission_Agenda_11-10-2026_(1).pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:d1b5bb645f59c5d07de5@granite-docket
+DTSTAMP:20261123T090059Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BC_Meeting_Agenda_11.12.26.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda: November 12\, 2026\nhttps://ne
+ wlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/u
+ ploads/BC_Meeting_Agenda_11.12.26.pdf\n\nMinutes: Budget Committee Minutes
+ : November 12\, 2026 - DRAFT\nhttps://newlondon.nh.gov/vertical/sites/%7B2
+ 6F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/Budget_Committee_Meeting_Mi
+ nutes_11.12.26_final_DRAFT.pdf\n\nFrom the town's posted records via Grani
+ te Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3798646a6f71df5e0885@granite-docket
+DTSTAMP:20261123T093239Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/Firewards_Nov_16_2026.pdf
+DESCRIPTION:Minutes: Board of Firewards Meeting Minutes: November 16\, 2026
+  - DRAFT\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95
+ D7-E1EECBB7F549%7D/uploads/Firewards_Nov_16_2026.pdf\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3df20e899a82d4b34039@granite-docket
+DTSTAMP:20261103T111848Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:New London Zoning / ZBA
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/11-18-2025_-_Draft_HC_Minutes.pdf
+DESCRIPTION:Minutes: Housing Commission Draft Minutes 11-18-2026\nhttps://n
+ ewlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/
+ uploads/11-18-2025_-_Draft_HC_Minutes.pdf\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7181fc23a0a6f67da5df@granite-docket
+DTSTAMP:20261123T084338Z
+DTSTART;TZID=America/New_York:20261118T083000
+DURATION:PT2H
+SUMMARY:New London Conservation commission
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/11-18-2026_Meeting_Agenda.pdf
+DESCRIPTION:Agenda: Conservation Commission Meeting Agenda: November 18\, 2
+ 026\nhttps://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1
+ EECBB7F549%7D/uploads/11-18-2026_Meeting_Agenda.pdf\n\nMinutes: Conservati
+ on Commission Meeting Minutes: November 18\, 2026 - DRAFT\nhttps://newlond
+ on.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/upload
+ s/Conservation_Commission_Minutes_11-18-26_(1)Draft-.pdf\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc925ced9c44b59878a9@granite-docket
+DTSTAMP:20261103T110715Z
+DTSTART;TZID=America/New_York:20261118T180000
+DURATION:PT2H
+SUMMARY:New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BC_Meeting_Agenda_11.18.26.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda: November 18\, 2026\nhttps://ne
+ wlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/u
+ ploads/BC_Meeting_Agenda_11.18.26.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:26dbc2f07443b447bad3@granite-docket
+DTSTAMP:20261123T084559Z
+DTSTART;TZID=America/New_York:20261119T173000
+DURATION:PT2H
+SUMMARY:New London Select board / council
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BOS_Agenda_11-19-2026.pdf
+DESCRIPTION:Agenda: BOS Agenda 11-19-2026\nhttps://newlondon.nh.gov/vertica
+ l/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS_Agenda_11-1
+ 9-2026.pdf\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:410c4d65a3373816b9b6@granite-docket
+DTSTAMP:20261103T110714Z
+DTSTART;TZID=America/New_York:20261202T180000
+DURATION:PT2H
+SUMMARY:New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BC_Meeting_Agenda_12.2.26.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda: December 2\, 2026\nhttps://new
+ london.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/up
+ loads/BC_Meeting_Agenda_12.2.26.pdf\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa21f277c9dd39ff3ef9@granite-docket
+DTSTAMP:20261123T095940Z
+DTSTART;TZID=America/New_York:20261208T183000
+DURATION:PT2H
+SUMMARY:Public hearing: New London Planning board
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/12-08-2026_PB_Public_Hearing_Notice.pdf
+DESCRIPTION:Notice: 12-08-2026 PB Public Hearing Notice\nhttps://newlondon.
+ nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/1
+ 2-08-2026_PB_Public_Hearing_Notice.pdf\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6a1fbd6d99de4cd1d2e2@granite-docket
+DTSTAMP:20261103T110714Z
+DTSTART;TZID=America/New_York:20261209T180000
+DURATION:PT2H
+SUMMARY:New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BC_Meeting_Agenda_12.9.26.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda: December 9\, 2026\nhttps://new
+ london.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/up
+ loads/BC_Meeting_Agenda_12.9.26.pdf\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a48d5f79e463ee7195f@granite-docket
+DTSTAMP:20261103T110714Z
+DTSTART;TZID=America/New_York:20261216T180000
+DURATION:PT2H
+SUMMARY:New London Budget / CIP
+LOCATION:New London\, NH
+URL:https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EE
+ CBB7F549%7D/uploads/BC_Meeting_Agenda_12.16.26.pdf
+DESCRIPTION:Agenda: Budget Committee Agenda: December 16\, 2026\nhttps://ne
+ wlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/u
+ ploads/BC_Meeting_Agenda_12.16.26.pdf\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

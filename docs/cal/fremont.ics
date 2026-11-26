@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fremont NH meetings
+X-WR-CALDESC:Public meetings of Fremont\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c59c646300357da79a8d@granite-docket
+DTSTAMP:20261103T104738Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Select board / council
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_09292026-275
+DESCRIPTION:Minutes: Select Board Agenda Sep 29\, 2026 Select Board Minutes
+ \nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_09292026-275\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:233ddf57a16992ef8226@granite-docket
+DTSTAMP:20261103T104422Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Budget / CIP
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_09302026-276
+DESCRIPTION:Minutes: Budget Committee Agenda Sep 30\, 2026 Budget Committee
+  Minutes\nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_0930202
+ 6-276\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b6a8035010db9fde2f49@granite-docket
+DTSTAMP:20261103T105311Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Fremont Zoning / ZBA
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/DocumentCenter/View/4257
+DESCRIPTION:Notice: Application and Waiver Request · ​​​​​​​
+ ​​​​​​​​​​​​​​​​​​​​​​​​
+ ​​​​​​​​​​​​​​​​​​​​​​​​
+ ​​​​​​​​​​​​\nhttps://www.fremont.nh.gov/DocumentC
+ enter/View/4257\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1f57015b1e963de2a133@granite-docket
+DTSTAMP:20261103T104737Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Fremont Select board / council
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10012026-277
+DESCRIPTION:Minutes: Select Board Agenda Oct 1\, 2026 Select Board minutes\
+ nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10012026-277\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f9bf46dae7a4055df98d@granite-docket
+DTSTAMP:20261103T104455Z
+DTSTART;TZID=America/New_York:20261005T183000
+DURATION:PT2H
+SUMMARY:Fremont Conservation commission
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-271
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 5\, 2026 Conservatio
+ n Commission Monthly Meeting Agenda\nhttps://www.fremont.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_10052026-271\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d0e25103f8fa7befc6@granite-docket
+DTSTAMP:20261103T105310Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Fremont Planning board
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-270
+DESCRIPTION:Agenda: Planning Board Agenda Oct 7\, 2026 Planning Board Meeti
+ ng\nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-270\
+ n\nNotice: Subdivision Plan Set · ​​​​​​​​​​​​​
+ ​​​​​​​​​​​​​​​​​​​​​​​​
+ ​​​​​​​​​​​​​​​​​​​​​​​​
+ ​​​​​​​​​​​​​​​​\nhttps://www.fremont.nh.g
+ ov/DocumentCenter/View/4258\n\nMinutes: Planning Board Minutes Oct 7\, 202
+ 6 Planning Board Meeting\nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile
+ /Minutes/_10072026-270\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a3125a9ef5d17445a734@granite-docket
+DTSTAMP:20261103T104736Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Select board / council
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10082026-278
+DESCRIPTION:Minutes: Select Board Agenda Oct 8\, 2026 Select Board Minutes\
+ nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10082026-278\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd09f9641d32e56451fb@granite-docket
+DTSTAMP:20261103T104421Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Budget / CIP
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-283
+DESCRIPTION:Minutes: Budget Committee Agenda Oct 14\, 2026 Budget Committee
+  Minutes\nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_1014202
+ 6-283\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad721b6cfac514e4d1c5@granite-docket
+DTSTAMP:20261103T104734Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Select board / council
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-282
+DESCRIPTION:Minutes: Select Board Agenda Oct 15\, 2026 Select Board Minutes
+ \nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-282\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:67f886d20858bfdc4b57@granite-docket
+DTSTAMP:20261103T104611Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Fremont Planning board
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10212026-279
+DESCRIPTION:Agenda: Planning Board Agenda Oct 21\, 2026 Planning Board Meet
+ ing\nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10212026-279
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:89017d24b76b75748875@granite-docket
+DTSTAMP:20261109T085436Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Select board / council
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10222026-284
+DESCRIPTION:Minutes: Select Board Agenda Oct 22\, 2026 Select Board Minutes
+ \nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10222026-284\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c6446f2587b95fad07d0@granite-docket
+DTSTAMP:20261116T085744Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Select board / council
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-285
+DESCRIPTION:Minutes: Select Board Agenda Oct 29\, 2026 Select Board Minutes
+ \nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-285\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:47b85f5058dc44b61317@granite-docket
+DTSTAMP:20261116T085724Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Select board / council
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_11032026-286
+DESCRIPTION:Minutes: Select Board Agenda Nov 3\, 2026 Select Board Minutes\
+ nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_11032026-286\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:be1d81f55436224c5ce8@granite-docket
+DTSTAMP:20261103T104610Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Fremont Planning board
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_11042026-280
+DESCRIPTION:Agenda: Planning Board Agenda Nov 4\, 2026 Planning Board Meeti
+ ng\nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_11042026-280\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+END:VCALENDAR

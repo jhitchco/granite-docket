@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Candia Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Candia\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5b6f3c92857e713db31b@granite-docket
+DTSTAMP:20261116T095012Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Candia Conservation commission
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10202026-620
+DESCRIPTION:Agenda: Conservation Commission Agenda\nhttps://www.candianh.or
+ g/AgendaCenter/ViewFile/Agenda/_10202026-620\n\nMinutes: Oct 20\, 2026 Con
+ servation Commission Agenda\nhttps://www.candianh.org/AgendaCenter/ViewFil
+ e/Minutes/_10202026-620\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbd3d0dafa01c69e7e65@granite-docket
+DTSTAMP:20261116T095001Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Candia Conservation commission
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11172026-632
+DESCRIPTION:Agenda: Conservation Commission Agenda\nhttps://www.candianh.or
+ g/AgendaCenter/ViewFile/Agenda/_11172026-632\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

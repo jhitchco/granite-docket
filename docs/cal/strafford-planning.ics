@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Strafford Planning board
+X-WR-CALDESC:Planning board meetings in Strafford\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c05333158ef37826093e@granite-docket
+DTSTAMP:20261103T105848Z
+DTSTART;TZID=America/New_York:20261001T183000
+DURATION:PT2H
+SUMMARY:Strafford Planning board
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/09/PB20261001Agenda.pd
+ f
+DESCRIPTION:Agenda: October 1\, 2026 Agenda · January 6\, 2026 Public Hear
+ ing Agenda January 6\, 2026 Proposed Amendments D\nhttps://strafford.nh.go
+ v/wp-content/uploads/2026/09/PB20261001Agenda.pdf\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f9e56724c8e96595c8c9@granite-docket
+DTSTAMP:20261103T105849Z
+DTSTART;TZID=America/New_York:20261022T183000
+DURATION:PT2H
+SUMMARY:Strafford Planning board
+LOCATION:Strafford\, NH
+URL:https://strafford.nh.gov/wp-content/uploads/2026/10/PB20261022WSAgendav
+ 2.pdf
+DESCRIPTION:Agenda: October 22\, 2026 Workshop Agenda · January 6\, 2026 P
+ ublic Hearing Agenda January 6\, 2026 Proposed Am\nhttps://strafford.nh.go
+ v/wp-content/uploads/2026/10/PB20261022WSAgendav2.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Londonderry Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Londonderry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1858209ff5fa71830c44@granite-docket
+DTSTAMP:20261103T092855Z
+DTSTART;TZID=America/New_York:20261013T193000
+DURATION:PT2H
+SUMMARY:Londonderry Conservation commission
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10132026-13
+ 07
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 13\, 2026 Conservati
+ on Commission Regular Meeting Agenda (PDF)\nhttps://www.londonderrynh.gov/
+ AgendaCenter/ViewFile/Agenda/_10132026-1307\n\nMinutes: Conservation Commi
+ ssion Minutes Oct 13\, 2026 Conservation Commission Regular Meeting Agenda
+  (PDF)\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_10132
+ 026-1307\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bee6cb58b5596497e147@granite-docket
+DTSTAMP:20261103T092854Z
+DTSTART;TZID=America/New_York:20261027T193000
+DURATION:PT2H
+SUMMARY:Londonderry Conservation commission
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_10272026-13
+ 23
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 27\, 2026 Conservati
+ on Commission Regular Meeting Agenda (PDF)\nhttps://www.londonderrynh.gov/
+ AgendaCenter/ViewFile/Agenda/_10272026-1323\n\nMinutes: Conservation Commi
+ ssion Minutes Oct 27\, 2026 Conservation Commission Regular Meeting Agenda
+  (PDF)\nhttps://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_10272
+ 026-1323\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5435c04b0c6283b2b3be@granite-docket
+DTSTAMP:20261116T071005Z
+DTSTART;TZID=America/New_York:20261110T193000
+DURATION:PT2H
+SUMMARY:Londonderry Conservation commission
+LOCATION:Londonderry\, NH
+URL:https://www.londonderrynh.gov/AgendaCenter/ViewFile/Agenda/_11102026-13
+ 32
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 10\, 2026 Conservati
+ on Commission Regular Meeting Agenda (PDF) - c\nhttps://www.londonderrynh.
+ gov/AgendaCenter/ViewFile/Agenda/_11102026-1332\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

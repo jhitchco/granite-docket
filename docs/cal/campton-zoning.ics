@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Campton Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Campton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dd373f9ad6f8ba181061@granite-docket
+DTSTAMP:20261116T100621Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Campton Zoning / ZBA
+LOCATION:Campton\, NH
+URL:https://www.camptonnh.gov/Documents/Department/Planning and Zoning/PB M
+ eeting Agenda 10.20.26.pdf?t=202610221106520
+DESCRIPTION:Minutes: 10/06/26 Agenda Minutes\nhttps://www.camptonnh.gov/Doc
+ uments/Department/Planning and Zoning/PB Meeting Agenda 10.20.26.pdf?t=202
+ 610221106520\n\nMinutes: 10/06/26 Agenda Minutes\nhttps://www.camptonnh.go
+ v/Documents/Department/Planning and Zoning/PB Minutes FINAL APPROVED 10.6.
+ 2026.pdf?t=202611131109010\n\nMinutes: 10/06/26 Agenda Minutes\nhttps://ww
+ w.camptonnh.gov/Documents/Department/Planning and Zoning/Agendas & Minutes
+ /PB Meeting Agenda 10.06.2026.pdf?t=202610051125310\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:312450181d9216afa9ee@granite-docket
+DTSTAMP:20261109T095904Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Campton Zoning / ZBA
+LOCATION:Campton\, NH
+URL:https://www.camptonnh.gov/AGENDA ZBA 11.12.2026.pdf?t=202611041347100
+DESCRIPTION:Agenda: 11/12/26 Agenda\nhttps://www.camptonnh.gov/AGENDA ZBA 1
+ 1.12.2026.pdf?t=202611041347100\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

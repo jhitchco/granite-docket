@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Concord Select board / council
+X-WR-CALDESC:Select board / council meetings in Concord\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2f180cf9d0cce0598749@granite-docket
+DTSTAMP:20261109T084103Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?AMID=237&Type=Recent
+DESCRIPTION:Minutes: Most Recent Minutes\nhttps://concordnh.gov/Archive.asp
+ x?AMID=237&Type=Recent\n\nMinutes: Most Recent Minutes\nhttps://www.concor
+ dnh.gov/Archive.aspx?AMID=82&Type=Recent\n\nMinutes: Most Recent Minutes\n
+ https://www.concordnh.gov/Archive.aspx?AMID=187&Type=Recent\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8b3537a1b8de9e0e1da@granite-docket
+DTSTAMP:20261103T094645Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?AMID=58&Type=Recent
+DESCRIPTION:Minutes: Most Recent Minutes\nhttps://concordnh.gov/Archive.asp
+ x?AMID=58&Type=Recent\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5d954bcc58cb3fdc1d@granite-docket
+DTSTAMP:20261103T094832Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?AMID=51&Type=Recent
+DESCRIPTION:Minutes: Most Recent Minutes\nhttps://concordnh.gov/Archive.asp
+ x?AMID=51&Type=Recent\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c2b1242c549d0ec2a5@granite-docket
+DTSTAMP:20261103T094454Z
+DTSTART;TZID=America/New_York:20261014T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?AMID=52&Type=Recent
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://concordnh.gov/Archive.aspx?
+ AMID=52&Type=Recent\n\nAgenda: Most Recent Agenda\nhttps://concordnh.gov/A
+ rchive.aspx?AMID=156&Type=Recent\n\nMinutes: Most Recent Minutes\nhttps://
+ concordnh.gov/Archive.aspx?AMID=56&Type=Recent\n\nMinutes: Most Recent Min
+ utes\nhttps://concordnh.gov/Archive.aspx?AMID=157&Type=Recent\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7157f6b4976c9d3575cd@granite-docket
+DTSTAMP:20261103T093545Z
+DTSTART;TZID=America/New_York:20261015T150000
+DURATION:PT2H
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://www.concordnh.gov/Archive.aspx?AMID=115&Type=Recent
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://www.concordnh.gov/Archive.a
+ spx?AMID=115&Type=Recent\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd5f067a28c3bf69159@granite-docket
+DTSTAMP:20261109T083952Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/DocumentCenter/View/26847/Employee-Survey-City-Ma
+ nager-Search-10-2026
+DESCRIPTION:Minutes: Employee Survey-City Manager Search Request for Propos
+ al (RFP) - Executive Recruitment Services - Ci\nhttps://concordnh.gov/Docu
+ mentCenter/View/26847/Employee-Survey-City-Manager-Search-10-2026\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:85db5186d996702b5cfb@granite-docket
+DTSTAMP:20261103T094542Z
+DTSTART;TZID=America/New_York:20261020T173000
+DURATION:PT2H
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?AMID=214&Type=Recent
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://concordnh.gov/Archive.aspx?
+ AMID=214&Type=Recent\n\nAgenda: Most Recent Agenda\nhttps://www.concordnh.
+ gov/Archive.aspx?AMID=81&Type=Recent\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:94b5c7d56a34b17a0463@granite-docket
+DTSTAMP:20261103T094904Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?AMID=75&Type=Recent
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://concordnh.gov/Archive.aspx?
+ AMID=75&Type=Recent\n\nAgenda: Most Recent Agenda\nhttps://concordnh.gov/A
+ rchive.aspx?AMID=189&Type=Recent\n\nMinutes: Most Recent Minutes\nhttps://
+ concordnh.gov/Archive.aspx?AMID=98&Type=Recent\n\nMinutes: Most Recent Min
+ utes\nhttps://concordnh.gov/Archive.aspx?AMID=76&Type=Recent\n\nMinutes: M
+ ost Recent Minutes\nhttps://concordnh.gov/Archive.aspx?AMID=190&Type=Recen
+ t\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc8c024581efcd99cd6@granite-docket
+DTSTAMP:20261103T093355Z
+DTSTART;TZID=America/New_York:20261026T170000
+DURATION:PT2H
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://www.concordnh.gov/Archive.aspx?AMID=186&Type=Recent
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://www.concordnh.gov/Archive.a
+ spx?AMID=186&Type=Recent\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d4d00c3d0a733cc7a7d@granite-docket
+DTSTAMP:20261109T084032Z
+DTSTART;TZID=America/New_York:20261029T180000
+DURATION:PT2H
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?AMID=236&Type=Recent
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://concordnh.gov/Archive.aspx?
+ AMID=236&Type=Recent\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5038d10e9e98cfcd20fd@granite-docket
+DTSTAMP:20261103T094417Z
+DTSTART;TZID=America/New_York:20261112T093000
+DURATION:PT2H
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?AMID=80&Type=Recent
+DESCRIPTION:Agenda: Most Recent Agenda\nhttps://concordnh.gov/Archive.aspx?
+ AMID=80&Type=Recent\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae45ef1635247f76e121@granite-docket
+DTSTAMP:20261123T071518Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+TRANSP:TRANSPARENT
+SUMMARY:Concord Select board / council
+LOCATION:Concord\, NH
+URL:https://concordnh.gov/Archive.aspx?ADID=9748
+DESCRIPTION:Minutes: 2026 Tax Rate The New Hampshire Department of Revenue 
+ Administration has confirmed the final 2026 ta\nhttps://concordnh.gov/Arch
+ ive.aspx?ADID=9748\n\nFrom the town's posted records via Granite Docket. C
+ heck the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hampton Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Hampton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:64cd1fb8c1f28f127cb5@granite-docket
+DTSTAMP:20261103T141135Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Hampton Zoning / ZBA
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/DocumentCenter/View/13084/33-26-2-Chase-St-GRANTE
+ D
+DESCRIPTION:Other: 33-26 2 Chase St GRANTED\nhttps://hamptonnh.gov/Document
+ Center/View/13084/33-26-2-Chase-St-GRANTED\n\nOther: 112 Ashworth Suppleme
+ ntal document 25188 Plans (2026-09-28)\nhttps://hamptonnh.gov/DocumentCent
+ er/View/13081/112-Ashworth-Supplemental-document-25188-Plans-2026-09-28\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8faad21b96cb0e22beff@granite-docket
+DTSTAMP:20261103T135445Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Hampton Zoning / ZBA
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/DocumentCenter/View/13080/Planners-Memo---138-and
+ -142-Little-River-Road-LLA
+DESCRIPTION:Other: Town Planner's Memorandum · 26-027 138 & 142 Little Riv
+ er Road Map: 147 Lots: 29-1 and 32 Applicant:\nhttps://hamptonnh.gov/Docum
+ entCenter/View/13080/Planners-Memo---138-and-142-Little-River-Road-LLA\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:60892af32070864a6cfb@granite-docket
+DTSTAMP:20261103T135406Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Zoning / ZBA
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-2080
+DESCRIPTION:Agenda: ZBA\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Agenda
+ /_10152026-2080\n\nMinutes: Oct 15\, 2026 ZBA\nhttps://hamptonnh.gov/Agend
+ aCenter/ViewFile/Minutes/_10152026-2080\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:da0980a74d5ef7633831@granite-docket
+DTSTAMP:20261103T135433Z
+DTSTART;TZID=America/New_York:20261016T160300
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Zoning / ZBA
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/DocumentCenter/View/13243/32-26-63-Mooring-Dr-dec
+ ision-1
+DESCRIPTION:Notice: 26-029 63 Mooring Drive ZBA Notice of Decision Updated 
+ Plans 10.16.26 Map: 289 Lot: 41 Applicant: Jo\nhttps://hamptonnh.gov/Docum
+ entCenter/View/13243/32-26-63-Mooring-Dr-decision-1\n\nNotice: 26-029 63 M
+ ooring Drive ZBA Notice of Decision Updated Plans 10.16.26 Map: 289 Lot: 4
+ 1 Applicant: Jo\nhttps://hamptonnh.gov/DocumentCenter/View/13329/63-Moorni
+ ng-Drive-Updated-Plans-101626\n\nNotice: 26-029 63 Mooring Drive ZBA Notic
+ e of Decision Updated Plans 10.16.26 Map: 289 Lot: 41 Applicant: Jo\nhttps
+ ://hamptonnh.gov/DocumentCenter/View/13198/63-Mooring-Dr-Wetlands-Permit-a
+ pplication\n\nNotice: Conservation Commission Letter · 26-029 63 Mooring 
+ Drive ZBA Notice of Decision Updated Plans 10.16.\nhttps://hamptonnh.gov/D
+ ocumentCenter/View/13333/63-Mooring-Drive-2026-TWP-PB-Recommendation-\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f7fa506bc4b2c461061b@granite-docket
+DTSTAMP:20261103T135844Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Zoning / ZBA
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/DocumentCenter/View/13266/LEGAL_NOTICE-WEBSITE_11
+ 0426-zoning-public-hearing
+DESCRIPTION:Notice: November 4\, 2026 Public Hearing Notice\nhttps://hampto
+ nnh.gov/DocumentCenter/View/13266/LEGAL_NOTICE-WEBSITE_110426-zoning-publi
+ c-hearing\n\nNotice: Town Planner's Presentation\nhttps://hamptonnh.gov/Do
+ cumentCenter/View/13337/Zoning-Ordinance-Amendment-Presentation-11-04-2026
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0c350241179f56bbd103@granite-docket
+DTSTAMP:20261116T074001Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Zoning / ZBA
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/DocumentCenter/View/13381/LEGAL_NOTICE-WEBSITE_11
+ 1826-zoning-public-hearing
+DESCRIPTION:Notice: November 18\, 2026 Public Hearing Notice\nhttps://hampt
+ onnh.gov/DocumentCenter/View/13381/LEGAL_NOTICE-WEBSITE_111826-zoning-publ
+ ic-hearing\n\nNotice: Town Planner's Presentation\nhttps://hamptonnh.gov/D
+ ocumentCenter/View/13408/Town-Planners-Presentation-11-18-2026-Public-Hear
+ ing\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0888ad58353e9cf1c144@granite-docket
+DTSTAMP:20261103T135405Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Zoning / ZBA
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-2097
+DESCRIPTION:Agenda: ZBA\nhttps://hamptonnh.gov/AgendaCenter/ViewFile/Agenda
+ /_11192026-2097\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ccd95dcb151137cfe4@granite-docket
+DTSTAMP:20261123T074408Z
+DTSTART;TZID=America/New_York:20261202T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Zoning / ZBA
+LOCATION:Hampton\, NH
+URL:https://hamptonnh.gov/DocumentCenter/View/13439/LEGAL_NOTICE-WEBSITE_12
+ 0226-zoning-public-hearing
+DESCRIPTION:Notice: December 2\, 2026 Public Hearing Notice\nhttps://hampto
+ nnh.gov/DocumentCenter/View/13439/LEGAL_NOTICE-WEBSITE_120226-zoning-publi
+ c-hearing\n\nOther: 1. RSA Compliance Amendments Multi-Family Residential 
+ Development on Commercially Zoned Land\nhttps://hamptonnh.gov/DocumentCent
+ er/View/13440/1a-Multi-Family-in-Commercial-Districts_Revised-for-120226\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

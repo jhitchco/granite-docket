@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Chichester Historic district
+X-WR-CALDESC:Historic district meetings in Chichester\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:34db8f1cb532682c5e5b@granite-docket
+DTSTAMP:20261103T112703Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Historic district
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/Minutes/_10052026-26
+ 7
+DESCRIPTION:Minutes: Chichester Cemetery Trustees Minutes Oct 5\, 2026 Chic
+ hester Cemetery Trustees\nhttps://www.chichesternh.org/AgendaCenter/ViewFi
+ le/Minutes/_10052026-267\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1be2236200f8a323c5de@granite-docket
+DTSTAMP:20261103T113231Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Chichester Historic district
+LOCATION:Chichester\, NH
+URL:https://www.chichesternh.org/AgendaCenter/ViewFile/ArchivedMinutes/_100
+ 62026-178
+DESCRIPTION:Minutes: Oct 6\, 2026 Chichester Cemetery Trustees\nhttps://www
+ .chichesternh.org/AgendaCenter/ViewFile/ArchivedMinutes/_10062026-178\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+END:VCALENDAR

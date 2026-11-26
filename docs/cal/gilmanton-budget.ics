@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gilmanton Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Gilmanton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0472cbcb22ae6c95f54a@granite-docket
+DTSTAMP:20261103T111754Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_10152026-400
+DESCRIPTION:Agenda: Sawyer Lake Village District Agenda Oct 15\, 2026 Sawye
+ r Lake Village District Meeting Agenda\nhttps://www.gilmantonnh.gov/Agenda
+ Center/ViewFile/Agenda/_10152026-400\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8101c051517bc6768c6b@granite-docket
+DTSTAMP:20261103T111359Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-418
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Oct 20\, 2026 Cemetery Trustee
+ s October Meeting\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10202026-418\n\nFrom the town's posted records via Granite Docket. Chec
+ k the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e08118b8d19cbca374d6@granite-docket
+DTSTAMP:20261103T111730Z
+DTSTART;TZID=America/New_York:20261027T110000
+DURATION:PT2H
+SUMMARY:Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-415
+DESCRIPTION:Agenda: Records Retention Committee Agenda Oct 27\, 2026 Fourth
+  Quarter Meeting\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda
+ /_10272026-415\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:531a3477e1eb8c5bbe4d@granite-docket
+DTSTAMP:20261109T094945Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+TRANSP:TRANSPARENT
+SUMMARY:Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/DocumentCenter/View/3826/QR-Codes---Full-Bu
+ dget-Packets-11-02-2026
+DESCRIPTION:Agenda: 2027 Budget Packets The full 2027 Budget Packets are av
+ ailable for public review. Please use the QR \nhttps://www.gilmantonnh.gov
+ /DocumentCenter/View/3826/QR-Codes---Full-Budget-Packets-11-02-2026\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d06aa19e5b1ca8051b8@granite-docket
+DTSTAMP:20261103T111327Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-426
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 4\, 2026 Budget Committee M
+ eeting Agenda - Town Presentation- Departments\nhttps://www.gilmantonnh.go
+ v/AgendaCenter/ViewFile/Agenda/_11042026-426\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:85ab6f596eaf0c87746a@granite-docket
+DTSTAMP:20261116T095625Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-430
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Nov 17\, 2026 Cemetery Trustee
+ s November Meeting\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agen
+ da/_11172026-430\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:49960ad99ae95b6bde8e@granite-docket
+DTSTAMP:20261103T111327Z
+DTSTART;TZID=America/New_York:20261118T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-406
+DESCRIPTION:Agenda: Budget Committee Agenda Nov 18\, 2026 Budget Committee 
+ Meeting Agenda - Outside Agency & Overall Budg\nhttps://www.gilmantonnh.go
+ v/AgendaCenter/ViewFile/Agenda/_11182026-406\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a3523685dc675421db91@granite-docket
+DTSTAMP:20261103T111754Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-421
+DESCRIPTION:Agenda: Sawyer Lake Village District Agenda Nov 19\, 2026 Sawye
+ r Lake Village District Meeting Agenda\nhttps://www.gilmantonnh.gov/Agenda
+ Center/ViewFile/Agenda/_11192026-421\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f69369c02036b6e480@granite-docket
+DTSTAMP:20261103T111326Z
+DTSTART;TZID=America/New_York:20261202T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_12022026-407
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 2\, 2026 Budget Committee M
+ eeting Agenda - School Presentation - Complete\nhttps://www.gilmantonnh.go
+ v/AgendaCenter/ViewFile/Agenda/_12022026-407\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3ca9af94ddc12f9ce438@granite-docket
+DTSTAMP:20261103T111326Z
+DTSTART;TZID=America/New_York:20261209T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_12092026-408
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 9\, 2026 Budget Committee M
+ eeting Agenda - School - Overall Budget Discus\nhttps://www.gilmantonnh.go
+ v/AgendaCenter/ViewFile/Agenda/_12092026-408\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:19b00724e224113e7a8f@granite-docket
+DTSTAMP:20261103T111326Z
+DTSTART;TZID=America/New_York:20261219T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Gilmanton Budget / CIP
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_12192026-409
+DESCRIPTION:Agenda: Budget Committee Agenda Dec 19\, 2026 Budget Committee 
+ Meeting Ageda - Super Saturday - Town & School\nhttps://www.gilmantonnh.go
+ v/AgendaCenter/ViewFile/Agenda/_12192026-409\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Farmington Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Farmington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8b6e8338216bf042a7b4@granite-docket
+DTSTAMP:20261103T131031Z
+DTSTART;TZID=America/New_York:20261001T190000
+DURATION:PT2H
+SUMMARY:Farmington Zoning / ZBA
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_10012026-263
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 1\, 2026 ZONING B
+ OARD MEETING AGENDA (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewF
+ ile/Agenda/_10012026-263\n\nAgenda: ZBA Packet 10/01/26\nhttps://www.farmi
+ ngton.nh.us/DocumentCenter/View/3110/ZBA-Packet-100126\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f13702ddb4cb18ca790@granite-docket
+DTSTAMP:20261103T131040Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Farmington Zoning / ZBA
+LOCATION:Farmington\, NH
+URL:https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_11052026-280
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 5\, 2026 ZONING B
+ OARD MEETING AGENDA (PDF)\nhttps://www.farmington.nh.us/AgendaCenter/ViewF
+ ile/Agenda/_11052026-280\n\nAgenda: Zoning Board of Adjustment Agenda Nov 
+ 5\, 2026 ZONING BOARD OF ADJUSTMENT PUBLIC HEARING NOTICE (PDF)\nhttps://w
+ ww.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_11052026-270\n\nAgenda: 
+ Zoning Board of Adjustment Agenda Nov 5\, 2026 ZONING BOARD OF ADJUSTMENT 
+ PUBLIC HEARING NOTICE (pdf)\nhttps://www.farmington.nh.us/AgendaCenter/Vie
+ wFile/Agenda/_11052026-271\n\nAgenda: ZBA_Packet_110526\nhttps://www.farmi
+ ngton.nh.us/DocumentCenter/View/3130/ZBA_Packet_110526\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

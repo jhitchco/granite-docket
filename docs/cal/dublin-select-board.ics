@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dublin Select board / council
+X-WR-CALDESC:Select board / council meetings in Dublin\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:25aadc7f48cba2def356@granite-docket
+DTSTAMP:20261103T121930Z
+DTSTART;TZID=America/New_York:20260928T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_09282026-236
+DESCRIPTION:Agenda: Select Board Agenda Sep 28\, 2026 Select Board Agenda\n
+ https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_09282026-236\n\
+ nMinutes: Select Board Minutes Sep 28\, 2026 Select Board Agenda\nhttps://
+ www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_09282026-236\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:798b6b269d5b9a7d76cb@granite-docket
+DTSTAMP:20261103T121930Z
+DTSTART;TZID=America/New_York:20261005T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10052026-240
+DESCRIPTION:Agenda: Select Board Agenda Oct 5\, 2026 Select Board Agenda\nh
+ ttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10052026-240\n\n
+ Minutes: Select Board Minutes Oct 5\, 2026 Select Board Agenda\nhttps://ww
+ w.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10052026-240\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:355794da5042980dc93b@granite-docket
+DTSTAMP:20261103T122008Z
+DTSTART;TZID=America/New_York:20261019T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10192026-244
+DESCRIPTION:Agenda: Select Board Agenda Oct 19\, 2026 Select Board Agenda\n
+ https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10192026-244\n\
+ nMinutes: Select Board Minutes Oct 19\, 2026 Select Board Agenda\nhttps://
+ www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10192026-244\n\nMinute
+ s: Waste Reduction and Recycling Committee Minutes Oct 19\, 2026 Waste and
+  Recycling Agenda\nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Minu
+ tes/_10192026-254\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:81afe99c166531803c43@granite-docket
+DTSTAMP:20261103T121929Z
+DTSTART;TZID=America/New_York:20261026T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10262026-249
+DESCRIPTION:Agenda: Select Board Agenda Oct 26\, 2026 Select Board Meeting\
+ nhttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_10262026-249\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:563f383d590e8369a524@granite-docket
+DTSTAMP:20261103T121929Z
+DTSTART;TZID=America/New_York:20261102T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11022026-255
+DESCRIPTION:Agenda: Select Board Agenda Nov 2\, 2026 Select Board Meeting\n
+ https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11022026-255\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aecd91b642c5e1ce0f5b@granite-docket
+DTSTAMP:20261109T105659Z
+DTSTART;TZID=America/New_York:20261109T163000
+DURATION:PT2H
+SUMMARY:Dublin Select board / council
+LOCATION:Dublin\, NH
+URL:https://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11092026-258
+DESCRIPTION:Agenda: Select Board Agenda Nov 9\, 2026 Select Board Agenda\nh
+ ttps://www.townofdublin.org/AgendaCenter/ViewFile/Agenda/_11092026-258\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+END:VCALENDAR

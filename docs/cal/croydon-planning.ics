@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Croydon Planning board
+X-WR-CALDESC:Planning board meetings in Croydon\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ad6a82ab0cb0e6847289@granite-docket
+DTSTAMP:20261103T131252Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Croydon Planning board
+LOCATION:Croydon\, NH
+URL:https://towncloud.io/go/croydon-nh/agendas/279/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/croydon-nh/agendas/
+ 279/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/croydon-nh/agendas/279/pdf_packet/get_agenda_document_link\n\nMinute
+ s: Minutes PDF\nhttps://towncloud.io/go/croydon-nh/agendas/279/minutes/get
+ _agenda_document_link\n\nMinutes: Minutes PDF\nhttps://towncloud.io/go/cro
+ ydon-nh/agendas/277/minutes/get_agenda_document_link\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:95fbe22376200e27fb43@granite-docket
+DTSTAMP:20261123T100109Z
+DTSTART;TZID=America/New_York:20261015T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Croydon Planning board
+LOCATION:Croydon\, NH
+URL:https://towncloud.io/go/croydon-nh/agendas/280/PDF/get_agenda_document_
+ link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/croydon-nh/agendas/
+ 280/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncloud.
+ io/go/croydon-nh/agendas/280/pdf_packet/get_agenda_document_link\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:752942c821155b412613@granite-docket
+DTSTAMP:20261123T100110Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Croydon Planning board
+LOCATION:Croydon\, NH
+URL:https://towncloud.io/go/croydon-nh/agendas/280/minutes/get_agenda_docum
+ ent_link
+DESCRIPTION:Minutes: Minutes PDF\nhttps://towncloud.io/go/croydon-nh/agenda
+ s/280/minutes/get_agenda_document_link\n\nMinutes: Minutes PDF\nhttps://to
+ wncloud.io/go/croydon-nh/agendas/278/minutes/get_agenda_document_link\n\nM
+ inutes: Minutes PDF\nhttps://towncloud.io/go/croydon-nh/agendas/276/minute
+ s/get_agenda_document_link\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

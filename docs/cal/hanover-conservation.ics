@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hanover Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Hanover\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:666b2d43974a2bffc7fc@granite-docket
+DTSTAMP:20261103T094454Z
+DTSTART;TZID=America/New_York:20261028T174500
+DURATION:PT2H
+SUMMARY:Hanover Conservation commission
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_10282026-1352
+DESCRIPTION:Agenda: Conservation Commission agenda 10/28/2026 (PDF)\nhttps:
+ //hanovernh.org/AgendaCenter/ViewFile/Agenda/_10282026-1352\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:36ba2114dd90f1a3d1ca@granite-docket
+DTSTAMP:20261123T072638Z
+DTSTART;TZID=America/New_York:20261111T170000
+DURATION:PT2H
+SUMMARY:Hanover Conservation commission
+LOCATION:Hanover\, NH
+URL:https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11112026-1358
+DESCRIPTION:Agenda: Conservation Commission agenda 11/11/2026 (PDF)\nhttps:
+ //hanovernh.org/AgendaCenter/ViewFile/Agenda/_11112026-1358\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

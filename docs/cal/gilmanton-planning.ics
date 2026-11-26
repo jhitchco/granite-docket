@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Gilmanton Planning board
+X-WR-CALDESC:Planning board meetings in Gilmanton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0456d232b08b47b0aaa6@granite-docket
+DTSTAMP:20261103T111717Z
+DTSTART;TZID=America/New_York:20261008T183000
+DURATION:PT2H
+SUMMARY:Gilmanton Planning board
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-403
+DESCRIPTION:Agenda: Planning Board Agenda Oct 8\, 2026 — Amended Oct 8\, 
+ 2026 5:12 PM Planning Board Meeting Rescheduled t\nhttps://www.gilmantonnh
+ .gov/AgendaCenter/ViewFile/Agenda/_10082026-403\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3447ec4ef79a0934ed01@granite-docket
+DTSTAMP:20261103T111716Z
+DTSTART;TZID=America/New_York:20261029T183000
+DURATION:PT2H
+SUMMARY:Gilmanton Planning board
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_10292026-416
+DESCRIPTION:Agenda: Planning Board Agenda Oct 29\, 2026 Planning Board Meet
+ ing- rescheduled from Oct. 8th\nhttps://www.gilmantonnh.gov/AgendaCenter/V
+ iewFile/Agenda/_10292026-416\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:540431491a0ed4ed8fab@granite-docket
+DTSTAMP:20261103T111716Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Gilmanton Planning board
+LOCATION:Gilmanton\, NH
+URL:https://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-425
+DESCRIPTION:Agenda: Planning Board Agenda Nov 12\, 2026 Planning Board Meet
+ ing\nhttps://www.gilmantonnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-42
+ 5\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+END:VCALENDAR

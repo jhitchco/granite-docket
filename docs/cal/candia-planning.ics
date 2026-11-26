@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Candia Planning board
+X-WR-CALDESC:Planning board meetings in Candia\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f658b9ee6ba909fb79df@granite-docket
+DTSTAMP:20261103T110643Z
+DTSTART;TZID=America/New_York:20261007T183000
+DURATION:PT2H
+SUMMARY:Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10072026-611
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.candianh.org/AgendaC
+ enter/ViewFile/Agenda/_10072026-611\n\nAgenda: Oct 7\, 2026 Planning Board
+  Agenda\nhttps://www.candianh.org/DocumentCenter/View/7394/2026-10-07-PB-M
+ eeting-Audio-File\n\nMinutes: Oct 7\, 2026 Planning Board Agenda\nhttps://
+ www.candianh.org/AgendaCenter/ViewFile/Minutes/_10072026-611\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b6aa34cd7dacd35cd9@granite-docket
+DTSTAMP:20261103T110551Z
+DTSTART;TZID=America/New_York:20261021T183000
+DURATION:PT2H
+SUMMARY:Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_10212026-619
+DESCRIPTION:Agenda: Planning Board Agenda - MEETING CANCELLED\nhttps://www.
+ candianh.org/AgendaCenter/ViewFile/Agenda/_10212026-619\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:088590e06d74bdc57ac5@granite-docket
+DTSTAMP:20261116T095031Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11042026-626
+DESCRIPTION:Agenda: Planning Board Agenda - PUBLIC HEARING\nhttps://www.can
+ dianh.org/AgendaCenter/ViewFile/Agenda/_11042026-626\n\nMinutes: Nov 4\, 2
+ 026 Planning Board Agenda - PUBLIC HEARING\nhttps://www.candianh.org/Agend
+ aCenter/ViewFile/Minutes/_11042026-626\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b52a0be781e935a27823@granite-docket
+DTSTAMP:20261116T101052Z
+DTSTART;TZID=America/New_York:20261106T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/DocumentCenter/View/7422
+DESCRIPTION:Notice: PUBLIC NOTICE FROM SOUTHERN NH PLANNING COMMISSION\nhtt
+ ps://www.candianh.org/DocumentCenter/View/7422\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9e071a1ad3221fa8ec@granite-docket
+DTSTAMP:20261123T084805Z
+DTSTART;TZID=America/New_York:20261118T183000
+DURATION:PT2H
+SUMMARY:Candia Planning board
+LOCATION:Candia\, NH
+URL:https://www.candianh.org/AgendaCenter/ViewFile/Agenda/_11182026-633
+DESCRIPTION:Agenda: Planning Board Agenda - PUBLIC HEARING\nhttps://www.can
+ dianh.org/AgendaCenter/ViewFile/Agenda/_11182026-633\n\nAgenda: Nov 18\, 2
+ 026 Planning Board Agenda - PUBLIC HEARING\nhttps://www.candianh.org/Docum
+ entCenter/View/7444/2026-11-18-PB-Meeting-Audio-File\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Greenfield NH meetings
+X-WR-CALDESC:Public meetings of Greenfield\, NH boards\, from posted agenda
+ s and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:49dea476d1a4663594d4@granite-docket
+DTSTAMP:20261103T120804Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenfield Planning board
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-17
+ 5
+DESCRIPTION:Agenda: Planning Board Agenda Sep 28\, 2026 — Amended Sep 28\
+ , 2026 7:35 PM Planning Board Meeting Agenda\nhttps://www.greenfield-nh.go
+ v/AgendaCenter/ViewFile/Agenda/_09282026-175\n\nAgenda: Planning Board Age
+ nda Sep 28\, 2026 Planning Board Site Walk - Sawmill Rd - Map R2 Lot 17-2 
+ - 5pm\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_0928202
+ 6-171\n\nAgenda: Planning Board Agenda Sep 28\, 2026 Public Site Walk- 5pm
+  - Sawmill Rd\, Map R2 Lot 17-2\nhttps://www.greenfield-nh.gov/AgendaCente
+ r/ViewFile/Agenda/_09282026-170\n\nMinutes: Planning Board Minutes Sep 28\
+ , 2026 — Amended Sep 28\, 2026 7:35 PM Planning Board Meeting Agenda\nht
+ tps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Minutes/_09282026-175\n\
+ nMinutes: Planning Board Minutes Sep 28\, 2026 Public Site Walk- 5pm - Saw
+ mill Rd\, Map R2 Lot 17-2\nhttps://www.greenfield-nh.gov/AgendaCenter/View
+ File/Minutes/_09282026-170\n\nMinutes: Sep 28\, 2026 — Amended Sep 28\, 
+ 2026 7:35 PM Planning Board Meeting Agenda\nhttps://www.greenfield-nh.gov/
+ AgendaCenter/ViewFile/ArchivedMinutes/_09282026-72\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8983f1cb7f50b756ec61@granite-docket
+DTSTAMP:20261103T120541Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Select board / council
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_09302026-17
+ 7
+DESCRIPTION:Minutes: Select Board Agenda Sep 30\, 2026 9/30/2026 Meeting Ag
+ enda and Minutes\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agen
+ da/_09302026-177\n\nMinutes: Select Board Minutes Sep 30\, 2026 9/30/2026 
+ Meeting Agenda and Minutes\nhttps://www.greenfield-nh.gov/AgendaCenter/Vie
+ wFile/Minutes/_09302026-177\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:124fbfb2d34b4214cf89@granite-docket
+DTSTAMP:20261103T120541Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Select board / council
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10072026-17
+ 8
+DESCRIPTION:Agenda: Select Board Agenda Oct 7\, 2026 10/7/2026 No Meeting S
+ cheduled\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_1007
+ 2026-178\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:99e59c5c603ec0987c0a@granite-docket
+DTSTAMP:20261103T120540Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Select board / council
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-17
+ 9
+DESCRIPTION:Minutes: Select Board Agenda Oct 14\, 2026 10/14/2026 Meeting A
+ genda and Minutes\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Age
+ nda/_10142026-179\n\nMinutes: Select Board Minutes Oct 14\, 2026 10/14/202
+ 6 Meeting Agenda and Minutes\nhttps://www.greenfield-nh.gov/AgendaCenter/V
+ iewFile/Minutes/_10142026-179\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4830f6b814a8b0ec76cc@granite-docket
+DTSTAMP:20261103T122413Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Oak Park Rental Contract (PDF)
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/1445/Oak-Park-Rental-Contract-PDF
+DESCRIPTION:Other: Oak Park Rental Contract (PDF)\nhttps://www.greenfield-n
+ h.gov/1445/Oak-Park-Rental-Contract-PDF\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc0228a12b4afb98ea6a@granite-docket
+DTSTAMP:20261103T120618Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenfield Zoning / ZBA
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10202026-18
+ 0
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 20\, 2026 The ZBA
+  will hold an administrative work session.\nhttps://www.greenfield-nh.gov/
+ AgendaCenter/ViewFile/Agenda/_10202026-180\n\nMinutes: Zoning Board of Adj
+ ustment Minutes Oct 20\, 2026 The ZBA will hold an administrative work ses
+ sion.\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Minutes/_102020
+ 26-180\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:af4c5130e99a37575cc6@granite-docket
+DTSTAMP:20261103T120540Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Select board / council
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10212026-18
+ 1
+DESCRIPTION:Minutes: Select Board Agenda Oct 21\, 2026 10/21/2026 Meeting A
+ genda and Minutes\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Age
+ nda/_10212026-181\n\nMinutes: Select Board Minutes Oct 21\, 2026 10/21/202
+ 6 Meeting Agenda and Minutes\nhttps://www.greenfield-nh.gov/AgendaCenter/V
+ iewFile/Minutes/_10212026-181\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:58e05a7b252d5f4982c7@granite-docket
+DTSTAMP:20261116T105728Z
+DTSTART;TZID=America/New_York:20261026T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenfield Planning board
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10262026-18
+ 2
+DESCRIPTION:Agenda: Planning Board Agenda Oct 26\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 262026-182\n\nMinutes: Planning Board Minutes Oct 26\, 2026 Planning Board
+  Meeting Agenda\nhttps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Minut
+ es/_10262026-182\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0082128ed47b12b6fc72@granite-docket
+DTSTAMP:20261103T120539Z
+DTSTART;TZID=America/New_York:20261028T173000
+DURATION:PT2H
+SUMMARY:Greenfield Select board / council
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10282026-18
+ 9
+DESCRIPTION:Agenda: Select Board Agenda Oct 28\, 2026 10/28/2026 Agenda\nht
+ tps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10282026-189\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a8d95b4f4f2ed74c0e2c@granite-docket
+DTSTAMP:20261103T120706Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Conservation commission
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10312026-18
+ 3?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.greenfield-nh.gov/AgendaCenter/View
+ File/Agenda/_10312026-183?packet=true\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c1429affc4e073f133fa@granite-docket
+DTSTAMP:20261103T120617Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Zoning / ZBA
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_10312026-18
+ 3
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 31\, 2026 The ZBA
+  will conduct a Site Walk at 6 Yankee Way at 9\nhttps://www.greenfield-nh.
+ gov/AgendaCenter/ViewFile/Agenda/_10312026-183\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e84077419126d1bc4a05@granite-docket
+DTSTAMP:20261103T121745Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Select board / council
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/1599/General-Election-Information-Novembe
+ r-3-
+DESCRIPTION:Other: General Election Information\, November 3\, 2026\nhttps:
+ //www.greenfield-nh.gov/1599/General-Election-Information-November-3-\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3eeaa77a4345a42e895b@granite-docket
+DTSTAMP:20261109T104224Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenfield Planning board
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-19
+ 0
+DESCRIPTION:Agenda: Planning Board Agenda Nov 9\, 2026 Notice of Public Hea
+ ring - 11/9/26 at 7pm - Chelstin LLC - Site Pl\nhttps://www.greenfield-nh.
+ gov/AgendaCenter/ViewFile/Agenda/_11092026-190\n\nAgenda: Planning Board A
+ genda Nov 9\, 2026 Planning Board Meeting Agenda\nhttps://www.greenfield-n
+ h.gov/AgendaCenter/ViewFile/Agenda/_11092026-192\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ccc615fbc0643dea6554@granite-docket
+DTSTAMP:20261116T110158Z
+DTSTART;TZID=America/New_York:20261111T173000
+DURATION:PT2H
+SUMMARY:Greenfield Select board / council
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_11112026-19
+ 3
+DESCRIPTION:Agenda: Select Board Agenda Nov 11\, 2026 11/11/2026 Agenda\nht
+ tps://www.greenfield-nh.gov/AgendaCenter/ViewFile/Agenda/_11112026-193\n\n
+ Agenda: 11/11/2026 Agenda\nhttps://www.greenfield-nh.gov/AgendaCenter/View
+ File/ArchivedAgenda/_11112026-74\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:19a93cdc465d4669cc0e@granite-docket
+DTSTAMP:20261103T121812Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+TRANSP:TRANSPARENT
+SUMMARY:Greenfield Select board / council
+LOCATION:Greenfield\, NH
+URL:https://www.greenfield-nh.gov/1531/2024-MS-123-PDF
+DESCRIPTION:Other: 2024 MS-123 (PDF)\nhttps://www.greenfield-nh.gov/1531/20
+ 24-MS-123-PDF\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+END:VCALENDAR

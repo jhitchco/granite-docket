@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swanzey Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Swanzey\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:161c62a7800102ac50f5@granite-docket
+DTSTAMP:20261103T100424Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Conservation commission
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/2026-10-05 Con Comm Draft Minutes.pdf?t=20261
+ 0120748300
+DESCRIPTION:Minutes: 10/05/26 Conservation Commission Minutes\nhttps://www.
+ swanzeynh.gov/2026-10-05 Con Comm Draft Minutes.pdf?t=202610120748300\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1767465ede1f02fe2221@granite-docket
+DTSTAMP:20261103T100820Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Conservation commission
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/SGC AD HOC Agenda 10.15.26.pdf?t=202610190803
+ 510
+DESCRIPTION:Minutes: 10/15/26 Ad Hoc Committee Agenda Minutes\nhttps://www.
+ swanzeynh.gov/SGC AD HOC Agenda 10.15.26.pdf?t=202610190803510\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:14e1180af4f11e758f05@granite-docket
+DTSTAMP:20261103T100820Z
+DTSTART;TZID=America/New_York:20261028T184500
+DURATION:PT2H
+SUMMARY:Swanzey Conservation commission
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/10-27-26 AD HOC Agenda.pdf?t=202610271041580
+DESCRIPTION:Agenda: 10/28/26 Ad Hoc Committee Agenda\nhttps://www.swanzeynh
+ .gov/10-27-26 AD HOC Agenda.pdf?t=202610271041580\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c1989cc1389361135440@granite-docket
+DTSTAMP:20261103T100424Z
+DTSTART;TZID=America/New_York:20261102T160000
+DURATION:PT2H
+SUMMARY:Swanzey Conservation commission
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/11.2.26 ConCom agenda.pdf?t=202611021024240
+DESCRIPTION:Agenda: 11/02/26 Conservation Commission Agenda\nhttps://www.sw
+ anzeynh.gov/11.2.26 ConCom agenda.pdf?t=202611021024240\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

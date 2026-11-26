@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Durham Select board / council
+X-WR-CALDESC:Select board / council meetings in New Durham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b26de67b483b3a2a11b3@granite-docket
+DTSTAMP:20261103T112826Z
+DTSTART;TZID=America/New_York:20261001T170000
+DURATION:PT2H
+SUMMARY:New Durham Select board / council
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/707/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/707/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/707/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:269c4b6b969adecec3ab@granite-docket
+DTSTAMP:20261103T112811Z
+DTSTART;TZID=America/New_York:20261008T170000
+DURATION:PT2H
+SUMMARY:New Durham Select board / council
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/711/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/711/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/711/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c3e38c2bc51b97dd3e52@granite-docket
+DTSTAMP:20261103T112755Z
+DTSTART;TZID=America/New_York:20261014T100000
+DURATION:PT2H
+SUMMARY:New Durham Select board / council
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/716/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/716/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/716/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab41a9738747e9b669c@granite-docket
+DTSTAMP:20261103T112752Z
+DTSTART;TZID=America/New_York:20261027T170000
+DURATION:PT2H
+SUMMARY:New Durham Select board / council
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/726/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/726/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/726/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:394a2debd4975f526e74@granite-docket
+DTSTAMP:20261109T101033Z
+DTSTART;TZID=America/New_York:20261103T170000
+DURATION:PT2H
+SUMMARY:New Durham Select board / council
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/736/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/736/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/736/pdf_packet/get_agenda_document_link\n\n
+ Other: Download\nhttps://newdurhamnh.gov/uploads/general-election-11.3.202
+ 6-results.pdf\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:16c1a69286753da66a67@granite-docket
+DTSTAMP:20261109T101015Z
+DTSTART;TZID=America/New_York:20261106T180000
+DURATION:PT2H
+SUMMARY:New Durham Select board / council
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/737/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/737/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/737/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:63290d154cc4787f8e66@granite-docket
+DTSTAMP:20261116T101638Z
+DTSTART;TZID=America/New_York:20261113T183000
+DURATION:PT2H
+SUMMARY:New Durham Select board / council
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/742/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/742/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/742/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f0d3dc481a602a038a0e@granite-docket
+DTSTAMP:20261123T090209Z
+DTSTART;TZID=America/New_York:20261118T150000
+DURATION:PT2H
+SUMMARY:New Durham Select board / council
+LOCATION:New Durham\, NH
+URL:https://towncloud.io/go/new-durham-nh/agendas/778/PDF/get_agenda_docume
+ nt_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-durham-nh/agend
+ as/778/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://townclo
+ ud.io/go/new-durham-nh/agendas/778/pdf_packet/get_agenda_document_link\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+END:VCALENDAR

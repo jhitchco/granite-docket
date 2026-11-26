@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brentwood Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Brentwood\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3e7670d9f0612482cebc@granite-docket
+DTSTAMP:20261109T092201Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Brentwood Budget / CIP
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14896
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14896\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:542f35cbd4fa1ef06b70@granite-docket
+DTSTAMP:20261123T084438Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Budget / CIP
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14903
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14903\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Surry Select board / council
+X-WR-CALDESC:Select board / council meetings in Surry\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:54fbb10c579dd5853faa@granite-docket
+DTSTAMP:20261103T122905Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/09/09282026-Meeting-Agenda
+ -PDF.pdf
+DESCRIPTION:Agenda: 09282026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/09/09282026-Meeting-Agenda-PDF.pdf\n\nMinutes: 09282026
+  Meeting minutes\nhttps://surry.nh.gov/wp-content/uploads/2026/10/09282026
+ -Meeting-minutes.pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f311d4830c36bea853c6@granite-docket
+DTSTAMP:20261103T122905Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/10/10052026-Meeting-Agenda
+ -PDF.pdf
+DESCRIPTION:Agenda: 10052026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/10/10052026-Meeting-Agenda-PDF.pdf\n\nMinutes: 10052026
+  Meeting Minutes\nhttps://surry.nh.gov/wp-content/uploads/2026/10/10052026
+ -Meeting-Minutes.pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f5e74e12ecda7ea4ef53@granite-docket
+DTSTAMP:20261103T122904Z
+DTSTART;TZID=America/New_York:20261012T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/10/10122026-Meeting-Agenda
+ -PDF.pdf
+DESCRIPTION:Agenda: 10122026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/10/10122026-Meeting-Agenda-PDF.pdf\n\nMinutes: 10122026
+  Meeting Minutes\nhttps://surry.nh.gov/wp-content/uploads/2026/10/10122026
+ -Meeting-Minutes.pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c261dc6ecc0c1f3c0335@granite-docket
+DTSTAMP:20261123T100046Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/10/10192026-Meeting-Agenda
+ -PDF.pdf
+DESCRIPTION:Agenda: 10192026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/10/10192026-Meeting-Agenda-PDF.pdf\n\nMinutes: 10192026
+  Meeting Minutes\nhttps://surry.nh.gov/wp-content/uploads/2026/10/10192026
+ -Meeting-Minutes.docx\n\nMinutes: 10192026 Meeting minutes\nhttps://surry.
+ nh.gov/wp-content/uploads/2026/11/10192026-Meeting-Minutes-1.pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f2356e418c9d19f820ac@granite-docket
+DTSTAMP:20261123T100045Z
+DTSTART;TZID=America/New_York:20261026T190000
+DURATION:PT2H
+SUMMARY:Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/10/10262026-Meeting-Agenda
+ -PDF.pdf
+DESCRIPTION:Agenda: 10262026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/10/10262026-Meeting-Agenda-PDF.pdf\n\nMinutes: 10262026
+  Meeting minutes\nhttps://surry.nh.gov/wp-content/uploads/2026/11/10262026
+ -Meeting-Minutes-PDP-1.pdf\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f6137161d44a5a1974eb@granite-docket
+DTSTAMP:20261123T100045Z
+DTSTART;TZID=America/New_York:20261102T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/11/11022026-Meeting-Agenda
+ -PDF.pdf
+DESCRIPTION:Agenda: 11022026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/11/11022026-Meeting-Agenda-PDF.pdf\n\nMinutes: 11022026
+  Meeting minutes\nhttps://surry.nh.gov/wp-content/uploads/2026/11/11022026
+ -Meeting-Minutes-PDF-1.pdf\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:58f3d1085aea7f5ada3d@granite-docket
+DTSTAMP:20261123T100045Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/11/11092026-Meeting-Agenda
+ -PDF-1.pdf
+DESCRIPTION:Agenda: 11092026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/11/11092026-Meeting-Agenda-PDF-1.pdf\n\nMinutes: 110920
+ 26 Meeting Minutes\nhttps://surry.nh.gov/wp-content/uploads/2026/11/110920
+ 26-Meeting-Minutes.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:de15bfc9b68722dbac9d@granite-docket
+DTSTAMP:20261123T100043Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/11/11162026-Meeting-Agenda
+ -PDF.pdf
+DESCRIPTION:Agenda: 11162026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/11/11162026-Meeting-Agenda-PDF.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e17d509bf02c7f7a4488@granite-docket
+DTSTAMP:20261123T100043Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+SUMMARY:Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/11/11232026-Agenda-PDF.doc
+ x
+DESCRIPTION:Agenda: 11232026 Meeting Agenda PDF\nhttps://surry.nh.gov/wp-co
+ ntent/uploads/2026/11/11232026-Agenda-PDF.docx\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3fc5babade7b6ec3ed1f@granite-docket
+DTSTAMP:20261123T100122Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Surry Select board / council
+LOCATION:Surry\, NH
+URL:https://surry.nh.gov/wp-content/uploads/2026/11/Surry_HMP_Public_Commen
+ t_Notice_Flyer.pdf
+DESCRIPTION:Notice: The following link will take you to a flyer explaining 
+ how to comment: Public Comment Notice Flyer\nhttps://surry.nh.gov/wp-conte
+ nt/uploads/2026/11/Surry_HMP_Public_Comment_Notice_Flyer.pdf\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

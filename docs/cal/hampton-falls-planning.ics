@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hampton Falls Planning board
+X-WR-CALDESC:Planning board meetings in Hampton Falls\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ac502217eab4c5e7643e@granite-docket
+DTSTAMP:20261103T114457Z
+DTSTART;TZID=America/New_York:20261027T220000
+DURATION:PT2H
+SUMMARY:Hampton Falls Planning board
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10272026-187
+DESCRIPTION:Agenda: Planning Board Agenda Oct 27\, 2026 Ords & Regs Meeting
+ \nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10272026-187\
+ n\nAgenda: Planning Board Agenda Oct 27\, 2026 Planning Board Meeting\nhtt
+ ps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_10272026-188\n\nAg
+ enda: Planning Board Meeting\nhttps://www.hamptonfalls.org/AgendaCenter/Vi
+ ewFile/ArchivedAgenda/_10272026-134\n\nAgenda: Planning Board Meeting\nhtt
+ ps://www.hamptonfalls.org/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-1
+ 33\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4b2baa48720e356c1b@granite-docket
+DTSTAMP:20261116T103031Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Hampton Falls Planning board
+LOCATION:Hampton Falls\, NH
+URL:https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-195
+DESCRIPTION:Agenda: Planning Board Agenda Nov 17\, 2026 Planning Board Meet
+ ing\nhttps://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-1
+ 95\n\nAgenda: Planning Board Meeting\nhttps://www.hamptonfalls.org/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11172026-144\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

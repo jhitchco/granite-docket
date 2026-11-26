@@ -1,0 +1,279 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Berlin NH meetings
+X-WR-CALDESC:Public meetings of Berlin\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a095af023fe8dee85c63@granite-docket
+DTSTAMP:20261103T095549Z
+DTSTART;TZID=America/New_York:20260928T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Economic development
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-193
+DESCRIPTION:Agenda: Case 08-26 Leo King-Variance\nhttps://www.berlinnh.gov/
+ AgendaCenter/ViewFile/Agenda/_09282026-193\n\nMinutes: Sep 28\, 2026 Case 
+ 08-26 Leo King-Variance\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Mi
+ nutes/_09282026-193\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:889988a472c51f322548@granite-docket
+DTSTAMP:20261103T100012Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Berlin Planning board
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/DocumentCenter/View/4025/Final-Draft-Berlin-Ta
+ ble-of-Uses-09-30-2026
+DESCRIPTION:Other: Final Draft Berlin Table of Uses 09-30-2026\nhttps://www
+ .berlinnh.gov/DocumentCenter/View/4025/Final-Draft-Berlin-Table-of-Uses-09
+ -30-2026\n\nOther: Final Draft Berlin Table of Dimensional Regulations 09-
+ 30-2026\nhttps://www.berlinnh.gov/DocumentCenter/View/4024/Final-Draft-Ber
+ lin-Table-of-Dimensional-Regulations-09-30-2026\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf6eb9dacce613d4c12@granite-docket
+DTSTAMP:20261103T100012Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Berlin Zoning / ZBA
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/DocumentCenter/View/4026/Final-Draft-Berlin-Zo
+ ning-Ordinance-09-30-2026
+DESCRIPTION:Other: Final Draft Berlin Zoning Ordinance 09-30-2026\nhttps://
+ www.berlinnh.gov/DocumentCenter/View/4026/Final-Draft-Berlin-Zoning-Ordina
+ nce-09-30-2026\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:535b9ef581032b7de0fa@granite-docket
+DTSTAMP:20261123T071825Z
+DTSTART;TZID=America/New_York:20261001T073000
+DURATION:PT2H
+SUMMARY:Berlin Economic development
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10012026-196
+DESCRIPTION:Agenda: Police Commission Agenda\nhttps://www.berlinnh.gov/Agen
+ daCenter/ViewFile/Agenda/_10012026-196\n\nMinutes: Oct 1\, 2026 Police Com
+ mission Agenda\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_10
+ 012026-196\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:83af3d93d471d8b9d04e@granite-docket
+DTSTAMP:20261103T095559Z
+DTSTART;TZID=America/New_York:20261005T170000
+DURATION:PT2H
+SUMMARY:Berlin Berlin Airport Authority Meeting
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026
+ -106
+DESCRIPTION:Agenda: Berlin Airport Authority Meeting\nhttps://www.berlinnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-106\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c912d7ff7b821740872@granite-docket
+DTSTAMP:20261103T095447Z
+DTSTART;TZID=America/New_York:20261005T132200
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Select board / council
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-199
+DESCRIPTION:Agenda: City Council Meeting\nhttps://www.berlinnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10052026-199\n\nMinutes: Oct 5\, 2026 City Council M
+ eeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-1
+ 99\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b3c95d627c02efb3a9@granite-docket
+DTSTAMP:20261103T095416Z
+DTSTART;TZID=America/New_York:20261005T170000
+DURATION:PT2H
+SUMMARY:Berlin Economic development
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-197
+DESCRIPTION:Agenda: Berlin Airport Authority Meeting Agenda\nhttps://www.be
+ rlinnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-197\n\nMinutes: Oct 5\, 
+ 2026 Berlin Airport Authority Meeting Agenda\nhttps://www.berlinnh.gov/Age
+ ndaCenter/ViewFile/Minutes/_10052026-197\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d76e042f3e60ce8442b@granite-docket
+DTSTAMP:20261103T095517Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Berlin Planning board
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-198
+DESCRIPTION:Agenda: Planning Board Meeting Agenda\nhttps://www.berlinnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10062026-198\n\nMinutes: Oct 6\, 2026 Plann
+ ing Board Meeting Agenda\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/M
+ inutes/_10062026-198\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0408a49adda9b6704ab0@granite-docket
+DTSTAMP:20261103T095420Z
+DTSTART;TZID=America/New_York:20261014T173000
+DURATION:PT2H
+SUMMARY:Berlin Economic development
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-200
+DESCRIPTION:Agenda: Berlin Economic Development Authority Meeting Agenda\nh
+ ttps://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-200\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:703b226764dd8416467a@granite-docket
+DTSTAMP:20261103T095446Z
+DTSTART;TZID=America/New_York:20261019T124400
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Select board / council
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-201
+DESCRIPTION:Agenda: City Council Meeting\nhttps://www.berlinnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10192026-201\n\nMinutes: Oct 19\, 2026 City Council 
+ Meeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_10192026-
+ 201\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8a38a8bec69f0de749be@granite-docket
+DTSTAMP:20261103T095420Z
+DTSTART;TZID=America/New_York:20261029T170000
+DURATION:PT2H
+SUMMARY:Berlin Town meeting / warrant
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10292026-202
+DESCRIPTION:Agenda: Berlin Economic Development Authority Meeting Agenda - 
+ special meeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 292026-202\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5032c1dfb266dd5a0b30@granite-docket
+DTSTAMP:20261103T095445Z
+DTSTART;TZID=America/New_York:20261102T134500
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Select board / council
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11022026-203
+DESCRIPTION:Agenda: City Council Meeting\nhttps://www.berlinnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_11022026-203\n\nMinutes: Nov 2\, 2026 City Council M
+ eeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_11022026-2
+ 03\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc9f3d96f58bdbd79b7@granite-docket
+DTSTAMP:20261103T095516Z
+DTSTART;TZID=America/New_York:20261104T183000
+DURATION:PT2H
+SUMMARY:Berlin Planning board
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-204
+DESCRIPTION:Agenda: Planning Board Meeting Agenda\nhttps://www.berlinnh.gov
+ /AgendaCenter/ViewFile/Agenda/_11042026-204\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:82818941128141eaf537@granite-docket
+DTSTAMP:20261116T071725Z
+DTSTART;TZID=America/New_York:20261112T163000
+DURATION:PT2H
+SUMMARY:Berlin Economic development
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-206
+DESCRIPTION:Agenda: Berlin Recreation Commission Meeting\nhttps://www.berli
+ nnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-206\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:411da040f7e14b0ccbd2@granite-docket
+DTSTAMP:20261123T071755Z
+DTSTART;TZID=America/New_York:20261116T170000
+DURATION:PT2H
+SUMMARY:Berlin Economic development
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-205
+DESCRIPTION:Agenda: Berlin Airport Authority Meeting Agenda\nhttps://www.be
+ rlinnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-205\n\nMinutes: Nov 16\,
+  2026 Berlin Airport Authority Meeting Agenda\nhttps://www.berlinnh.gov/Ag
+ endaCenter/ViewFile/Minutes/_11162026-205\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e720ac9d2a80f18bb603@granite-docket
+DTSTAMP:20261123T071805Z
+DTSTART;TZID=America/New_York:20261116T091000
+DURATION:PT2H
+SUMMARY:Public hearing: Berlin Select board / council
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-207
+DESCRIPTION:Agenda: City Council Meeting\nhttps://www.berlinnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_11162026-207\n\nMinutes: Nov 16\, 2026 City Council 
+ Meeting\nhttps://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_11162026-
+ 207\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:972ffacb595d0a730100@granite-docket
+DTSTAMP:20261123T071815Z
+DTSTART;TZID=America/New_York:20261119T073000
+DURATION:PT2H
+SUMMARY:Berlin Economic development
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-208
+DESCRIPTION:Agenda: Police Commission Agenda\nhttps://www.berlinnh.gov/Agen
+ daCenter/ViewFile/Agenda/_11192026-208\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:11e3637f2d35eff4c806@granite-docket
+DTSTAMP:20261123T071835Z
+DTSTART;TZID=America/New_York:20261123T183000
+DURATION:PT2H
+SUMMARY:Berlin Economic development
+LOCATION:Berlin\, NH
+URL:https://www.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11232026-209
+DESCRIPTION:Agenda: Case 08-26: Leo King-Request for a Rehearing\nhttps://w
+ ww.berlinnh.gov/AgendaCenter/ViewFile/Agenda/_11232026-209\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

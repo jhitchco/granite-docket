@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boscawen Planning board
+X-WR-CALDESC:Planning board meetings in Boscawen\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0c6f192922406f570cce@granite-docket
+DTSTAMP:20261103T112728Z
+DTSTART;TZID=America/New_York:20261006T121500
+DURATION:PT2H
+SUMMARY:Public hearing: Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10062026-339
+DESCRIPTION:Agenda: Planning Board - TRC (PDF)\nhttps://boscawennh.gov/Agen
+ daCenter/ViewFile/Agenda/_10062026-339\n\nAgenda: Planning Board (PDF)\nht
+ tps://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_10062026-340\n\nNotice:
+  Map 183C Lot 74 Conditional Use Permit\nhttps://boscawennh.gov/DocumentCe
+ nter/View/5576/Map-183C-Lot-74-Conditional-Use-Permit\n\nNotice: Map 183C 
+ Lot 74 Conditional Use Permit\nhttps://boscawennh.gov/DocumentCenter/View/
+ 5555/PB-PN-100626-Map-183C-Lot-74-Conditional-Use-Permit\n\nMinutes: Oct 6
+ \, 2026 Planning Board - TRC (PDF)\nhttps://boscawennh.gov/AgendaCenter/Vi
+ ewFile/Minutes/_10062026-339\n\nMinutes: Oct 6\, 2026 Planning Board (PDF)
+ \nhttps://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10062026-340\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:958d813004d1935baa19@granite-docket
+DTSTAMP:20261116T095536Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10082026-343
+DESCRIPTION:Minutes: Oct 8\, 2026 Agricultural Commission (PDF)\nhttps://ww
+ w.boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10082026-343\n\nMinutes: O
+ ct 8\, 2026 Agricultural Commission (PDF)\nhttps://boscawennh.gov/AgendaCe
+ nter/ViewFile/ArchivedMinutes/_10082026-704\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:749b70a53fb37de12879@granite-docket
+DTSTAMP:20261109T101618Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11102026-355
+DESCRIPTION:Agenda: Planning Board (PDF)\nhttps://boscawennh.gov/AgendaCent
+ er/ViewFile/Agenda/_11102026-355\n\nNotice: Capital Improvement Plan\nhttp
+ s://boscawennh.gov/DocumentCenter/View/6087/PB-PN-111026-CIP-2026-2036\n\n
+ Notice: Land Development Regulations Amendments\nhttps://boscawennh.gov/Do
+ cumentCenter/View/6082/PB-PN-111026-LDR-Amendments\n\nNotice: Land Develop
+ ment Regulations Amendments\nhttps://boscawennh.gov/DocumentCenter/View/60
+ 86/111026-PH-and-Relined-LDRs-Pkg\n\nNotice: Capital Improvement Plan\nhtt
+ ps://boscawennh.gov/DocumentCenter/View/6090/111026-CIP-PH-and-Pkg-2026-20
+ 36\n\nNotice: Amendments to the Mater Plan\nhttps://boscawennh.gov/Documen
+ tCenter/View/6742/111026-Pkg-for-Amendments-to-the-Master-Plan\n\nNotice: 
+ Amendments to the Master Plan\nhttps://boscawennh.gov/DocumentCenter/View/
+ 6593/PB-PN-111026-Amendments-Master-Plan-Housing-and-Commercial-St\n\nOthe
+ r: Land Development Regulations - Approved 11/10/26\nhttps://boscawennh.go
+ v/DocumentCenter/View/6581/Land-Development-Regulations---Approved-111026\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:cdea6939fb1192d291ba@granite-docket
+DTSTAMP:20261116T104226Z
+DTSTART;TZID=America/New_York:20261112T183000
+DURATION:PT2H
+SUMMARY:Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://www.boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11122026-356
+DESCRIPTION:Agenda: Agricultural Commission (pdf)\nhttps://www.boscawennh.g
+ ov/AgendaCenter/ViewFile/Agenda/_11122026-356\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:80438416cecade113d74@granite-docket
+DTSTAMP:20261116T095406Z
+DTSTART;TZID=America/New_York:20261120T090000
+DURATION:PT2H
+SUMMARY:Boscawen Planning board
+LOCATION:Boscawen\, NH
+URL:https://boscawennh.gov/AgendaCenter/ViewFile/Agenda/_11202026-357
+DESCRIPTION:Agenda: Planning Board - TRC (PDF)\nhttps://boscawennh.gov/Agen
+ daCenter/ViewFile/Agenda/_11202026-357\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

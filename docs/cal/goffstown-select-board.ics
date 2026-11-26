@@ -1,0 +1,505 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Goffstown Select board / council
+X-WR-CALDESC:Select board / council meetings in Goffstown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:49c8850f8ad66313728d@granite-docket
+DTSTAMP:20261103T140452Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1576
+DESCRIPTION:Agenda: Select Board Agenda Sep 28\, 2026 Select Board Regular 
+ Meeting 09/28/26\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_09
+ 282026-1576\n\nAgenda: Supervisor of the Checklist - Voter Registration 9/
+ 28/2026\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_0928202
+ 6-1580\n\nAgenda: Select Board Regular Meeting 09/28/26\nhttps://goffstown
+ nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-1466\n\nAgenda: Pack
+ et\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1576?pa
+ cket=true\n\nAgenda: Packet\nhttps://goffstownnh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_09282026-1466?packet=true\n\nMinutes: Select Board Minute
+ s Sep 28\, 2026 Select Board Regular Meeting 09/28/26\nhttps://goffstownnh
+ .gov/AgendaCenter/ViewFile/Minutes/_09282026-1576\n\nMinutes: Sep 28\, 202
+ 6 Supervisor of the Checklist - Voter Registration 9/28/2026\nhttps://www.
+ goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_09282026-1580\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:9e3d1ac1788765b40de6@granite-docket
+DTSTAMP:20261103T140415Z
+DTSTART;TZID=America/New_York:20260929T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-1574
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda 09/29/26 (PDF)\nhttps:/
+ /www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-1574\n\nAgenda
+ : Joint Loss Safety Committee Meeting Agenda (pdf)\nhttps://www.goffstownn
+ h.gov/AgendaCenter/ViewFile/Agenda/_09292026-1572\n\nMinutes: Sep 29\, 202
+ 6 Budget Committee Meeting Agenda 09/29/26 (PDF)\nhttps://www.goffstownnh.
+ gov/AgendaCenter/ViewFile/Minutes/_09292026-1574\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a023d7323e23fe58d29e@granite-docket
+DTSTAMP:20261103T140339Z
+DTSTART;TZID=America/New_York:20261005T200000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-1581
+DESCRIPTION:Agenda: Select Board Agenda Oct 5\, 2026 — Amended Oct 5\, 20
+ 26 8:58 AM Select Board Regular Meeting 10/05/26\nhttps://goffstownnh.gov/
+ AgendaCenter/ViewFile/Agenda/_10052026-1581\n\nAgenda: JOINT Budget Commit
+ tee & School Board Meeting Agenda 10/05/26 (PDF)\nhttps://www.goffstownnh.
+ gov/AgendaCenter/ViewFile/Agenda/_10052026-1582\n\nAgenda: Select Board Re
+ gular Meeting 10/05/26\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Arch
+ ivedAgenda/_10052026-1487\n\nAgenda: Select Board Regular Meeting 10/05/26
+ \nhttps://goffstownnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-1
+ 462\n\nAgenda: Packet\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Agend
+ a/_10052026-1581?packet=true\n\nAgenda: Packet\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/ArchivedAgenda/_10052026-1487?packet=true\n\nAgenda: P
+ acket\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10052
+ 026-1462?packet=true\n\nMinutes: Select Board Minutes Oct 5\, 2026 — Ame
+ nded Oct 5\, 2026 8:58 AM Select Board Regular Meeting 10/05/26\nhttps://g
+ offstownnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-1581\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:53b9ae392eebe63ad766@granite-docket
+DTSTAMP:20261103T140507Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-1588
+DESCRIPTION:Agenda: PDF\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/
+ Agenda/_10062026-1588\n\nAgenda: Packet\nhttps://goffstownnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_10062026-1588?packet=true\n\nMinutes: Oct 6\, 2026 Vi
+ llage Pedestrian Bridge Ad Hoc Committee Meeting 09/01/26 Agenda (PDF)\nht
+ tps://goffstownnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10062026-1481
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:518b586d565ca8d4f7b3@granite-docket
+DTSTAMP:20261103T140418Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-1584
+DESCRIPTION:Agenda: Economic Development Council Agenda Oct 7\, 2026 Econom
+ ic Development Council Agenda - October 7\, 202\nhttps://goffstownnh.gov/A
+ gendaCenter/ViewFile/Agenda/_10072026-1584\n\nAgenda: JOINT Budget Committ
+ ee & School Board Meeting Agenda 10/07/26 (PDF)\nhttps://www.goffstownnh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10072026-1583\n\nAgenda: Agenda for Octob
+ er 7\, 2026\, LBT Working Meeting\nhttps://www.goffstownnh.gov/AgendaCente
+ r/ViewFile/Agenda/_10072026-1593\n\nMinutes: Economic Development Council 
+ Minutes Oct 7\, 2026 Economic Development Council Agenda - October 7\, 20\
+ nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-1584\n\nM
+ inutes: Library Board of Trustees Minutes Oct 7\, 2026 Agenda for October 
+ 7\, 2026\, LBT Working Meeting\nhttps://goffstownnh.gov/AgendaCenter/ViewF
+ ile/Minutes/_10072026-1593\n\nMinutes: Oct 7\, 2026 JOINT Budget Committee
+  & School Board Meeting Agenda 10/07/26 (PDF)\nhttps://www.goffstownnh.gov
+ /AgendaCenter/ViewFile/Minutes/_10072026-1583\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c457fe015e307466aa9@granite-docket
+DTSTAMP:20261103T140444Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-1585
+DESCRIPTION:Agenda: Sewer Commission Regular Monthly Meeting\nhttps://www.g
+ offstownnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-1585\n\nMinutes: Sew
+ er Commission Minutes Oct 13\, 2026 Sewer Commission Regular Monthly Meeti
+ ng\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10132026-1585\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:824b026d013bb3e240d3@granite-docket
+DTSTAMP:20261116T070955Z
+DTSTART;TZID=America/New_York:20261019T180500
+DURATION:PT2H
+SUMMARY:Public hearing: Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1592
+DESCRIPTION:Agenda: Select Board Agenda Oct 19\, 2026 Select Board Regular 
+ Meeting 10/19/26\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 192026-1592\n\nAgenda: PDF\nhttps://www.goffstownnh.gov/AgendaCenter/ViewF
+ ile/Agenda/_10192026-1592\n\nAgenda: Packet\nhttps://goffstownnh.gov/Agend
+ aCenter/ViewFile/Agenda/_10192026-1592?packet=true\n\nAgenda: Packet\nhttp
+ s://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1592?packet
+ =true\n\nMinutes: Select Board Minutes Oct 19\, 2026 Select Board Regular 
+ Meeting 10/19/26\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_1
+ 0192026-1592\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:9f47f3054f00acd64d4a@granite-docket
+DTSTAMP:20261103T140504Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-1587
+DESCRIPTION:Agenda: Trustees of Trust Funds Meeting Agenda 10/20/2026 (PDF)
+  (RE-SCHEDULED FROM 10/13/2026)\nhttps://www.goffstownnh.gov/AgendaCenter/
+ ViewFile/Agenda/_10202026-1587\n\nMinutes: Oct 20\, 2026 — Amended Oct 1
+ 9\, 2026 10:44 AM Trustees of Trust Funds Meeting Agenda 10/20/2026 (PDF)\
+ nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10202026-1587\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7eff41f537d1c86fb573@granite-docket
+DTSTAMP:20261103T140428Z
+DTSTART;TZID=America/New_York:20261021T180000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-1595
+DESCRIPTION:Agenda: Goffstown River Advisory Committee Agenda Oct 21\, 2026
+  Goffstown River Advisory Committee Meeting 10\nhttps://goffstownnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10212026-1595\n\nAgenda: Historic District Com
+ mission Meeting Agenda 10/21/2026 (PDF)\nhttps://www.goffstownnh.gov/Agend
+ aCenter/ViewFile/Agenda/_10212026-1596\n\nAgenda: Agenda for the October 2
+ 1\, 2026\, LBT Business Meeting\nhttps://www.goffstownnh.gov/AgendaCenter/
+ ViewFile/Agenda/_10212026-1594\n\nAgenda: Parks and Recreation Commission 
+ 10/21/26 Agenda (pdf)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/A
+ genda/_10212026-1590\n\nMinutes: Library Board of Trustees Minutes Oct 21\
+ , 2026 Agenda for the October 21\, 2026\, LBT Business Meeting\nhttps://go
+ ffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10212026-1594\n\nMinutes: Oct
+  21\, 2026 Parks and Recreation Commission 10/21/26 Agenda (pdf)\nhttps://
+ www.goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10212026-1590\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:159797384382a1384502@granite-docket
+DTSTAMP:20261116T070945Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-1599
+DESCRIPTION:Agenda: Select Board Agenda Oct 26\, 2026 — Amended Oct 26\, 
+ 2026 5:38 PM Select Board Regular Meeting 10/26/2\nhttps://goffstownnh.gov
+ /AgendaCenter/ViewFile/Agenda/_10262026-1599\n\nAgenda: PDF\nhttps://www.g
+ offstownnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-1599\n\nAgenda: Supe
+ rvisor of the Checklist - Voter Registration 10/26/2026\nhttps://www.goffs
+ townnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-1586\n\nAgenda: Select B
+ oard Regular Meeting 10/26/26\nhttps://goffstownnh.gov/AgendaCenter/ViewFi
+ le/ArchivedAgenda/_10262026-1504\n\nAgenda: Packet\nhttps://goffstownnh.go
+ v/AgendaCenter/ViewFile/Agenda/_10262026-1599?packet=true\n\nAgenda: Packe
+ t\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-1599
+ ?packet=true\n\nAgenda: Packet\nhttps://goffstownnh.gov/AgendaCenter/ViewF
+ ile/ArchivedAgenda/_10262026-1504?packet=true\n\nMinutes: Select Board Min
+ utes Oct 26\, 2026 — Amended Oct 26\, 2026 5:38 PM Select Board Regular 
+ Meeting 10/26/\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_102
+ 62026-1599\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:81506502636364978510@granite-docket
+DTSTAMP:20261103T140411Z
+DTSTART;TZID=America/New_York:20261028T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-1597
+DESCRIPTION:Agenda: Conservation Commission October 28\, 2026\, Meeting Age
+ nda\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-15
+ 97\n\nAgenda: Historic District Commission Meeting Agenda 10/28/2026 (PDF)
+ \nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-1600\
+ n\nMinutes: Oct 28\, 2026 Conservation Commission October 28\, 2026\, Meet
+ ing Agenda\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_102
+ 82026-1597\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:57cec8279baa0e78cff2@granite-docket
+DTSTAMP:20261116T071225Z
+DTSTART;TZID=America/New_York:20261104T180000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-1605
+DESCRIPTION:Agenda: Economic Development Council Agenda Nov 4\, 2026 Econom
+ ic Development Council November 4\, 2026\, Meeti\nhttps://goffstownnh.gov/
+ AgendaCenter/ViewFile/Agenda/_11042026-1605\n\nAgenda: Agenda for the Nove
+ mber 4\, 2026\, LBT Working Meeting\nhttps://www.goffstownnh.gov/AgendaCen
+ ter/ViewFile/Agenda/_11042026-1611\n\nAgenda: Village Pedestrian Bridge Ad
+  Hoc Committee Meeting 11/4/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_11042026-1589\n\nMinutes: Economic Development Counc
+ il Minutes Nov 4\, 2026 Economic Development Council November 4\, 2026\, M
+ eet\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_11042026-1605\
+ n\nMinutes: Library Board of Trustees Minutes Nov 4\, 2026 Agenda for the 
+ November 4\, 2026\, LBT Working Meeting\nhttps://goffstownnh.gov/AgendaCen
+ ter/ViewFile/Minutes/_11042026-1611\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a731aafce369d7653922@granite-docket
+DTSTAMP:20261116T075701Z
+DTSTART;TZID=America/New_York:20261107T090000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11072026-1603
+DESCRIPTION:Agenda: Goffstown Conservation Commission Acorn Drive Site Walk
+  on November 07\, 2026\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/
+ Agenda/_11072026-1603\n\nMinutes: Nov 7\, 2026 Goffstown Conservation Comm
+ ission Acorn Drive Site Walk on November 07\, 2026\nhttps://www.goffstownn
+ h.gov/AgendaCenter/ViewFile/Minutes/_11072026-1603\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:37d6a5800b787a7ac696@granite-docket
+DTSTAMP:20261109T070509Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-1613
+DESCRIPTION:Agenda: Select Board Agenda Nov 9\, 2026 Select Board Regular M
+ eeting 11/09/26\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_110
+ 92026-1613\n\nAgenda: Packet\nhttps://goffstownnh.gov/AgendaCenter/ViewFil
+ e/Agenda/_11092026-1613?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:93d1dd5ca81512d9e259@granite-docket
+DTSTAMP:20261123T075208Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-1607
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 11
+ /10/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 102026-1607\n\nAgenda: Sewer Commission Regular Monthly Meeting (pdf)\nhtt
+ ps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-1610\n\nMi
+ nutes: Sewer Commission Minutes Nov 10\, 2026 Sewer Commission Regular Mon
+ thly Meeting (pdf)\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/
+ _11102026-1610\n\nMinutes: Nov 10\, 2026 Budget Committee Meeting Agenda -
+  Town Deliberations 11/10/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCent
+ er/ViewFile/Minutes/_11102026-1607\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6b39686bac6f14b03d79@granite-docket
+DTSTAMP:20261123T075158Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1608
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 11
+ /12/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 122026-1608\n\nMinutes: Nov 12\, 2026 Budget Committee Meeting Agenda - To
+ wn Deliberations 11/12/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/
+ ViewFile/Minutes/_11122026-1608\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c5b6e8ed4a91796c602@granite-docket
+DTSTAMP:20261123T075318Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-1612
+DESCRIPTION:Agenda: Supervisor of the Checklist - Voter Registration 11/16/
+ 2026\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-1
+ 612\n\nAgenda: PDF\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agen
+ da/_11162026-1609\n\nAgenda: Packet\nhttps://goffstownnh.gov/AgendaCenter/
+ ViewFile/Agenda/_11162026-1609?packet=true\n\nMinutes: Nov 16\, 2026 Super
+ visor of the Checklist - Voter Registration 11/16/2026\nhttps://www.goffst
+ ownnh.gov/AgendaCenter/ViewFile/Minutes/_11162026-1612\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:85784dd0bf6eb287c5d2@granite-docket
+DTSTAMP:20261123T075148Z
+DTSTART;TZID=America/New_York:20261117T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-1615
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 11
+ /17/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 172026-1615\n\nMinutes: Nov 17\, 2026 Budget Committee Meeting Agenda - To
+ wn Deliberations 11/17/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/
+ ViewFile/Minutes/_11172026-1615\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:75465614b6c747615f2f@granite-docket
+DTSTAMP:20261123T075229Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-1627
+DESCRIPTION:Agenda: Agenda for the November 18\, 2026\, LBT Business Meetin
+ g\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-1627
+ \n\nMinutes: Library Board of Trustees Minutes Nov 18\, 2026 Agenda for th
+ e November 18\, 2026\, LBT Business Meetin\nhttps://goffstownnh.gov/Agenda
+ Center/ViewFile/Minutes/_11182026-1627\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d43c158d674082a81a4a@granite-docket
+DTSTAMP:20261116T075621Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11192026-1616
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 11
+ /19/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 192026-1616\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e99e21f7de171b871dc8@granite-docket
+DTSTAMP:20261123T070652Z
+DTSTART;TZID=America/New_York:20261123T181500
+DURATION:PT2H
+SUMMARY:Public hearing: Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11232026-1629
+DESCRIPTION:Agenda: Select Board Agenda Nov 23\, 2026 Select Board Regular 
+ Meeting 11/23/26\nhttps://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 232026-1629\n\nAgenda: Packet\nhttps://goffstownnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_11232026-1629?packet=true\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:8064e75eb93004633b59@granite-docket
+DTSTAMP:20261116T075611Z
+DTSTART;TZID=America/New_York:20261124T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-1617
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 11
+ /24/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11
+ 242026-1617\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aa772346e261d08cc218@granite-docket
+DTSTAMP:20261116T075601Z
+DTSTART;TZID=America/New_York:20261201T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12012026-1618
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 12
+ /01/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12
+ 012026-1618\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc3dbc543ee5ce6241c@granite-docket
+DTSTAMP:20261116T075551Z
+DTSTART;TZID=America/New_York:20261203T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12032026-1619
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 12
+ /03/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12
+ 032026-1619\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a668ce9821f5b4f5c166@granite-docket
+DTSTAMP:20261116T075541Z
+DTSTART;TZID=America/New_York:20261208T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12082026-1620
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 12
+ /08/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12
+ 082026-1620\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:405fe80b857fe5590169@granite-docket
+DTSTAMP:20261116T075531Z
+DTSTART;TZID=America/New_York:20261210T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12102026-1621
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 12
+ /10/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12
+ 102026-1621\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a91bf07f24bfbb7d0c36@granite-docket
+DTSTAMP:20261116T075521Z
+DTSTART;TZID=America/New_York:20261215T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12152026-1622
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 12
+ /15/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12
+ 152026-1622\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e73d45ec11b3a6e1cf7@granite-docket
+DTSTAMP:20261116T075511Z
+DTSTART;TZID=America/New_York:20261217T190000
+DURATION:PT2H
+SUMMARY:Goffstown Select board / council
+LOCATION:Goffstown\, NH
+URL:https://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12172026-1623
+DESCRIPTION:Agenda: Budget Committee Meeting Agenda - Town Deliberations 12
+ /17/26 (PDF)\nhttps://www.goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12
+ 172026-1623\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+END:VCALENDAR

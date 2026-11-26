@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brookfield NH meetings
+X-WR-CALDESC:Public meetings of Brookfield\, NH boards\, from posted agenda
+ s and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e0faa8d01513ac27e59f@granite-docket
+DTSTAMP:20261123T100314Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-152
+DESCRIPTION:Agenda: Select Board Agenda - 10-06-2026\nhttps://www.brookfiel
+ dnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-152\n\nMinutes: Oct 6\, 202
+ 6 Select Board Agenda - 10-06-2026\nhttps://www.brookfieldnh.gov/AgendaCen
+ ter/ViewFile/Minutes/_10062026-152\n\nOther: Rules of Procedure\nhttps://w
+ ww.brookfieldnh.gov/DocumentCenter/View/1795/ROP---FINAL--DRAFT-10-6-26\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9aa4b88e6861f04fb452@granite-docket
+DTSTAMP:20261103T124130Z
+DTSTART;TZID=America/New_York:20261007T100000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-154
+DESCRIPTION:Agenda: Conservation Commission Agenda 10-7-2026\nhttps://www.b
+ rookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-154\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c1a1b8ad2960e27dbc1c@granite-docket
+DTSTAMP:20261123T100424Z
+DTSTART;TZID=America/New_York:20261012T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Brookfield Planning board
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10122026-153
+DESCRIPTION:Agenda: Planning Board Agenda 10-12-2026\nhttps://www.brookfiel
+ dnh.gov/AgendaCenter/ViewFile/Agenda/_10122026-153\n\nAgenda: Planning Boa
+ rd Agenda 10-12-2026\nhttps://www.brookfieldnh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10122026-46\n\nMinutes: Oct 12\, 2026 — Amended Oct 7\, 2
+ 026 4:58 PM Planning Board Agenda 10-12-2026\nhttps://www.brookfieldnh.gov
+ /AgendaCenter/ViewFile/Minutes/_10122026-153\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce6e43f887dd0facbbc@granite-docket
+DTSTAMP:20261103T124940Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookfield Zoning / ZBA
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/DocumentCenter/View/1801/2026-10-14-Motion
+ -for-Rehearing
+DESCRIPTION:Notice: Ministeri Motion for Rehearing Documents\nhttps://www.b
+ rookfieldnh.gov/DocumentCenter/View/1801/2026-10-14-Motion-for-Rehearing\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:43401c65e65a83e527cf@granite-docket
+DTSTAMP:20261123T101804Z
+DTSTART;TZID=America/New_York:20261014T170000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-155
+DESCRIPTION:Agenda: Heritage Commission Agenda\nhttps://www.brookfieldnh.go
+ v/AgendaCenter/ViewFile/Agenda/_10142026-155\n\nOther: Earth Excavation an
+ d Restoration Regulations\nhttps://www.brookfieldnh.gov/DocumentCenter/Vie
+ w/1828/Brookfield-Earth-Excavation-and-Restoration-Regulations\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0e36a0154cdcd6aa56@granite-docket
+DTSTAMP:20261123T100404Z
+DTSTART;TZID=America/New_York:20261019T100000
+DURATION:PT2H
+SUMMARY:Brookfield Town meeting / warrant
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-168
+DESCRIPTION:Agenda: Conservation Commission special meeting and public walk
+  10-19-2026\nhttps://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 192026-168\n\nMinutes: Oct 19\, 2026 Conservation Commission special meeti
+ ng and public walk 10-19-2026\nhttps://www.brookfieldnh.gov/AgendaCenter/V
+ iewFile/Minutes/_10192026-168\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3758a7e3947c1a926402@granite-docket
+DTSTAMP:20261123T100304Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-156
+DESCRIPTION:Agenda: Agenda SB for 10-20-2026\nhttps://www.brookfieldnh.gov/
+ AgendaCenter/ViewFile/Agenda/_10202026-156\n\nMinutes: Oct 20\, 2026 Agend
+ a SB for 10-20-2026\nhttps://www.brookfieldnh.gov/AgendaCenter/ViewFile/Mi
+ nutes/_10202026-156\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9c08fd859f31fbc74b8f@granite-docket
+DTSTAMP:20261123T100254Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-174
+DESCRIPTION:Agenda: Select Board Meeting 10-22-2026\nhttps://www.brookfield
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10222026-174\n\nMinutes: Oct 22\, 202
+ 6 Select Board Meeting 10-22-2026\nhttps://www.brookfieldnh.gov/AgendaCent
+ er/ViewFile/Minutes/_10222026-174\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:308008724ed58a5bd6a7@granite-docket
+DTSTAMP:20261103T125030Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookfield Planning board
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/1388/Rules-of-Procedure
+DESCRIPTION:Other: Rules of Procedure\nhttps://www.brookfieldnh.gov/1388/Ru
+ les-of-Procedure\n\nOther: Application for Subdivision of Land/Lots\nhttps
+ ://www.brookfieldnh.gov/DocumentCenter/View/1799/Application-for-Subdivisi
+ on-of-Land-Lots\n\nOther: Application for Site Plan Review: Major/Minor\nh
+ ttps://www.brookfieldnh.gov/DocumentCenter/View/1797/Application-for-Site-
+ Plan-Review-MajorMinor\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:60544ddfacba46a2c10b@granite-docket
+DTSTAMP:20261103T124721Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Brookfield Zoning / ZBA
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/DocumentCenter/View/1800/2026-10-26_-Notic
+ e-of-ZBA-Public-Hearingpdf-
+DESCRIPTION:Notice: ZBA Public Meeting Notice Details\nhttps://www.brookfie
+ ldnh.gov/DocumentCenter/View/1800/2026-10-26_-Notice-of-ZBA-Public-Hearing
+ pdf-\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:96501762664ff3bd5ed5@granite-docket
+DTSTAMP:20261103T124415Z
+DTSTART;TZID=America/New_York:20261027T170000
+DURATION:PT2H
+SUMMARY:Brookfield Municipal Records Committee Meeting 10-27-26
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1027
+ 2026-56
+DESCRIPTION:Agenda: Municipal Records Committee Meeting 10-27-26\nhttps://w
+ ww.brookfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-56\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b30f304c42569c487098@granite-docket
+DTSTAMP:20261123T105204Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:Brookfield Application for Voluntary Parcel Merger
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/1490/Application-for-Voluntary-Parcel-Merg
+ er
+DESCRIPTION:Other: Application for Voluntary Parcel Merger\nhttps://www.bro
+ okfieldnh.gov/1490/Application-for-Voluntary-Parcel-Merger\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d6b9b93cc519705c27d0@granite-docket
+DTSTAMP:20261123T101724Z
+DTSTART;TZID=America/New_York:20261027T170000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-161
+DESCRIPTION:Agenda: Municipal Records Committee Meeting 10-27-26\nhttps://w
+ ww.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-161\n\nMinutes:
+  Oct 27\, 2026 Municipal Records Committee Meeting 10-27-26\nhttps://www.b
+ rookfieldnh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10272026-56\n\nOthe
+ r: Propane Permit Application\nhttps://www.brookfieldnh.gov/DocumentCenter
+ /View/1802/Propane-Permit--2026\n\nOther: Plumbing Permit\nhttps://www.bro
+ okfieldnh.gov/DocumentCenter/View/1806/Plumbing-Permit--2026\n\nOther: Ele
+ ctrical Permit\nhttps://www.brookfieldnh.gov/DocumentCenter/View/1805/Elec
+ trical-permit--2026\n\nOther: Application for Voluntary Parcel Merger\nhtt
+ ps://www.brookfieldnh.gov/DocumentCenter/View/1813/Application-Parcel-Merg
+ er\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9ae3c945ea416c948d@granite-docket
+DTSTAMP:20261123T102304Z
+DTSTART;TZID=America/New_York:20261103T180000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11032026-160
+DESCRIPTION:Agenda: SB Agenda Nov\, 3 2026\nhttps://www.brookfieldnh.gov/Ag
+ endaCenter/ViewFile/Agenda/_11032026-160\n\nMinutes: Nov 3\, 2026 SB Agend
+ a Nov\, 3 2026\nhttps://www.brookfieldnh.gov/AgendaCenter/ViewFile/Minutes
+ /_11032026-160\n\nOther: Brookfield results for the NH General Election on
+  November 3\, 2026 are available here .\nhttps://www.brookfieldnh.gov/Docu
+ mentCenter/View/1807/NH-General-Election-Results-11-3-26\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0767da13828b7215ee01@granite-docket
+DTSTAMP:20261123T100344Z
+DTSTART;TZID=America/New_York:20261104T170000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-159
+DESCRIPTION:Agenda: Brookfield Heritage Commission Meeting November 4\, 202
+ 6 Agenda\nhttps://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11042
+ 026-159\n\nAgenda: Conservation Commission Agenda 11-4-2026\nhttps://www.b
+ rookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-167\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4db23033e8bb41617da@granite-docket
+DTSTAMP:20261123T102054Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brookfield Zoning / ZBA
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/DocumentCenter/View/1817/FINAL_2026-11-05_
+ Ministeri-Motion-for-Rehearing
+DESCRIPTION:Notice: 11/05/2026: Ministerie Case 002 Map4 Lot15 Motion to Re
+ hear Administrative Appeal\nhttps://www.brookfieldnh.gov/DocumentCenter/Vi
+ ew/1817/FINAL_2026-11-05_Ministeri-Motion-for-Rehearing\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0d16418e9d636ee65ac5@granite-docket
+DTSTAMP:20261123T101424Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/DocumentCenter/View/1834/REVISED_2026-11-0
+ 9_SB_ROP
+DESCRIPTION:Other: Select Board Rules of Procedure\nhttps://www.brookfieldn
+ h.gov/DocumentCenter/View/1834/REVISED_2026-11-09_SB_ROP\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:21325326a3c2e7e8768d@granite-docket
+DTSTAMP:20261103T124205Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Brookfield Planning board
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-158
+DESCRIPTION:Agenda: Planning Board Agenda 11-9-2026\nhttps://www.brookfield
+ nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-158\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:dc8f44bc2431db05b40f@granite-docket
+DTSTAMP:20261123T100224Z
+DTSTART;TZID=America/New_York:20261112T140000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-172
+DESCRIPTION:Agenda: Elected Officials Work Session November 12\, 2026\nhttp
+ s://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-172\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec692e43d488f8107e53@granite-docket
+DTSTAMP:20261123T101814Z
+DTSTART;TZID=America/New_York:20261113T180000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1113
+ 2026-62
+DESCRIPTION:Agenda: Select Board Agenda\nhttps://www.brookfieldnh.gov/Agend
+ aCenter/ViewFile/ArchivedAgenda/_11132026-62\n\nOther: Municipal Fees\nhtt
+ ps://www.brookfieldnh.gov/DocumentCenter/View/1830/Municipal-Fees-word-doc
+ -with-table-by-KK-2\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f18da5cd8d5a85a378f@granite-docket
+DTSTAMP:20261123T100214Z
+DTSTART;TZID=America/New_York:20261117T180000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_11172026-173
+DESCRIPTION:Agenda: Select Board Agenda\nhttps://www.brookfieldnh.gov/Agend
+ aCenter/ViewFile/Agenda/_11172026-173\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f47d2634800f91653156@granite-docket
+DTSTAMP:20261123T100434Z
+DTSTART;TZID=America/New_York:20261214T110000
+DURATION:PT2H
+SUMMARY:Brookfield Select board / council
+LOCATION:Brookfield\, NH
+URL:https://www.brookfieldnh.gov/AgendaCenter/ViewFile/Agenda/_12142026-169
+DESCRIPTION:Agenda: Supervisor Session\nhttps://www.brookfieldnh.gov/Agenda
+ Center/ViewFile/Agenda/_12142026-169\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

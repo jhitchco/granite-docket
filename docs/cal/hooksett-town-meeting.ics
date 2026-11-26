@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hooksett Town meeting / warrant
+X-WR-CALDESC:Town meeting / warrant meetings in Hooksett\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:89d782b619f2ca0640da@granite-docket
+DTSTAMP:20261103T094906Z
+DTSTART;TZID=America/New_York:20261014T161500
+DURATION:PT2H
+SUMMARY:Hooksett Town meeting / warrant
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Hooksett Heritage Commission Special Meeting A
+ genda .pdf?t=202610131512210
+DESCRIPTION:Agenda: Heritage Commission document seq 0.00 10/14/2026\nhttps
+ ://www.hooksett.gov/Hooksett Heritage Commission Special Meeting Agenda .p
+ df?t=202610131512210\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:77f3e5c97768cbfe2650@granite-docket
+DTSTAMP:20261103T133315Z
+DTSTART;TZID=America/New_York:20261028T160000
+DURATION:PT2H
+SUMMARY:Hooksett Town meeting / warrant
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/10.28.26 TIF Agenda.pdf?t=202610270839050
+DESCRIPTION:Agenda: TIF Agenda document date 10-27-2026 10/28/2026\nhttps:/
+ /www.hooksett.gov/10.28.26 TIF Agenda.pdf?t=202610270839050\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b53ac5fed5ff8bdccb9@granite-docket
+DTSTAMP:20261109T070459Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Town meeting / warrant
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/Documents/Departments/Finance/DPW Plow Truck.p
+ df?t=202611031045530
+DESCRIPTION:Warrant: DPW Plow Truck 264\,000 0.08\nhttps://www.hooksett.gov
+ /Documents/Departments/Finance/DPW Plow Truck.pdf?t=202611031045530\n\nWar
+ rant: CR Fund - Revaluation from Fund Balance 220\,000 N/A\nhttps://www.ho
+ oksett.gov/Documents/Departments/Finance/Budget Summary/CR Revaluation.pdf
+ ?t=202611031057390\n\nWarrant: CR Fund - Information Technologies 40\,000 
+ 0.01\nhttps://www.hooksett.gov/Documents/Departments/Finance/Budgets & Yea
+ r-End Reports/CR IT.pdf?t=202611031157430\n\nWarrant: Two Police Cruisers 
+ from Fund Balance 150\,000 N/A\nhttps://www.hooksett.gov/Documents/Departm
+ ents/Finance/Budgets & Year-End Reports/PD Cruisers.pdf?t=202611031122030\
+ n\nWarrant: CR Fund - Drainage Upgrades 30\,000 0.01\nhttps://www.hooksett
+ .gov/Documents/Departments/Finance/Budgets & Year-End Reports/CR DPW Drain
+ age.pdf?t=202611031204590\n\nWarrant: Election Poll Pads 14\,200 0.004\nht
+ tps://www.hooksett.gov/Documents/Departments/Finance/Budgets & Year-End Re
+ ports/Poll Pads Warrant.pdf?t=202611031353050\n\nWarrant: CR Fund - Fire R
+ adio 150\,000 0.05\nhttps://www.hooksett.gov/Documents/Departments/Finance
+ /Budgets & Year-End Reports/CR Fire Radio 27-28.pdf?t=202611031114150\n\nW
+ arrant: CR Fund - Police ($75K Emergency Radio & $75K Equipment) 150\,000 
+ 0.05\nhttps://www.hooksett.gov/Documents/Departments/Finance/Budgets & Yea
+ r-End Reports/Police EQ Warrant 26-27.pdf?t=202611031150230\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ee71bd8c363e5e6dcb38@granite-docket
+DTSTAMP:20261123T070509Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Hooksett Town meeting / warrant
+LOCATION:Hooksett\, NH
+URL:https://www.hooksett.gov/110426ccm.pdf?t=202611160903570
+DESCRIPTION:Minutes: 11/4/2026 document date 11-16-2026 Meeting Minutes\nht
+ tps://www.hooksett.gov/110426ccm.pdf?t=202611160903570\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

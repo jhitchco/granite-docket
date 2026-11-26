@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Laconia Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Laconia\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9ac0ad0da0f0b149b215@granite-docket
+DTSTAMP:20261103T140430Z
+DTSTART;TZID=America/New_York:20261007T170000
+DURATION:PT2H
+SUMMARY:Laconia Conservation commission
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10072026-3234
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 7\, 2026 Conservatio
+ n Committee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/Agenda
+ Center/ViewFile/Agenda/_10072026-3234\n\nAgenda: Packet\nhttps://www.lacon
+ ianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-8380?packet=true\n
+ \nMinutes: Conservation Commission Minutes Oct 7\, 2026 Conservation Commi
+ ttee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/
+ ViewFile/Minutes/_10072026-3234\n\nMinutes: Oct 7\, 2026 Conservation Comm
+ ittee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter
+ /ViewFile/ArchivedMinutes/_10072026-8380\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d64a943a5c61e4bfcdf7@granite-docket
+DTSTAMP:20261123T073948Z
+DTSTART;TZID=America/New_York:20261021T170000
+DURATION:PT2H
+SUMMARY:Laconia Conservation commission
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10212026-3248
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 21\, 2026 Conservati
+ on Committee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/Agend
+ aCenter/ViewFile/Agenda/_10212026-3248\n\nAgenda: Packet\nhttps://www.laco
+ nianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-8474?packet=true\
+ n\nMinutes: Conservation Commission Minutes Oct 21\, 2026 Conservation Com
+ mittee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCente
+ r/ViewFile/Minutes/_10212026-3248\n\nMinutes: Oct 21\, 2026 Conservation C
+ ommittee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCen
+ ter/ViewFile/ArchivedMinutes/_10212026-8474\n\nMinutes: Oct 21\, 2026 Cons
+ ervation Committee Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedMinutes/_10212026-8498\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:39cfa5e5a172b8f7ffbd@granite-docket
+DTSTAMP:20261123T073838Z
+DTSTART;TZID=America/New_York:20261104T170000
+DURATION:PT2H
+SUMMARY:Laconia Conservation commission
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11042026-3264
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 4\, 2026 Conservatio
+ n Commission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/Agend
+ aCenter/ViewFile/Agenda/_11042026-3264\n\nAgenda: Packet\nhttps://www.laco
+ nianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11042026-8501?packet=true\
+ n\nMinutes: Conservation Commission Minutes Nov 4\, 2026 Conservation Comm
+ ission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCente
+ r/ViewFile/Minutes/_11042026-3264\n\nMinutes: Nov 4\, 2026 Conservation Co
+ mmission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCen
+ ter/ViewFile/ArchivedMinutes/_11042026-8501\n\nMinutes: Nov 4\, 2026 Conse
+ rvation Commission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov
+ /AgendaCenter/ViewFile/ArchivedMinutes/_11042026-8500\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5921312402f841beea8@granite-docket
+DTSTAMP:20261123T073742Z
+DTSTART;TZID=America/New_York:20261118T170000
+DURATION:PT2H
+SUMMARY:Laconia Conservation commission
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11182026-3277
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 18\, 2026 Conservati
+ on Commission Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/Agen
+ daCenter/ViewFile/Agenda/_11182026-3277\n\nAgenda: Conservation Commission
+  Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/View
+ File/ArchivedAgenda/_11182026-8477\n\nAgenda: Conservation Commission Regu
+ lar Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_11182026-8476\n\nAgenda: Conservation Commission Regular M
+ eeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_11182026-8475\n\nAgenda: Packet\nhttps://www.laconianh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_11182026-8477?packet=true\n\nAgenda: Pac
+ ket\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182
+ 026-8476?packet=true\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCe
+ nter/ViewFile/ArchivedAgenda/_11182026-8475?packet=true\n\nAgenda: Packet\
+ nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-
+ 8490?packet=true\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+END:VCALENDAR

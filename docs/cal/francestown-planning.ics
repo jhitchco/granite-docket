@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Francestown Planning board
+X-WR-CALDESC:Planning board meetings in Francestown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:77bd46763b249f498c3a@granite-docket
+DTSTAMP:20261103T121153Z
+DTSTART;TZID=America/New_York:20260929T183000
+DURATION:PT2H
+SUMMARY:Francestown Planning board
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/AgendaCenter/ViewFile/Agenda/_09292026-36
+ 3
+DESCRIPTION:Agenda: Master Plan Subcommittee Meeting\nhttps://www.francesto
+ wnnh.org/AgendaCenter/ViewFile/Agenda/_09292026-363\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd17206392474c40cb56@granite-docket
+DTSTAMP:20261103T121844Z
+DTSTART;TZID=America/New_York:20261006T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Francestown Planning board
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/AgendaCenter/ViewFile/Agenda/_10062026-36
+ 4
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://www.francestownnh.org/A
+ gendaCenter/ViewFile/Agenda/_10062026-364\n\nMinutes: Oct 6\, 2026 Plannin
+ g Board Meeting\nhttps://www.francestownnh.org/AgendaCenter/ViewFile/Minut
+ es/_10062026-364\n\nMinutes: Oct 6\, 2026 Planning Board Meeting\nhttps://
+ www.francestownnh.org/AgendaCenter/ViewFile/ArchivedMinutes/_10062026-132\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e82c41315ed7be794963@granite-docket
+DTSTAMP:20261123T095847Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Francestown Planning board
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/AgendaCenter/ViewFile/Agenda/_10202026-37
+ 2
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://www.francestownnh.org/A
+ gendaCenter/ViewFile/Agenda/_10202026-372\n\nMinutes: Oct 20\, 2026 Planni
+ ng Board Meeting\nhttps://www.francestownnh.org/AgendaCenter/ViewFile/Minu
+ tes/_10202026-372\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:98ab396a5695b131f06f@granite-docket
+DTSTAMP:20261123T101317Z
+DTSTART;TZID=America/New_York:20261106T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Francestown Planning board
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/DocumentCenter/View/2431
+DESCRIPTION:Notice: Please view full Public Notice here: /DocumentCenter/Vi
+ ew/2431\nhttps://www.francestownnh.org/DocumentCenter/View/2431\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ae164a7962f20c0f7a7a@granite-docket
+DTSTAMP:20261123T095817Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+SUMMARY:Francestown Planning board
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/AgendaCenter/ViewFile/Minutes/_11082026-3
+ 93
+DESCRIPTION:Minutes: Nov 8\, 2026 Planning Board Site Walk\nhttps://www.fra
+ ncestownnh.org/AgendaCenter/ViewFile/Minutes/_11082026-393\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:de746784c246d11693da@granite-docket
+DTSTAMP:20261123T100327Z
+DTSTART;TZID=America/New_York:20261110T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Francestown Planning board
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/AgendaCenter/ViewFile/Agenda/_11102026-37
+ 8
+DESCRIPTION:Agenda: Planning Board Public Hearing\nhttps://www.francestownn
+ h.org/AgendaCenter/ViewFile/Agenda/_11102026-378\n\nAgenda: Planning Board
+  Public Hearing\nhttps://www.francestownnh.org/AgendaCenter/ViewFile/Archi
+ vedAgenda/_11102026-136\n\nAgenda: Planning Board Public Hearing\nhttps://
+ www.francestownnh.org/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-140\n
+ \nMinutes: Nov 10\, 2026 — Amended Nov 9\, 2026 8:12 AM Planning Board P
+ ublic Hearing\nhttps://www.francestownnh.org/AgendaCenter/ViewFile/Minutes
+ /_11102026-378\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b7010e16e11ab45ee5c4@granite-docket
+DTSTAMP:20261123T095747Z
+DTSTART;TZID=America/New_York:20261113T130000
+DURATION:PT2H
+SUMMARY:Francestown Planning board
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/AgendaCenter/ViewFile/Agenda/_11132026-38
+ 9
+DESCRIPTION:Agenda: Planning Board Meeting - Completeness Review Committee\
+ nhttps://www.francestownnh.org/AgendaCenter/ViewFile/Agenda/_11132026-389\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e48c120575e0a7794c93@granite-docket
+DTSTAMP:20261123T095737Z
+DTSTART;TZID=America/New_York:20261117T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Francestown Planning board
+LOCATION:Francestown\, NH
+URL:https://www.francestownnh.org/AgendaCenter/ViewFile/Agenda/_11172026-39
+ 0
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://www.francestownnh.org/A
+ gendaCenter/ViewFile/Agenda/_11172026-390\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

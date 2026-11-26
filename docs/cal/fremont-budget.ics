@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fremont Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Fremont\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:233ddf57a16992ef8226@granite-docket
+DTSTAMP:20261103T104422Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Budget / CIP
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_09302026-276
+DESCRIPTION:Minutes: Budget Committee Agenda Sep 30\, 2026 Budget Committee
+  Minutes\nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_0930202
+ 6-276\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd09f9641d32e56451fb@granite-docket
+DTSTAMP:20261103T104421Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Fremont Budget / CIP
+LOCATION:Fremont\, NH
+URL:https://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-283
+DESCRIPTION:Minutes: Budget Committee Agenda Oct 14\, 2026 Budget Committee
+  Minutes\nhttps://www.fremont.nh.gov/AgendaCenter/ViewFile/Agenda/_1014202
+ 6-283\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+END:VCALENDAR

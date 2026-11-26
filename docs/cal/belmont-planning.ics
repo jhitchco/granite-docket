@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belmont Planning board
+X-WR-CALDESC:Planning board meetings in Belmont\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9f581c75643140400424@granite-docket
+DTSTAMP:20261103T102130Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Belmont Planning board
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/05/260928PBAgend
+ a-revised.pdf
+DESCRIPTION:Agenda: 260928PBAgenda revised Download the Agenda\nhttps://bel
+ montnh.gov/wp-content/uploads/sites/38/2026/05/260928PBAgenda-revised.pdf\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:27ffa574b61372f304b9@granite-docket
+DTSTAMP:20261103T102130Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Belmont Planning board
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/05/261026-PB-Min
+ utes.pdf
+DESCRIPTION:Minutes: 261026 PB Minutes Download the Minutes\nhttps://belmon
+ tnh.gov/wp-content/uploads/sites/38/2026/05/261026-PB-Minutes.pdf\n\nMinut
+ es: 260928 PB Minutes Download the Minutes\nhttps://belmontnh.gov/wp-conte
+ nt/uploads/sites/38/2026/05/260928-PB-Minutes.pdf\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5926a903416b791aad3e@granite-docket
+DTSTAMP:20261103T102124Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Belmont Planning board
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/05/261026-PBAgen
+ da.pdf
+DESCRIPTION:Agenda: 261026 PBAgenda Download the Agenda\nhttps://belmontnh.
+ gov/wp-content/uploads/sites/38/2026/05/261026-PBAgenda.pdf\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e3130ec34ce1c507eb@granite-docket
+DTSTAMP:20261103T104544Z
+DTSTART;TZID=America/New_York:20261106T160000
+DURATION:PT2H
+SUMMARY:Belmont Planning board
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/11/CCTAgenda2611
+ 06.pdf
+DESCRIPTION:Agenda: Cemetery Trustees Agenda 11/06/2026 Download the Agenda
+ \nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/11/CCTAgenda26110
+ 6.pdf\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:71aefbe365cb70e51173@granite-docket
+DTSTAMP:20261116T083625Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Belmont Planning board
+LOCATION:Belmont\, NH
+URL:https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/2611118-PBAge
+ nda.pdf
+DESCRIPTION:Agenda: 2611118 PBAgenda Document posted: November 10\, 2026 Do
+ wnload the Agenda\nhttps://belmontnh.gov/wp-content/uploads/sites/38/2026/
+ 10/2611118-PBAgenda.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

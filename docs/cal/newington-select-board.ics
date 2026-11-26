@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newington Select board / council
+X-WR-CALDESC:Select board / council meetings in Newington\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5774f80384d4197a6d1d@granite-docket
+DTSTAMP:20261103T131249Z
+DTSTART;TZID=America/New_York:20260929T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-226
+DESCRIPTION:Agenda: Board of Selectmen Agenda Sep 29\, 2026 BOS Meeting Age
+ nda 9-29-26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_092
+ 92026-226\n\nMinutes: Board of Selectmen Minutes Sep 29\, 2026 BOS Meeting
+  Agenda 9-29-26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Minutes
+ /_09292026-226\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a734fca3eb33c58956ee@granite-docket
+DTSTAMP:20261103T131249Z
+DTSTART;TZID=America/New_York:20261006T174500
+DURATION:PT2H
+SUMMARY:Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-229
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 6\, 2026 BOS Meeting 10-6
+ -26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-22
+ 9\n\nMinutes: Board of Selectmen Minutes Oct 6\, 2026 BOS Meeting 10-6-26\
+ nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-229\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:caa3ec391f36500dc329@granite-docket
+DTSTAMP:20261103T131248Z
+DTSTART;TZID=America/New_York:20261020T173000
+DURATION:PT2H
+SUMMARY:Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-231
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 20\, 2026 BOS Agenda 10-2
+ 0-26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-2
+ 31\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7d60d3ee0276a31759@granite-docket
+DTSTAMP:20261103T131248Z
+DTSTART;TZID=America/New_York:20261026T100000
+DURATION:PT2H
+SUMMARY:Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-234
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 26\, 2026 Board of Select
+ men's Meeting\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_1
+ 0262026-234\n\nAgenda: Board of Selectmen Agenda Oct 26\, 2026 — Amended
+  Oct 23\, 2026 10:56 AM Board of Selectmen's Meeting \nhttps://www.newingt
+ onnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-233\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:848158942c85b6098161@granite-docket
+DTSTAMP:20261103T131429Z
+DTSTART;TZID=America/New_York:20261027T173000
+DURATION:PT2H
+SUMMARY:Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-235
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 27\, 2026 BOS Meeting Age
+ nda 10/27/26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 272026-235\n\nAgenda: BOS Meeting Agenda 10/27/26\nhttps://www.newingtonnh
+ .gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-68\n\nAgenda: BOS Meet
+ ing Agenda 10/27/26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Arc
+ hivedAgenda/_10272026-66\n\nAgenda: BOS Meeting Agenda 10/27/26\nhttps://w
+ ww.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-65\n\nAg
+ enda: BOS Meeting Agenda 10/27/26\nhttps://www.newingtonnh.gov/AgendaCente
+ r/ViewFile/ArchivedAgenda/_10272026-58\n\nAgenda: BOS Meeting Agenda 10/27
+ /26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_102
+ 72026-57\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+END:VCALENDAR

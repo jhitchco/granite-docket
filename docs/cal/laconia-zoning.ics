@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Laconia Zoning / ZBA
+X-WR-CALDESC:Zoning / ZBA meetings in Laconia\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fdf0360a3687878e1590@granite-docket
+DTSTAMP:20261103T143820Z
+DTSTART;TZID=America/New_York:20261019T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Laconia Zoning / ZBA
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10192026-3242
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 19\, 2026 — Ame
+ nded Oct 13\, 2026 4:08 PM Zoning Board of Adjust\nhttps://www.laconianh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10192026-3242\n\nAgenda: Zoning Board of 
+ Adjustment Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_10192026-8376\n\nAgenda: Zoning Board of Ad
+ justment Regular Meeting Agenda (PDF)\nhttps://www.laconianh.gov/AgendaCen
+ ter/ViewFile/ArchivedAgenda/_10192026-8375\n\nAgenda: Packet\nhttps://www.
+ laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-8420?packet=t
+ rue\n\nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Arc
+ hivedAgenda/_10192026-8376?packet=true\n\nAgenda: Packet\nhttps://www.laco
+ nianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-8375?packet=true\
+ n\nMinutes: Zoning Board of Adjustment Minutes Oct 19\, 2026 — Amended O
+ ct 13\, 2026 4:08 PM Zoning Board of Adjus\nhttps://www.laconianh.gov/Agen
+ daCenter/ViewFile/Minutes/_10192026-3242\n\nMinutes: Oct 19\, 2026 — Ame
+ nded Oct 22\, 2026 3:21 PM Zoning Board of Adjustment Regular Meeting Agen
+ da (PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/
+ _10192026-8420\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:185117660ae05d6af9a0@granite-docket
+DTSTAMP:20261103T143246Z
+DTSTART;TZID=America/New_York:20261020T100000
+DURATION:PT2H
+SUMMARY:Laconia Zoning / ZBA
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1020202
+ 6-8388
+DESCRIPTION:Agenda: Technical Review Committee Regular Meeting (PDF)\nhttps
+ ://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-8388\n
+ \nAgenda: Packet\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/Archived
+ Agenda/_10202026-8388?packet=true\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c91f1190b7b7fde41dc@granite-docket
+DTSTAMP:20261123T081205Z
+DTSTART;TZID=America/New_York:20261116T183000
+DURATION:PT2H
+SUMMARY:Laconia Zoning / ZBA
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3269
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Nov 16\, 2026 Zoning 
+ Board of Adjustment Regular Meeting Agenda (PD\nhttps://www.laconianh.gov/
+ AgendaCenter/ViewFile/Agenda/_11162026-3269\n\nAgenda: Packet\nhttps://www
+ .laconianh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11162026-8497?packet=
+ true\n\nMinutes: Zoning Board of Adjustment Minutes Nov 16\, 2026 Zoning B
+ oard of Adjustment Regular Meeting Agenda (P\nhttps://www.laconianh.gov/Ag
+ endaCenter/ViewFile/Minutes/_11162026-3269\n\nMinutes: Nov 16\, 2026 Zonin
+ g Board of Adjustment Regular Meeting Agenda (PDF)\nhttps://www.laconianh.
+ gov/AgendaCenter/ViewFile/ArchivedMinutes/_11162026-8497\n\nMinutes: Nov 1
+ 6\, 2026 Zoning Board of Adjustment Regular Meeting Agenda (PDF)\nhttps://
+ www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_11162026-8495\n\n
+ Minutes: Nov 16\, 2026 Zoning Board of Adjustment Regular Meeting Agenda (
+ PDF)\nhttps://www.laconianh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_111
+ 62026-8487\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f9be7578f0c24abcfd@granite-docket
+DTSTAMP:20261103T145310Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+TRANSP:TRANSPARENT
+SUMMARY:Laconia Zoning / ZBA
+LOCATION:Laconia\, NH
+URL:https://www.laconianh.gov/DocumentCenter/View/12695/Zoning-Board-Of-Adj
+ ustment-2026pdf
+DESCRIPTION:Minutes: Zoning Board Of Adjustment 2026.pdf\nhttps://www.lacon
+ ianh.gov/DocumentCenter/View/12695/Zoning-Board-Of-Adjustment-2026pdf\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,202 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Franconia NH meetings
+X-WR-CALDESC:Public meetings of Franconia\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cda43de03096d4b2b228@granite-docket
+DTSTAMP:20261103T122200Z
+DTSTART;TZID=America/New_York:20260928T160000
+DURATION:PT2H
+SUMMARY:Franconia Select board / council
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/september_28_2026_
+ selectmens_meeting.pdf
+DESCRIPTION:Agenda: 09/28/2026\nhttps://www.franconianh.gov/uploads/1/1/6/8
+ /11680191/september_28_2026_selectmens_meeting.pdf\n\nMinutes: September 2
+ 8\, 2026\nhttps://www.franconianh.gov/uploads/1/1/6/8/11680191/september_2
+ 8_2026_selectmen_minutes.pdf\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:902a78eb551b22e8927c@granite-docket
+DTSTAMP:20261103T122339Z
+DTSTART;TZID=America/New_York:20260929T180000
+DURATION:PT2H
+SUMMARY:Franconia Planning board
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/09.29.2026.docx
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.franconianh.gov/uplo
+ ads/1/1/6/8/11680191/09.29.2026.docx\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8e8112e30476281251@granite-docket
+DTSTAMP:20261123T095650Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Franconia Conservation commission
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/fcc_11-2-2026.docx
+DESCRIPTION:Minutes: Meeting Minutes 11-02-2026 10-05-2026 08-03-2026 06-02
+ -2026 05-05-2026 04-07-2026 03-03-2026 02-03-2\nhttps://www.franconianh.go
+ v/uploads/1/1/6/8/11680191/fcc_11-2-2026.docx\n\nMinutes: Meeting Minutes 
+ 11-02-2026 10-05-2026 08-03-2026 06-02-2026 05-05-2026 04-07-2026 03-03-20
+ 26 02-03-2\nhttps://www.franconianh.gov/uploads/1/1/6/8/11680191/fcc_10-5-
+ 2026.docx\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c5be3548843027bc1bff@granite-docket
+DTSTAMP:20261103T122159Z
+DTSTART;TZID=America/New_York:20261005T160000
+DURATION:PT2H
+SUMMARY:Franconia Select board / council
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/october_5_2026_sel
+ ectmens_agenda.pdf
+DESCRIPTION:Agenda: 10/05/2026\nhttps://www.franconianh.gov/uploads/1/1/6/8
+ /11680191/october_5_2026_selectmens_agenda.pdf\n\nMinutes: October 5\, 202
+ 6\nhttps://www.franconianh.gov/uploads/1/1/6/8/11680191/october_5_2026_sel
+ ectmen_minutes.docx\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:266d0de0a410d91a9e8d@granite-docket
+DTSTAMP:20261123T095648Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Franconia Planning board
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/10.13.2026.docx
+DESCRIPTION:Minutes: October 13\, 2026\nhttps://www.franconianh.gov/uploads
+ /1/1/6/8/11680191/10.13.2026.docx\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:86f30b2719e1eb8b0620@granite-docket
+DTSTAMP:20261103T122159Z
+DTSTART;TZID=America/New_York:20261019T160000
+DURATION:PT2H
+SUMMARY:Franconia Select board / council
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/october_19_2026_se
+ lectmens_agenda.pdf
+DESCRIPTION:Agenda: 10/19/2026\nhttps://www.franconianh.gov/uploads/1/1/6/8
+ /11680191/october_19_2026_selectmens_agenda.pdf\n\nMinutes: October 19\, 2
+ 026\nhttps://www.franconianh.gov/uploads/1/1/6/8/11680191/october_19_2026_
+ selectmen_minutes.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e20522df6c08aab31a0@granite-docket
+DTSTAMP:20261123T095641Z
+DTSTART;TZID=America/New_York:20261026T160000
+DURATION:PT2H
+SUMMARY:Franconia Select board / council
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/october_26_2026_se
+ lectmens_agenda.pdf
+DESCRIPTION:Agenda: 10/26/2026\nhttps://www.franconianh.gov/uploads/1/1/6/8
+ /11680191/october_26_2026_selectmens_agenda.pdf\n\nMinutes: October 26\, 2
+ 026\nhttps://www.franconianh.gov/uploads/1/1/6/8/11680191/october_26_2026_
+ selectmen_minutes.docx\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c452698a5fe418b34e52@granite-docket
+DTSTAMP:20261123T095641Z
+DTSTART;TZID=America/New_York:20261109T160000
+DURATION:PT2H
+SUMMARY:Franconia Select board / council
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/november_9_2026_se
+ lectmens_agenda.pdf
+DESCRIPTION:Agenda: 11/09/2026\nhttps://www.franconianh.gov/uploads/1/1/6/8
+ /11680191/november_9_2026_selectmens_agenda.pdf\n\nMinutes: November 9\, 2
+ 026\nhttps://www.franconianh.gov/uploads/1/1/6/8/11680191/november_9_2026_
+ selectmen_minutes.pdf\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b1bd4e00086b09291e42@granite-docket
+DTSTAMP:20261123T095647Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Franconia Planning board
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/11.10.2026.docx
+DESCRIPTION:Agenda: Planning Board Agenda\nhttps://www.franconianh.gov/uplo
+ ads/1/1/6/8/11680191/11.10.2026.docx\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb31224901555f5e4d9f@granite-docket
+DTSTAMP:20261123T095640Z
+DTSTART;TZID=America/New_York:20261116T160000
+DURATION:PT2H
+SUMMARY:Franconia Select board / council
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/november_16_2026_s
+ electmens_agenda.pdf
+DESCRIPTION:Agenda: 11/16/2026\nhttps://www.franconianh.gov/uploads/1/1/6/8
+ /11680191/november_16_2026_selectmens_agenda.pdf\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad6155fee9aac48893a@granite-docket
+DTSTAMP:20261123T095640Z
+DTSTART;TZID=America/New_York:20261123T160000
+DURATION:PT2H
+SUMMARY:Franconia Select board / council
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/november_23_2026_s
+ electmens_agenda.pdf
+DESCRIPTION:Agenda: 11/23/2026\nhttps://www.franconianh.gov/uploads/1/1/6/8
+ /11680191/november_23_2026_selectmens_agenda.pdf\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a97067036fefd4c6a345@granite-docket
+DTSTAMP:20261103T122653Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Franconia Energy committee
+LOCATION:Franconia\, NH
+URL:https://www.franconianh.gov/uploads/1/1/6/8/11680191/2027_rate_increase
+ _hearing_-_approved.pdf
+DESCRIPTION:Notice: 2027 Rate Increase Information · ​ Water Department 
+ hours: TueSDAY 11am to 4pm ​or by Appointment ​ \nhttps://www.franconi
+ anh.gov/uploads/1/1/6/8/11680191/2027_rate_increase_hearing_-_approved.pdf
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

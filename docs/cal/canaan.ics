@@ -1,0 +1,509 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canaan NH meetings
+X-WR-CALDESC:Public meetings of Canaan\, NH boards\, from posted agendas an
+ d minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4b3eeb9432244e115ac9@granite-docket
+DTSTAMP:20261103T111957Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_0928202
+ 6-487
+DESCRIPTION:Minutes: Sep 28\, 2026 Cemetery Trustee Committee Regular Meeti
+ ng Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/
+ _09282026-487\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:94b72bf5c2f061a0b4d6@granite-docket
+DTSTAMP:20261103T111400Z
+DTSTART;TZID=America/New_York:20260928T163000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_09282026-475
+DESCRIPTION:Agenda: Cemetery Trustee Committee Regular Meeting Agenda\nhttp
+ s://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_09282026-475\n\nMinutes
+ : Sep 28\, 2026 Cemetery Trustee Committee Regular Meeting Agenda\nhttps:/
+ /www.canaannh.gov/AgendaCenter/ViewFile/Minutes/_09282026-475\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:65d7d68af7cfc93ad929@granite-docket
+DTSTAMP:20261103T112527Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10062026-479
+DESCRIPTION:Agenda: Selectboard Regular Meeting Agenda\nhttps://www.canaann
+ h.gov/AgendaCenter/ViewFile/Agenda/_10062026-479\n\nMinutes: Oct 6\, 2026 
+ Selectboard Regular Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/
+ ViewFile/Minutes/_10062026-479\n\nMinutes: Oct 6\, 2026 Selectboard Regula
+ r Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedM
+ inutes/_10062026-493\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:192a02d356c887cbc592@granite-docket
+DTSTAMP:20261103T112221Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Town meeting / warrant
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026
+ -485
+DESCRIPTION:Agenda: Historic District Commission Special Meeting Agenda\nht
+ tps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-485\
+ n\nAgenda: Historic District Commission Special Meeting\nhttps://www.canaa
+ nnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-473\n\nAgenda: Hist
+ oric District Commission Special Meeting\nhttps://www.canaannh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_10072026-472\n\nMinutes: Oct 7\, 2026 Histo
+ ric District Commission Special Meeting Agenda\nhttps://www.canaannh.gov/A
+ gendaCenter/ViewFile/Minutes/_10072026-478\n\nMinutes: Oct 7\, 2026 Histor
+ ic District Commission Special Meeting Agenda\nhttps://www.canaannh.gov/Ag
+ endaCenter/ViewFile/ArchivedMinutes/_10072026-485\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:38368b7a24282f10a044@granite-docket
+DTSTAMP:20261103T111948Z
+DTSTART;TZID=America/New_York:20261007T150000
+DURATION:PT2H
+SUMMARY:Canaan Cemetery Trustee Committee Regular Meeting Agenda
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026
+ -488
+DESCRIPTION:Agenda: Cemetery Trustee Committee Regular Meeting Agenda\nhttp
+ s://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-488\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:497f474d53ff82f89c5a@granite-docket
+DTSTAMP:20261103T112221Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Historic district
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026
+ -485?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_10072026-485?packet=true\n\nAgenda: Packet\nhttps://www.ca
+ naannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10072026-473?packet=true\
+ n\nAgenda: Packet\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Archived
+ Agenda/_10072026-472?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:7be4ba3b688c5ac655dc@granite-docket
+DTSTAMP:20261103T111437Z
+DTSTART;TZID=America/New_York:20261007T160000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10072026-480
+DESCRIPTION:Agenda: Capital Improvement Committee Regular Meeting Agenda\nh
+ ttps://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10072026-480\n\nAgen
+ da: Cemetery Trustee Committee Regular Meeting Agenda\nhttps://www.canaann
+ h.gov/AgendaCenter/ViewFile/Agenda/_10072026-482\n\nAgenda: PDF\nhttps://w
+ ww.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10072026-478\n\nAgenda: Pack
+ et\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10072026-478?pa
+ cket=true\n\nMinutes: Oct 7\, 2026 Capital Improvement Committee Regular M
+ eeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Minutes/_100
+ 72026-480\n\nMinutes: Oct 7\, 2026 Cemetery Trustee Committee Regular Meet
+ ing Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Minutes/_100720
+ 26-482\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd17525b12277779f0ee@granite-docket
+DTSTAMP:20261103T111950Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_1007202
+ 6-488
+DESCRIPTION:Minutes: Oct 7\, 2026 Cemetery Trustee Committee Regular Meetin
+ g Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_
+ 10072026-488\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5cd834f3f7bddb2bc461@granite-docket
+DTSTAMP:20261103T112327Z
+DTSTART;TZID=America/New_York:20261008T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Canaan Planning board
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10082026-481
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.cana
+ annh.gov/AgendaCenter/ViewFile/Agenda/_10082026-481\n\nAgenda: Planning Bo
+ ard Regular Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile
+ /ArchivedAgenda/_10082026-476\n\nMinutes: Oct 8\, 2026 — Amended Oct 8\,
+  2026 9:23 AM Planning Board Regular Meeting Agenda\nhttps://www.canaannh.
+ gov/AgendaCenter/ViewFile/Minutes/_10082026-481\n\nMinutes: Oct 8\, 2026 
+ — Amended Oct 9\, 2026 9:11 AM Planning Board Regular Meeting Agenda\nht
+ tps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10082026-496
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1768f138440dd80d1388@granite-docket
+DTSTAMP:20261103T111725Z
+DTSTART;TZID=America/New_York:20261014T180000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10142026-485
+DESCRIPTION:Agenda: Budget Committee Regular Meeting Agenda\nhttps://www.ca
+ naannh.gov/AgendaCenter/ViewFile/Agenda/_10142026-485\n\nAgenda: *Canceled
+ * Capital Improvement Committee Regular Meeting Agenda\nhttps://www.canaan
+ nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-484\n\nMinutes: Oct 14\, 202
+ 6 Budget Committee Regular Meeting Agenda\nhttps://www.canaannh.gov/Agenda
+ Center/ViewFile/Minutes/_10142026-485\n\nMinutes: Oct 14\, 2026 Budget Com
+ mittee Regular Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewF
+ ile/ArchivedMinutes/_10142026-501\n\nFrom the town's posted records via Gr
+ anite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:10acc36a5b36d498140a@granite-docket
+DTSTAMP:20261123T085619Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_1019202
+ 6-515
+DESCRIPTION:Minutes: Oct 19\, 2026 Cemetery Trustee Committee Regular Meeti
+ ng Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/
+ _10192026-515\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:923520f905c6246fd839@granite-docket
+DTSTAMP:20261103T111435Z
+DTSTART;TZID=America/New_York:20261019T163000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10192026-491
+DESCRIPTION:Agenda: Cemetery Trustee Committee Regular Meeting Agenda\nhttp
+ s://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10192026-491\n\nAgenda:
+  Historic District Commission Regular Meeting Agenda\nhttps://www.canaannh
+ .gov/AgendaCenter/ViewFile/Agenda/_10192026-483\n\nMinutes: Oct 19\, 2026 
+ Cemetery Trustee Committee Regular Meeting Agenda\nhttps://www.canaannh.go
+ v/AgendaCenter/ViewFile/Minutes/_10192026-491\n\nMinutes: Oct 19\, 2026 Hi
+ storic District Commission Regular Meeting Agenda\nhttps://www.canaannh.go
+ v/AgendaCenter/ViewFile/Minutes/_10192026-483\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a91ad10d7b239f236f9e@granite-docket
+DTSTAMP:20261123T085609Z
+DTSTART;TZID=America/New_York:20261019T163000
+DURATION:PT2H
+SUMMARY:Canaan Cemetery Trustee Committee Regular Meeting Agenda
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026
+ -515
+DESCRIPTION:Agenda: Cemetery Trustee Committee Regular Meeting Agenda\nhttp
+ s://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10192026-515\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:df718d49e724ed9a1cae@granite-docket
+DTSTAMP:20261103T112502Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10202026-489
+DESCRIPTION:Agenda: Selectboard Regular Meeting Agenda\nhttps://www.canaann
+ h.gov/AgendaCenter/ViewFile/Agenda/_10202026-489\n\nMinutes: Oct 20\, 2026
+  Selectboard Regular Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter
+ /ViewFile/Minutes/_10202026-489\n\nMinutes: Oct 20\, 2026 Selectboard Regu
+ lar Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Archive
+ dMinutes/_10202026-495\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:932132d6d93783ca2911@granite-docket
+DTSTAMP:20261103T111814Z
+DTSTART;TZID=America/New_York:20261021T160000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10212026-486
+DESCRIPTION:Agenda: Capital Improvement Committee Regular Meeting Agenda\nh
+ ttps://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10212026-486\n\nAgen
+ da: Capital Improvement Committee Regular Meeting (No Agenda)\nhttps://www
+ .canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10212026-483\n\nAgenda
+ : Packet\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0212026-483?packet=true\n\nMinutes: Oct 21\, 2026 Capital Improvement Comm
+ ittee Regular Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFi
+ le/Minutes/_10212026-486\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9f4bda3ce570bb3c36@granite-docket
+DTSTAMP:20261103T111456Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Canaan Planning board
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10222026-490
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.cana
+ annh.gov/AgendaCenter/ViewFile/Agenda/_10222026-490\n\nMinutes: Oct 22\, 2
+ 026 Planning Board Regular Meeting Agenda\nhttps://www.canaannh.gov/Agenda
+ Center/ViewFile/Minutes/_10222026-490\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:47c427a2e8574c902209@granite-docket
+DTSTAMP:20261123T085529Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Cemetery Trustees Committee Meeting (No Agenda)
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026
+ -516
+DESCRIPTION:Agenda: Cemetery Trustees Committee Meeting (No Agenda)\nhttps:
+ //www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026-516\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5dd14c42acf48fcd551@granite-docket
+DTSTAMP:20261103T111356Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10262026-477
+DESCRIPTION:Agenda: PDF\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Age
+ nda/_10262026-477\n\nAgenda: Packet\nhttps://www.canaannh.gov/AgendaCenter
+ /ViewFile/Agenda/_10262026-477?packet=true\n\nMinutes: Oct 26\, 2026 Cemet
+ ery Trustees Committee Meeting (No Agenda)\nhttps://www.canaannh.gov/Agend
+ aCenter/ViewFile/Minutes/_10262026-477\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f4accb524f1b380f74c5@granite-docket
+DTSTAMP:20261123T085549Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Packet
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026
+ -516?packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/
+ ArchivedAgenda/_10262026-516?packet=true\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e93e97fe10fca4ab6da7@granite-docket
+DTSTAMP:20261103T111333Z
+DTSTART;TZID=America/New_York:20261028T180000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10282026-492
+DESCRIPTION:Agenda: Budget Committee Regular Meeting Agenda\nhttps://www.ca
+ naannh.gov/AgendaCenter/ViewFile/Agenda/_10282026-492\n\nMinutes: Oct 28\,
+  2026 Budget Committee Regular Meeting Agenda\nhttps://www.canaannh.gov/Ag
+ endaCenter/ViewFile/Minutes/_10282026-492\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0aff2ab624f46d351ea3@granite-docket
+DTSTAMP:20261103T111447Z
+DTSTART;TZID=America/New_York:20261029T173000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10292026-493
+DESCRIPTION:Agenda: Meetinghouse Preservation Committee Agenda\nhttps://www
+ .canaannh.gov/AgendaCenter/ViewFile/Agenda/_10292026-493\n\nFrom the town'
+ s posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3711079ff1725ba04bd5@granite-docket
+DTSTAMP:20261103T112302Z
+DTSTART;TZID=America/New_York:20261029T173000
+DURATION:PT2H
+SUMMARY:Canaan Meetinghouse Preservation Committee Agenda
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026
+ -497
+DESCRIPTION:Agenda: Meetinghouse Preservation Committee Agenda\nhttps://www
+ .canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-497\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:090d2bed446ae0c69af1@granite-docket
+DTSTAMP:20261116T101105Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11042026-495
+DESCRIPTION:Agenda: Capital Improvement Committee Regular Meeting Agenda\nh
+ ttps://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11042026-495\n\nMinu
+ tes: Nov 4\, 2026 Capital Improvement Committee Regular Meeting Agenda\nht
+ tps://www.canaannh.gov/AgendaCenter/ViewFile/Minutes/_11042026-495\n\nMinu
+ tes: Nov 4\, 2026 Capital Improvement Committee Regular Meeting Agenda\nht
+ tps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_11042026-507
+ \n\nFrom the town's posted records via Granite Docket. Check the town's si
+ te for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:168808dceae54fe5c5a4@granite-docket
+DTSTAMP:20261116T100805Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11102026-487
+DESCRIPTION:Agenda: PDF\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Age
+ nda/_11102026-487\n\nAgenda: Capital Improvement Committee Regular Meeting
+  Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11102026-4
+ 96\n\nAgenda: Budget Committee Regular Meeting Agenda\nhttps://www.canaann
+ h.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-509\n\nAgenda: Packet
+ \nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11102026-487?pack
+ et=true\n\nMinutes: Nov 10\, 2026 Capital Improvement Committee Regular Me
+ eting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Minutes/_1110
+ 2026-496\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9fcdf7abd547f5cb2974@granite-docket
+DTSTAMP:20261123T091129Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Canaan Planning board
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11122026-498
+DESCRIPTION:Agenda: Planning Board Regular Meeting Agenda\nhttps://www.cana
+ annh.gov/AgendaCenter/ViewFile/Agenda/_11122026-498\n\nMinutes: Nov 12\, 2
+ 026 Planning Board Regular Meeting Agenda\nhttps://www.canaannh.gov/Agenda
+ Center/ViewFile/Minutes/_11122026-498\n\nMinutes: Excavation Regulations (
+ PDF)\nhttps://www.canaannh.gov/DocumentCenter/View/993/Excavation-Regulati
+ ons-PDF\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:be0cbc1e8e7df85f3aef@granite-docket
+DTSTAMP:20261116T101705Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Canaan Historic district
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11162026
+ -511
+DESCRIPTION:Agenda: Historic District Commission Regular Meeting Agenda\nht
+ tps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11162026-511\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e57b78112593eda42414@granite-docket
+DTSTAMP:20261123T085029Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11162026-497
+DESCRIPTION:Agenda: Historic District Commission Regular Meeting Agenda\nht
+ tps://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11162026-497\n\nAgend
+ a: Cemetery Trustee Committee Regular Meeting Agenda\nhttps://www.canaannh
+ .gov/AgendaCenter/ViewFile/Agenda/_11162026-499\n\nMinutes: Nov 16\, 2026 
+ Cemetery Trustee Committee Regular Meeting Agenda\nhttps://www.canaannh.go
+ v/AgendaCenter/ViewFile/Minutes/_11162026-499\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bc8c3097a69082d0f4@granite-docket
+DTSTAMP:20261123T090329Z
+DTSTART;TZID=America/New_York:20261117T163000
+DURATION:PT2H
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11172026-500
+DESCRIPTION:Agenda: Special Selectboard Meeting Agenda\nhttps://www.canaann
+ h.gov/AgendaCenter/ViewFile/Agenda/_11172026-500\n\nAgenda: Special Select
+ board Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_11172026-517\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d27f7b10e01348bec105@granite-docket
+DTSTAMP:20261123T085018Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Budget / CIP
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11182026-501
+DESCRIPTION:Agenda: Capital Improvement Committee Regular Meeting Agenda\nh
+ ttps://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11182026-501\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd6c59c57abe8ba7f446@granite-docket
+DTSTAMP:20261103T113119Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Town meeting / warrant
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/DocumentCenter/View/1520
+DESCRIPTION:Warrant: 👉 View the 2026 Signed MS737 👉 View the 2026 Sig
+ ned MS-DTB 👉 View the 2026 Warrant Explantory Notes\nhttps://www.canaan
+ nh.gov/DocumentCenter/View/1520\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

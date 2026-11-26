@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brookline Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Brookline\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4f8fcdfa975c24260bc0@granite-docket
+DTSTAMP:20261123T084151Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Conservation commission
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Conservation Commission/Agenda and Minutes/2026/2026.10.13 BCC Agenda.pdf?
+ t=202610120816080
+DESCRIPTION:Minutes: 10/13/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Conservation Commission/Agenda and Minut
+ es/2026/2026.10.13 BCC Agenda.pdf?t=202610120816080\n\nMinutes: 10/13/26 A
+ genda Minutes\nhttps://www.brooklinenh.gov/Documents/Government/Boards and
+  Committees/Conservation Commission/Agenda and Minutes/2026/2026-10-13 BCC
+  Public Minutes.pdf?t=202611191205040\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0517f2fa83062d40b767@granite-docket
+DTSTAMP:20261116T084605Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Brookline Conservation commission
+LOCATION:Brookline\, NH
+URL:https://www.brooklinenh.gov/Documents/Government/Boards and Committees/
+ Conservation Commission/Agenda and Minutes/2026/2026.11.10 BCC Agenda.pdf?
+ t=202611091525130
+DESCRIPTION:Minutes: 11/10/26 Agenda\nhttps://www.brooklinenh.gov/Documents
+ /Government/Boards and Committees/Conservation Commission/Agenda and Minut
+ es/2026/2026.11.10 BCC Agenda.pdf?t=202611091525130\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

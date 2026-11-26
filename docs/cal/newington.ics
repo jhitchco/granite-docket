@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Newington NH meetings
+X-WR-CALDESC:Public meetings of Newington\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6716d1bcdec04d2f82da@granite-docket
+DTSTAMP:20261103T131447Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-222
+DESCRIPTION:Agenda: Planning Board Agenda Sep 28\, 2026 Planning Board Meet
+ ing at Town Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda
+ /_09282026-222\n\nAgenda: Planning Board Agenda Sep 28\, 2026 Planning Boa
+ rd Meeting at Town Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile
+ /Agenda/_09282026-223\n\nAgenda: Planning Board Meeting at Town Hall\nhttp
+ s://www.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_09282026-44\
+ n\nAgenda: Packet\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_09282026-44?packet=true\n\nMinutes: Planning Board Minutes Sep 
+ 28\, 2026 Planning Board Meeting at Town Hall\nhttps://www.newingtonnh.gov
+ /AgendaCenter/ViewFile/Minutes/_09282026-222\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5774f80384d4197a6d1d@granite-docket
+DTSTAMP:20261103T131249Z
+DTSTART;TZID=America/New_York:20260929T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_09292026-226
+DESCRIPTION:Agenda: Board of Selectmen Agenda Sep 29\, 2026 BOS Meeting Age
+ nda 9-29-26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_092
+ 92026-226\n\nMinutes: Board of Selectmen Minutes Sep 29\, 2026 BOS Meeting
+  Agenda 9-29-26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Minutes
+ /_09292026-226\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:2a468a7ae3faa287f668@granite-docket
+DTSTAMP:20261103T131406Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Newington Budget / CIP
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_09302026-241
+DESCRIPTION:Minutes: Sewer Commission Agenda Sep 30\, 2026 Newington Sewer 
+ Commission work session minutes\nhttps://www.newingtonnh.gov/AgendaCenter/
+ ViewFile/Agenda/_09302026-241\n\nFrom the town's posted records via Granit
+ e Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c06527092c885725b56@granite-docket
+DTSTAMP:20261103T131342Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-228
+DESCRIPTION:Agenda: Planning Board Agenda Oct 5\, 2026 Planning Board Meeti
+ ng at Town Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/
+ _10052026-228\n\nMinutes: Planning Board Minutes Oct 5\, 2026 Planning Boa
+ rd Meeting at Town Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile
+ /Minutes/_10052026-228\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a734fca3eb33c58956ee@granite-docket
+DTSTAMP:20261103T131249Z
+DTSTART;TZID=America/New_York:20261006T174500
+DURATION:PT2H
+SUMMARY:Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-229
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 6\, 2026 BOS Meeting 10-6
+ -26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-22
+ 9\n\nMinutes: Board of Selectmen Minutes Oct 6\, 2026 BOS Meeting 10-6-26\
+ nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-229\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:995271a1e38bdb79eb0b@granite-docket
+DTSTAMP:20261103T131223Z
+DTSTART;TZID=America/New_York:20261007T163000
+DURATION:PT2H
+SUMMARY:Newington Town meeting / warrant
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-230
+DESCRIPTION:Agenda: Board of Fire Engineers Agenda Oct 7\, 2026 BOFE Meetin
+ g\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-230\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1af23c6ce03fe698e33e@granite-docket
+DTSTAMP:20261103T131342Z
+DTSTART;TZID=America/New_York:20261009T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10092026-237
+DESCRIPTION:Agenda: Planning Board Agenda Oct 9\, 2026 Planning Board Agend
+ a 11-9-26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10092
+ 026-237\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:dee34e4d3ad8a76cbab7@granite-docket
+DTSTAMP:20261103T131454Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+TRANSP:TRANSPARENT
+SUMMARY:Newington Budget / CIP
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10162
+ 026-72
+DESCRIPTION:Minutes: Newington Sewer Commission Minutes\nhttps://www.newing
+ tonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10162026-72\n\nFrom the to
+ wn's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:caa3ec391f36500dc329@granite-docket
+DTSTAMP:20261103T131248Z
+DTSTART;TZID=America/New_York:20261020T173000
+DURATION:PT2H
+SUMMARY:Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-231
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 20\, 2026 BOS Agenda 10-2
+ 0-26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10202026-2
+ 31\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7d60d3ee0276a31759@granite-docket
+DTSTAMP:20261103T131248Z
+DTSTART;TZID=America/New_York:20261026T100000
+DURATION:PT2H
+SUMMARY:Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-234
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 26\, 2026 Board of Select
+ men's Meeting\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_1
+ 0262026-234\n\nAgenda: Board of Selectmen Agenda Oct 26\, 2026 — Amended
+  Oct 23\, 2026 10:56 AM Board of Selectmen's Meeting \nhttps://www.newingt
+ onnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-233\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2e90a4783e52b4b9df8@granite-docket
+DTSTAMP:20261103T131342Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10262026-232
+DESCRIPTION:Agenda: Planning Board Agenda Oct 26\, 2026 Planning Board at T
+ own Hall\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_102620
+ 26-232\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:848158942c85b6098161@granite-docket
+DTSTAMP:20261103T131429Z
+DTSTART;TZID=America/New_York:20261027T173000
+DURATION:PT2H
+SUMMARY:Newington Select board / council
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10272026-235
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 27\, 2026 BOS Meeting Age
+ nda 10/27/26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10
+ 272026-235\n\nAgenda: BOS Meeting Agenda 10/27/26\nhttps://www.newingtonnh
+ .gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-68\n\nAgenda: BOS Meet
+ ing Agenda 10/27/26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Arc
+ hivedAgenda/_10272026-66\n\nAgenda: BOS Meeting Agenda 10/27/26\nhttps://w
+ ww.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-65\n\nAg
+ enda: BOS Meeting Agenda 10/27/26\nhttps://www.newingtonnh.gov/AgendaCente
+ r/ViewFile/ArchivedAgenda/_10272026-58\n\nAgenda: BOS Meeting Agenda 10/27
+ /26\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_102
+ 72026-57\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:771c9d890dbd598afe7a@granite-docket
+DTSTAMP:20261103T131212Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Zoning / ZBA
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-236
+DESCRIPTION:Agenda: Board of Adjustment Agenda Oct 28\, 2026 Public Hearing
+  Notice & Zoning Board of Adjustment\nhttps://www.newingtonnh.gov/AgendaCe
+ nter/ViewFile/Agenda/_10282026-236\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ea910ecd492f38ca57b6@granite-docket
+DTSTAMP:20261103T131454Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+TRANSP:TRANSPARENT
+SUMMARY:Newington Budget / CIP
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10302
+ 026-71
+DESCRIPTION:Minutes: Newington Sewer Commission work session minutes\nhttps
+ ://www.newingtonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10302026-71\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1e4975ff9bf7ebaa52c@granite-docket
+DTSTAMP:20261103T131211Z
+DTSTART;TZID=America/New_York:20261104T163000
+DURATION:PT2H
+SUMMARY:Newington Zoning / ZBA
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11042026-242
+DESCRIPTION:Agenda: Board of Adjustment Agenda Nov 4\, 2026 Board of Fire E
+ ngineers at Fire Department\nhttps://www.newingtonnh.gov/AgendaCenter/View
+ File/Agenda/_11042026-242\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:302a5f6a07020b6d6566@granite-docket
+DTSTAMP:20261103T131341Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Newington Planning board
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-238
+DESCRIPTION:Agenda: Planning Board Agenda Nov 9\, 2026 Planning Board Agend
+ a\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-238\
+ n\nAgenda: Planning Board Agenda Nov 9\, 2026 Planning Board Agenda\nhttps
+ ://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-239\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fff0a26fdcc00192f13b@granite-docket
+DTSTAMP:20261103T131416Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Newington Zoning / ZBA
+LOCATION:Newington\, NH
+URL:https://www.newingtonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-238?
+ packet=true
+DESCRIPTION:Agenda: Packet\nhttps://www.newingtonnh.gov/AgendaCenter/ViewFi
+ le/Agenda/_11092026-238?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

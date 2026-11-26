@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hudson Planning board
+X-WR-CALDESC:Planning board meetings in Hudson\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c83291b3f98fda6f31ce@granite-docket
+DTSTAMP:20261103T094557Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+TRANSP:TRANSPARENT
+SUMMARY:Hudson Planning board
+LOCATION:Hudson\, NH
+URL:https://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026
+ -439
+DESCRIPTION:Agenda: Planning Board Agenda and Packet\nhttps://www.hudsonnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-439\n\nAgenda: Planning
+  Board Agenda and Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10142026-438\n\nAgenda: Planning Board Agenda and Packet\nh
+ ttps://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-437
+ \n\nAgenda: Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/Archive
+ dAgenda/_10142026-439?packet=true\n\nAgenda: Packet\nhttps://www.hudsonnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026-438?packet=true\n\nAgen
+ da: Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/
+ _10142026-437?packet=true\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:27e272d22751a77d5b3a@granite-docket
+DTSTAMP:20261103T094535Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Hudson Planning board
+LOCATION:Hudson\, NH
+URL:https://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026
+ -465
+DESCRIPTION:Agenda: Minor Site Plan Review Agenda and Packet\nhttps://www.h
+ udsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026-465\n\nAgenda: 
+ Minor Site Plan Review Agenda and Packet\nhttps://www.hudsonnh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_10262026-464\n\nAgenda: Packet\nhttps://www
+ .hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10262026-465?packet=tr
+ ue\n\nAgenda: Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_10262026-464?packet=true\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:862f07aa5d4a182f2675@granite-docket
+DTSTAMP:20261103T094554Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:Hudson Planning board
+LOCATION:Hudson\, NH
+URL:https://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10282026
+ -467
+DESCRIPTION:Agenda: Planning Board Agenda and Packet\nhttps://www.hudsonnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10282026-467\n\nAgenda: Planning
+  Board Agenda and Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/A
+ rchivedAgenda/_10282026-466\n\nAgenda: Planning Board Agenda and Packet\nh
+ ttps://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10282026-460
+ \n\nAgenda: Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/Archive
+ dAgenda/_10282026-467?packet=true\n\nAgenda: Packet\nhttps://www.hudsonnh.
+ gov/AgendaCenter/ViewFile/ArchivedAgenda/_10282026-466?packet=true\n\nAgen
+ da: Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/
+ _10282026-460?packet=true\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:61cb99ff022fc37be395@granite-docket
+DTSTAMP:20261116T075541Z
+DTSTART;TZID=America/New_York:20261109T170000
+DURATION:PT2H
+SUMMARY:Hudson Planning board
+LOCATION:Hudson\, NH
+URL:https://www.hudsonnh.gov/AgendaCenter/ViewFile/Agenda/_11092026-386
+DESCRIPTION:Agenda: Minor Site Plan Agenda\nhttps://www.hudsonnh.gov/Agenda
+ Center/ViewFile/Agenda/_11092026-386\n\nAgenda: Planning Board Minor Site 
+ Plan Agenda and Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/Arc
+ hivedAgenda/_11092026-475\n\nAgenda: Minor Site Plan Agenda\nhttps://www.h
+ udsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-474\n\nAgenda: 
+ Planning Board Minor Site Plan Agenda and Packet\nhttps://www.hudsonnh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11092026-476\n\nAgenda: Packet\nhtt
+ ps://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-475?p
+ acket=true\n\nAgenda: Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFi
+ le/ArchivedAgenda/_11092026-474?packet=true\n\nAgenda: Packet\nhttps://www
+ .hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-476?packet=tr
+ ue\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c1de5dc10aa06323a8f6@granite-docket
+DTSTAMP:20261116T075511Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Hudson Planning board
+LOCATION:Hudson\, NH
+URL:https://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026
+ -484
+DESCRIPTION:Agenda: Planning Board Agenda and Packet Information\nhttps://w
+ ww.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-484\n\nAgen
+ da: Planning Board Agenda and Packet Information\nhttps://www.hudsonnh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11182026-483\n\nAgenda: Planning Bo
+ ard Agenda and Packet Information\nhttps://www.hudsonnh.gov/AgendaCenter/V
+ iewFile/ArchivedAgenda/_11182026-482\n\nAgenda: Planning Board Agenda and 
+ Packet Information\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/Archive
+ dAgenda/_11182026-481\n\nAgenda: Planning Board Agenda and Packet informat
+ ion\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_111820
+ 26-480\n\nAgenda: Planning Board Agenda and Packet information\nhttps://ww
+ w.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-478\n\nAgend
+ a: Packet\nhttps://www.hudsonnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_
+ 11182026-484?packet=true\n\nAgenda: Packet\nhttps://www.hudsonnh.gov/Agend
+ aCenter/ViewFile/ArchivedAgenda/_11182026-483?packet=true\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

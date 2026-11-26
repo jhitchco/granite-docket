@@ -1,0 +1,630 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swanzey NH meetings
+X-WR-CALDESC:Public meetings of Swanzey\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:779db40ce83714f4fc9b@granite-docket
+DTSTAMP:20261103T100805Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey 09/28/26 Swanzey Governance Committee Agenda Minutes
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/SGC Agenda 9.28.26.pdf?t=202609151130390
+DESCRIPTION:Minutes: 09/28/26 Swanzey Governance Committee Agenda Minutes\n
+ https://www.swanzeynh.gov/SGC Agenda 9.28.26.pdf?t=202609151130390\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:84bd54a47b0425e1ec9b@granite-docket
+DTSTAMP:20261103T100805Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Planning board
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/9.28 SGC meeting.pdf?t=202610270841530
+DESCRIPTION:Minutes: 09/28/26 Swanzey Governance Committee Agenda Minutes\n
+ https://www.swanzeynh.gov/9.28 SGC meeting.pdf?t=202610270841530\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2973c642e9cdb425c48@granite-docket
+DTSTAMP:20261103T102826Z
+DTSTART;TZID=America/New_York:20260929T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Non Public Notice BOS 9-29-26.pdf?t=202609241
+ 048170
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - Non Public Session
+  - 9-29-26 document _recordid 1166\nhttps://www.swanzeynh.gov/Non Public N
+ otice BOS 9-29-26.pdf?t=202609241048170\n\nFrom the town's posted records 
+ via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1f7a4a7b6de8bb0b8b01@granite-docket
+DTSTAMP:20261103T102825Z
+DTSTART;TZID=America/New_York:20260930T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Notice BOS 9-30-26.pdf?t=2026092815272
+ 10
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - 9-30-26 document _
+ recordid 1168\nhttps://www.swanzeynh.gov/Public Notice BOS 9-30-26.pdf?t=2
+ 02609281527210\n\nMinutes: 09/30/26 Board of Selectmen Minutes\nhttps://ww
+ w.swanzeynh.gov/2026-09-30 BOS Minutes Approved.pdf?t=202610150919300\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d616c90873ffd949a23f@granite-docket
+DTSTAMP:20261103T102825Z
+DTSTART;TZID=America/New_York:20261001T090000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Non Public Notice BOS 10-01-26.pdf?t=20260930
+ 0934480
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - Non Public Session
+  - 10-01-26 document _recordid 1167\nhttps://www.swanzeynh.gov/Non Public 
+ Notice BOS 10-01-26.pdf?t=202609300934480\n\nMinutes: 10/01/26 Board of Se
+ lectmen Minutes\nhttps://www.swanzeynh.gov/2026-10-01 BOS Minutes Approved
+ .pdf?t=202610150921170\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fee8b926002466ebaa8a@granite-docket
+DTSTAMP:20261103T100630Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Swanzey Budget / CIP
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/RTAC Agenda 10-1-2026.pdf?t=202609281231110
+DESCRIPTION:Agenda: 10/01/26 Rail Trails Advisory Committee Agenda\nhttps:/
+ /www.swanzeynh.gov/RTAC Agenda 10-1-2026.pdf?t=202609281231110\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:718c55cf9e5a01e656ab@granite-docket
+DTSTAMP:20261103T102824Z
+DTSTART;TZID=America/New_York:20261002T110000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Non Public Notice BOS 10-02-26.pdf?t=20261001
+ 1225210
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - Non Public Session
+  - 10-02-26 document _recordid 1169\nhttps://www.swanzeynh.gov/Non Public 
+ Notice BOS 10-02-26.pdf?t=202610011225210\n\nMinutes: 10/02/26 Board of Se
+ lectmen Minutes\nhttps://www.swanzeynh.gov/2026-10-02 BOS Minutes Approved
+ .pdf?t=202610290929030\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:161c62a7800102ac50f5@granite-docket
+DTSTAMP:20261103T100424Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Conservation commission
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/2026-10-05 Con Comm Draft Minutes.pdf?t=20261
+ 0120748300
+DESCRIPTION:Minutes: 10/05/26 Conservation Commission Minutes\nhttps://www.
+ swanzeynh.gov/2026-10-05 Con Comm Draft Minutes.pdf?t=202610120748300\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:224f38bd4d6d3e296563@granite-docket
+DTSTAMP:20261103T102824Z
+DTSTART;TZID=America/New_York:20261006T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Non Public Notice BOS 10-06-26.pdf?t=20261005
+ 1519460
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - Non Public Session
+  - 10-06-26 document _recordid 1170\nhttps://www.swanzeynh.gov/Non Public 
+ Notice BOS 10-06-26.pdf?t=202610051519460\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:827211fd6aac97f7cac8@granite-docket
+DTSTAMP:20261103T102822Z
+DTSTART;TZID=America/New_York:20261007T160000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Non Public Notice BOS 10-07-26.pdf?t=20261006
+ 0826310
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - Non Public Session
+  - 10-07-26 document _recordid 1175\nhttps://www.swanzeynh.gov/Non Public 
+ Notice BOS 10-07-26.pdf?t=202610060826310\n\nMinutes: 10/07/26 Board of Se
+ lectmen Agenda Packet Minutes\nhttps://www.swanzeynh.gov/2026-10-7 BOS Age
+ nda.pdf?t=202610061216430\n\nMinutes: 10/07/26 Board of Selectmen Agenda P
+ acket Minutes\nhttps://www.swanzeynh.gov/2026-10- 7 BOS Agenda Packet.pdf?
+ t=202610071051020\n\nMinutes: 10/07/26 Board of Selectmen Agenda Packet Mi
+ nutes\nhttps://www.swanzeynh.gov/2026-10-07 BOS Minutes Approved.pdf?t=202
+ 610150928500\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:30442c3c6f16899e3c24@granite-docket
+DTSTAMP:20261103T102823Z
+DTSTART;TZID=America/New_York:20261008T173000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Public Notice - Ad Hoc Community Committee 
+ - 10-08-26 document _record
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Notice AD Hoc Committee 10-08-26.pdf?t
+ =202610020855350
+DESCRIPTION:Notice: Public Notice - Ad Hoc Community Committee - 10-08-26 d
+ ocument _recordid 1174\nhttps://www.swanzeynh.gov/Public Notice AD Hoc Com
+ mittee 10-08-26.pdf?t=202610020855350\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:90cfb44537693634b3ee@granite-docket
+DTSTAMP:20261103T100455Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Swanzey Planning board
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/PB Packet 10 8 2026.pdf?t=202610011601460
+DESCRIPTION:Minutes: 10/08/26 Planning Board Agenda Packet Minutes\nhttps:/
+ /www.swanzeynh.gov/PB Packet 10 8 2026.pdf?t=202610011601460\n\nMinutes: 1
+ 0/08/26 Planning Board Agenda Packet Minutes\nhttps://www.swanzeynh.gov/PB
+  Agenda 10 8 2026v2.pdf?t=202610011602120\n\nMinutes: 10/08/26 Planning Bo
+ ard Agenda Packet Minutes\nhttps://www.swanzeynh.gov/10 8 2026 PB Draft Mi
+ nutes.pdf?t=202610151427080\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f688538eb77e8874c0e3@granite-docket
+DTSTAMP:20261103T100815Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey 10/08/26 Swanzey Water & Sewer Advisory Committee Minutes
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/2026-10-08 Water and Sewer Advisory Committee
+  Draft Minutes.pdf?t=202610120743210
+DESCRIPTION:Minutes: 10/08/26 Swanzey Water & Sewer Advisory Committee Minu
+ tes\nhttps://www.swanzeynh.gov/2026-10-08 Water and Sewer Advisory Committ
+ ee Draft Minutes.pdf?t=202610120743210\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4798cda57f5083bbdc0d@granite-docket
+DTSTAMP:20261103T102824Z
+DTSTART;TZID=America/New_York:20261012T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Budget / CIP
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Notice CIPC 10-12-26.pdf?t=20261001162
+ 1010
+DESCRIPTION:Notice: Public Notice - Capital Improvement Program Committee -
+  10-12-26 document _recordid 1171\nhttps://www.swanzeynh.gov/Public Notice
+  CIPC 10-12-26.pdf?t=202610011621010\n\nMinutes: 10/12/26 Capital Improvem
+ ent Plan Committee Minutes\nhttps://www.swanzeynh.gov/2026-10-12 CIPC Draf
+ t Minutes v2.pdf?t=202610140734120\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d45d193ae2fbb63344@granite-docket
+DTSTAMP:20261103T100432Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Economic development
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/EDAC 10122026 Agenda.pdf?t=202610090655510
+DESCRIPTION:Minutes: 10/12/26 Economic Development Advisory Committee Agend
+ a Minutes\nhttps://www.swanzeynh.gov/EDAC 10122026 Agenda.pdf?t=2026100906
+ 55510\n\nMinutes: 10/12/26 Economic Development Advisory Committee Agenda 
+ Minutes\nhttps://www.swanzeynh.gov/2026-10-12 EDAC Minutes.pdf?t=202611021
+ 020490\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d34fb618d1455fceb30b@granite-docket
+DTSTAMP:20261103T100437Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Energy committee
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Energy Com Agenda October 12 2026.pdf?t=20261
+ 0081430270
+DESCRIPTION:Minutes: 10/12/26 Energy Commission Agenda Minutes\nhttps://www
+ .swanzeynh.gov/Energy Com Agenda October 12 2026.pdf?t=202610081430270\n\n
+ Minutes: 10/12/26 Energy Commission Agenda Minutes\nhttps://www.swanzeynh.
+ gov/2026-10-12 EnergyCom minutes DRAFT.pdf?t=202610220833330\n\nFrom the t
+ own's posted records via Granite Docket. Check the town's site for changes
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:07c1c4be8003cec1f046@granite-docket
+DTSTAMP:20261103T102822Z
+DTSTART;TZID=America/New_York:20261014T163000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Non Public Notice BOS 10-14-26.pdf?t=20261012
+ 1545030
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - Non Public Session
+  - 10-14-26 document _recordid 1176\nhttps://www.swanzeynh.gov/Non Public 
+ Notice BOS 10-14-26.pdf?t=202610121545030\n\nMinutes: 10/14/26 Board of Se
+ lectmen Agenda Packet Minutes\nhttps://www.swanzeynh.gov/2026-10-14 BOS Ag
+ enda.pdf?t=202610131622140\n\nMinutes: 10/14/26 Board of Selectmen Agenda 
+ Packet Minutes\nhttps://www.swanzeynh.gov/2026-10-14 Agenda Packet.pdf?t=2
+ 02610131627300\n\nMinutes: 10/14/26 Board of Selectmen Agenda Packet Minut
+ es\nhttps://www.swanzeynh.gov/2026-10-14 BOS Minutes Approved.pdf?t=202610
+ 220830390\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1767465ede1f02fe2221@granite-docket
+DTSTAMP:20261103T100820Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Conservation commission
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/SGC AD HOC Agenda 10.15.26.pdf?t=202610190803
+ 510
+DESCRIPTION:Minutes: 10/15/26 Ad Hoc Committee Agenda Minutes\nhttps://www.
+ swanzeynh.gov/SGC AD HOC Agenda 10.15.26.pdf?t=202610190803510\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:27cd1a4a5480edb818f5@granite-docket
+DTSTAMP:20261103T102821Z
+DTSTART;TZID=America/New_York:20261015T153000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Non Public Notice BOS 10-15-26.pdf?t=20261014
+ 1131450
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - Non Public Session
+  - 10-15-26 document _recordid 1179\nhttps://www.swanzeynh.gov/Non Public 
+ Notice BOS 10-15-26.pdf?t=202610141131450\n\nMinutes: 10/15/26 Board of Se
+ lectmen Minutes\nhttps://www.swanzeynh.gov/2026-10-15 BOS Minutes Approved
+ .pdf?t=202610290929360\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d9dcada320eb618eb1a0@granite-docket
+DTSTAMP:20261103T100822Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey 10/15/26 Ad Hoc Committee Agenda Minutes
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/10.15 Ad Hoc SGC Meeting notes.pdf?t=20261027
+ 0938370
+DESCRIPTION:Minutes: 10/15/26 Ad Hoc Committee Agenda Minutes\nhttps://www.
+ swanzeynh.gov/10.15 Ad Hoc SGC Meeting notes.pdf?t=202610270938370\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1219838ce0f8801f03@granite-docket
+DTSTAMP:20261103T102824Z
+DTSTART;TZID=America/New_York:20261019T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Budget / CIP
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Notice CIPC 10-19-26.pdf?t=20261001162
+ 3310
+DESCRIPTION:Notice: Public Notice - Capital Improvement Program Committee -
+  10-19-26 document _recordid 1172\nhttps://www.swanzeynh.gov/Public Notice
+  CIPC 10-19-26.pdf?t=202610011623310\n\nMinutes: 10/19/26 Capital Improvem
+ ent Plan Committee Minutes\nhttps://www.swanzeynh.gov/2026-10-19 CIPC Minu
+ tes Approved.pdf?t=202610261412260\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ccafbe35003d09fab6c3@granite-docket
+DTSTAMP:20261103T102822Z
+DTSTART;TZID=America/New_York:20261019T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Zoning / ZBA
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Hearing Notice - 472 OHH V.pdf?t=20261
+ 0131139260
+DESCRIPTION:Notice: Public Hearing Notice - Neighbors Variance document _re
+ cordid 1177\nhttps://www.swanzeynh.gov/Public Hearing Notice - 472 OHH V.p
+ df?t=202610131139260\n\nMinutes: 10/19/26 Zoning Board Agenda Packet Minut
+ es\nhttps://www.swanzeynh.gov/ZBA Agenda 10 19 2026.pdf?t=202610190954480\
+ n\nMinutes: 10/19/26 Zoning Board Agenda Packet Minutes\nhttps://www.swanz
+ eynh.gov/ZBA Packet 10 19 2026.pdf?t=202610190955130\n\nMinutes: 10/19/26 
+ Zoning Board Agenda Packet Minutes\nhttps://www.swanzeynh.gov/10 19 2026 Z
+ BA Draft Minutes.pdf?t=202610221536210\n\nFrom the town's posted records v
+ ia Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d59a0af34f9cc8560f@granite-docket
+DTSTAMP:20261103T102821Z
+DTSTART;TZID=America/New_York:20261021T110000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Public Notice - Trustees of Trust Funds - 1
+ 0-21-26 document _recordid 
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Notice Trustees of Trust Funds 10-21-2
+ 6.pdf?t=202610200925090
+DESCRIPTION:Notice: Public Notice - Trustees of Trust Funds - 10-21-26 docu
+ ment _recordid 1181\nhttps://www.swanzeynh.gov/Public Notice Trustees of T
+ rust Funds 10-21-26.pdf?t=202610200925090\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:b8473e1ab31205f12fe4@granite-docket
+DTSTAMP:20261103T100329Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/2026-10-21 BOS Agenda.pdf?t=202610201523520
+DESCRIPTION:Minutes: 10/21/26 Board of Selectmen Agenda Packet Minutes\nhtt
+ ps://www.swanzeynh.gov/2026-10-21 BOS Agenda.pdf?t=202610201523520\n\nMinu
+ tes: 10/21/26 Board of Selectmen Agenda Packet Minutes\nhttps://www.swanze
+ ynh.gov/2026-10- 21 BOS Agenda Packet.pdf?t=202610211420370\n\nMinutes: 10
+ /21/26 Board of Selectmen Agenda Packet Minutes\nhttps://www.swanzeynh.gov
+ /2026-10-21 BOS Minutes Approved.pdf?t=202610290930130\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e7d8a043e11d3190d3b9@granite-docket
+DTSTAMP:20261103T100634Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+TRANSP:TRANSPARENT
+SUMMARY:Swanzey 10/21/26 Trustees of Trust Funds Minutes
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/2026-10-21 TTF Draft Minutes DRAFT v2.pdf?t=2
+ 02611021027510
+DESCRIPTION:Minutes: 10/21/26 Trustees of Trust Funds Minutes\nhttps://www.
+ swanzeynh.gov/2026-10-21 TTF Draft Minutes DRAFT v2.pdf?t=202611021027510\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1dca931576715c32163e@granite-docket
+DTSTAMP:20261103T102822Z
+DTSTART;TZID=America/New_York:20261022T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Planning board
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Hearing Notice - 765 W Swanzey Rd SPR.
+ pdf?t=202610131140460
+DESCRIPTION:Notice: Public Hearing Notice - 765 W Swanzey Rd Site Plan Revi
+ ew document _recordid 1178\nhttps://www.swanzeynh.gov/Public Hearing Notic
+ e - 765 W Swanzey Rd SPR.pdf?t=202610131140460\n\nMinutes: 10/22/26 Planni
+ ng Board Agenda Packet Minutes\nhttps://www.swanzeynh.gov/PB Agenda 10 22 
+ 2026.pdf?t=202610151531450\n\nMinutes: 10/22/26 Planning Board Agenda Pack
+ et Minutes\nhttps://www.swanzeynh.gov/PB Packet - 10 22 2026.pdf?t=2026101
+ 51532120\n\nMinutes: 10/22/26 Planning Board Agenda Packet Minutes\nhttps:
+ //www.swanzeynh.gov/10 22 2026 Draft PB Minutes.pdf?t=202610271556080\n\nF
+ rom the town's posted records via Granite Docket. Check the town's site fo
+ r changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7f2dff0e8cc7a6d16a@granite-docket
+DTSTAMP:20261103T102821Z
+DTSTART;TZID=America/New_York:20261023T090000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Non Public Notice BOS 10-23-26.pdf?t=20261019
+ 1558110
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - Non Public Session
+  - 10-23-26 document _recordid 1180\nhttps://www.swanzeynh.gov/Non Public 
+ Notice BOS 10-23-26.pdf?t=202610191558110\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6010ea608be036bda230@granite-docket
+DTSTAMP:20261103T102823Z
+DTSTART;TZID=America/New_York:20261026T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Budget / CIP
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Notice CIPC 10-26-26.pdf?t=20261001162
+ 6110
+DESCRIPTION:Notice: Public Notice - Capital Improvement Program Committee -
+  10-26-26 document _recordid 1173\nhttps://www.swanzeynh.gov/Public Notice
+  CIPC 10-26-26.pdf?t=202610011626110\n\nMinutes: 10/26/26 Capital Improvem
+ ent Plan Committee Minutes\nhttps://www.swanzeynh.gov/2026-10-26 CIPC Draf
+ t Minutes v2.pdf?t=202610280734070\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fe82a9cbf39e08374de9@granite-docket
+DTSTAMP:20261103T102819Z
+DTSTART;TZID=America/New_York:20261026T184500
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/SGC Agenda 10.26.26.pdf?t=202610261259530
+DESCRIPTION:Agenda: 10/26/26 Swanzey Governance Committee Agenda\nhttps://w
+ ww.swanzeynh.gov/SGC Agenda 10.26.26.pdf?t=202610261259530\n\nNotice: Publ
+ ic Notice - Board of Selectmen - 10-26-26 document _recordid 1183\nhttps:/
+ /www.swanzeynh.gov/Public Notice BOS 10-26-26.pdf?t=202610231108090\n\nFro
+ m the town's posted records via Granite Docket. Check the town's site for 
+ changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:14e1180af4f11e758f05@granite-docket
+DTSTAMP:20261103T100820Z
+DTSTART;TZID=America/New_York:20261028T184500
+DURATION:PT2H
+SUMMARY:Swanzey Conservation commission
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/10-27-26 AD HOC Agenda.pdf?t=202610271041580
+DESCRIPTION:Agenda: 10/28/26 Ad Hoc Committee Agenda\nhttps://www.swanzeynh
+ .gov/10-27-26 AD HOC Agenda.pdf?t=202610271041580\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4abb217e4d2a947da133@granite-docket
+DTSTAMP:20261103T102819Z
+DTSTART;TZID=America/New_York:20261028T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/2026-10-28 BOS Agenda.pdf?t=202610271242400
+DESCRIPTION:Agenda: 10/28/26 Board of Selectmen Agenda Packet\nhttps://www.
+ swanzeynh.gov/2026-10-28 BOS Agenda.pdf?t=202610271242400\n\nAgenda: 10/28
+ /26 Board of Selectmen Agenda Packet\nhttps://www.swanzeynh.gov/2026-10-28
+  BOS Agenda Packet.pdf?t=202610271253170\n\nNotice: Public Notice - Board 
+ of Selectmen - Public Session - 10-28-26 document _recordid 1184\nhttps://
+ www.swanzeynh.gov/Public Notice BOS 10-28-26.pdf?t=202610261540160\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c1989cc1389361135440@granite-docket
+DTSTAMP:20261103T100424Z
+DTSTART;TZID=America/New_York:20261102T160000
+DURATION:PT2H
+SUMMARY:Swanzey Conservation commission
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/11.2.26 ConCom agenda.pdf?t=202611021024240
+DESCRIPTION:Agenda: 11/02/26 Conservation Commission Agenda\nhttps://www.sw
+ anzeynh.gov/11.2.26 ConCom agenda.pdf?t=202611021024240\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd30ec833ab09b20c96f@granite-docket
+DTSTAMP:20261103T102818Z
+DTSTART;TZID=America/New_York:20261103T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/2026-11-03 BOS Agenda.pdf?t=202611021615260
+DESCRIPTION:Agenda: 11/03/26 Board of Selectmen Agenda Packet\nhttps://www.
+ swanzeynh.gov/2026-11-03 BOS Agenda.pdf?t=202611021615260\n\nAgenda: 11/03
+ /26 Board of Selectmen Agenda Packet\nhttps://www.swanzeynh.gov/2026-11-03
+  BOS Agenda Packet.pdf?t=202611021616050\n\nNotice: Public Notice - Board 
+ of Selectmen - Public Session - 11-03-26 document _recordid 1185\nhttps://
+ www.swanzeynh.gov/Public Notice BOS 11-3-26.pdf?t=202610280911280\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea1da258b36633de98e@granite-docket
+DTSTAMP:20261103T100446Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Planning board
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/PB Agenda 11 5 2026.pdf?t=202611021208060
+DESCRIPTION:Agenda: 11/05/26 Planning Board Agenda Packet\nhttps://www.swan
+ zeynh.gov/PB Agenda 11 5 2026.pdf?t=202611021208060\n\nAgenda: 11/05/26 Pl
+ anning Board Agenda Packet\nhttps://www.swanzeynh.gov/PB Packet 11 5 2026.
+ pdf?t=202611021208240\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ca01b8948a9430b7eb3e@granite-docket
+DTSTAMP:20261103T102820Z
+DTSTART;TZID=America/New_York:20261105T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Swanzey Public Notice - Water and Sewer Committee -
+  11-05-26 document _recordi
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Notice WaterSewer Committee  11-5-26.p
+ df?t=202610231103360
+DESCRIPTION:Notice: Public Notice - Water and Sewer Committee - 11-05-26 do
+ cument _recordid 1182\nhttps://www.swanzeynh.gov/Public Notice WaterSewer 
+ Committee  11-5-26.pdf?t=202610231103360\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f388259ebcb80e53d0a5@granite-docket
+DTSTAMP:20261103T100432Z
+DTSTART;TZID=America/New_York:20261109T170000
+DURATION:PT2H
+SUMMARY:Swanzey Economic development
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/11092026 EDAC Agenda.pdf?t=202611030841580
+DESCRIPTION:Agenda: 11/09/26 Economic Development Advisory Committee Agenda
+ \nhttps://www.swanzeynh.gov/11092026 EDAC Agenda.pdf?t=202611030841580\n\n
+ From the town's posted records via Granite Docket. Check the town's site f
+ or changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:de0ecee65f0d3e449245@granite-docket
+DTSTAMP:20261103T102818Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Swanzey Select board / council
+LOCATION:Swanzey\, NH
+URL:https://www.swanzeynh.gov/Public Notice BOS 26-11-10.docx?t=20261102103
+ 3240
+DESCRIPTION:Notice: Public Notice - Board of Selectmen - 11-10-26 document 
+ _recordid 1187\nhttps://www.swanzeynh.gov/Public Notice BOS 26-11-10.docx?
+ t=202611021033240\n\nNotice: Public Notice - Board of Selectmen - Non Publ
+ ic Session - 11-10-26 document _recordid 1186\nhttps://www.swanzeynh.gov/N
+ on Public Notice BOS 26-11-10.docx?t=202611021032360\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

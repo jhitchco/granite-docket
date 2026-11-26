@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canaan Select board / council
+X-WR-CALDESC:Select board / council meetings in Canaan\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4b3eeb9432244e115ac9@granite-docket
+DTSTAMP:20261103T111957Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_0928202
+ 6-487
+DESCRIPTION:Minutes: Sep 28\, 2026 Cemetery Trustee Committee Regular Meeti
+ ng Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/
+ _09282026-487\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:65d7d68af7cfc93ad929@granite-docket
+DTSTAMP:20261103T112527Z
+DTSTART;TZID=America/New_York:20261006T180000
+DURATION:PT2H
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10062026-479
+DESCRIPTION:Agenda: Selectboard Regular Meeting Agenda\nhttps://www.canaann
+ h.gov/AgendaCenter/ViewFile/Agenda/_10062026-479\n\nMinutes: Oct 6\, 2026 
+ Selectboard Regular Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/
+ ViewFile/Minutes/_10062026-479\n\nMinutes: Oct 6\, 2026 Selectboard Regula
+ r Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedM
+ inutes/_10062026-493\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd17525b12277779f0ee@granite-docket
+DTSTAMP:20261103T111950Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_1007202
+ 6-488
+DESCRIPTION:Minutes: Oct 7\, 2026 Cemetery Trustee Committee Regular Meetin
+ g Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_
+ 10072026-488\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:10acc36a5b36d498140a@granite-docket
+DTSTAMP:20261123T085619Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+TRANSP:TRANSPARENT
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_1019202
+ 6-515
+DESCRIPTION:Minutes: Oct 19\, 2026 Cemetery Trustee Committee Regular Meeti
+ ng Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/ArchivedMinutes/
+ _10192026-515\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:df718d49e724ed9a1cae@granite-docket
+DTSTAMP:20261103T112502Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_10202026-489
+DESCRIPTION:Agenda: Selectboard Regular Meeting Agenda\nhttps://www.canaann
+ h.gov/AgendaCenter/ViewFile/Agenda/_10202026-489\n\nMinutes: Oct 20\, 2026
+  Selectboard Regular Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter
+ /ViewFile/Minutes/_10202026-489\n\nMinutes: Oct 20\, 2026 Selectboard Regu
+ lar Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Archive
+ dMinutes/_10202026-495\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bc8c3097a69082d0f4@granite-docket
+DTSTAMP:20261123T090329Z
+DTSTART;TZID=America/New_York:20261117T163000
+DURATION:PT2H
+SUMMARY:Canaan Select board / council
+LOCATION:Canaan\, NH
+URL:https://www.canaannh.gov/AgendaCenter/ViewFile/Agenda/_11172026-500
+DESCRIPTION:Agenda: Special Selectboard Meeting Agenda\nhttps://www.canaann
+ h.gov/AgendaCenter/ViewFile/Agenda/_11172026-500\n\nAgenda: Special Select
+ board Meeting Agenda\nhttps://www.canaannh.gov/AgendaCenter/ViewFile/Archi
+ vedAgenda/_11172026-517\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

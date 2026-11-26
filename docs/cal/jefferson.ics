@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jefferson NH meetings
+X-WR-CALDESC:Public meetings of Jefferson\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f9196aec608da0e76550@granite-docket
+DTSTAMP:20261103T122151Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Jefferson Select board / council
+LOCATION:Jefferson\, NH
+URL:https://jeffersonnh.org/wp-content/uploads/2026/10/Approved-MM-09.28.26
+ .pdf
+DESCRIPTION:Minutes: \nhttps://jeffersonnh.org/wp-content/uploads/2026/10/A
+ pproved-MM-09.28.26.pdf\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c9637d4439838cf0c579@granite-docket
+DTSTAMP:20261103T122439Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Jefferson Planning board
+LOCATION:Jefferson\, NH
+URL:https://jeffersonnh.org/wp-content/uploads/2026/10/October-13-2026-Minu
+ tes.pdf
+DESCRIPTION:Minutes: October 13\, 2026\, Minutes\nhttps://jeffersonnh.org/w
+ p-content/uploads/2026/10/October-13-2026-Minutes.pdf\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f72052905309e49e8d85@granite-docket
+DTSTAMP:20261123T095700Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Jefferson Select board / council
+LOCATION:Jefferson\, NH
+URL:https://jeffersonnh.org/wp-content/uploads/2026/11/Approved-MM-10.13.26
+ .pdf
+DESCRIPTION:Minutes: October 13\, 2026\, Minutes\nhttps://jeffersonnh.org/w
+ p-content/uploads/2026/11/Approved-MM-10.13.26.pdf\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:464200c8bed444ee6980@granite-docket
+DTSTAMP:20261123T095717Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Jefferson Conservation commission
+LOCATION:Jefferson\, NH
+URL:https://jeffersonnh.org/wp-content/uploads/2026/11/JCC-Minutes-2026-Oct
+ ober-20-1.pdf
+DESCRIPTION:Minutes: October 20\, 2026\nhttps://jeffersonnh.org/wp-content/
+ uploads/2026/11/JCC-Minutes-2026-October-20-1.pdf\n\nFrom the town's poste
+ d records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:58230b30d2816deeffa2@granite-docket
+DTSTAMP:20261123T095659Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+TRANSP:TRANSPARENT
+SUMMARY:Jefferson Select board / council
+LOCATION:Jefferson\, NH
+URL:https://jeffersonnh.org/wp-content/uploads/2026/11/Approved-MM-10.26.26
+ .pdf
+DESCRIPTION:Minutes: October 26\, 2026\, Minutes\nhttps://jeffersonnh.org/w
+ p-content/uploads/2026/11/Approved-MM-10.26.26.pdf\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:38aaa64cb70b339f2b82@granite-docket
+DTSTAMP:20261123T095659Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Jefferson Select board / council
+LOCATION:Jefferson\, NH
+URL:https://jeffersonnh.org/wp-content/uploads/2026/11/Approved-MM-11.09.26
+ .pdf
+DESCRIPTION:Minutes: November 09\, 2026\, Minutes\nhttps://jeffersonnh.org/
+ wp-content/uploads/2026/11/Approved-MM-11.09.26.pdf\n\nFrom the town's pos
+ ted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

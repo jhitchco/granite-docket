@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Historic district
+X-WR-CALDESC:Historic district meetings in Exeter\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:28a00f69104fd68aad73@granite-docket
+DTSTAMP:20261103T093554Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Exeter Historic district
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/historic_d
+ istrict_commission/meeting/63829/hdc_10-15-26_agenda.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/historic_district_commission/meeting/63829/hdc_10-15-26_agen
+ da.pdf\n\nAgenda: 10/15/2026 - 7:00pm Historic District Commission Agenda 
+ Packet Video View Details\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/historic_district_commission/meeting/packets/63829/hdc_10-15
+ -2026_mtg_packet.pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:daccea17563b720e66dd@granite-docket
+DTSTAMP:20261103T092244Z
+DTSTART;TZID=America/New_York:20261021T100000
+DURATION:PT2H
+SUMMARY:Exeter Historic district
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/heritage_c
+ ommission/meeting/64040/ehc_agenda_october_2026_1.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/heritage_commission/meeting/64040/ehc_agenda_october_2026_1.
+ pdf\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd10e0ad6889f92684f@granite-docket
+DTSTAMP:20261123T072212Z
+DTSTART;TZID=America/New_York:20261118T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Historic district
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11182026-569
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11182026-569\n\nAgenda: Heritage Commission Meeting - 11/18/2026\nhtt
+ ps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-310\n
+ \nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedA
+ genda/_11182026-310?packet=true\n\nFrom the town's posted records via Gran
+ ite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:6e12ba83a6475afbdff6@granite-docket
+DTSTAMP:20261123T072352Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Exeter Historic district
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11192026
+ -312
+DESCRIPTION:Agenda: HDC Agenda 11/19/2026\nhttps://www.exeternh.gov/AgendaC
+ enter/ViewFile/ArchivedAgenda/_11192026-312\n\nAgenda: HDC Agenda 11/19/20
+ 26\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1119202
+ 6-311\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Ag
+ enda/_11192026-572?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.gov
+ /AgendaCenter/ViewFile/ArchivedAgenda/_11192026-312?packet=true\n\nAgenda:
+  Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11
+ 192026-311?packet=true\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brentwood NH meetings
+X-WR-CALDESC:Public meetings of Brentwood\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:5c0b8e9c75c571e96947@granite-docket
+DTSTAMP:20261103T105310Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brentwood Zoning / ZBA
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14871
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14871\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:db2ea1fe1dbff8f35c72@granite-docket
+DTSTAMP:20261103T105354Z
+DTSTART;TZID=America/New_York:20260928T180000
+DURATION:PT2H
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14873
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14873\n\nMinutes: Minutes\nhttps://www.brentwoodnh.gov/d
+ ocview.aspx?doctype=minuteDoc&docid=14873\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d06da671bf3ddd1391dc@granite-docket
+DTSTAMP:20261103T105206Z
+DTSTART;TZID=America/New_York:20260929T180000
+DURATION:PT2H
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14872
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14872\n\nMinutes: Minutes\nhttps://www.brentwoodnh.gov/d
+ ocview.aspx?doctype=minuteDoc&docid=14872\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1bba91acd4bf21c4b400@granite-docket
+DTSTAMP:20261103T105621Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Planning board
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14876
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14876\n\nMinutes: Minutes\nhttps://www.brentwoodnh.gov/d
+ ocview.aspx?doctype=minuteDoc&docid=14875\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d52b37448d3dfd335d5d@granite-docket
+DTSTAMP:20261103T105622Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Minutes
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14876
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14876\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8785a4d1fc6afdac95f@granite-docket
+DTSTAMP:20261103T105203Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14878
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14878\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d832168f488ba3065c98@granite-docket
+DTSTAMP:20261103T105200Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14880
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14880\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0437f07338bdccf7eec1@granite-docket
+DTSTAMP:20261103T105350Z
+DTSTART;TZID=America/New_York:20261014T180000
+DURATION:PT2H
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14877
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14877\n\nMinutes: Minutes\nhttps://www.brentwoodnh.gov/d
+ ocview.aspx?doctype=minuteDoc&docid=14877\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d862b95e2921f28fcf5e@granite-docket
+DTSTAMP:20261103T105714Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Brentwood Conservation commission
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14882
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14882\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f63fcd587e5f9ceffaf@granite-docket
+DTSTAMP:20261103T105013Z
+DTSTART;TZID=America/New_York:20261015T190000
+DURATION:PT2H
+SUMMARY:Brentwood Planning board
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14884
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14884\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b4255c400085243bbece@granite-docket
+DTSTAMP:20261123T084230Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Planning board
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14891
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14891\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f99f747cb0d40f9c035b@granite-docket
+DTSTAMP:20261103T105159Z
+DTSTART;TZID=America/New_York:20261020T180000
+DURATION:PT2H
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14890
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14890\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8b71c90ee95337ac6398@granite-docket
+DTSTAMP:20261103T105344Z
+DTSTART;TZID=America/New_York:20261026T180000
+DURATION:PT2H
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14879
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14879\n\nMinutes: Minutes\nhttps://www.brentwoodnh.gov/d
+ ocview.aspx?doctype=minuteDoc&docid=14879\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:99779fe0287039529ec7@granite-docket
+DTSTAMP:20261109T092105Z
+DTSTART;TZID=America/New_York:20261026T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Brentwood Zoning / ZBA
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14893
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14893\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:23d7082cf2ed2d1ee27b@granite-docket
+DTSTAMP:20261103T105342Z
+DTSTART;TZID=America/New_York:20261028T173000
+DURATION:PT2H
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14897
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14897\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e7670d9f0612482cebc@granite-docket
+DTSTAMP:20261109T092201Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Brentwood Budget / CIP
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14896
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14896\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b946f714c95e715f3e72@granite-docket
+DTSTAMP:20261103T105158Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14898
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14898\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3acd0f373388377e4891@granite-docket
+DTSTAMP:20261109T092135Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Planning board
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14900
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14900\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:aa9db9caf28c99faaeda@granite-docket
+DTSTAMP:20261123T084343Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Planning board
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14887
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14887\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b992d840a7c01f47b35a@granite-docket
+DTSTAMP:20261123T084342Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Brentwood Zoning / ZBA
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14887
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14887\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7c311081bec24983f3@granite-docket
+DTSTAMP:20261123T084253Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Brentwood Town meeting / warrant
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14905
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14905\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3796dd51b425ec8a0d54@granite-docket
+DTSTAMP:20261123T084408Z
+DTSTART;TZID=America/New_York:20261112T180000
+DURATION:PT2H
+SUMMARY:Brentwood Select board / council
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14904
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14904\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:542f35cbd4fa1ef06b70@granite-docket
+DTSTAMP:20261123T084438Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Budget / CIP
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&docid=14903
+DESCRIPTION:Minutes: Minutes\nhttps://www.brentwoodnh.gov/docview.aspx?doct
+ ype=minuteDoc&docid=14903\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:928f8760be10867f8cde@granite-docket
+DTSTAMP:20261123T084513Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+TRANSP:TRANSPARENT
+SUMMARY:Brentwood Town meeting / warrant
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=fd&docid=54569
+DESCRIPTION:Other: Town_Meeting_SB_Recommended\nhttps://www.brentwoodnh.gov
+ /docview.aspx?doctype=fd&docid=54569\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d67bbd7a8713291561a@granite-docket
+DTSTAMP:20261123T084408Z
+DTSTART;TZID=America/New_York:20261118T160000
+DURATION:PT2H
+SUMMARY:Brentwood Town meeting / warrant
+LOCATION:Brentwood\, NH
+URL:https://www.brentwoodnh.gov/docview.aspx?doctype=agendaDoc&docid=14916
+DESCRIPTION:Agenda: Agenda\nhttps://www.brentwoodnh.gov/docview.aspx?doctyp
+ e=agendaDoc&docid=14916\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

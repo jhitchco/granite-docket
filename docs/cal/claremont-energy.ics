@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Claremont Energy committee
+X-WR-CALDESC:Energy committee meetings in Claremont\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:76a0bfc2b95c76cc30a8@granite-docket
+DTSTAMP:20261116T071035Z
+DTSTART;TZID=America/New_York:20261119T170000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Energy committee
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/11 19 26 EAC MEETING PACKET_1793642073.pdf
+DESCRIPTION:Agenda: 11 19 26 Energy Advisory Committee Meeting Packet\nhttp
+ s://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/
+ 11 19 26 EAC MEETING PACKET_1793642073.pdf\n\nAgenda: 11 19 26 Energy Advi
+ sory Committee Meeting Packet\nhttps://www.claremontnh.com/corecode/upload
+ s/document6/uploaded_pdfs/corecode/11 19 26 EAC MEETING PACKET_1794252020.
+ pdf\n\nNotice: 11 19 26 Energy Advisory Committee Public Notice - STARTING
+  AT 5:00 PM\nhttps://www.claremontnh.com/corecode/uploads/document6/upload
+ ed_pdfs/corecode/11 19 26  EAC PN_1792523219.pdf\n\nNotice: 11 19 26 Energ
+ y Advisory Committee Public Notice\nhttps://www.claremontnh.com/corecode/u
+ ploads/document6/uploaded_pdfs/corecode/11 19 26  EAC PN_1794252122.pdf\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:ac5f49c130c1d42fe5cf@granite-docket
+DTSTAMP:20261109T070459Z
+DTSTART;TZID=America/New_York:20270108T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Claremont Energy committee
+LOCATION:Claremont\, NH
+URL:https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/co
+ recode/2027 Energy Advisory Committee_1793823548.pdf
+DESCRIPTION:Notice: 2027 Energy Advisory Committee Meeting Schedule\nhttps:
+ //www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/20
+ 27 Energy Advisory Committee_1793823548.pdf\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

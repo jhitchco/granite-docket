@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Energy committee
+X-WR-CALDESC:Energy committee meetings in Exeter\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e5ff1ac25ba9d11583ee@granite-docket
+DTSTAMP:20261116T071922Z
+DTSTART;TZID=America/New_York:20261007T190000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10072026-549
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10072026-549\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_10072026-549?packet=true\n\nAgenda: Agenda\nhttps://www.
+ exeternh.gov/sites/default/files/fileattachments/sustainability_advisory/m
+ eeting/64218/10-7-26_sac_mtg.pdf\n\nMinutes: Oct 7\, 2026 Sustainability A
+ dvisory Committee\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/
+ _10072026-549\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cc8e3011d00bd2ac9901@granite-docket
+DTSTAMP:20261116T071345Z
+DTSTART;TZID=America/New_York:20261014T153000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10142026-547
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10142026-547\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_10142026-547?packet=true\n\nMinutes: Oct 14\, 2026 Energ
+ y Committee Meeting Materials\nhttps://www.exeternh.gov/AgendaCenter/ViewF
+ ile/Minutes/_10142026-547\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:123a1f84800559cc676b@granite-docket
+DTSTAMP:20261103T093557Z
+DTSTART;TZID=America/New_York:20261017T153000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/energy_com
+ mittee/meeting/64232/ec_10-17-26_rev.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/energy_committee/meeting/64232/ec_10-17-26_rev.pdf\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+END:VEVENT
+BEGIN:VEVENT
+UID:69715b2928b3ca2d5587@granite-docket
+DTSTAMP:20261103T092224Z
+DTSTART;TZID=America/New_York:20261104T190000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/sustainabi
+ lity_advisory/meeting/64219/11-4-26_sac_mtg.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/sustainability_advisory/meeting/64219/11-4-26_sac_mtg.pdf\n\
+ nFrom the town's posted records via Granite Docket. Check the town's site 
+ for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:618bcd01525d4e227741@granite-docket
+DTSTAMP:20261116T072852Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026
+ -301
+DESCRIPTION:Agenda: Sustainability Advisory Committee Meeting Materials\nht
+ tps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-301\
+ n\nAgenda: Sustainability Advisory Committee Meeting Materials\nhttps://ww
+ w.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11102026-300\n\nAgend
+ a: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_
+ 11102026-301?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.gov/Agend
+ aCenter/ViewFile/ArchivedAgenda/_11102026-300?packet=true\n\nFrom the town
+ 's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d37040623568b19a34f@granite-docket
+DTSTAMP:20261123T071531Z
+DTSTART;TZID=America/New_York:20261116T190000
+DURATION:PT2H
+SUMMARY:Exeter Energy committee
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11162026-554
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11162026-554\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_11162026-554?packet=true\n\nMinutes: Nov 16\, 2026 — A
+ mended Nov 10\, 2026 11:14 AM Sustainability Advisory Committee Meeting Ma
+ terials\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Minutes/_11162026-
+ 554\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+END:VCALENDAR

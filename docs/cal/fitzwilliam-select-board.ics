@@ -1,0 +1,162 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fitzwilliam Select board / council
+X-WR-CALDESC:Select board / council meetings in Fitzwilliam\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:57ccddadcea5f3402595@granite-docket
+DTSTAMP:20261103T115941Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Select board / council
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/AGEN100726_draft.pdf
+DESCRIPTION:Agenda: AGENDA 10/07/26 draft\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/AGEN100726_dr
+ aft.pdf\n\nMinutes: BOS schedule October\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/BOS_schedule_
+ October(6).pdf\n\nMinutes: BOS Minutes 10-7-26\nhttps://fitzwilliam-nh.gov
+ /vertical/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/BOS_Min
+ utes_10-7-26_draft.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c638bddfd8b1bac7f78f@granite-docket
+DTSTAMP:20261103T115940Z
+DTSTART;TZID=America/New_York:20261014T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Select board / council
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/AGEN101426_draft.pdf
+DESCRIPTION:Agenda: AGENDA 10/14/26 draft\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/AGEN101426_dr
+ aft.pdf\n\nMinutes: BOS Minutes 10-14-26\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/BOS_Minutes_1
+ 0-14-26_.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:3c5dee4651a0b8c6671f@granite-docket
+DTSTAMP:20261103T115939Z
+DTSTART;TZID=America/New_York:20261021T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Select board / council
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/AGEN102126_draft.pdf
+DESCRIPTION:Agenda: AGENDA 10/21/26 draft\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/AGEN102126_dr
+ aft.pdf\n\nMinutes: BOS Minutes 10-21-26\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/BOS_Minutes_1
+ 0-21-26_draft.pdf\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:f28b456aef7c58be7950@granite-docket
+DTSTAMP:20261103T120005Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+SUMMARY:Fitzwilliam Select board / council
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/20261022_004516.pdf
+DESCRIPTION:Minutes: Meeting 10/22/26\nhttps://fitzwilliam-nh.gov/vertical/
+ sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/20261022_004516.p
+ df\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a089d36ce4739b8235f5@granite-docket
+DTSTAMP:20261109T101731Z
+DTSTART;TZID=America/New_York:20261028T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Select board / council
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/AGEN102826_draft.pdf
+DESCRIPTION:Agenda: AGENDA 10/28/26 draft\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/AGEN102826_dr
+ aft.pdf\n\nMinutes: BOS Minutes 10-28-26\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/BOS_Minutes_1
+ 0-28-26_.pdf\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:831041ff882065e38654@granite-docket
+DTSTAMP:20261123T092300Z
+DTSTART;TZID=America/New_York:20261103T110000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Select board / council
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/AGEN110326_draft.pdf
+DESCRIPTION:Agenda: AGENDA 11/03/26 draft\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/AGEN110326_dr
+ aft.pdf\n\nMinutes: BOS schedule November\nhttps://fitzwilliam-nh.gov/vert
+ ical/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/BOS_schedule
+ _November(6).pdf\n\nMinutes: BOS Minutes 11-3-26\nhttps://fitzwilliam-nh.g
+ ov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/BOS_M
+ inutes_11-3-26_Draft.pdf\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a03628120db9591a96@granite-docket
+DTSTAMP:20261123T092240Z
+DTSTART;TZID=America/New_York:20261118T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Fitzwilliam Select board / council
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/AGEN111826_draft.pdf
+DESCRIPTION:Agenda: AGENDA 11/18/26 draft\nhttps://fitzwilliam-nh.gov/verti
+ cal/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/AGEN111826_dr
+ aft.pdf\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:c64c91958b9f17dfc80f@granite-docket
+DTSTAMP:20261123T092230Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:Fitzwilliam Select board / council
+LOCATION:Fitzwilliam\, NH
+URL:https://fitzwilliam-nh.gov/vertical/sites/%7B5152AF08-0D8E-4832-8682-9F
+ 3DC8413E4B%7D/uploads/BOS_schedule_December(3).pdf
+DESCRIPTION:Minutes: BOS schedule December\nhttps://fitzwilliam-nh.gov/vert
+ ical/sites/%7B5152AF08-0D8E-4832-8682-9F3DC8413E4B%7D/uploads/BOS_schedule
+ _December(3).pdf\n\nFrom the town's posted records via Granite Docket. Che
+ ck the town's site for changes.
+END:VEVENT
+END:VCALENDAR

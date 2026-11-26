@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bartlett Planning board
+X-WR-CALDESC:Planning board meetings in Bartlett\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dfc32a1fc96466c60709@granite-docket
+DTSTAMP:20261103T112156Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Bartlett Planning board
+LOCATION:Bartlett\, NH
+URL:https://www.townofbartlett.nh.gov/AgendaCenter/ViewFile/Agenda/_1005202
+ 6-203
+DESCRIPTION:Agenda: Planning Board Meeting\nhttps://www.townofbartlett.nh.g
+ ov/AgendaCenter/ViewFile/Agenda/_10052026-203\n\nMinutes: Oct 5\, 2026 Pla
+ nning Board Meeting\nhttps://www.townofbartlett.nh.gov/AgendaCenter/ViewFi
+ le/Minutes/_10052026-203\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d0408667e914613b8338@granite-docket
+DTSTAMP:20261103T112155Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Bartlett Planning board
+LOCATION:Bartlett\, NH
+URL:https://www.townofbartlett.nh.gov/AgendaCenter/ViewFile/Agenda/_1102202
+ 6-209
+DESCRIPTION:Agenda: Planning Board Public Hearing\nhttps://www.townofbartle
+ tt.nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-209\n\nFrom the town's po
+ sted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

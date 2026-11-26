@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Grafton Budget / CIP
+X-WR-CALDESC:Budget / CIP meetings in Grafton\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1c2086ea95b5f8b9a530@granite-docket
+DTSTAMP:20261123T100415Z
+DTSTART;TZID=America/New_York:20260929T180300
+DURATION:PT2H
+SUMMARY:Grafton Budget / CIP
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_0
+ 9292026-20
+DESCRIPTION:Agenda: 9/29/26 Meeting - DRAFT\nhttps://www.townofgraftonnh.co
+ m/AgendaCenter/ViewFile/ArchivedAgenda/_09292026-20\n\nMinutes: Sep 29\, 2
+ 026 9/29/26 Meeting - DRAFT\nhttps://www.townofgraftonnh.com/AgendaCenter/
+ ViewFile/ArchivedMinutes/_09292026-20\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:035aff33eeed625fd4a7@granite-docket
+DTSTAMP:20261123T100305Z
+DTSTART;TZID=America/New_York:20261027T080400
+DURATION:PT2H
+SUMMARY:Public hearing: Grafton Budget / CIP
+LOCATION:Grafton\, NH
+URL:https://www.townofgraftonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0272026-19
+DESCRIPTION:Agenda: Budget Committee Meeting\nhttps://www.townofgraftonnh.c
+ om/AgendaCenter/ViewFile/ArchivedAgenda/_10272026-19\n\nAgenda: Budget Com
+ mittee Meeting\nhttps://www.townofgraftonnh.com/AgendaCenter/ViewFile/Arch
+ ivedAgenda/_10272026-15\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

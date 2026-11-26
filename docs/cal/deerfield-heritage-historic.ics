@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deerfield Historic district
+X-WR-CALDESC:Historic district meetings in Deerfield\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a4bf3ae424cf6608fda8@granite-docket
+DTSTAMP:20261103T105646Z
+DTSTART;TZID=America/New_York:20261020T190000
+DURATION:PT2H
+SUMMARY:Deerfield Historic district
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10202026-
+ 156
+DESCRIPTION:Agenda: Heritage Commission Agenda\nhttps://deerfieldnh.gov/Age
+ ndaCenter/ViewFile/ArchivedAgenda/_10202026-156\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a89e6a7ac7d3e10e08b7@granite-docket
+DTSTAMP:20261116T090624Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+TRANSP:TRANSPARENT
+SUMMARY:Deerfield Historic district
+LOCATION:Deerfield\, NH
+URL:https://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11182026-
+ 187
+DESCRIPTION:Agenda: Heritage Commission: A Gift From Past Generations - Tow
+ n Hall\nhttps://deerfieldnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1118
+ 2026-187\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+END:VCALENDAR

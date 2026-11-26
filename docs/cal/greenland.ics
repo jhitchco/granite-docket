@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Greenland NH meetings
+X-WR-CALDESC:Public meetings of Greenland\, NH boards\, from posted agendas
+  and minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d7ec3b12ac5debd55cfd@granite-docket
+DTSTAMP:20261103T112306Z
+DTSTART;TZID=America/New_York:20261001T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Planning board
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10012026-137
+DESCRIPTION:Agenda: Planning Board\nhttps://greenland.nh.gov/AgendaCenter/V
+ iewFile/Agenda/_10012026-137\n\nAgenda: Planning Board\nhttps://greenland.
+ nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10012026-177\n\nAgenda: Plann
+ ing Board\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_
+ 10012026-176\n\nMinutes: Oct 1\, 2026 — Amended Oct 1\, 2026 12:09 PM Pl
+ anning Board\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_1001
+ 2026-137\n\nOther: Planning Board Application (PDF) 09-2026\nhttps://green
+ land.nh.gov/1613/Planning-Board-Application-PDF-09-2026\n\nFrom the town's
+  posted records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:161993bc7ab665d24526@granite-docket
+DTSTAMP:20261103T105724Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-138
+DESCRIPTION:Agenda: Board of Selectmen\nhttps://greenland.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_10052026-138\n\nMinutes: Oct 5\, 2026 Board of Selectm
+ en\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_10052026-138\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:09787a439814ad200982@granite-docket
+DTSTAMP:20261103T110052Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Greenland Conservation commission
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10142026
+ -182
+DESCRIPTION:Agenda: Conservation Commission\nhttps://greenland.nh.gov/Agend
+ aCenter/ViewFile/ArchivedAgenda/_10142026-182\n\nFrom the town's posted re
+ cords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e98eebd8fc1c3166c99b@granite-docket
+DTSTAMP:20261103T105738Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10142026-139
+DESCRIPTION:Agenda: Conservation Commission\nhttps://greenland.nh.gov/Agend
+ aCenter/ViewFile/Agenda/_10142026-139\n\nMinutes: Oct 14\, 2026 Conservati
+ on Commission\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_101
+ 42026-139\n\nFrom the town's posted records via Granite Docket. Check the 
+ town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6bbe69034be01fc42abf@granite-docket
+DTSTAMP:20261103T105746Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Planning board
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-140
+DESCRIPTION:Agenda: Planning Board\nhttps://greenland.nh.gov/AgendaCenter/V
+ iewFile/Agenda/_10152026-140\n\nMinutes: Oct 15\, 2026 Planning Board\nhtt
+ ps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_10152026-140\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b6ab93a081f4ba8ab8@granite-docket
+DTSTAMP:20261103T105723Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-141
+DESCRIPTION:Agenda: Board of Selectmen\nhttps://greenland.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_10192026-141\n\nMinutes: Oct 19\, 2026 Board of Select
+ men\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_10192026-141\
+ n\nFrom the town's posted records via Granite Docket. Check the town's sit
+ e for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:3df2a7a1148ba093ccf7@granite-docket
+DTSTAMP:20261103T110345Z
+DTSTART;TZID=America/New_York:20261020T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Zoning / ZBA
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_10202026-142
+DESCRIPTION:Agenda: Zoning Board of Adjustment\nhttps://greenland.nh.gov/Ag
+ endaCenter/ViewFile/Agenda/_10202026-142\n\nMinutes: Oct 20\, 2026 — Ame
+ nded Nov 2\, 2026 10:11 AM Zoning Board of Adjustment\nhttps://greenland.n
+ h.gov/AgendaCenter/ViewFile/Minutes/_10202026-142\n\nMinutes: Oct 20\, 202
+ 6 — Amended Nov 2\, 2026 10:11 AM Zoning Board of Adjustment\nhttps://gr
+ eenland.nh.gov/AgendaCenter/ViewFile/ArchivedMinutes/_10202026-187\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:30ce9fc897f95a929794@granite-docket
+DTSTAMP:20261116T093746Z
+DTSTART;TZID=America/New_York:20261102T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_11022026-143
+DESCRIPTION:Agenda: Board of Selectmen\nhttps://greenland.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_11022026-143\n\nMinutes: Nov 2\, 2026 Board of Selectm
+ en\nhttps://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_11022026-143\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:5ea945f33c936bf222d2@granite-docket
+DTSTAMP:20261116T093806Z
+DTSTART;TZID=America/New_York:20261105T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Planning board
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_11052026-144
+DESCRIPTION:Agenda: Planning Board\nhttps://greenland.nh.gov/AgendaCenter/V
+ iewFile/Agenda/_11052026-144\n\nMinutes: Nov 5\, 2026 Planning Board\nhttp
+ s://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_11052026-144\n\nFrom t
+ he town's posted records via Granite Docket. Check the town's site for cha
+ nges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1809a5cb1b0aba06bdc7@granite-docket
+DTSTAMP:20261109T092445Z
+DTSTART;TZID=America/New_York:20261111T183000
+DURATION:PT2H
+SUMMARY:Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_11112026-145
+DESCRIPTION:Agenda: Conservation Commission\nhttps://greenland.nh.gov/Agend
+ aCenter/ViewFile/Agenda/_11112026-145\n\nFrom the town's posted records vi
+ a Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:67381475e7ada0b74162@granite-docket
+DTSTAMP:20261116T093736Z
+DTSTART;TZID=America/New_York:20261116T180000
+DURATION:PT2H
+SUMMARY:Greenland Select board / council
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_11162026-146
+DESCRIPTION:Agenda: Board of Selectmen\nhttps://greenland.nh.gov/AgendaCent
+ er/ViewFile/Agenda/_11162026-146\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d528ea44c6cbeefbb62a@granite-docket
+DTSTAMP:20261116T093756Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Greenland Planning board
+LOCATION:Greenland\, NH
+URL:https://greenland.nh.gov/AgendaCenter/ViewFile/Agenda/_11192026-147
+DESCRIPTION:Agenda: Planning Board\nhttps://greenland.nh.gov/AgendaCenter/V
+ iewFile/Agenda/_11192026-147\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:bff99fb4a6723ca3d099@granite-docket
+DTSTAMP:20261103T105719Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Greenland 2026 Greenland Public Health Mosquito Con
+ trol Program
+LOCATION:Greenland\, NH
+URL:https://www.greenland.nh.gov/DocumentCenter/View/2656/2026-Greenland-Bu
+ lletin-Board-Public-Notice-Mosquito
+DESCRIPTION:Notice: 2026 Greenland Public Health Mosquito Control Program\n
+ https://www.greenland.nh.gov/DocumentCenter/View/2656/2026-Greenland-Bulle
+ tin-Board-Public-Notice-Mosquito\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

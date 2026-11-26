@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Ipswich Select board / council
+X-WR-CALDESC:Select board / council meetings in New Ipswich\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:840b7a2b4bdf204914d6@granite-docket
+DTSTAMP:20261103T104434Z
+DTSTART;TZID=America/New_York:20261001T170000
+DURATION:PT2H
+SUMMARY:New Ipswich Select board / council
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/410/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/410/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/410/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ebebefb20867524ee044@granite-docket
+DTSTAMP:20261103T104431Z
+DTSTART;TZID=America/New_York:20261014T170000
+DURATION:PT2H
+SUMMARY:New Ipswich Select board / council
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/420/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/420/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/420/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb6d3b53e9dba985a5fe@granite-docket
+DTSTAMP:20261103T104429Z
+DTSTART;TZID=America/New_York:20261022T170000
+DURATION:PT2H
+SUMMARY:New Ipswich Select board / council
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/423/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/423/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/423/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e28d8c336f1b95bf25fa@granite-docket
+DTSTAMP:20261109T084742Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+TRANSP:TRANSPARENT
+SUMMARY:New Ipswich Select board / council
+LOCATION:New Ipswich\, NH
+URL:https://www.newipswichnh.gov/uploads/health-officer-draft-10.28.26.pdf
+DESCRIPTION:Other: Download\nhttps://www.newipswichnh.gov/uploads/health-of
+ ficer-draft-10.28.26.pdf\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9128b40f77d5c52c7e@granite-docket
+DTSTAMP:20261109T084739Z
+DTSTART;TZID=America/New_York:20261105T170000
+DURATION:PT2H
+SUMMARY:New Ipswich Select board / council
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/433/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/433/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/433/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:31e52469b7a1f481cb0d@granite-docket
+DTSTAMP:20261116T084854Z
+DTSTART;TZID=America/New_York:20261110T170000
+DURATION:PT2H
+SUMMARY:New Ipswich Select board / council
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/434/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/434/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/434/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8955b7e3f285d9a58bae@granite-docket
+DTSTAMP:20261123T084107Z
+DTSTART;TZID=America/New_York:20261117T170000
+DURATION:PT2H
+SUMMARY:New Ipswich Select board / council
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/435/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/435/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/435/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:02e50ae027aad01f93f9@granite-docket
+DTSTAMP:20261123T084107Z
+DTSTART;TZID=America/New_York:20261118T180000
+DURATION:PT2H
+SUMMARY:New Ipswich Select board / council
+LOCATION:New Ipswich\, NH
+URL:https://towncloud.io/go/new-ipswich-nh/agendas/472/PDF/get_agenda_docum
+ ent_link
+DESCRIPTION:Agenda: Agenda PDF\nhttps://towncloud.io/go/new-ipswich-nh/agen
+ das/472/PDF/get_agenda_document_link\n\nAgenda: Packet PDF\nhttps://towncl
+ oud.io/go/new-ipswich-nh/agendas/472/pdf_packet/get_agenda_document_link\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+END:VCALENDAR

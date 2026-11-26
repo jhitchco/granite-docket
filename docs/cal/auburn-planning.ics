@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Auburn Planning board
+X-WR-CALDESC:Planning board meetings in Auburn\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:97bde3abd7dddd6744fd@granite-docket
+DTSTAMP:20261103T103220Z
+DTSTART;TZID=America/New_York:20261021T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Auburn Planning board
+LOCATION:Auburn\, NH
+URL:https://auburnnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-192
+DESCRIPTION:Agenda: Planning Board Meeting 10-21-26\nhttps://auburnnh.gov/A
+ gendaCenter/ViewFile/Agenda/_10212026-192\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e73697c4d939fdade588@granite-docket
+DTSTAMP:20261116T084627Z
+DTSTART;TZID=America/New_York:20261118T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Auburn Planning board
+LOCATION:Auburn\, NH
+URL:https://auburnnh.gov/AgendaCenter/ViewFile/Agenda/_11182026-205
+DESCRIPTION:Agenda: Planning Board Meeting 11-18-26\nhttps://auburnnh.gov/A
+ gendaCenter/ViewFile/Agenda/_11182026-205\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keene Planning board
+X-WR-CALDESC:Planning board meetings in Keene\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:668a4b87ca7ebbe0a0c9@granite-docket
+DTSTAMP:20261116T070928Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+TRANSP:TRANSPARENT
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/Board-Actions_2026_09-28
+ .pdf
+DESCRIPTION:Minutes: Planning Board Actions for September 28\, 2026\nhttps:
+ //keenenh.gov/wp-content/uploads/2026/10/Board-Actions_2026_09-28.pdf\n\nM
+ inutes: Planning Board Minutes for September 28\, 2026\nhttps://keenenh.go
+ v/wp-content/uploads/2026/11/2026_09_28_PB_Minutes_Adopted.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+END:VEVENT
+BEGIN:VEVENT
+UID:08990924cc53ba8fed37@granite-docket
+DTSTAMP:20261103T092239Z
+DTSTART;TZID=America/New_York:20261007T180000
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/2026_10_07_PLD_Committee
+ _Agenda_Packet_optimized.pdf
+DESCRIPTION:Agenda: Planning\, Licenses\, and Development Committee Agendas
+  for October 7\, 2026\nhttps://keenenh.gov/wp-content/uploads/2026/10/2026
+ _10_07_PLD_Committee_Agenda_Packet_optimized.pdf\n\nMinutes: Planning\, Li
+ censes\, and Development Committee Minutes for October 7\, 2026\nhttps://k
+ eenenh.gov/wp-content/uploads/2026/10/2026_10_07_PLD_Minutes_Adopted.pdf\n
+ \nFrom the town's posted records via Granite Docket. Check the town's site
+  for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e1145d05afe7ed5a366@granite-docket
+DTSTAMP:20261103T092235Z
+DTSTART;TZID=America/New_York:20261013T183000
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/Agenda_2026-10-13_Cancel
+ ation-Notice.pdf
+DESCRIPTION:Agenda: Joint Planning Board and Planning\, Licenses and Develo
+ pment Committee Not Scheduled Agendas for Octo\nhttps://keenenh.gov/wp-con
+ tent/uploads/2026/10/Agenda_2026-10-13_Cancelation-Notice.pdf\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:7a03637bfa6ac1231b2b@granite-docket
+DTSTAMP:20261103T092234Z
+DTSTART;TZID=America/New_York:20261014T093000
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/BPPAC-Agenda-10_14_26.pd
+ f
+DESCRIPTION:Agenda: Bicycle/Pedestrian Path Advisory Committee Agendas for 
+ October 14\, 2026\nhttps://keenenh.gov/wp-content/uploads/2026/10/BPPAC-Ag
+ enda-10_14_26.pdf\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:75df849692ba6d5c82d4@granite-docket
+DTSTAMP:20261103T093040Z
+DTSTART;TZID=America/New_York:20261026T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/10262026-Planning-Board-
+ Agenda-Packet.pdf
+DESCRIPTION:Agenda: Planning Board Agendas for October 26\, 2026\nhttps://k
+ eenenh.gov/wp-content/uploads/2026/10/10262026-Planning-Board-Agenda-Packe
+ t.pdf\n\nMinutes: Planning Board Actions for October 26\, 2026\nhttps://ke
+ enenh.gov/wp-content/uploads/2026/10/Board-Actions_2026_10-26.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:69efbdc29243a94b14e7@granite-docket
+DTSTAMP:20261103T092217Z
+DTSTART;TZID=America/New_York:20261029T090000
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/Pre-sub-Agenda-Packet_10
+ -29-26.pdf
+DESCRIPTION:Agenda: Minor Project Review Committee Pre-Submission Agendas f
+ or October 29\, 2026 - Pre-Submission\nhttps://keenenh.gov/wp-content/uplo
+ ads/2026/10/Pre-sub-Agenda-Packet_10-29-26.pdf\n\nFrom the town's posted r
+ ecords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6d2b56d604f11cea4feb@granite-docket
+DTSTAMP:20261103T092217Z
+DTSTART;TZID=America/New_York:20261104T093000
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/10/110426-BPPAC-Agenda-Pack
+ et.pdf
+DESCRIPTION:Agenda: Bicycle/Pedestrian Path Advisory Committee Agendas for 
+ November 4\, 2026\nhttps://keenenh.gov/wp-content/uploads/2026/10/110426-B
+ PPAC-Agenda-Packet.pdf\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dee81bbc56454bb0e2d8@granite-docket
+DTSTAMP:20261109T070334Z
+DTSTART;TZID=America/New_York:20261109T183000
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/11/Agenda_2026-11-09_Cancel
+ ation-Notice.pdf
+DESCRIPTION:Agenda: Joint Planning Board and Planning\, Licenses and Develo
+ pment Committee Not Scheduled Agendas for Nove\nhttps://keenenh.gov/wp-con
+ tent/uploads/2026/11/Agenda_2026-11-09_Cancelation-Notice.pdf\n\nFrom the 
+ town's posted records via Granite Docket. Check the town's site for change
+ s.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9992e68ef98a6a9fc8@granite-docket
+DTSTAMP:20261109T070333Z
+DTSTART;TZID=America/New_York:20261110T081500
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/11/2026_11_10_ARPAB-MEETING
+ -PACKET.pdf
+DESCRIPTION:Agenda: Ashuelot River Park Advisory Board Agendas for November
+  10\, 2026\nhttps://keenenh.gov/wp-content/uploads/2026/11/2026_11_10_ARPA
+ B-MEETING-PACKET.pdf\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4cca47f73da28a5494@granite-docket
+DTSTAMP:20261116T070926Z
+DTSTART;TZID=America/New_York:20261112T173000
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/11/2026_11_12_PLD_Committee
+ _Agenda_Packet_optimized.pdf
+DESCRIPTION:Agenda: Planning\, Licenses\, and Development Committee Agendas
+  for November 12\, 2026\nhttps://keenenh.gov/wp-content/uploads/2026/11/20
+ 26_11_12_PLD_Committee_Agenda_Packet_optimized.pdf\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4ae578dd0afa52f57d21@granite-docket
+DTSTAMP:20261116T070924Z
+DTSTART;TZID=America/New_York:20261123T183000
+DURATION:PT2H
+SUMMARY:Keene Planning board
+LOCATION:Keene\, NH
+URL:https://keenenh.gov/wp-content/uploads/2026/11/11232026-Agenda-Packet.p
+ df
+DESCRIPTION:Agenda: Planning Board Agendas for November 23\, 2026\nhttps://
+ keenenh.gov/wp-content/uploads/2026/11/11232026-Agenda-Packet.pdf\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+END:VCALENDAR

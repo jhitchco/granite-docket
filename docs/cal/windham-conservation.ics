@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Windham Conservation commission
+X-WR-CALDESC:Conservation commission meetings in Windham\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:76d24818fd29ae1c5e63@granite-docket
+DTSTAMP:20261123T075848Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Windham Conservation commission
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-3059
+DESCRIPTION:Agenda: Conservation Commission Meeting\nhttps://windhamnh.gov/
+ AgendaCenter/ViewFile/Agenda/_10082026-3059\n\nMinutes: Oct 8\, 2026 Conse
+ rvation Commission Meeting\nhttps://windhamnh.gov/AgendaCenter/ViewFile/Mi
+ nutes/_10082026-3059\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9955ac7c0536b8762c6@granite-docket
+DTSTAMP:20261123T075838Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Windham Conservation commission
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-3066
+DESCRIPTION:Agenda: Conservation Commission Meeting\nhttps://windhamnh.gov/
+ AgendaCenter/ViewFile/Agenda/_10222026-3066\n\nMinutes: Oct 22\, 2026 Cons
+ ervation Commission Meeting\nhttps://windhamnh.gov/AgendaCenter/ViewFile/M
+ inutes/_10222026-3066\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ec272640453c4cb91a2@granite-docket
+DTSTAMP:20261116T080434Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Windham Conservation commission
+LOCATION:Windham\, NH
+URL:https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-3077
+DESCRIPTION:Agenda: Conservation Commission Meeting\nhttps://windhamnh.gov/
+ AgendaCenter/ViewFile/Agenda/_11122026-3077\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

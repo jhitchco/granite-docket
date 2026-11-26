@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Andover NH meetings
+X-WR-CALDESC:Public meetings of Andover\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2003129831f30a49e001@granite-docket
+DTSTAMP:20261103T114037Z
+DTSTART;TZID=America/New_York:20260928T130000
+DURATION:PT2H
+SUMMARY:Andover Supervisors of the Checklist Agenda Sep 28\, 2026 Superviso
+ rs of the Ch
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-413
+DESCRIPTION:Agenda: Supervisors of the Checklist Agenda Sep 28\, 2026 Super
+ visors of the Checklist Meeting Agenda\nhttps://www.andover-nh.gov/AgendaC
+ enter/ViewFile/Agenda/_09282026-413\n\nFrom the town's posted records via 
+ Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8a48f15d34b8d9474d@granite-docket
+DTSTAMP:20261103T113808Z
+DTSTART;TZID=America/New_York:20260928T190000
+DURATION:PT2H
+SUMMARY:Andover Town meeting / warrant
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_09282026-412
+DESCRIPTION:Agenda: Conservation Commission Agenda Sep 28\, 2026 Andover Co
+ nservation Commission Special meeting Agenda\nhttps://www.andover-nh.gov/A
+ gendaCenter/ViewFile/Agenda/_09282026-412\n\nMinutes: Conservation Commiss
+ ion Minutes Sep 28\, 2026 Andover Conservation Commission Special meeting 
+ Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Minutes/_09282026
+ -412\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6035e3206bb3579a3aa5@granite-docket
+DTSTAMP:20261103T113713Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Andover Andover Library Trustees Minutes Sep 30\, 2026 Library Trus
+ tees Meeting
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Minutes/_09302026-419
+DESCRIPTION:Minutes: Andover Library Trustees Minutes Sep 30\, 2026 Library
+  Trustees Meeting Minutes\nhttps://www.andover-nh.gov/AgendaCenter/ViewFil
+ e/Minutes/_09302026-419\n\nFrom the town's posted records via Granite Dock
+ et. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ac6be7f37085f8663c52@granite-docket
+DTSTAMP:20261103T114010Z
+DTSTART;TZID=America/New_York:20260930T180000
+DURATION:PT2H
+SUMMARY:Andover Town meeting / warrant
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_09302026-409
+DESCRIPTION:Agenda: Select Board Agenda Sep 30\, 2026 Select Board Special 
+ Meeting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_0
+ 9302026-409\n\nFrom the town's posted records via Granite Docket. Check th
+ e town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:c30b535a6906ab4aadc6@granite-docket
+DTSTAMP:20261103T113713Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Andover Andover Library Trustees Agenda Sep 30\, 2026 Library Trust
+ ees Meeting 
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_09302026-419
+DESCRIPTION:Minutes: Andover Library Trustees Agenda Sep 30\, 2026 Library 
+ Trustees Meeting Minutes\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile
+ /Agenda/_09302026-419\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb60d71c22530416307f@granite-docket
+DTSTAMP:20261103T114009Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10012026-414
+DESCRIPTION:Agenda: Select Board Agenda Oct 1\, 2026 Select Board Meeting A
+ genda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10012026-4
+ 14\n\nFrom the town's posted records via Granite Docket. Check the town's 
+ site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d225f91c6bc0b6092d9@granite-docket
+DTSTAMP:20261103T113659Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Andover Budget / CIP
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10052026-394
+DESCRIPTION:Agenda: Andover Budget Committee Agenda Oct 5\, 2026 Andover Bu
+ dget Committee Meeting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/Vie
+ wFile/Agenda/_10052026-394\n\nMinutes: Andover Budget Committee Minutes Oc
+ t 5\, 2026 Andover Budget Committee Meeting Agenda\nhttps://www.andover-nh
+ .gov/AgendaCenter/ViewFile/Minutes/_10052026-394\n\nFrom the town's posted
+  records via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:0c4f40610c85827def44@granite-docket
+DTSTAMP:20261103T113711Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Andover Andover Library Trustees Agenda Oct 8\, 2026 Library Truste
+ es Meeting M
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10082026-420
+DESCRIPTION:Minutes: Andover Library Trustees Agenda Oct 8\, 2026 Library T
+ rustees Meeting Minutes\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/
+ Agenda/_10082026-420\n\nFrom the town's posted records via Granite Docket.
+  Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:50d4b2a510437e60dc74@granite-docket
+DTSTAMP:20261103T113807Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Andover Conservation commission
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10082026-415
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 8\, 2026 Conservatio
+ n Commission Meeting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewF
+ ile/Agenda/_10082026-415\n\nMinutes: Conservation Commission Minutes Oct 8
+ \, 2026 Conservation Commission Meeting Agenda\nhttps://www.andover-nh.gov
+ /AgendaCenter/ViewFile/Minutes/_10082026-415\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:68c4b832f25d89b2db5d@granite-docket
+DTSTAMP:20261103T114009Z
+DTSTART;TZID=America/New_York:20261008T180000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10082026-416
+DESCRIPTION:Agenda: Select Board Agenda Oct 8\, 2026 Select Board Work Sess
+ ion Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10082
+ 026-416\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:faaa0e704b454c2bfb39@granite-docket
+DTSTAMP:20261103T113712Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+TRANSP:TRANSPARENT
+SUMMARY:Andover Andover Library Trustees Minutes Oct 8\, 2026 Library Trust
+ ees Meeting 
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Minutes/_10082026-420
+DESCRIPTION:Minutes: Andover Library Trustees Minutes Oct 8\, 2026 Library 
+ Trustees Meeting Minutes\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile
+ /Minutes/_10082026-420\n\nFrom the town's posted records via Granite Docke
+ t. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ecb0a748a6d12de355@granite-docket
+DTSTAMP:20261103T113859Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Andover Planning board
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-417
+DESCRIPTION:Agenda: Planning Board Agenda Oct 13\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10132
+ 026-417\n\nMinutes: Planning Board Minutes Oct 13\, 2026 Planning Board Me
+ eting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Minutes/_10
+ 132026-417\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ad2061f69a836fc8e7@granite-docket
+DTSTAMP:20261103T114009Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-418
+DESCRIPTION:Agenda: Select Board Agenda Oct 15\, 2026 Select Board Meeting 
+ Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10152026-
+ 418\n\nFrom the town's posted records via Granite Docket. Check the town's
+  site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0d86e202d48cbc235e1@granite-docket
+DTSTAMP:20261103T114008Z
+DTSTART;TZID=America/New_York:20261017T083000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10172026-422
+DESCRIPTION:Agenda: Select Board Agenda Oct 17\, 2026 Select Board Work Ses
+ sion Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_1017
+ 2026-422\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:14c5ad35f0f03120f648@granite-docket
+DTSTAMP:20261109T101628Z
+DTSTART;TZID=America/New_York:20261019T180000
+DURATION:PT2H
+SUMMARY:Andover Budget / CIP
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10192026-423
+DESCRIPTION:Agenda: Andover Budget Committee Agenda Oct 19\, 2026 Andover B
+ udget Committee Meeting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10192026-423\n\nMinutes: Andover Budget Committee Minutes O
+ ct 19\, 2026 Andover Budget Committee Meeting Agenda\nhttps://www.andover-
+ nh.gov/AgendaCenter/ViewFile/Minutes/_10192026-423\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2234b5cf5d1e04a77891@granite-docket
+DTSTAMP:20261103T113858Z
+DTSTART;TZID=America/New_York:20261027T180000
+DURATION:PT2H
+SUMMARY:Andover Planning board
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10272026-427
+DESCRIPTION:Agenda: Planning Board Agenda Oct 27\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10272
+ 026-427\n\nMinutes: Planning Board Minutes Oct 27\, 2026 Planning Board Me
+ eting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Minutes/_10
+ 272026-427\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:86dce200a778f33d509b@granite-docket
+DTSTAMP:20261109T101618Z
+DTSTART;TZID=America/New_York:20261029T180000
+DURATION:PT2H
+SUMMARY:Andover Budget / CIP
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_10292026-424
+DESCRIPTION:Agenda: Andover Budget Committee Agenda Oct 29\, 2026 Andover B
+ udget Committee Meeting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/Vi
+ ewFile/Agenda/_10292026-424\n\nMinutes: Andover Budget Committee Minutes O
+ ct 29\, 2026 Andover Budget Committee Meeting Agenda\nhttps://www.andover-
+ nh.gov/AgendaCenter/ViewFile/Minutes/_10292026-424\n\nFrom the town's post
+ ed records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ddec7fdfa4d32ba24361@granite-docket
+DTSTAMP:20261116T105028Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11052026-428
+DESCRIPTION:Agenda: Select Board Agenda Nov 5\, 2026 Select Board Meeting A
+ genda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11052026-4
+ 28\n\nAgenda: Select Board Meeting Agenda\nhttps://www.andover-nh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_11052026-317\n\nOther: FEMA LOMC-VALID L
+ etter - November 5\, 2026\nhttps://www.andover-nh.gov/1687/FEMA-LOMC-VALID
+ -Letter---November-5-2026\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a74fa9b0166ceec0ed3@granite-docket
+DTSTAMP:20261109T101638Z
+DTSTART;TZID=America/New_York:20261106T160000
+DURATION:PT2H
+SUMMARY:Andover Select board / council
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11062026-429
+DESCRIPTION:Agenda: Select Board Agenda Nov 6\, 2026 Select Board Non-Publi
+ c Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_1106202
+ 6-429\n\nFrom the town's posted records via Granite Docket. Check the town
+ 's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0a63eeb7fe8670066ea@granite-docket
+DTSTAMP:20261103T113657Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Andover Budget / CIP
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11092026-425
+DESCRIPTION:Agenda: Andover Budget Committee Agenda Nov 9\, 2026 Andover Bu
+ dget Committee Meeting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/Vie
+ wFile/Agenda/_11092026-425\n\nFrom the town's posted records via Granite D
+ ocket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6c5d7971bd4bff63e5ef@granite-docket
+DTSTAMP:20261116T102118Z
+DTSTART;TZID=America/New_York:20261110T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Andover Planning board
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11102026-430
+DESCRIPTION:Agenda: Planning Board Agenda Nov 10\, 2026 Planning Board Meet
+ ing Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11102
+ 026-430\n\nFrom the town's posted records via Granite Docket. Check the to
+ wn's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fac15216bdf0e40932f3@granite-docket
+DTSTAMP:20261116T102108Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Andover Conservation commission
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11122026-432
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 12\, 2026 Conservati
+ on Commission Meeting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/View
+ File/Agenda/_11122026-432\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:95399c4eeb54f2e715db@granite-docket
+DTSTAMP:20261116T102058Z
+DTSTART;TZID=America/New_York:20261118T180000
+DURATION:PT2H
+SUMMARY:Andover Budget / CIP
+LOCATION:Andover\, NH
+URL:https://www.andover-nh.gov/AgendaCenter/ViewFile/Agenda/_11182026-431
+DESCRIPTION:Agenda: Andover Budget Committee Agenda Nov 18\, 2026 Budget Co
+ mmittee Meeting Agenda\nhttps://www.andover-nh.gov/AgendaCenter/ViewFile/A
+ genda/_11182026-431\n\nFrom the town's posted records via Granite Docket. 
+ Check the town's site for changes.
+END:VEVENT
+END:VCALENDAR

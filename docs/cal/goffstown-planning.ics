@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Goffstown Planning board
+X-WR-CALDESC:Planning board meetings in Goffstown\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7825ba30a69bc8c488d3@granite-docket
+DTSTAMP:20261103T092917Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Goffstown Planning board
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10082026-1579
+DESCRIPTION:Agenda: Planning Board Agenda Oct 8\, 2026 Planning Board Meeti
+ ng Agenda - October 8\, 2026 (pdf)\nhttps://goffstownnh.gov/AgendaCenter/V
+ iewFile/Agenda/_10082026-1579\n\nMinutes: Planning Board Minutes Oct 8\, 2
+ 026 Planning Board Meeting Agenda - October 8\, 2026 (pdf)\nhttps://goffst
+ ownnh.gov/AgendaCenter/ViewFile/Minutes/_10082026-1579\n\nFrom the town's 
+ posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:64f21632f346a1def757@granite-docket
+DTSTAMP:20261103T092916Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Goffstown Planning board
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-1591
+DESCRIPTION:Agenda: Planning Board Agenda Oct 22\, 2026 Planning Board Meet
+ ing Agenda - October 22\, 2026 (pdf)\nhttps://goffstownnh.gov/AgendaCenter
+ /ViewFile/Agenda/_10222026-1591\n\nMinutes: Planning Board Minutes Oct 22\
+ , 2026 Planning Board Meeting Agenda - October 22\, 2026 (pdf)\nhttps://go
+ ffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10222026-1591\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9452abc46de983b5baa7@granite-docket
+DTSTAMP:20261123T070532Z
+DTSTART;TZID=America/New_York:20261112T190000
+DURATION:PT2H
+SUMMARY:Goffstown Planning board
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11122026-1602
+DESCRIPTION:Agenda: Planning Board Agenda Nov 12\, 2026 Goffstown Planning 
+ Board November 12\, 2026\, Meeting Agenda\nhttps://goffstownnh.gov/AgendaC
+ enter/ViewFile/Agenda/_11122026-1602\n\nMinutes: Planning Board Minutes No
+ v 12\, 2026 Goffstown Planning Board November 12\, 2026\, Meeting Agenda\n
+ https://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_11122026-1602\n\nFr
+ om the town's posted records via Granite Docket. Check the town's site for
+  changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:596c6704cc3984d97885@granite-docket
+DTSTAMP:20261123T070522Z
+DTSTART;TZID=America/New_York:20261210T190000
+DURATION:PT2H
+SUMMARY:Public hearing: Goffstown Planning board
+LOCATION:Goffstown\, NH
+URL:https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12102026-1628
+DESCRIPTION:Agenda: Planning Board Agenda Dec 10\, 2026 Goffstown Planning 
+ Board December 10\, 2026\, Meeting Agenda\nhttps://goffstownnh.gov/AgendaC
+ enter/ViewFile/Agenda/_12102026-1628\n\nFrom the town's posted records via
+  Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

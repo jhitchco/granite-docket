@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Exeter Planning board
+X-WR-CALDESC:Planning board meetings in Exeter\, NH.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9faaf59f940f9d150d59@granite-docket
+DTSTAMP:20261103T093641Z
+DTSTART;TZID=America/New_York:20261008T080000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/planning_b
+ oard/meeting/64445/10-8-26_cc-pb_-sw.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/planning_board/meeting/64445/10-8-26_cc-pb_-sw.pdf\n\nAgenda
+ : Agenda\nhttps://www.exeternh.gov/sites/default/files/fileattachments/pla
+ nning_board/meeting/63848/pb-leg.10-08-26_legal_notice.pdf\n\nMinutes: PLN
+ AG100826.pdf\nhttps://www.exeternh.gov/sites/default/files/archives/Meetin
+ g Minutes/Planning Board/2010/agenda/PLNAG100826.pdf\n\nMinutes: 10/08/202
+ 6 - 7:00pm Planning Board Agenda Draft Minutes Packet Video View Details\n
+ https://www.exeternh.gov/sites/default/files/fileattachments/planning_boar
+ d/meeting/packets/63848/10-08-26_pb_meeting_packet.pdf\n\nMinutes: Draft M
+ inutes\nhttps://www.exeternh.gov/sites/default/files/fileattachments/plann
+ ing_board/meeting/63848/october_8_2026_exeter_planning_board_draft_minutes
+ .pdf\n\nFrom the town's posted records via Granite Docket. Check the town'
+ s site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:00c1809358189581fd43@granite-docket
+DTSTAMP:20261103T093401Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+TRANSP:TRANSPARENT
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/T
+ ransportation/2010/agenda/TRNAG101026.pdf
+DESCRIPTION:Minutes: TRNAG101026.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/Transportation/2010/agenda/TRNAG101026.pd
+ f\n\nFrom the town's posted records via Granite Docket. Check the town's s
+ ite for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8a5b44314b1b09d4f3@granite-docket
+DTSTAMP:20261103T092248Z
+DTSTART;TZID=America/New_York:20261016T083000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/housing_ad
+ visory_committee/meeting/63956/housing_advisory_committee_agenda_10-16-26.
+ pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/housing_advisory_committee/meeting/63956/housing_advisory_co
+ mmittee_agenda_10-16-26.pdf\n\nFrom the town's posted records via Granite 
+ Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f85c47794f9c47c82e3@granite-docket
+DTSTAMP:20261103T092247Z
+DTSTART;TZID=America/New_York:20261020T100000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/exeter_250
+ _celebration_commission/meeting/63928/250_celebration_commission_agenda_10
+ -20-26.pdf
+DESCRIPTION:Agenda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fi
+ leattachments/exeter_250_celebration_commission/meeting/63928/250_celebrat
+ ion_commission_agenda_10-20-26.pdf\n\nFrom the town's posted records via G
+ ranite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe7baebb2d0a22861a3d@granite-docket
+DTSTAMP:20261123T072552Z
+DTSTART;TZID=America/New_York:20261022T190000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10222026-564
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10222026-564\n\nAgenda: Planning Board Agenda and Packet\nhttps://www
+ .exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10222026-309\n\nAgenda
+ : Agenda\nhttps://www.exeternh.gov/sites/default/files/fileattachments/pla
+ nning_board/meeting/63849/pb-leg.10-22-26_legal_notice.pdf\n\nFrom the tow
+ n's posted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:4af65326fb7d1cebe7ff@granite-docket
+DTSTAMP:20261116T072542Z
+DTSTART;TZID=America/New_York:20261029T081500
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_10292026-553
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_10292026-553\n\nAgenda: Master Plan Oversight Committee Meeting on 10
+ /29/2026\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_1
+ 0292026-302\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewF
+ ile/Agenda/_10292026-553?packet=true\n\nAgenda: Packet\nhttps://www.exeter
+ nh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_10292026-302?packet=true\n\nA
+ genda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fileattachment
+ s/planning_board/meeting/64427/10292026_mpoc_meeting_notice.pdf\n\nFrom th
+ e town's posted records via Granite Docket. Check the town's site for chan
+ ges.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb87ae8adf41c5e011e@granite-docket
+DTSTAMP:20261123T072502Z
+DTSTART;TZID=America/New_York:20261105T190000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11052026-556
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11052026-556\n\nAgenda: 11/5/2026 Planning Board Agenda and Packet\nh
+ ttps://www.exeternh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11052026-308
+ \n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/
+ _11052026-556?packet=true\n\nAgenda: Packet\nhttps://www.exeternh.gov/Agen
+ daCenter/ViewFile/ArchivedAgenda/_11052026-308?packet=true\n\nAgenda: Agen
+ da\nhttps://www.exeternh.gov/sites/default/files/fileattachments/planning_
+ board/meeting/64476/pb-leg.11-05-26_sitewalk.pdf\n\nAgenda: Agenda\nhttps:
+ //www.exeternh.gov/sites/default/files/fileattachments/planning_board/meet
+ ing/63850/pb-leg.11-05-26_legal_notice.pdf\n\nAgenda: 11/05/2026 - 7:00pm 
+ Planning Board Agenda Packet View Details\nhttps://www.exeternh.gov/sites/
+ default/files/fileattachments/planning_board/meeting/packets/63850/pb-11-0
+ 5-26_meeting_packet.pdf\n\nMinutes: RIVAG110526.pdf\nhttps://www.exeternh.
+ gov/sites/default/files/archives/Meeting Minutes/River Study/2011/agenda/R
+ IVAG110526.pdf\n\nFrom the town's posted records via Granite Docket. Check
+  the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:9a130710e966b11cd463@granite-docket
+DTSTAMP:20261123T070444Z
+DTSTART;TZID=America/New_York:20261117T100000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11172026-566?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11172026-566?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:99e56118b31294be22f9@granite-docket
+DTSTAMP:20261123T070936Z
+DTSTART;TZID=America/New_York:20261118T100000
+DURATION:PT2H
+SUMMARY:Public hearing: Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11182026-569?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11182026-569?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:13f6ebd3f00e9c1cd127@granite-docket
+DTSTAMP:20261123T071701Z
+DTSTART;TZID=America/New_York:20261119T190000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11192026-559
+DESCRIPTION:Agenda: PDF\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/Age
+ nda/_11192026-559\n\nAgenda: Packet\nhttps://www.exeternh.gov/AgendaCenter
+ /ViewFile/Agenda/_11192026-559?packet=true\n\nAgenda: Packet\nhttps://www.
+ exeternh.gov/AgendaCenter/ViewFile/Agenda/_11192026-571?packet=true\n\nAge
+ nda: Agenda\nhttps://www.exeternh.gov/sites/default/files/fileattachments/
+ planning_board/meeting/64471/11-19-26_trc_agenda.pdf\n\nAgenda: 11/19/2026
+  - 10:00am Technical Review Committee Meeting Agenda Packet View Details\n
+ https://www.exeternh.gov/sites/default/files/fileattachments/planning_boar
+ d/meeting/packets/64471/11-19-26_trc_packet.pdf\n\nFrom the town's posted 
+ records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:78aabae8b27440052c10@granite-docket
+DTSTAMP:20261123T071056Z
+DTSTART;TZID=America/New_York:20261124T100000
+DURATION:PT2H
+SUMMARY:Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/AgendaCenter/ViewFile/Agenda/_11242026-574?pac
+ ket=true
+DESCRIPTION:Agenda: Packet\nhttps://www.exeternh.gov/AgendaCenter/ViewFile/
+ Agenda/_11242026-574?packet=true\n\nFrom the town's posted records via Gra
+ nite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc3215d5b95d8f0643f4@granite-docket
+DTSTAMP:20261103T093350Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/R
+ iver Study/2012/minutes/RIVMD120426.pdf
+DESCRIPTION:Minutes: RIVMD120426.pdf\nhttps://www.exeternh.gov/sites/defaul
+ t/files/archives/Meeting Minutes/River Study/2012/minutes/RIVMD120426.pdf\
+ n\nMinutes: PLNAG120426.pdf\nhttps://www.exeternh.gov/sites/default/files/
+ archives/Meeting Minutes/Planning Board/2012/agenda/PLNAG120426.pdf\n\nMin
+ utes: PLNMD120426.pdf\nhttps://www.exeternh.gov/sites/default/files/archiv
+ es/Meeting Minutes/Planning Board/2012/minutes/PLNMD120426.pdf\n\nFrom the
+  town's posted records via Granite Docket. Check the town's site for chang
+ es.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:e19e0a7f0d2f553eb599@granite-docket
+DTSTAMP:20261103T092319Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+TRANSP:TRANSPARENT
+SUMMARY:Public hearing: Exeter Planning board
+LOCATION:Exeter\, NH
+URL:https://www.exeternh.gov/sites/default/files/fileattachments/planning_b
+ oard/page/14051/2027_meeting_schedule_-_final.pdf
+DESCRIPTION:Other: 2027 Land Use Board Meeting Schedule\, Deadlines & Submi
+ ssion Requirements\nhttps://www.exeternh.gov/sites/default/files/fileattac
+ hments/planning_board/page/14051/2027_meeting_schedule_-_final.pdf\n\nFrom
+  the town's posted records via Granite Docket. Check the town's site for c
+ hanges.
+CATEGORIES:Public hearing
+END:VEVENT
+END:VCALENDAR

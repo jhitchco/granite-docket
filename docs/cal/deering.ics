@@ -1,0 +1,430 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Granite Docket//NH meetings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deering NH meetings
+X-WR-CALDESC:Public meetings of Deering\, NH boards\, from posted agendas a
+ nd minutes.
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6ed0382071f7270f9313@granite-docket
+DTSTAMP:20261103T120122Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+SUMMARY:Deering Chloride Management Plan Implementation Committee (CMPIC) M
+ inutes Sep 
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Minutes/_09302026-440
+DESCRIPTION:Minutes: Chloride Management Plan Implementation Committee (CMP
+ IC) Minutes Sep 30\, 2026 CMPIC Meeting Agenda\nhttps://www.deering.nh.us/
+ AgendaCenter/ViewFile/Minutes/_09302026-440\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae234e7524e59f5293f1@granite-docket
+DTSTAMP:20261103T120705Z
+DTSTART;TZID=America/New_York:20260930T170000
+DURATION:PT2H
+SUMMARY:Deering CMPIC Meeting Agenda
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_0930202
+ 6-127
+DESCRIPTION:Agenda: CMPIC Meeting Agenda\nhttps://www.deering.nh.us/AgendaC
+ enter/ViewFile/ArchivedAgenda/_09302026-127\n\nFrom the town's posted reco
+ rds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b45301eb2c1611092f08@granite-docket
+DTSTAMP:20261103T120122Z
+DTSTART;TZID=America/New_York:20260930T170000
+DURATION:PT2H
+SUMMARY:Deering Chloride Management Plan Implementation Committee (CMPIC) A
+ genda Sep 3
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_09302026-440
+DESCRIPTION:Agenda: Chloride Management Plan Implementation Committee (CMPI
+ C) Agenda Sep 30\, 2026 CMPIC Meeting Agenda\nhttps://www.deering.nh.us/Ag
+ endaCenter/ViewFile/Agenda/_09302026-440\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:d81ec9179440d922de2b@granite-docket
+DTSTAMP:20261103T115926Z
+DTSTART;TZID=America/New_York:20261001T180000
+DURATION:PT2H
+SUMMARY:Deering Select board / council
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10012026-441
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 1\, 2026 Select Board Mee
+ ting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10012
+ 026-441\n\nMinutes: Board of Selectmen Minutes Oct 1\, 2026 Select Board M
+ eeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Minutes/_10
+ 012026-441\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:6f74b4b6300f3c9c4b30@granite-docket
+DTSTAMP:20261103T120301Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Deering Library Trustees Agenda Oct 5\, 2026 Library Trustee Meetin
+ g Agenda
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10052026-445
+DESCRIPTION:Agenda: Library Trustees Agenda Oct 5\, 2026 Library Trustee Me
+ eting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_1005
+ 2026-445\n\nFrom the town's posted records via Granite Docket. Check the t
+ own's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ff450fef936f3fa77b@granite-docket
+DTSTAMP:20261103T120301Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Deering Budget / CIP
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10052026-450
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Oct 5\, 2026 Cemetery Trustees
+  October Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_
+ 10052026-450\n\nMinutes: Cemetery Trustees Minutes Oct 5\, 2026 Cemetery T
+ rustees October Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/M
+ inutes/_10052026-450\n\nMinutes: Library Trustees Minutes Oct 5\, 2026 Lib
+ rary Trustee Meeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFi
+ le/Minutes/_10052026-445\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b9609005d687e94732@granite-docket
+DTSTAMP:20261103T120149Z
+DTSTART;TZID=America/New_York:20261005T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Deering Conservation commission
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10052026-442
+DESCRIPTION:Agenda: Conservation Commission Agenda Oct 5\, 2026 Conservatio
+ n Commission Meeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFi
+ le/Agenda/_10052026-442\n\nAgenda: Conservation Commission Agenda Oct 5\, 
+ 2026 Public Hearing Notice\nhttps://www.deering.nh.us/AgendaCenter/ViewFil
+ e/Agenda/_10052026-443\n\nMinutes: Conservation Commission Minutes Oct 5\,
+  2026 Conservation Commission Meeting Agenda\nhttps://www.deering.nh.us/Ag
+ endaCenter/ViewFile/Minutes/_10052026-442\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:fc8232def9a0c5fe50e6@granite-docket
+DTSTAMP:20261103T120809Z
+DTSTART;TZID=America/New_York:20261005T190000
+DURATION:PT2H
+SUMMARY:Deering Library Trustee Meeting Agenda
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_1005202
+ 6-131
+DESCRIPTION:Agenda: Library Trustee Meeting Agenda\nhttps://www.deering.nh.
+ us/AgendaCenter/ViewFile/ArchivedAgenda/_10052026-131\n\nFrom the town's p
+ osted records via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:eae863ed7bff79de8f94@granite-docket
+DTSTAMP:20261103T120442Z
+DTSTART;TZID=America/New_York:20261008T190000
+DURATION:PT2H
+SUMMARY:Deering Zoning / ZBA
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10082026-447
+DESCRIPTION:Agenda: Zoning Board of Adjustment Agenda Oct 8\, 2026 October 
+ Zoning Board Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agen
+ da/_10082026-447\n\nMinutes: Zoning Board of Adjustment Minutes Oct 8\, 20
+ 26 October Zoning Board Meeting\nhttps://www.deering.nh.us/AgendaCenter/Vi
+ ewFile/Minutes/_10082026-447\n\nFrom the town's posted records via Granite
+  Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:61842d8dcad5ba04d1d3@granite-docket
+DTSTAMP:20261103T120121Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Deering Chloride Management Plan Implementation Committee (CMPIC) A
+ genda Oct 1
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10132026-448
+DESCRIPTION:Agenda: Chloride Management Plan Implementation Committee (CMPI
+ C) Agenda Oct 13\, 2026 CMPIC October Meeting\nhttps://www.deering.nh.us/A
+ gendaCenter/ViewFile/Agenda/_10132026-448\n\nFrom the town's posted record
+ s via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8abd00a15b1ce0bc77bf@granite-docket
+DTSTAMP:20261103T120121Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Deering Chloride Management Plan Implementation Committee (CMPIC) M
+ inutes Oct 
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Minutes/_10132026-448
+DESCRIPTION:Minutes: Chloride Management Plan Implementation Committee (CMP
+ IC) Minutes Oct 13\, 2026 CMPIC October Meeting\nhttps://www.deering.nh.us
+ /AgendaCenter/ViewFile/Minutes/_10132026-448\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb3aeb9322e359668869@granite-docket
+DTSTAMP:20261103T120701Z
+DTSTART;TZID=America/New_York:20261013T180000
+DURATION:PT2H
+SUMMARY:Deering CMPIC October Meeting
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_1013202
+ 6-135
+DESCRIPTION:Agenda: CMPIC October Meeting\nhttps://www.deering.nh.us/Agenda
+ Center/ViewFile/ArchivedAgenda/_10132026-135\n\nFrom the town's posted rec
+ ords via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:b7d3299ea7bae0a1508f@granite-docket
+DTSTAMP:20261116T105122Z
+DTSTART;TZID=America/New_York:20261014T183000
+DURATION:PT2H
+SUMMARY:Deering Planning board
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10142026-453
+DESCRIPTION:Agenda: Planning Board Agenda Oct 14\, 2026 October Planning Bo
+ ard Meeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda
+ /_10142026-453\n\nMinutes: Planning Board Minutes Oct 14\, 2026 October Pl
+ anning Board Meeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFi
+ le/Minutes/_10142026-453\n\nFrom the town's posted records via Granite Doc
+ ket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:716b1dfa38a75b1449ad@granite-docket
+DTSTAMP:20261103T115926Z
+DTSTART;TZID=America/New_York:20261015T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Deering Select board / council
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10152026-452
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 15\, 2026 Select Board Me
+ eting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_1015
+ 2026-452\n\nMinutes: Board of Selectmen Minutes Oct 15\, 2026 Select Board
+  Meeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Minutes/_
+ 10152026-452\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff4c67f44f9500fd918@granite-docket
+DTSTAMP:20261103T120205Z
+DTSTART;TZID=America/New_York:20261019T100000
+DURATION:PT2H
+SUMMARY:Deering Hazard Mitigation Committee Agenda Oct 19\, 2026 Hazardous 
+ Mitigation M
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10192026-444
+DESCRIPTION:Agenda: Hazard Mitigation Committee Agenda Oct 19\, 2026 Hazard
+ ous Mitigation Meeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/View
+ File/Agenda/_10192026-444\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:925e7aa7a2995d9e899b@granite-docket
+DTSTAMP:20261103T120044Z
+DTSTART;TZID=America/New_York:20261019T110000
+DURATION:PT2H
+SUMMARY:Deering Cemetery Trustees Agenda Oct 19\, 2026 Cemetery Open Bids M
+ eeting
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10192026-454
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Oct 19\, 2026 Cemetery Open Bi
+ ds Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_101920
+ 26-454\n\nFrom the town's posted records via Granite Docket. Check the tow
+ n's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2216a2724d931ead2ec2@granite-docket
+DTSTAMP:20261103T115925Z
+DTSTART;TZID=America/New_York:20261028T183000
+DURATION:PT2H
+SUMMARY:Deering Select board / council
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10282026-457
+DESCRIPTION:Agenda: Board of Selectmen Agenda Oct 28\, 2026 Joint Meeting w
+ ith Hillsborough Select Board. Solid Waste Fee\nhttps://www.deering.nh.us/
+ AgendaCenter/ViewFile/Agenda/_10282026-457\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5040c9b2024a1b916228@granite-docket
+DTSTAMP:20261103T120235Z
+DTSTART;TZID=America/New_York:20261029T180000
+DURATION:PT2H
+SUMMARY:Deering School
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10292026-455
+DESCRIPTION:Agenda: Hillsboro Deering School Board Agenda Oct 29\, 2026 SAU
+  #34 School Board Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile
+ /Agenda/_10292026-455\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:5aa4ab84cf31ba4baacc@granite-docket
+DTSTAMP:20261109T102639Z
+DTSTART;TZID=America/New_York:20261030T140000
+DURATION:PT2H
+SUMMARY:Deering School
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_10302026-458
+DESCRIPTION:Agenda: Trustees of the Trust Funds Agenda Oct 30\, 2026 Truste
+ es of the Trust Fund Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFi
+ le/Agenda/_10302026-458\n\nMinutes: Trustees of the Trust Funds Minutes Oc
+ t 30\, 2026 Trustees of the Trust Fund Agenda\nhttps://www.deering.nh.us/A
+ gendaCenter/ViewFile/Minutes/_10302026-458\n\nFrom the town's posted recor
+ ds via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:a2501192abc4d1890bb9@granite-docket
+DTSTAMP:20261103T120043Z
+DTSTART;TZID=America/New_York:20261102T183000
+DURATION:PT2H
+SUMMARY:Deering Town meeting / warrant
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11022026-459
+DESCRIPTION:Agenda: Cemetery Trustees Agenda Nov 2\, 2026 November Cemetery
+  Trustees Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/
+ _11022026-459\n\nFrom the town's posted records via Granite Docket. Check 
+ the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:8dc59153519c2e8a32bb@granite-docket
+DTSTAMP:20261116T105032Z
+DTSTART;TZID=America/New_York:20261105T180000
+DURATION:PT2H
+SUMMARY:Public hearing: Deering Select board / council
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11052026-461
+DESCRIPTION:Agenda: Board of Selectmen Agenda Nov 5\, 2026 Select Board Mee
+ ting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11052
+ 026-461\n\nMinutes: Board of Selectmen Minutes Nov 5\, 2026 Select Board M
+ eeting Agenda\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Minutes/_11
+ 052026-461\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:1672d138411ac1abf1e1@granite-docket
+DTSTAMP:20261109T102619Z
+DTSTART;TZID=America/New_York:20261109T180000
+DURATION:PT2H
+SUMMARY:Deering Conservation commission
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11092026-460
+DESCRIPTION:Agenda: Conservation Commission Agenda Nov 9\, 2026 Conservatio
+ n Commission November meeting\nhttps://www.deering.nh.us/AgendaCenter/View
+ File/Agenda/_11092026-460\n\nFrom the town's posted records via Granite Do
+ cket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:e93d0a45be7540841c55@granite-docket
+DTSTAMP:20261109T103229Z
+DTSTART;TZID=America/New_York:20261109T190000
+DURATION:PT2H
+SUMMARY:Deering Budget / CIP
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_1109202
+ 6-141
+DESCRIPTION:Agenda: Library Board of Trustees November Meeting\nhttps://www
+ .deering.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-141\n\nFrom 
+ the town's posted records via Granite Docket. Check the town's site for ch
+ anges.
+END:VEVENT
+BEGIN:VEVENT
+UID:488039d935876b2de4cd@granite-docket
+DTSTAMP:20261109T102629Z
+DTSTART;TZID=America/New_York:20261110T190000
+DURATION:PT2H
+SUMMARY:Deering Budget / CIP
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11102026-462
+DESCRIPTION:Agenda: Library Trustees Agenda Nov 10\, 2026 Library Board of 
+ Trustees November Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile
+ /Agenda/_11102026-462\n\nFrom the town's posted records via Granite Docket
+ . Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e8b9c018298a0b0db1f@granite-docket
+DTSTAMP:20261116T105112Z
+DTSTART;TZID=America/New_York:20261111T183000
+DURATION:PT2H
+SUMMARY:Public hearing: Deering Planning board
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11112026-464
+DESCRIPTION:Agenda: Planning Board Agenda Nov 11\, 2026 November Planning B
+ oard Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_1111
+ 2026-464\n\nMinutes: Planning Board Minutes Nov 11\, 2026 November Plannin
+ g Board Meeting\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Minutes/_
+ 11112026-464\n\nFrom the town's posted records via Granite Docket. Check t
+ he town's site for changes.
+CATEGORIES:Public hearing
+END:VEVENT
+BEGIN:VEVENT
+UID:7cc778e651d8b854fefa@granite-docket
+DTSTAMP:20261109T102609Z
+DTSTART;TZID=America/New_York:20261117T170000
+DURATION:PT2H
+SUMMARY:Deering Chloride Management Plan Implementation Committee (CMPIC) A
+ genda Nov 1
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11172026-463
+DESCRIPTION:Agenda: Chloride Management Plan Implementation Committee (CMPI
+ C) Agenda Nov 17\, 2026 CMPIC Meeting Agenda\nhttps://www.deering.nh.us/Ag
+ endaCenter/ViewFile/Agenda/_11172026-463\n\nFrom the town's posted records
+  via Granite Docket. Check the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd75626ca7c2192bc4b6@granite-docket
+DTSTAMP:20261116T105042Z
+DTSTART;TZID=America/New_York:20261119T180000
+DURATION:PT2H
+SUMMARY:Deering Select board / council
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_11192026-465
+DESCRIPTION:Agenda: Hazard Mitigation Committee Agenda Nov 19\, 2026 Hazard
+  Mitigation Committee\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Age
+ nda/_11192026-465\n\nFrom the town's posted records via Granite Docket. Ch
+ eck the town's site for changes.
+END:VEVENT
+BEGIN:VEVENT
+UID:276aa05d5ebb55ed8d84@granite-docket
+DTSTAMP:20261116T105052Z
+DTSTART;TZID=America/New_York:20261203T090000
+DURATION:PT2H
+SUMMARY:Deering Planning board
+LOCATION:Deering\, NH
+URL:https://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_12032026-466
+DESCRIPTION:Agenda: Planning Board Agenda Dec 3\, 2026 9:00 a.m. Planning B
+ oard Site Walk\nhttps://www.deering.nh.us/AgendaCenter/ViewFile/Agenda/_12
+ 032026-466\n\nFrom the town's posted records via Granite Docket. Check the
+  town's site for changes.
+END:VEVENT
+END:VCALENDAR

@@ -290,12 +290,17 @@ class Town:
         """CivicClerk portals (<tenant>.portal.civicclerk.com) load meetings by script; read the public events API instead."""
         for tenant in set(re.findall(r"([\w-]+)\.portal\.civicclerk\.com", html_blobs)):
             api = f"https://{tenant}.api.civicclerk.com/v1"
-            skip = 0
-            while time.time() < DEADLINE:
-                try: r = self.get(f"{api}/Events", params={"$filter": f"startDateTime ge {self.since}T00:00:00Z", "$orderby": "startDateTime desc", "$top": 100, "$skip": skip}, timeout=60)
+            # The API returns 15 events per page and links the next page with @odata.nextLink; it ignores larger $top
+            # values. Cap the window at 60 days out so far-future placeholder events (no files yet) don't fill page one.
+            horizon = (dt.date.today() + dt.timedelta(60)).isoformat()
+            url, params = f"{api}/Events", {"$filter": f"startDateTime ge {self.since}T00:00:00Z and startDateTime le {horizon}T00:00:00Z",
+                                            "$orderby": "startDateTime desc"}
+            while url and time.time() < DEADLINE:
+                try: r = self.get(url, params=params, timeout=60)
                 except Exception: break
                 if r.status_code != 200: break
-                events = r.json().get("value", [])
+                data = r.json(); params = None
+                events = data.get("value", [])
                 for e in events:
                     when = (e.get("startDateTime") or "")[:10]
                     for f in e.get("publishedFiles") or []:
@@ -303,8 +308,7 @@ class Town:
                         title = f"{e.get('categoryName') or e.get('eventName')} {f.get('type')} {when} {f.get('name') or ''}"
                         self.save_doc(f"{api}/Meetings/GetMeetingFileStream(fileId={f['fileId']},plainText=false)", title,
                                       f"https://{tenant}.portal.civicclerk.com/event/{e['id']}/files", title)
-                if len(events) < 100: break
-                skip += 100
+                url = data.get("@odata.nextLink")
 
     # ---------- generic crawl ----------
     def crawl(self):

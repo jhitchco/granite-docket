@@ -6,6 +6,7 @@ Pages: docs/index.html, docs/topics/<topic>/index.html, docs/towns/<town>/index.
 import datetime as dt, html, json, os, re, shutil, sqlite3
 import maps
 from collections import defaultdict
+from urllib.parse import quote
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docs")
@@ -42,7 +43,7 @@ def page(title, depth, body, desc=""):
 <title>{e(title)}</title><meta name="description" content="{e(desc)}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="{up}assets/site.css?v={dt.date.today():%Y%m%d}"></head><body>
-<nav class="bar"><div class="in"><a class="brand" href="{up}index.html">{NAME}</a><span class="links"><a href="{up}topics/data-centers/index.html">Data centers</a><a href="{up}topics/nuclear/index.html">Nuclear</a><a href="{up}housing/index.html">Housing</a><a href="{up}coverage/index.html">Coverage</a></span></div></nav>
+<nav class="bar"><div class="in"><a class="brand" href="{up}index.html">{NAME}</a><span class="links"><a href="{up}topics/data-centers/index.html">Data centers</a><a href="{up}topics/nuclear/index.html">Nuclear</a><a href="{up}housing/index.html">Housing</a><a href="{up}civic/index.html">Town records</a><a href="{up}coverage/index.html">Coverage</a></span></div></nav>
 <main class="wrap">{body}</main>
 <footer class="wrap foot">Built from agendas, minutes, packets and warrants posted by New Hampshire municipalities. Excerpts are quoted from public records; open the linked document before relying on one. Topic definitions and scoring are ours.</footer>
 </body></html>"""
@@ -123,6 +124,7 @@ def main():
     if os.path.exists(OUT): shutil.rmtree(OUT)
     os.makedirs(os.path.join(OUT, "assets"))
     shutil.copy(os.path.join(ROOT, "site.css"), os.path.join(OUT, "assets", "site.css"))
+    shutil.copy(os.path.join(ROOT, "civic.js"), os.path.join(OUT, "assets", "civic.js"))
     open(os.path.join(OUT, ".nojekyll"), "w").close()
     maps.assets(OUT)
 
@@ -209,6 +211,10 @@ def main():
         wbody, _ = willing.page_body(conn, sqlite3.connect(os.path.join(ROOT, "housing.db")), e, slug)
         write("housing/willingness/index.html", page(f"Housing willingness heatmap · {NAME}", 2, wbody,
                                                      "Which New Hampshire towns are most open to new housing, scored 0-100 from permits, projects and policy."))
+    import civic  # town records pilot: search, this week, coverage
+    report_url = lambda town: ("https://github.com/jhitchco/granite-docket/issues/new?labels=correction&title="
+                               + quote(f"Correction: {town}") + "&body=" + quote("Which result or page is wrong, and what should it say? Link the source document if you can."))
+    civic.build(conn, OUT, page, write, slug, e, BOARD, report_url)
     print(f"site written to {OUT}: {len(events)} events, {len(towns)} towns")
 
 

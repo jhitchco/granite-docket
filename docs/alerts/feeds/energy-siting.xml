@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:energy-siting</id>
+<title>Energy siting: New Hampshire town meetings</title>
+<subtitle>Every town record on nuclear, data centers, solar, battery storage, wind and transmission with land-use context.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/energy-siting.xml"/>
+<updated>2026-12-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:151308-solar</id>
+<title>Goshen Zoning / ZBA: Solar (2026-12-09)</title>
+<link href="https://goshennh.org/wp-content/uploads/2026/11/ZBA-Public-Hearing-Notice-319-Lempster-Coach-Rd.pdf"/>
+<updated>2026-12-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...l. ReVision Energy, on behalf of property owners JMT Revocable Trust (John Turcotte and Beth Glasmann), is seeking approval of a Special Exception for the installation of a ground-mounted residential [solar array] at 319 Lempster Coach Road (Tax Map 401, Lot 010). The application will be reviewed and considered by the Zoning Board of Adjustment (ZBA). This meeting is open to the public, and interested parties ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:153198-transmission</id>
+<title>Bow Select board / council: Transmission &amp; substations (2026-12-03)</title>
+<link href="https://bownh.gov/AgendaCenter/ViewFile/Agenda/_12032026-2806?packet=true"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>Moratorium mentioned. ...ly to house computer systems, servers, data storage, networking equipment, high performance computing, cloud computing systems or cryptocurrency mining infrastructure, including all associated onsite [power substations], backup generators, cooling systems and battery storage. The term “data center” does not include incidental server or information technology (IT) equipment areas that are subordinate to a primary com...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:153198-data_center</id>
+<title>Bow Select board / council: Data centers (2026-12-03)</title>
+<link href="https://bownh.gov/AgendaCenter/ViewFile/Agenda/_12032026-2806?packet=true"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ... of one year. As more specifically defined in the ordinance, LRCUs are those commercial and industrial uses that consume designated amounts of electricity and water and include but are not limited to [data centers], heavy manufacturing facilities, electric generating facilities, oil or gas refineries, natural gas storage facilities, and regional warehouse distribution centers. The text of the proposed ordinance...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:147357-data_center</id>
+<title>Claremont Planning board: Data centers (2026-11-23)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 23 26 PB MEETING PACKET_1794859946.pdf"/>
+<updated>2026-11-23T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ski, 174 Broad Street- Application for a minor subdivision to divide 174 Broad Street into 2 lots. Tax Map 120 Lot 120. Zoning District: PR (continued from 11/9/26) V. New Business Public Hearings A. [Data Center] Definition B. Master Plan Update VI. Reports of officers and committees VII. Reading of communications directed to the board VIII. Other Business; public comment IX. Adjournment Planning Board Me...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141609-data_center</id>
+<title>Claremont Planning board: Data centers (2026-11-23)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 23 26 PB PN_1794319195.pdf"/>
+<updated>2026-11-23T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...(PL 2026-000012) Terry Predzimirski, 174 Broad Street- Application for a minor subdivision to divide 174 Broad Street into 2 lots. Tax Map 120 Lot 120. Zoning District: PR (continued from 11/9/26) B. [Data Center] Definition Interested persons may review applications at the Planning and Development Department at 14 North Street during normal business hours. Comments may be made at the public hearing, submitted...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:148104-solar</id>
+<title>Stratham Zoning / ZBA: Solar (2026-11-20)</title>
+<link href="https://www.strathamnh.gov/Documents/Boards and Committees/Planning Board/Public Hearing Notices/2026.11.20  Planning Board Zoning Amendments_PH_Packet.pdf?t=202611201540100"/>
+<updated>2026-11-20T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...The replacement of siding or roofing materials if the replacement material is of a different material unless the replacement material meets the requirements of Section 3.10.5.b.v. viii. The siting of [ground-mounted solar] energy facilities shall be subject to review and approval unless such facilities meet the criteria outlined below, in which case such facilities shall be exempt from review and approval. 1. Views of ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:3996-solar</id>
+<title>Claremont Energy committee: Solar (2026-11-19)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 19 26 EAC MEETING PACKET_1793642073.pdf"/>
+<updated>2026-11-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...onal considerations. The Committee expressed interest in pursuing a more comprehensive strategy for EV charging infrastructure and discussed coordination with the City's Planning &amp; Development staff. [Community Solar] / Net Metering Zack Hallock of Bridge Energy Services presented information regarding community solar/net-metering opportunities for the City. The proposed process would include an RFP, bid analysis,...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:147340-data_center</id>
+<title>Keene Select board / council: Data centers (2026-11-19)</title>
+<link href="https://keenenh.gov/wp-content/uploads/2026/11/2026_11_19_City_Council_Agenda_Revised_optimized.pdf"/>
+<updated>2026-11-19T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...carried unanimously with 14 Councilors present and voting in favor. Councilor Roberts was absent. Page 22 of 156 11/05/2026 291 ORDINANCE FOR FIRST READING - ESTABLISHING A MORATORIUM ON LARGE- SCALE [DATA CENTER] USES ORDINANCE O-2026-17 A memorandum was received from City Attorney Amanda Palmeira, recommending that Ordinance O-2026-17 be referred to the Joint Planning Board and Planning Licenses and Developm...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:134042-data_center</id>
+<title>Claremont Conservation commission: Data centers (2026-11-19)</title>
+<link href="http://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 19  26 CC MEETING PACKET_1793820403.pdf"/>
+<updated>2026-11-19T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...:00-6:00 pm, City Hall Council Chambers E. Public Programs/ Presentations Mr. Hurley and Mr. Cogswell have discussed possible topics for a public program. The topic that they chose was “The Impact of [Data Centers] on Natural Resources.” A Springtime presentation would be appropriate. F. Invasive of the Month: Yellow Flag Iris G. 2026 Goals • Knowledge of wetlands- possible presentations and education Wetlands ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:147455-solar</id>
+<title>Hooksett Select board / council: Solar (2026-11-18)</title>
+<link href="https://www.hooksett.gov/November 18 Recap.pdf?t=202611200750460"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...tion *Ken Conaty, Hooksett Wastewater Supt., will receive the James J. Courchaine award. The award is given to one person in New England once a year for excellence in working with Collection Systems *[Solar Project] Update *26/27 Tax Rate-Application of Fund Balance ( Town Council’s voted to apply fund balance to retain 8% fund balance, fund warrant articles being funded from balance and remaining to be applied ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142394-solar</id>
+<title>Pembroke Select board / council: Solar (2026-11-18)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_11182026-434"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... and conduit ready before winter and | preferably by December. | Board members commented favorably on the quality of the completed structure. In the same discussion, the Board referenced the upcoming [solar project] at the library and stated that the Energy Committee would follow up with staff regarding bidding, timing, and next steps. IV. New Business Partial Release of San-Ken Bond Phase IV The Board reviewed ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:143022-transmission</id>
+<title>Hampton Falls Planning board: Transmission &amp; substations (2026-11-17)</title>
+<link href="https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-195"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...ts, and encompassing all necessary supporting infrastructure, including but not limited to air handlers, mechanical cooling systems, backup power generators, fuel storage tanks, liquid cooling loops, [electrical substations], and network hardware. Article III, Section 4 – Table of Uses for Hampton Falls Zoning Districts Add to Table of Uses – Under “M Industrial” 9. Data Center N N N N Vegetative Buffer Article III, S...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:143022-data_center</id>
+<title>Hampton Falls Planning board: Data centers (2026-11-17)</title>
+<link href="https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-195"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ovember 17, 2026, at 7:00 PM at the Hampton Falls Town Hall, 1 Drinkwater Road, Hampton Falls, NH. The purpose of the hearing is to propose amendments to the Hampton Falls Zoning Ordinance as listed: [Data Center] Article I, Section 4 - Definitions Add definition: “Data Center” A facility or building used primarily for the storage, management, processing, and transmission of digital data. The use includes the ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142920-solar</id>
+<title>Sanbornton Other board: Solar (2026-11-17)</title>
+<link href="https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_11172026-473"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...lar Energy and the library d. Memorandum of Understanding (MOU) e. Sugar Maple Tree Grant Project 5. New Business a. Policy: Library Raffles b. NH Legislative Session: 2026 bills – check NHLTA c. [Solar Array] project d. Exit Interview discussion e. Memorandum of Understanding (MOU) f. Staffing 6. Other Business 7. If needed: Non-Public session in accordance with RSA 91-A: ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:149086-solar</id>
+<title>Bradford Energy committee: Solar (2026-11-16)</title>
+<link href="https://towncloud.io/go/bradford-nh/agendas/463/PDF/get_agenda_document_link"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...d Laura attended the CPCNH Fall Membership Meeting in Concord on November 4. The Board will be setting new electricity rates in December effective February 2027. b. Update on status of Poverty Plains [Solar Facility]. 1. Solar Energy a. SolSmart - Susan will report on next steps regarding implementation of a solar ordinance in Bradford. b. Plug in Solar – no change. Regulations have not be developed in NH. 2. Dec...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141734-solar</id>
+<title>Portsmouth Select board / council: Solar (2026-11-12)</title>
+<link href="https://files.portsmouthnh.gov/cip/2026.11.12.FY28-33-CIP-for-Work-Session.pdf"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...rick Calcinari Address: 1246 South St Submitting on Behalf of a Committee: Yes, Sustainability Committee. Vote taken August 27, 2026. Project Type: Buildings and Infrastructure Title: Installation of [solar arrays] on city properties Location: Various throughout the city Project Description (as submitted): This proposal is consistent with Climate Action Plan Priority Action BE-9 to eliminate the use of fossil f...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:151403-solar</id>
+<title>Goshen Zoning / ZBA: Solar (2026-11-11)</title>
+<link href="https://goshennh.org/wp-content/uploads/2026/11/ZBA-Minutes-of-11-11-26-Draft.pdf"/>
+<updated>2026-11-11T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ive from ReVision Energy, along with John Turcotte and Beth Glasmann (property owners), came before the Board to present and discuss the special exception application for a ground-mounted residential [solar array] at 319 Lempster Coach Road (Tax Map 401, Lot 010). Mr. Keally provided an overview of the proposed installation and addressed the questions raised by the Board. The proposed 25-kilowatt residential s...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:60530-wind</id>
+<title>Boscawen Planning board: Wind (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6086/111026-PH-and-Relined-LDRs-Pkg"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...erred without subdivision approval. 5. The Town of Boscawen may not merge preexisting subdivided lots or parcels except upon the consent of the owner. Section 2.9 Permits for Renewable Energy Systems [Small Wind Energy] Systems Small wind energy systems and met towers are an accessory use permitted in all zoning districts where structures of any sort are allowed. No small wind energy system shall be erected, constru...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:60530-solar</id>
+<title>Boscawen Planning board: Solar (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6086/111026-PH-and-Relined-LDRs-Pkg"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ew the application for regional impacts per RSA 36:55. If the proposal is determined to have potential regional impacts, the building inspector shall follow the procedures set forth in RSA 36:57, IV. [Solar Energy Systems] 1. Applicants for Residential Accessory Scale solar energy systems shall provide the information required for a building permit to the Building Department, including but not limited to: a. Solar ener...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:60141-data_center</id>
+<title>Boscawen Planning board: Data centers (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6082/PB-PN-111026-LDR-Amendments"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...years to three years in Section 2.10. - Clarifying 12 copies of the reduced plans are needed in Section 2.11, not three. - Revising architectural standards throughout. - Adding a new Section 3.12 for [data centers] or other high intensity computing facilities. - Revise Section 4.1.11 by deleting the existing text and specifying that all applications shall include twelve 11 x 17 plans and one 22 x 34 plan. - Cha...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:58686-data_center</id>
+<title>Boscawen Planning board: Data centers (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6581/Land-Development-Regulations---Approved-111026"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ing Board shall require sidewalks or sidewalk improvements for site plans and subdivision applications being considered under the provisions of this Article. Section 3.13, ADDITIONAL REQUIREMENTS FOR [DATA CENTERS], OR OTHER HIGH INTENSITY COMPUTING FACILITES A. General Requirements: In addition to the rest of these Regulations, this Section applies to all data centers, or facilities or land uses that, in the o...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141629-data_center</id>
+<title>Claremont Select board / council: Data centers (2026-11-10)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-11-10_1794321309.pdf"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...Planning Board met Monday and heard one application from Davis Funeral Home for a subdivision, which was continued to the November meeting. The Board also began discussions regarding a definition for [data centers], with further discussion anticipated at the December meeting. Councilor Greenrose relayed he had emailed three draft ordinances to the City Manager’s Office, regarding the Speedway, E-bikes, and the ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:9360-solar</id>
+<title>Exeter Select board / council: Solar (2026-11-09)</title>
+<link href="https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/Board of Selectman/2011/Minutes/SEL110926.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...n Ordinance. Ms. Gilman seconded. Vote: Unanimous FINAL MINUTES ____________________________________________________________________________________________________ Board of Selectmen 09/26/11 9 iii. [Solar Array] Re-bid The Office of Energy and Planning has offered additional grant money to see if the Town can get a more favorable proposal for the solar array at the WWTP. Ms. Gilman explained that they can ge...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:467-data_center</id>
+<title>Claremont Planning board: Data centers (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/Data Center Definitions for Discussion_Planning Board 110926_1793657259.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... Planning and Development Department 14 North Street Claremont, New Hampshire 0374 November 9, 2026 [DATA CENTER] DEFINITIONS FOR DISCUSSION: A. Working definition for data centers currently being used in NH state legislation, as a reference is: A facility consisting of a large group of networked computer server...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:444-solar</id>
+<title>Claremont Planning board: Solar (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB Meeting Packet Part 1_1793655644.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...sel Vote: All in favor. V. New Business (including public hearings on new appeals) A. (ZO 2023-00011) Joshua &amp; Jennifer Nelson, 4 Marquis Ave – Application for a variance to permit a 12kW residential [solar array] at 4 Marquis Ave. Tax Map 154, Lot 84. Zoning District: R1 Ms. Bearse read the Staff Report. Property Description The subject property is a 1.52-acre parcel with 100+ feet of frontage on Marquis Aven...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:444-battery_storage</id>
+<title>Claremont Planning board: Battery storage (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB Meeting Packet Part 1_1793655644.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="battery_storage" label="Battery storage"/>
+<summary>...lar Ordinance can go back to the Planning Board. Mr. Lemieux asked if these panels will be roof top. Mr. Russel asked if there were safety concerns and I don’t know about this. Mr. Russel asked about [battery storage] and its safety with a larger kW. Mr. Putnam said this applicant’s company that will be installing the solar array had done a survey and that has shown what will give the applicant 100% solar. They ne...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:421-data_center</id>
+<title>Claremont Planning board: Data centers (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB AGENDA_1793633006.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...r a conditional use permit to covert a three-story building with 2 units into a multi-family building with 3 units at 107 Washington Street. Tax Map 108 Lot 121. Zoning District: CB2 C. Discussion on [Data Centers] D. 2027 Meeting Schedule VI. Reports of officers and committees VII. Reading of communications directed to the board VIII. Other Business; public comment IX. Adjournment ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:409-data_center</id>
+<title>Claremont Planning board: Data centers (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB PN_1793105732.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...Application for a conditional use permit to covert a three-story building with 2 units into a multi-family building with 3 units at 107 Washington Street. Tax Map 108 Lot 121. Zoning District: CB2 D. [Data Center] Definition Discussion Interested persons may review applications at the Planning and Development Department at 14 North Street during normal business hours. Comments may be made at the public hearing...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:152228-solar</id>
+<title>Canterbury Energy committee: Solar (2026-11-09)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-09-Energy-Committee-Agenda.docx"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... Battery Storage - Beth B report and Beth M on January event Eversource Time-of-Day rates Weatherize Concord Subcommittee for current town [solar installation] maintenance Community Power updates PlugIn Solar document to share Information on heat pumps/power strips - Keith ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:147473-solar</id>
+<title>Amherst Select board / council: Solar (2026-11-09)</title>
+<link href="https://www.amherstnh.gov/AgendaCenter/ViewFile/Minutes/_11092026-479"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...26 with applicable New Hampshire statutory requirements. Based on this review, the application has 327 been determined to be complete, and the applicant meets the eligibility requirements for the 328 [Solar Energy System] Property Tax Exemption under RSA 72:62. The recommended exemption 329 amount is $12,500, commencing with the 2027 tax year. 330 331 To approve the Solar Energy System Property Tax Exemption applicati...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142639-solar</id>
+<title>Jaffrey Town meeting / warrant: Solar (2026-11-09)</title>
+<link href="https://townofjaffrey.com/DocumentCenter/View/727/Capital-Improvements-Plan-PDF"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... PROJECT OUTLAY 2027 2028 2029 2030 2031 2032 Outyear Costs $2,442K — — — — — — 58 CAPITAL IMPROVEMENTS PROGRAM | PLANNING BOARD ADOPTED | NOVEMBER 9, 2026 | CY 2027–2032 SEWER ENTERPRISE FUND Lagoon [Solar Project] DEPARTMENT Sewer Enterprise Fund STATUS / PRIORITY Concept · Not assigned YEAR TBD / Outyear ESTIMATED COST TBD FUNDING TBD WHY NOW? Explore a visible clean-energy opportunity at the lagoon site and ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141121-solar</id>
+<title>Freedom Select board / council: Solar (2026-11-09)</title>
+<link href="https://townoffreedomnh.gov/wp-content/uploads/2026/11/09.28.2026-BOS-Minutes.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...at the former rates. The group noted that diesel costs remain uncertain, so the adjustment was treated as a temporary measure. Stacy will put a copy of the fuel rates in Scott’s box. Kearsarge Energy [Solar Project] Tax Agreement: Andrew Bernstein, a representative of Kearsarge Energy, presented a proposed 20-year tax agreement for a 4.99-megawatt AC solar array. Before deciding whether to advance the proposal, ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136014-battery_storage</id>
+<title>Littleton Select board / council: Battery storage (2026-11-09)</title>
+<link href="https://www.townoflittleton.org/DocumentCenter/View/1288"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="battery_storage" label="Battery storage"/>
+<summary>...nt of Silence: Approval of Minutes: 1. 10/21/2026 - Board Budget Work Session 2. 10/26/2026 - Board Meeting Business: 1. Public Hearing – Manns Hill Culvert Project $1,907,812.50 - Director Oliver 2. [Battery Storage] Project Report - LWL 3. Proposed Lot Line Adjustment between the Town &amp; Winn Properties - Jeff Winn Town Manager Report: 1. 2026 Tax Rate 2. C-Pacer Program 3. 2027 Warrant Article Discussions Select...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:135598-data_center</id>
+<title>Peterborough Planning board: Data centers (2026-11-09)</title>
+<link href="https://www.peterboroughnh.gov/PB Packet 11-9-26.pdf?t=202611041513560"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ps, and new FEMA-required definitions and regulatory language. 3. Zoning Workshop — Discussion includes: a. Updating Parking Minimums to meet State standards b. Definition of ‘Frontage’ c. Regulating [Data Centers] in Peterborough 4. Minutes of 10/14 and 10/26 5. Other Business 6. Adjourn Copies ofthe proposed, amended Zoning Ordinance, code, and information on zoning work are available for public inspection in...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:134082-solar</id>
+<title>Amherst Select board / council: Solar (2026-11-09)</title>
+<link href="https://www.amherstnh.gov/AgendaCenter/ViewFile/ArchivedAgenda/_11092026-229"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...eeting Date: November 9, 2026 Staff Contact: Michele Boudreau, Lincoln Daley BACKGROUND INFORMATION: The purpose of this agenda item is for the Board of Selectmen to review and consider approval of a [Solar Energy System] Property Tax Exemption application for the 2027 tax year, pursuant to RSA 72:62. The application involves the property identified as Map 007, Lot 034-000. The application has been reviewed by the Tow...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36393-battery_storage</id>
+<title>Wolfeboro Select board / council: Battery storage (2026-11-06)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_11062026-442"/>
+<updated>2026-11-06T12:00:00Z</updated>
+<category term="battery_storage" label="Battery storage"/>
+<summary>...r Room, Wolfeboro Public Library 1. Call to Order 2. Accept minutes from meeting 9/21/26 3. Old Business a. MED Electric Contract status update b. EVSE grant application update c. Warrant article for [battery storage] project d. Library Solar updates 4. New Business a. Free small utility cybersecurity program opportunity 5. Next Meeting ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142818-data_center</id>
+<title>Bow Zoning / ZBA: Data centers (2026-11-05)</title>
+<link href="http://bownh.gov/AgendaCenter/ViewFile/Minutes/_11052026-2793"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...Lull and Lynne Powers, speaking on behalf of a group of residents who 17 submitted a petition containing approximately 826 signatures requesting consideration of a temporary 18 one-year moratorium on [data center] development. Ms. Powers stated that the petition and supporting 19 materials had been submitted to Town Hall and requested that the Planning Board recommend a special 20 Town Meeting and warrant arti...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136622-solar</id>
+<title>Bristol Select board / council: Solar (2026-11-05)</title>
+<link href="https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-258"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...nd October 13, 2026, Work Session Meeting Minutes • Consent Agenda: November 19, 2026 • Public Comments • Jeff Goodrum - Sidewalk/Parking Discussion (Demolition Project) • Planning Board Discussion - [Solar Ordinance] Update • Election Close Out Discussion • Chemical Toilet RFP – Final Review and Award • Civic Duty Policy Update • Economic Development Committee Letter and List • Energy Committee Charter Discussio...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:133979-data_center</id>
+<title>Keene Select board / council: Data centers (2026-11-05)</title>
+<link href="https://keenenh.gov/wp-content/uploads/2026/11/2026_11_05_City-Council-Referral-Packet-with-Signature-line_optimized.pdf"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...2. Resignation - Jill Bouchillon - Heritage Commission G. REPORTS - BOARDS AND COMMISSIONS H. REPORTS - MORE TIME I. ORDINANCES FOR FIRST READING 1. Establishing a Moratorium on Large-Scale [Data Center] Uses Ordinance O-2026-17 J. ORDINANCES FOR SECOND READING Page 2 of 90 1. Relating to Wells Garage Lower Level Public Parking Ordinance O-2026-16 K. RESOLUTIONS 1. Relating to the Alloca...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:133974-data_center</id>
+<title>Keene Select board / council: Data centers (2026-11-05)</title>
+<link href="https://keenenh.gov/wp-content/uploads/2026/11/2026_11_05_City_Council_Agenda_optimized.pdf"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...2. Resignation - Jill Bouchillon - Heritage Commission G. REPORTS - BOARDS AND COMMISSIONS H. REPORTS - MORE TIME I. ORDINANCES FOR FIRST READING 1. Establishing a Moratorium on Large-Scale [Data Center] Uses Ordinance O-2026-17 J. ORDINANCES FOR SECOND READING Page 2 of 84 1. Relating to Wells Garage Lower Level Public Parking Ordinance O-2026-16 K. RESOLUTIONS 1. Relating to the Alloca...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136394-transmission</id>
+<title>Farmington Planning board: Transmission &amp; substations (2026-11-04)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3129/PB-Packet-11-04-26"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...essed, transferred and/or stored. - PRINCE WILLIAM COUNTY VIRGINIA ZONING ORDINANCE CHAPTER 32, ARTICLE I, PART 100. DEFINITION OF A “DATA CENTER” DATA CENTER ACCESSORY USE: Utilities, utility lines, [electrical substations], pump stations, water towers, mechanical equipment and environmental controls (air conditioning or cooling towers, fire suppression, etc.), redundant/backup power supplies, redundant data communicati...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:26540-solar</id>
+<title>Swanzey Select board / council: Solar (2026-11-03)</title>
+<link href="https://www.swanzeynh.gov/2026-11-03 BOS Agenda Packet.pdf?t=202611021616050"/>
+<updated>2026-11-03T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...y Rural for sessions on streetscapes &amp; intergenerational learning 10/12 – CIP Meeting – Fire Dept, Stratton Free Library, and Rail Trails 10/12 – Energy Commission – EV Town vehicles fleet potential, [Solar Ordinance] status, Weatherization 10/15 - Perimeter hike of Mt Cresson with Jay Ward for compliance with past funding 10/15 – PLAN Webinar for Land Use Regulation Amendment Process and RSAs update 10/15 – MAST ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:75251-data_center</id>
+<title>Warner Planning board: Data centers (2026-11-02)</title>
+<link href="https://warnernh.gov/tow/meetings/mtgdocs/plan/20261102/Nov22026PBMtgPackageAgendaandDraftMinutes.pdf"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...s Gaffney. She clarified that her letter is a 20 letter of concern that requests that the Planning Board take action to draft a better ordinance for the future to 21 avoid CBD shops, tattoo shops and [data centers] coming to town. She stressed that residents want a nice 22 town and ordinances are the only way to protect the town. James Gaffney questioned what a proposed 23 ordinance would look like that would p...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:68159-solar</id>
+<title>Gilmanton Select board / council: Solar (2026-11-02)</title>
+<link href="https://www.gilmantonnh.gov/DocumentCenter/View/3814/FY2027-Board-of-Selectmen-Proposed-Budget---V6-Budget-Committee-11-02-26"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ion, enforcement ensures correct fastening patterns and hurricane ties (rafter-to-wall ties) to prevent high-velocity winds from lifting structural framing. • Alternative Energy Infrastructure: Large [solar arrays] require specialized engineering to guarantee they are securely anchored against severe storms and wind shear. • Code Enforcement: Enforce compliance with zoning laws, building codes, and safety regul...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:37354-solar</id>
+<title>Farmington Select board / council: Solar (2026-11-02)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_11022026-290"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...pshire, Inc. ● Review of Minutes o Approval of Public Meeting Minutes 10/26/26 o Approval of Non-Public Meeting Minutes A&amp;B 10/26/26 ● Public Input ● Malcolm Bliss – Kearsarge Energy Presentation For [Solar Facility] on R19-013/013.1 ● Public Input ● Executive Budget Presentation ● Building &amp; Grounds Budget Presentation ● Finance Budget Presentation ● Business o Water/Sewer Connection Study o Fire Department Ambu...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:31007-solar</id>
+<title>Farmington Select board / council: Solar (2026-11-02)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_11022026-279"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...pshire, Inc. ● Review of Minutes o Approval of Public Meeting Minutes 10/26/26 o Approval of Non-Public Meeting Minutes A&amp;B 10/26/26 ● Public Input ● Malcolm Bliss – Kearsarge Energy Presentation For [Solar Facility] on R19-013/013.1 ● Executive Budget Presentation ● Building &amp; Grounds Budget Presentation ● Finance Budget Presentation ● Business o Insurance rates and dental plan o Fire Department Ambulance Agreem...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:150906-data_center</id>
+<title>Acworth Select board / council: Data centers (2026-11-02)</title>
+<link href="https://www.acworthnh.net/_files/ugd/a327e9_ea0a871bad4244948296fdcbce35b61e.pdf"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... the draft for some of the changes in ZO. Steve said the changes mainly address the loophole in the special exception language so the ZBA can’t be backed into a corner. This will address requests for [data centers] and large developments. Also, there will be language changes for ADU and Class VI Roads. CONSERVATION COMMISSION: None PUBLIC: John Mattson spoke on dock de-icers at the Lake. Per RSA 270:34 individu...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:133992-data_center</id>
+<title>Hooksett Planning board: Data centers (2026-11-02)</title>
+<link href="https://www.hooksett.gov/11.2.2026 PB Minutes.pdf?t=202611050809170"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...y merger application for Michael &amp; 4 Laurie Paquette 65 Farmer Road Map 26 Lots 81 and 81-1 and Map 36 Lot 62 5 M. Somers seconded the motion 6 All in favor/PASS 7 A.Opland: I received an email about [Data Centers], it will go to the land use subcommittee 8 P. Scarpetti: Avery, can you check with Legal whether we can use a government issued 9 mobile phone to call-in to a meeting when traveling out of state? 10 ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136500-solar</id>
+<title>New London Select board / council: Solar (2026-10-29)</title>
+<link href="https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS_minutes_10-29-26_DRAFT.pdf"/>
+<updated>2026-10-29T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... reserves where money goes in and immediately out, as these are already in the budget and unnecessarily increase the number of warrant articles. • Current potential warrant articles: DPW garage bond, [solar array]. Discussion for other potential articles ongoing with department heads. • Town Meeting Date: at the request of the Selectmen, Ashley explored options for a Saturday town meeting. School gym available...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:57094-solar</id>
+<title>Bristol Planning board: Solar (2026-10-28)</title>
+<link href="https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-250"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...PLANNING BOARD Workshop Meeting AGENDA October 28, 2026, 6:00 p.m. Town Office Meeting Room A 1. CALL TO ORDER / ROLL CALL 2. OLD BUSINESS [Solar Ordinance] Review 3. PLANNING 4. CASES 26PCC07_Camp-Wulamat_102-018_102-019 5. OPERATIONAL 6. APPROVAL OF MINUTES 7. COMMUNICATIONS 8. REPORTS Historic District Commission, Capital Improvements Committee, Conse...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:1182-data_center</id>
+<title>Claremont Select board / council: Data centers (2026-10-28)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-10-28_1793021768.pdf"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...l address the church on Pleasant Street’s plans to remove trees. Assistant Mayor Matteau shared there will be a planning board meeting at the end of the month and would like to discuss definitions of [data centers]. Councilor Koloski reported that an exhibit is being held at the Visitors Center featuring the History of the Fire Department. The exhibit is expected to remain in place through January, He also than...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:98517-transmission</id>
+<title>Brookfield Planning board: Transmission &amp; substations (2026-10-26)</title>
+<link href="https://www.brookfieldnh.gov/1388/Rules-of-Procedure"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...ing Board Rules of Procedure Last Amended October 2026 65 ADDITIONAL ITEMS: 1. PSNH’s rights when developing land adjacent to or under [transmission lines] and that a PSNH easement may exist despite the fact that distribution or transmission lines are not evident. Contact PSNH at (603) 634-2477 for information. This is the Applicant’s responsibility. 2....</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:391-solar</id>
+<title>Exeter Select board / council: Solar (2026-10-26)</title>
+<link href="https://www.exeternh.gov/sites/default/files/fileattachments/select_board/meeting/packets/64370/select_board_packet_10-26-26.pdf"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...n unusually active year for building permits c - Cable Franchise Fees dedicated entirely to EXTV in 2026 d - New banking relationship in 2026 leading to greater interest income e - First full year of [solar array] energy production CHANGE FROM 2025 (11,047) (381,000) {4,542) (2,105) - (1,059) (13,749) (332,323) (77,284) - (16,548) 863 5,742 50,539 10,547 (20) 236,165 (28,323) 322,025 (242,119) a b C d e ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:38066-data_center</id>
+<title>Littleton Select board / council: Data centers (2026-10-26)</title>
+<link href="https://www.townoflittleton.org/AgendaCenter/ViewFile/Minutes/_10262026-213"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... been received, and that a report and contractor for fixes were expected that week. Manager Brown noted there will be a two-part repair approach. Massimilla asked about the process for establishing a [data center] in Littleton. Hogan explained the planning board was researching the matter and that the commissioners passed a large load rate schedule to address distribution system impacts. Cherian explained Litt...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36265-data_center</id>
+<title>Peterborough Planning board: Data centers (2026-10-26)</title>
+<link href="https://www.peterboroughnh.gov/PB Packet 10-26-26.pdf?t=202610191111280"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ntroductions 2. Zoning Workshop – Discussion includes: a. Rescind §245-28 Phased Development and replace it with an overhauled, updated version b. Update to §245-13 Floodplain Ordinance c. Regulating [Data Centers] in Peterborough d. Discussion of §224 Manufactured House Parks 3. Other Business 4. Adjourn Anyone who needs assistance attending this meeting should contact the Office at (603) 924-8000 x 104 one we...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:22406-solar</id>
+<title>Litchfield Select board / council: Solar (2026-10-26)</title>
+<link href="https://litchfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10262026-974"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ing to the Board of Selectmen for final consideration. Mr. Perry explained that the discussion followed a question about an invoice from the Town’s former engineering firm for work on the Morgan Road [solar array] project. He supported retaining the Town’s escrow system as providing greater protection. Members agreed that escrow accounts were preferable to direct billing and noted that the Town could withhold ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:175-data_center</id>
+<title>Keene Planning board: Data centers (2026-10-26)</title>
+<link href="https://keenenh.gov/wp-content/uploads/2026/10/10262026-Planning-Board-Agenda-Packet.pdf"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...y Stephon Mehu and was unanimously approved. 685 686 687 H. OTHER BUSINESS 688 1. City Council Referral - Request for written findings from the Planning Board to support a 689 temporary moratorium on [data centers] and cryptocurrency mining facilities. 690 691 Ms. Brunner stated municipalities in New Hampshire have the authority to enact a temporary 692 moratorium under New Hampshire Revised Statute Annotated 6...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:135255-solar</id>
+<title>Farmington Select board / council: Solar (2026-10-26)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10262026-276"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...we will have the public hearing on Breezeline and in their packet already for the next week is somebody has to make a motion he’s already outlined the whole motion what needs to be made to pass that. [Solar Project]- Mr. Henry said he got an email today for your landﬁll for the solar project. He said they’re going to be here also next week to talk about that because Eversource did approve the connection fees. Mr...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:114302-solar</id>
+<title>Brookline Budget / CIP: Solar (2026-10-26)</title>
+<link href="https://www.brooklinenh.gov/Documents/Government/Boards and Committees/Capital Improvement Committee/Capital Improvment Plans/CIP_2027_2032_draft_20261026.pdf?t=202610261641570"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...costs Funding: Warrant Article 70 7.8.1.2 Shared Projects 20. Solar System Installation — CSDA/RMMS The implementation of solar energy is an important objective for SAU 41. This project could include [solar arrays] on roofs or in outdoor fields or other available spaces. The potential benefit of solar energy would be to reduce the district's dependence on rising energy prices. This project is many years away, b...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27681-solar</id>
+<title>Swanzey Planning board: Solar (2026-10-22)</title>
+<link href="https://www.swanzeynh.gov/PB Packet - 10 22 2026.pdf?t=202610151532120"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... a discussion regarding the date of the first public hearing and the group decided to schedule it for the November 19th meeting. Chair Ames said that Bob Audette asked her if there was an update on a [solar ordinance]. This will be investigated further. Alan invited all to attend the Open House for the new fire station on Saturday, October 10 from 10am - 1pm. The discussion moved on to the Table of Uses changes th...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:150688-wind</id>
+<title>Monroe Zoning / ZBA: Wind (2026-10-22)</title>
+<link href="https://monroenh.org/wp-content/uploads/Zoning-Amendment-10222026.pdf"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...re As amended March 8, 2022 Page 4 h. Renewable energy facilities for the purpose of providing electricity, heating or cooling when not primarily for on-site needs, including [small wind energy] systems in accordance with RSA 674:62-66. i. Multi-family housing for the purposes of providing Workforce Housing in accordance with RSA 674:58-61. j. Other uses that are consistent with the resident...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:1219-solar</id>
+<title>Bedford Energy committee: Solar (2026-10-22)</title>
+<link href="https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10222026-3023"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...nt confirmed the destruction requirement and stated they would contact Mr. Desfosses to review the equipment list and discuss approaching the Town Council. d. Other – None. IX. New Business a. Future [Solar Projects] b. Future Battery, Future Storage Projects Mr. Bandazian stated there are no future solar projects to discuss. Ms. Walker provided a year of Eversource bills for review. Mr. Bandazian plans to analyz...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35318-solar</id>
+<title>Farmington Planning board: Solar (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10212026-274"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>Moratorium mentioned. ...n limited districts. He listed zoning considerations such as air quality, noise, size, on-site fuel storage, water use, power, setbacks, height, and screening. He suggested a tiered approach like the [solar ordinance], perhaps permitting facilities in the range of 1 to 5 megawatts, with Dover at 1 to 2, while prohibiting hyperscale facilities in the short term. ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35318-data_center</id>
+<title>Farmington Planning board: Data centers (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10212026-274"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...e. Staff Comments Mr. Pimental asked members to review materials on [data centers] before the November meeting, including definitions used by Rochester and Dover and examples from other jurisdictions. He explained that both Rochester and Dover allow data centers only by conditional...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:26567-solar</id>
+<title>Swanzey Select board / council: Solar (2026-10-21)</title>
+<link href="https://www.swanzeynh.gov/2026-10- 21 BOS Agenda Packet.pdf?t=202610211420370"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...Page 3 of 5 Next, Barbara told Chair Tempesta that he should expect a DocuSign via email by Friday to sign for ReVision Energy’s contract to purchase the Renewable Energy Certificates (RECS) from the [solar array] at the Wastewater Treatment plant. There was a discussion regarding the Hydro net metering contract with Keene; Barbara wondered if there was a conflict with the Standard Power agreement. Jay Ward re...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136397-data_center</id>
+<title>Farmington Planning board: Data centers (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3125/PB-Packet_102126"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...ed that Code Enforcement Officer Carrie Ann had brought this to his attention and that he would develop the specific language and thresholds before bringing it to the Board. No formal vote was taken. [Data Centers] 2:46:37 Mr. Pimental raised the emerging issue of data centers and asked whether the Board wished to address them proactively in the zoning ordinance. He noted that currently, a data center would lik...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:83946-solar</id>
+<title>Dublin Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.townofdublin.org/AgendaCenter/ViewFile/Minutes/_10192026-244"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...rest in participating next summer in a mentoring program. The part-time line was increased slightly to continue this program . Utilities were increased bringing into the discussion the potential of a [solar array] built on the southern-facing Highway barn roof. The potential of snow sliding off and the age of the existing roof are negative factors, but a highway storage shed is needed. Capital Improvement Plan...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:66526-solar</id>
+<title>Canterbury Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board-of-Selectmen-Minutes-DRAFT.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... like 189 the issue solved, but he wasn’t sure swapping the entry/exit would work because the busses 190 might not be able to make a right turn out of the current entrance. 191 3. Energy Committee re [Solar Project] Capital Reserve Fund (CRF) 192 a. Beth McGuinn attended to explain the EC’s proposal for a solar project CRF. 193 b. Beth McGuinn explained that the EC felt there was substantial support in town for ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:66521-solar</id>
+<title>Canterbury Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board-of-Selectmen-Agenda.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ads i. Police 1. CES Traffic Issues 2. Highway Safety Grant 3. Special Detail Pay Update ii. Fire 1. Bid for Engine 3 iii. Highway 1. Pickup Salvage 2. Water Truck Salvage b. 5:30 Energy Committee re [Solar Project] CRF 3. New Business a. Tricentennial Flag Proposal 4. Old Business a. C-PACER b. CIP 5. Selectboard Representative Reports The Selectmen have the authority to add/delete any item on this agenda and c...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:3307-solar</id>
+<title>Durham Zoning / ZBA: Solar (2026-10-19)</title>
+<link href="https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-416?packet=true"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... s Corner (CC) Office Research - Route 108 (OR) Mixed Use and Office Research (MUDOR) Office Research Light Industry (ORLI) Durham Business Park (DBP) Planned Unit Dev. Overlay District (PUDOD) Small [Utility-Scale solar] energy system – principal use (See Article XX) • Building-mounted X X X X P P P P P P P P P P P • Freestanding X X X X X X X X X X P P P P X Large Utility...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:216-solar</id>
+<title>Keene Conservation commission: Solar (2026-10-19)</title>
+<link href="https://keenenh.gov/wp-content/uploads/2026/10/Agenda-Packet_2026_10.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...DRAFT September 21, 2026 Page 8 of 9 Mr. Bergman stated he has been in touch with the New Airport Director, Ryan Cooley, about 305 what is happening at the airport. He indicated there is a very large [solar installation] being 306 proposed at the south end of the main runway. It is going to be around 9,000 panels on 24 acres. 307 He noted the land has been cleared and there is further tree clearing being planned. Mr....</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:17123-transmission</id>
+<title>Durham Zoning / ZBA: Transmission &amp; substations (2026-10-19)</title>
+<link href="https://www.durhamnh.gov/DocumentCenter/View/20671/Zoning-Ordinance-October-19-2026-with-Table-of-Contents"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...ce facility shall not exceed 12 feet in width. A gravel or crushed stone surface is encouraged. H. Antenna Types - Any antenna array placed upon an existing or proposed ground mount, utility pole, or [transmission line] mount shall have a diameter of no more than 4 feet, exclusive of the diameter of the mount. A larger diameter antenna array may be permitted after a finding by the Planning Board that the visual impa...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:17123-solar</id>
+<title>Durham Zoning / ZBA: Solar (2026-10-19)</title>
+<link href="https://www.durhamnh.gov/DocumentCenter/View/20671/Zoning-Ordinance-October-19-2026-with-Table-of-Contents"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... Soil Scientist in accordance with the Society of Soil Scientists of Northern New England (SSSNNE) Special Publication - No.1, High Intensity Soil Maps for New Hampshire (www.sssnne.org), as amended. [SOLAR ENERGY SYSTEMS] – Specific definitions pertinent to solar energy systems follow. Building-Mounted Solar Energy System − A solar energy system attached to and completely supported by a building that does not extend m...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142400-solar</id>
+<title>Pembroke Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Minutes/_10192026-410"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... as pasture for the horses and cattle. James Colorusso, 477 4th Range Rd., stated that he was an abutter to the Gelinas Farm and also owned horses. He was in favor of the easement but asked whether a [solar farm] would be a permitted use. Jeff replied that solar power pertinent to farm use would be permitted but that commercial solar power operations would not. Erin closed the Public Hearing at 8:14 PM Gelina...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141653-solar</id>
+<title>Derry Conservation commission: Solar (2026-10-19)</title>
+<link href="https://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_10192026-375"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... AC output of 1200 watts per electric meter. The Planning Board received a request for 15 EV charging stations at the bus depot on Route 102. They also revieweda report on solar production at the new [solar array] located at the old landfill. Normal readings were recorded for the month except for 2 days. A grant covering 80% of the cost of two level two charging stations was discussed. There is a million dolla...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136748-solar</id>
+<title>Canterbury Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board-of-Selectmen-Minutes.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... Edgar would like the issue solved, but he wasn’t sure swapping the entry/exit would work because the busses might not be able to make a right turn out of the current entrance. 3. Energy Committee re [Solar Project] Capital Reserve Fund (CRF) a. Beth McGuinn attended to explain the EC’s proposal for a solar project CRF. b. Beth McGuinn explained that the EC felt there was substantial support in town for solar pr...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:135665-data_center</id>
+<title>Wolfeboro Select board / council: Data centers (2026-10-19)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Minutes/_10192026-419"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... location, then get Matt Bishop’s opinion on an appropriate 249 species. 250 251 B. Peter Foley used ChatGPT to review our ordinances. Wolfeboro doesn’t have any ordinance that 252 speaks directly to [data centers], and because they aren’t addressed, potential developers could 253 argue that they are not prohibited. It would all come down to specific location, and it will be the 254 Planning Board’s responsibil...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:30202-solar</id>
+<title>Franklin Planning board: Solar (2026-10-16)</title>
+<link href="https://franklinnh.gov/DocumentCenter/View/3136/Site-Plan-Review-Regulations"/>
+<updated>2026-10-16T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...registered in the State of New Hampshire, that the improvements have been constructed and completed in compliance with the approved plans or any approved field changes. 402-7 Solar Systems A. For all [solar projects] which, per Section 305-29.2 of the Zoning Ordinance, trigger the submission of a Site Plan and/or Special Use Permit, the application package shall contain or address the items outlined below: 1. A c...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142908-solar</id>
+<title>Bristol Select board / council: Solar (2026-10-15)</title>
+<link href="https://bristolnh.gov/AgendaCenter/ViewFile/Minutes/_10152026-249"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...return to Town Meeting. The revised MS-1 also includes a corrected state and federal forest-land amount, an updated River View housing payment in lieu of taxes, and a separate entry for the Northeast [Community Solar] payment associated with the solar installation at the Wastewater Treatment Facility. Mr. Miller made a motion to approve the updated 2026 MS-1. The motion was seconded by Mr. Sanschagrin. No further ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:121186-data_center</id>
+<title>Bow Planning board: Data centers (2026-10-15)</title>
+<link href="http://bownh.gov/AgendaCenter/ViewFile/Minutes/_10152026-2783"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...lso discussed potential zoning ordinance amendments, including multiple principal uses on a lot, farm 202 stands, signage regulations, utility placement, dead-end street regulations, noise standards, [data center] considerations, 203 and recent state law changes affecting land-use regulations. These items will be reviewed in detail at the November 5, 204 2026 meeting. No formal action was taken. 205 VI REVIEW ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:96362-solar</id>
+<title>Goshen Zoning / ZBA: Solar (2026-10-14)</title>
+<link href="https://goshennh.org/wp-content/uploads/2026/10/ZBA-Minutes-of-10-14-26-Draft.pdf"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... to attend the informational session. • Potential Special Exception Application: The Board discussed a pending special exception application received by mail from ReVision Energy regarding a proposed [solar installation] at 319 Lempster Coach Road, property owned by JMT Revocable Trust (Tax Map 401, Lot 010). The Board reviewed the application but had several questions, including the size of the installation, the num...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:83814-solar</id>
+<title>Washington Conservation commission: Solar (2026-10-14)</title>
+<link href="https://www.washington.nh.gov/AgendaCenter/ViewFile/Minutes/_10142026-237"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...t with the Select Board in December. Jed will speak with Monadnock Conservancy and Ausbon Sargent about a CE on another lot. 3.2 Energy Committee – Not meeting. 3.3 Planning Board – Nan said that the [Solar ordinance] that they were working on got butchered. There are a few other LUO changes that are being worked on. The Master Plan drafting is getting finished up by the PB. 3.4 Forestry Committee – Not meeting bu...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:57103-solar</id>
+<title>Bristol Planning board: Solar (2026-10-14)</title>
+<link href="https://bristolnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-246"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ten indicated there were only about 3 more meetings for the Board for the rest of the year. He added that there was still intention that the Board would meet with the Energy Committee about the Draft [Solar Ordinance]. The Board discussed the Solar ordinance being a compromise with what the Energy Committee wants. Mr. Shirley talked about updates made that were inﬂuenced by Mr. Bemis and others, and the Board revi...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36278-data_center</id>
+<title>Peterborough Planning board: Data centers (2026-10-14)</title>
+<link href="https://www.peterboroughnh.gov/PB Packet 10-14-26 - Redacted.pdf?t=202610071352180"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...snow and wind load requirements, and educating voters to address historical stigmas surrounding manufactured housing. Vice-Chair McGill questioned whether the Town would pursue regulations addressing [AI data] centers this year, noting that the topic had been brought forward in prior years by previous Board members. He asked whether this would be addressed as part of the Zoning Ordinance. Miller reported o...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35860-data_center</id>
+<title>Newport Select board / council: Data centers (2026-10-14)</title>
+<link href="https://newportnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-233"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ess Lot 110-007-A.Boutin Pinnacle Overlook-A.Boutin Raymond Holden Easement-J.Hoppock Review of Action Items 3) Review Revised Draft of Rules of Procedure New Business: 1) Priorities list for 2027 2) [Data Center] Zoning-R.Brunette 3) Boundary Marking-Town Forest and/or Maple Street Lot-L.Schissel 4) Other New Business Member Paul Baird’s status NHACC registration/tuition discussion Joint Land Use Boards Meeti...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:2431-data_center</id>
+<title>Durham Planning board: Data centers (2026-10-14)</title>
+<link href="https://www.durhamnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-420"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...he does not want 31 to go into 175:107 Conservation Subdivisions now. Article XX. Standards for specific uses, page 32 95, rewritten to be a little more flexible. Page 96 has new number 6 referencing [data centers]; 33 Councilor Lehrman said this does not need to be put in and only confuses things; need to come 34 up with a definition for a hyper-scale data center and define it as a separate issue and Board 35 ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:18000-data_center</id>
+<title>Concord Select board / council: Data centers (2026-10-14)</title>
+<link href="https://concordnh.gov/Archive.aspx?AMID=56&amp;Type=Recent"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...re the Commission in April to discuss the restoration plan for the buffer in conjunction with a flexible development of industrial and warehouse storage. The developer has since decided to do a micro [data center]. The center of the property at the end of Locke Rd there is an existing gravel road that goes onto the adjacent property that leads for a cell tower. This is on undeveloped land. The owner of the pro...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:75711-data_center</id>
+<title>Bradford Select board / council: Data centers (2026-10-13)</title>
+<link href="https://towncloud.io/go/bradford-nh/agendas/415/minutes/get_agenda_document_link"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...te plan regulation changes at the scheduled public hearing on October 27, 2026 at 7:00 p.m. He understands that the motivation behind these changes is to address large-scale development, particularly [data centers]. While Jason believes that reasonable regulations are important to protect the community, he has some concerns about the proposed language and how some of them could have unintended consequences for ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:7515-solar</id>
+<title>Londonderry Conservation commission: Solar (2026-10-13)</title>
+<link href="https://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_10132026-1307"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...er 4 5 Absent: Elkel Bickford, member; Susan Malouin, alternate member 6 7 8 Call to Order and Roll Call 9 M. Badois called the meeting to order at 7:30 p.m. 10 11 DRC – 49C Rear Rolling Ridge Road - [Solar Array] - Map 11 Lot 47 12 Ethan Beals of Hayner/Swanson Inc. appeared before the Commission representing Continental Paving 13 Inc. to discuss a proposal to install a solar array on a parcel consisting of 3...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:6159-solar</id>
+<title>Portsmouth Select board / council: Solar (2026-10-13)</title>
+<link href="https://files.portsmouthnh.gov/agendas/2026/City Council/City Council Agenda and Packet 10.13.2026.pdf"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...nnot create an ADU exemption without that authority. Page 108 of 138 The solar exemption shows how a local option can work. RSA 72:62 authorizes cities and towns to adopt a property tax exemption for [solar energy systems]. The state creates the option, and each community decides whether to use it. In 2020, the Legislature also allowed towns to set their own exemption limits. This proposal follows the same basic struct...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:39453-wind</id>
+<title>New Ipswich Planning board: Wind (2026-10-13)</title>
+<link href="https://towncloud.io/go/new-ipswich-nh/agendas/425/pdf_packet/get_agenda_document_link"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...f the town of New Ipswich 5. Agricultural uses 6. Recreational uses 7. Roadside stands 8. Greenhouses 9. Stables and riding schools Page 24 10 10. Summer camps for children 11. Large [wind energy systems], subject to the provisions of Article XIII-2 and to the provisions of the Site Plan Review regulations of the Town of New Ipswich Zoning Section C. MANUFACTURED MOBILE HOMES AND INNOVATIVE HOUSING: 1...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:11108-transmission</id>
+<title>Hudson Select board / council: Transmission &amp; substations (2026-10-13)</title>
+<link href="https://www.hudsonnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-377"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...with St. Gobane. We're also working with the state as well, and Pennechuck, to basically turn this into a regional project. We did exactly that, and that's what this grant does. This grant takes this [transmission line] from a line to a 24-inch, increases capacity significantly, and also provides the ability for the town, Pennechuck, and the state to not only provide the water that we need here in Hudson, but also t...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27553-solar</id>
+<title>Swanzey Energy committee: Solar (2026-10-12)</title>
+<link href="https://www.swanzeynh.gov/2026-10-12 EnergyCom minutes DRAFT.pdf?t=202610220833330"/>
+<updated>2026-10-12T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...s seconded. All in favor. EVs for Swanzey fleet—Mehu suggested we have a 6-year cost-comparison spreadsheet to show the town, between EVs and gas-powered vehicles. Russell said he can find that info. [Solar Ordinance]—We were told the solar ordinance will get pushed to next year, because of SWRPC’s ordinance audit. There will be many amendments in 2027. We’ve been waiting two years. Audette said the Planning Board...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:109325-solar</id>
+<title>Canterbury Energy committee: Solar (2026-10-12)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-12-Energy-Committee-Agenda.pdf"/>
+<updated>2026-10-12T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...orkshops - Battery Storage b. Municipal Building audit c. Municipal Solar d. WindowDressers update e. Solar friendly zoning f. C-Pacer g. Eversource Time-of-Day rates h. Subcommittee for current town [solar installation] maintenance i. Community Power 6. New Business a. PlugIn Solar b. Budget request The Committee has the authority to add/delete any item on this agenda and conduct the meeting as they see fit. ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25817-solar</id>
+<title>Belmont Zoning / ZBA: Solar (2026-10-11)</title>
+<link href="https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/11-2026-Amendments-for-Deliberative-Session.pdf"/>
+<updated>2026-10-11T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...6 Proposed Article #3 AMENDED/NEW Article 15: Definitions Solar - Any ground mounted or roof mounted solar collection system primarily consisting of one or more free-standing, ground or roof mounted, [solar arrays] or modules, or solar related equipment, intended to primarily reduce on-site consumption of utility power. Commercial Solar: Any ground mounted or roof mounted solar collection system designed for ot...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:78577-solar</id>
+<title>Cornish Planning board: Solar (2026-10-10)</title>
+<link href="https://cornish.nh.gov/wp-content/uploads/2026/10/10-15-26-PB-Minutes.pdf"/>
+<updated>2026-10-10T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ertification.” 6. Correct the spelling of Regulatory in Note 9. 7. Under “Metes and Bounds of Proposed Right of Way,” delete the reference to the solar array and replace with the following language: “[Solar array] to remain in right of way as shown on the plan.” Planning Board Minutes, 10/15/2026 Page 2 of 2 unapproved 8. Prior to the signing of the subdivision plat, the applicant must provide evidence that a ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:51135-data_center</id>
+<title>Candia Planning board: Data centers (2026-10-07)</title>
+<link href="https://www.candianh.org/AgendaCenter/ViewFile/Minutes/_10072026-611"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>..., which are currently permitted in industrial, mixed-use, and commercial districts, and allowed by special exception in the residential district. T. D’Arcy shares his personal experience, noting that [data centers] are often quiet, office-like environments, and states that the primary concern for the Town would be power grid capacity rather than noise or environmental impact. A discussion ensues about the pros ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:46874-solar</id>
+<title>New London Energy committee: Solar (2026-10-07)</title>
+<link href="https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/2026-10-07_Energy_Committee_Minutes.pdf"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...utes are posted to the town website. Voting on final versions of August and September minutes to be deferred until the November meeting to allow Meredith to review them. 2. Stump Dump &amp; Mountain Road [Solar Project] Updates: Per Ted Vansant (Barrington Solar, as of 9/15/2026): • Stump Dump: Town will have a 200-amp service installed at the Stump Dump location; once the electric meter is installed, the interconne...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25700-solar</id>
+<title>Plaistow Planning board: Solar (2026-10-07)</title>
+<link href="https://www.plaistow.com/AgendaCenter/ViewFile/Minutes/_10072026-292"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... that he and R. LeClaire met to review rough drafts that dealt with legislative changes from the NH Legislature, noting they all have some element of statutory required changes in them other than the [solar ordinance] which has been seen by the Board and the sign ordinance. He said the sign ordinance goes through a lot of definitions and then a lot of signs that are exempt. He said they had input from some Town bu...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:147971-data_center</id>
+<title>Windham Planning board: Data centers (2026-10-07)</title>
+<link href="https://windhamnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-3060"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...gton, Selectmen’s liaison- present 18 19 Staff 20 Julie Suech, Assistant Planner 21 22 Announcements / Liaison Reports 23 24 Chairman Cross summarized several email exchanges around flock cameras and [data centers]. There was 25 a Route 111 presentation at the Select Board meeting. Ms. Ballaya stated the GMO Committee met for the 26 first time and will meet again at the end of the month. Staff did work on the s...</summary>
+</entry>
+</feed>

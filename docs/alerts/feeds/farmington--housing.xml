@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:farmington--housing</id>
+<title>Farmington NH: Housing development</title>
+<subtitle>Town meeting records in Farmington on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/farmington--housing.xml"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:35318-housing</id>
+<title>Farmington Planning board: Housing development (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10212026-274"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...es and remain accessory. Because of state legislation, they must now be accessory to any residential principal use, not only single-family homes. This means one could operate in an apartment within a [multi-family unit] building. He explained that under the new state law a childcare center with 30 or fewer children is not subject to site plan re...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136397-housing</id>
+<title>Farmington Planning board: Housing development (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3125/PB-Packet_102126"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...nly density bonus without also offering a sewer bonus, noting there is currently no sewer service in the ARg zone, and that the water capacity question is more tractable. Mr. Pimental also raised the [cluster subdivision] ordinance as a related tool, noting it has existed for over ten years and has not attracted significant developer interest. He suggested the Board consider reviewing the cluster subdivision regulatio...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:103011-housing</id>
+<title>Farmington Planning board: Housing development (2026-10-07)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3120/PB-Packet-10-07-26"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...re was already legislative pushback on this provision. He indicated the Board might want to monitor whether the legislature revisits it. ● Multifamily in Commercial Districts: A state requirement for [multifamily housing] to be allowed by right in commercial districts was under discussion statewide. Director Pimental noted that Farmington had already taken steps in this direction through its mixed-use district provisi...</summary>
+</entry>
+</feed>

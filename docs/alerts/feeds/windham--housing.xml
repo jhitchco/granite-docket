@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:windham--housing</id>
+<title>Windham NH: Housing development</title>
+<subtitle>Town meeting records in Windham on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/windham--housing.xml"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:147948-housing</id>
+<title>Windham Conservation commission: Housing development (2026-10-22)</title>
+<link href="https://windhamnh.gov/AgendaCenter/ViewFile/Minutes/_10222026-3066"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...g- Residential District A/ WPOD 128 The application requests a variance from Sections 406.2, and 702/ Appendix A-1 to permit the 129 construction of an approximate 28’ x 24’ addition to be used as an [Accessory Dwelling Unit] (ADU) 130 to encroach within the required 50’ Shoreland Buffer. The proposed ADU will be constructed to be 131 within ADA compliance standards for the property owner(s) elderly parents. 132 133 Cindy...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:111691-housing</id>
+<title>Windham Conservation commission: Housing development (2026-10-22)</title>
+<link href="https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10222026-3066"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...Rd Zoning- Residential District A/ WPOD The application requests a variance from Sections 406.2, and 702/ Appendix A-1 to permit the construction of an approximate 28’ x 24’ addition to be used as an [Accessory Dwelling Unit] (ADU) to encroach within the required 50’ Shoreland Buffer. The proposed ADU will be constructed to be within ADA compliance standards for the property owner(s) elderly parents. PB: Case 2026-27 – 16...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:112202-housing</id>
+<title>Windham Planning board: Housing development (2026-10-21)</title>
+<link href="https://windhamnh.gov/AgendaCenter/ViewFile/Agenda/_10212026-3065"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... Access Management Overlay District &amp; WPOD; Preliminary Site Plan Application The Applicant, Joe Maynard of Benchmark Engineering LLC, has submitted a Preliminary Site Plan application for a proposed [71-unit apartment] development consisting of 31 one-bedroom units and 40 two-bedroom units. The proposal includes three buildings. Building one will be approximately 30,224 square feet per floor, with retail/office spa...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:147971-housing</id>
+<title>Windham Planning board: Housing development (2026-10-07)</title>
+<link href="https://windhamnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-3060"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...anagement Overlay District &amp; WPOD; 74 Preliminary Site Plan Application 75 The Applicant, Joe Maynard of Benchmark Engineering LLC, has submitted a 76 Preliminary Site Plan application for a proposed [71-unit apartment] development 77 consisting of 31 one-bedroom units and 40 two-bedroom units. The proposal 78 includes three buildings. Building one will be approximately 30,224 square feet per 79 floor, with retail/o...</summary>
+</entry>
+</feed>

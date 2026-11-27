@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:warner--energy-siting</id>
+<title>Warner NH: energy siting</title>
+<subtitle>Town meeting records in Warner on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/warner--energy-siting.xml"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:75251-data_center</id>
+<title>Warner Planning board: Data centers (2026-11-02)</title>
+<link href="https://warnernh.gov/tow/meetings/mtgdocs/plan/20261102/Nov22026PBMtgPackageAgendaandDraftMinutes.pdf"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...s Gaffney. She clarified that her letter is a 20 letter of concern that requests that the Planning Board take action to draft a better ordinance for the future to 21 avoid CBD shops, tattoo shops and [data centers] coming to town. She stressed that residents want a nice 22 town and ordinances are the only way to protect the town. James Gaffney questioned what a proposed 23 ordinance would look like that would p...</summary>
+</entry>
+</feed>

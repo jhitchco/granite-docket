@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:campton--housing</id>
+<title>Campton NH: Housing development</title>
+<subtitle>Town meeting records in Campton on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/campton--housing.xml"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142883-housing</id>
+<title>Campton Zoning / ZBA: Housing development (2026-10-06)</title>
+<link href="https://www.camptonnh.gov/Documents/Department/Planning and Zoning/PB Minutes FINAL APPROVED 10.6.2026.pdf?t=202611131109010"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...o adjoining lots, approximately 1.7 and 1.8 acres. The board explained that the current zoning allows one primary residence per acre and discussed the possibility of a single-family residence with an [accessory dwelling unit]. Mrs. Bernal will further review the regulations and determine how she would like to proceed. Board Concerns and Directives: The board discussed canceling the November 3 Planning Board work session, ...</summary>
+</entry>
+</feed>

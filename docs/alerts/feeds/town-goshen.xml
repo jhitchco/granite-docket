@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-goshen</id>
+<title>Goshen NH: tracked topics</title>
+<subtitle>Town meeting records in Goshen on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-goshen.xml"/>
+<updated>2026-12-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:151308-solar</id>
+<title>Goshen Zoning / ZBA: Solar (2026-12-09)</title>
+<link href="https://goshennh.org/wp-content/uploads/2026/11/ZBA-Public-Hearing-Notice-319-Lempster-Coach-Rd.pdf"/>
+<updated>2026-12-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...l. ReVision Energy, on behalf of property owners JMT Revocable Trust (John Turcotte and Beth Glasmann), is seeking approval of a Special Exception for the installation of a ground-mounted residential [solar array] at 319 Lempster Coach Road (Tax Map 401, Lot 010). The application will be reviewed and considered by the Zoning Board of Adjustment (ZBA). This meeting is open to the public, and interested parties ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:151403-solar</id>
+<title>Goshen Zoning / ZBA: Solar (2026-11-11)</title>
+<link href="https://goshennh.org/wp-content/uploads/2026/11/ZBA-Minutes-of-11-11-26-Draft.pdf"/>
+<updated>2026-11-11T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ive from ReVision Energy, along with John Turcotte and Beth Glasmann (property owners), came before the Board to present and discuss the special exception application for a ground-mounted residential [solar array] at 319 Lempster Coach Road (Tax Map 401, Lot 010). Mr. Keally provided an overview of the proposed installation and addressed the questions raised by the Board. The proposed 25-kilowatt residential s...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:96362-solar</id>
+<title>Goshen Zoning / ZBA: Solar (2026-10-14)</title>
+<link href="https://goshennh.org/wp-content/uploads/2026/10/ZBA-Minutes-of-10-14-26-Draft.pdf"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... to attend the informational session. • Potential Special Exception Application: The Board discussed a pending special exception application received by mail from ReVision Energy regarding a proposed [solar installation] at 319 Lempster Coach Road, property owned by JMT Revocable Trust (Tax Map 401, Lot 010). The Board reviewed the application but had several questions, including the size of the installation, the num...</summary>
+</entry>
+</feed>

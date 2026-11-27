@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:belmont--solar</id>
+<title>Belmont NH: Solar</title>
+<subtitle>Town meeting records in Belmont on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/belmont--solar.xml"/>
+<updated>2026-10-11T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:25817-solar</id>
+<title>Belmont Zoning / ZBA: Solar (2026-10-11)</title>
+<link href="https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/11-2026-Amendments-for-Deliberative-Session.pdf"/>
+<updated>2026-10-11T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...6 Proposed Article #3 AMENDED/NEW Article 15: Definitions Solar - Any ground mounted or roof mounted solar collection system primarily consisting of one or more free-standing, ground or roof mounted, [solar arrays] or modules, or solar related equipment, intended to primarily reduce on-site consumption of utility power. Commercial Solar: Any ground mounted or roof mounted solar collection system designed for ot...</summary>
+</entry>
+</feed>

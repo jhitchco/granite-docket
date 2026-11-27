@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:keene--solar</id>
+<title>Keene NH: Solar</title>
+<subtitle>Town meeting records in Keene on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/keene--solar.xml"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:216-solar</id>
+<title>Keene Conservation commission: Solar (2026-10-19)</title>
+<link href="https://keenenh.gov/wp-content/uploads/2026/10/Agenda-Packet_2026_10.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...DRAFT September 21, 2026 Page 8 of 9 Mr. Bergman stated he has been in touch with the New Airport Director, Ryan Cooley, about 305 what is happening at the airport. He indicated there is a very large [solar installation] being 306 proposed at the south end of the main runway. It is going to be around 9,000 panels on 24 acres. 307 He noted the land has been cleared and there is further tree clearing being planned. Mr....</summary>
+</entry>
+</feed>

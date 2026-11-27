@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:grantham--energy-siting</id>
+<title>Grantham NH: energy siting</title>
+<subtitle>Town meeting records in Grantham on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/grantham--energy-siting.xml"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:148566-solar</id>
+<title>Grantham Planning board: Solar (2026-10-01)</title>
+<link href="https://granthamnh.gov/vertical/sites/%7B8E4EE0D6-AAA5-4E63-B5FA-19873AF96E35%7D/uploads/2026-10-01-PB-Meeting-Materials(1).pdf"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ess and housed in a structure associated with that business. (6) Auto Service Stations. (7) Farm and Craft stands. (8) Wireless Communications Facilities subject to the conditions in Article XII. (9) [Utility Scale Solar] System (10) Outdoor wood heating systems. A Continuing Care Retirement Community or Senior Living Campus is not permitted under the preceding subsections of this Section. Such uses are permitted only...</summary>
+</entry>
+</feed>

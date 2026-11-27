@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:claremont--housing</id>
+<title>Claremont NH: Housing development</title>
+<subtitle>Town meeting records in Claremont on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/claremont--housing.xml"/>
+<updated>2026-11-23T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:147357-housing</id>
+<title>Claremont Planning board: Housing development (2026-11-23)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 23 26 PB MEETING PACKET_1794859946.pdf"/>
+<updated>2026-11-23T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...er 9, 2026 Page 6 of 16 B. (PL 2026-00019) John MacPherson, Englewood, FL-Application for a conditional use permit to covert a three-story building with 2 units into a [multi-family building] with 3 units at 107 Washington Street. Tax Map 108 Lot 121. Zoning District: CB2 Mr. Blicher read the Staff Report. Property Description 107 Washington Street is a 0.72-acre parcel located on the sou...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:134042-housing</id>
+<title>Claremont Conservation commission: Housing development (2026-11-19)</title>
+<link href="http://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 19  26 CC MEETING PACKET_1793820403.pdf"/>
+<updated>2026-11-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...posed construction of a residential project located at 492 Washington Street in Claremont, New Hampshire. The proposed project will include the construction of five duplex townhouse buildings and one [68-unit multifamily] apartment building with parking below. Additional driveways, parking lots, and stormwater management features, utilities, and landscaping are also proposed to support this construction. This Project ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141629-housing</id>
+<title>Claremont Select board / council: Housing development (2026-11-10)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/CP 2026-11-10_1794321309.pdf"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...HLIGHTS e Pipeline Conversations: o Conversations with two new businesses coming to Pleasant Street. o Discussing new business opportunity for 73 Pleasant Street, o Conversations with GCBR to support [workforce housing]. o Working with various property owners and discussing development opportunities around the city. o Working with the Planning Board on a definition for Data Centers. o Wereceived notice that we curre...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:461-housing</id>
+<title>Claremont Planning board: Housing development (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB Meeting Packet Part 2_1793655689.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... www.claremontnh.com Page 6 of 15 IV. Required Approvals The applicant has submitted a Conditional Use Permit application seeking approval to convert an existing two-family dwelling into a three-unit [multifamily dwelling] at 107 Washington Street. Application materials indicate that the proposed third dwelling unit will be created through renovation of existing upper-story space within the structure and will not requi...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:421-housing</id>
+<title>Claremont Planning board: Housing development (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB AGENDA_1793633006.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...inner Street. Tax Map 107 Lot 161. Zoning District: CR2 B. (PL 2026-00019) John MacPherson, Englewood, FL-Application for a conditional use permit to covert a three-story building with 2 units into a [multi-family building] with 3 units at 107 Washington Street. Tax Map 108 Lot 121. Zoning District: CB2 C. Discussion on Data Centers D. 2027 Meeting Schedule VI. Reports of officers and committees VII. Reading of communic...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:409-housing</id>
+<title>Claremont Planning board: Housing development (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB PN_1793105732.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...inner Street. Tax Map 107 Lot 161. Zoning District: CR2 C. (PL 2026-00019) John MacPherson, Englewood, FL-Application for a conditional use permit to covert a three-story building with 2 units into a [multi-family building] with 3 units at 107 Washington Street. Tax Map 108 Lot 121. Zoning District: CB2 D. Data Center Definition Discussion Interested persons may review applications at the Planning and Development Depart...</summary>
+</entry>
+</feed>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-bristol</id>
+<title>Bristol NH: tracked topics</title>
+<subtitle>Town meeting records in Bristol on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-bristol.xml"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:136622-solar</id>
+<title>Bristol Select board / council: Solar (2026-11-05)</title>
+<link href="https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_11052026-258"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...nd October 13, 2026, Work Session Meeting Minutes • Consent Agenda: November 19, 2026 • Public Comments • Jeff Goodrum - Sidewalk/Parking Discussion (Demolition Project) • Planning Board Discussion - [Solar Ordinance] Update • Election Close Out Discussion • Chemical Toilet RFP – Final Review and Award • Civic Duty Policy Update • Economic Development Committee Letter and List • Energy Committee Charter Discussio...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:57094-solar</id>
+<title>Bristol Planning board: Solar (2026-10-28)</title>
+<link href="https://bristolnh.gov/AgendaCenter/ViewFile/Agenda/_10282026-250"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...PLANNING BOARD Workshop Meeting AGENDA October 28, 2026, 6:00 p.m. Town Office Meeting Room A 1. CALL TO ORDER / ROLL CALL 2. OLD BUSINESS [Solar Ordinance] Review 3. PLANNING 4. CASES 26PCC07_Camp-Wulamat_102-018_102-019 5. OPERATIONAL 6. APPROVAL OF MINUTES 7. COMMUNICATIONS 8. REPORTS Historic District Commission, Capital Improvements Committee, Conse...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142908-solar</id>
+<title>Bristol Select board / council: Solar (2026-10-15)</title>
+<link href="https://bristolnh.gov/AgendaCenter/ViewFile/Minutes/_10152026-249"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...return to Town Meeting. The revised MS-1 also includes a corrected state and federal forest-land amount, an updated River View housing payment in lieu of taxes, and a separate entry for the Northeast [Community Solar] payment associated with the solar installation at the Wastewater Treatment Facility. Mr. Miller made a motion to approve the updated 2026 MS-1. The motion was seconded by Mr. Sanschagrin. No further ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:57103-solar</id>
+<title>Bristol Planning board: Solar (2026-10-14)</title>
+<link href="https://bristolnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-246"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ten indicated there were only about 3 more meetings for the Board for the rest of the year. He added that there was still intention that the Board would meet with the Energy Committee about the Draft [Solar Ordinance]. The Board discussed the Solar ordinance being a compromise with what the Energy Committee wants. Mr. Shirley talked about updates made that were inﬂuenced by Mr. Bemis and others, and the Board revi...</summary>
+</entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:boscawen--solar</id>
+<title>Boscawen NH: Solar</title>
+<subtitle>Town meeting records in Boscawen on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/boscawen--solar.xml"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:60530-solar</id>
+<title>Boscawen Planning board: Solar (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6086/111026-PH-and-Relined-LDRs-Pkg"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ew the application for regional impacts per RSA 36:55. If the proposal is determined to have potential regional impacts, the building inspector shall follow the procedures set forth in RSA 36:57, IV. [Solar Energy Systems] 1. Applicants for Residential Accessory Scale solar energy systems shall provide the information required for a building permit to the Building Department, including but not limited to: a. Solar ener...</summary>
+</entry>
+</feed>

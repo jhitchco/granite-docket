@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:laconia--housing</id>
+<title>Laconia NH: Housing development</title>
+<subtitle>Town meeting records in Laconia on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/laconia--housing.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:134066-housing</id>
+<title>Laconia Select board / council: Housing development (2026-11-09)</title>
+<link href="https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_11092026-3267?packet=true"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...4, XXI The time containers can be set out for collection the day prior to the collection day was changed from 7 pm to 1 pm. During the public hearing a resident made a comment on the definition of an [accessory dwelling unit]. The definition used in the Solid Waste Ordinance is the same definition used in the City’s Zoning Ordinance. The information from the October 26, 2026 staff report is below. The purpose of the follo...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:111051-housing</id>
+<title>Laconia Select board / council: Housing development (2026-10-26)</title>
+<link href="https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10262026-3253?packet=true"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...or fees: Article 1: Refuse and Household waste collection The updates in this article are due to changes in other City ordinances and changes in State laws and regulations to include:  Definition of [accessory dwelling units] and how this type of residence fits into the solid waste program.  Effective July 1, 2025 Lithium-Ion batteries are no longer acceptable waste at a landfill and thus cannot be put in City solid wast...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:11988-housing</id>
+<title>Laconia Planning board: Housing development (2026-10-06)</title>
+<link href="https://www.laconianh.gov/AgendaCenter/ViewFile/Agenda/_10062026-3225"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...to 5 individual lots with an internal road. PB2026-022_STAFF REPORT.PDF PB2026-022_PLANNING BOARD SUBMISSION.PDF PB2026-062; 59 Doe Avenue (145-64-1) The applicant is seeking site plan approval for a [40-unit residential] development. PB2026-062_STAFF REPORT.PDF PB2026-062_PLANNING BOARD SUBMISSION.PDF PB2026-062_THIRD-PARTY REVIEW FINDINGS MEMO.PDF PB2026-062_PROJECT MANAGER MEMO.PDF 1. 2. 3. 4. 5. 6. 7. 7.1. Documen...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:11981-housing</id>
+<title>Laconia Planning board: Housing development (2026-10-06)</title>
+<link href="https://www.laconianh.gov/AgendaCenter/ViewFile/Minutes/_10062026-3225"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... of Fact: 1. The applicant submitted a complete application for Site Plan Review and associated approvals. 2. The proposal consists of redevelopment of approximately 2.9 acres at 59 Doe Avenue with a [40-unit condominium] development. 3. Approximately 440 square feet of building area is proposed within a regulated wetland buffer. 4. The proposal includes demolition of existing structures and construction of residentia...</summary>
+</entry>
+</feed>

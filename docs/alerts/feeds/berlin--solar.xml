@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:berlin--solar</id>
+<title>Berlin NH: Solar</title>
+<subtitle>Town meeting records in Berlin on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/berlin--solar.xml"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:25008-solar</id>
+<title>Berlin Zoning / ZBA: Solar (2026-09-30)</title>
+<link href="https://www.berlinnh.gov/DocumentCenter/View/4026/Final-Draft-Berlin-Zoning-Ordinance-09-30-2026"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...SLOPE: The deviation of a surface from the horizontal, usually expressed in percent or degrees. Slope percent is computed by dividing the vertical distance by the horizontal distance times 100. SOLAR [PHOTOVOLTAIC] (PV) SYSTEM: A solar collection system consisting of one or more building systems, solar photovoltaic cells, panels or arrays and solar related equipment that rely upon solar radiation as an energy s...</summary>
+</entry>
+</feed>

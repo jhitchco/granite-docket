@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:farmington--transmission</id>
+<title>Farmington NH: Transmission &amp; substations</title>
+<subtitle>Town meeting records in Farmington on transmission &amp; substations.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/farmington--transmission.xml"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:136394-transmission</id>
+<title>Farmington Planning board: Transmission &amp; substations (2026-11-04)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3129/PB-Packet-11-04-26"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...essed, transferred and/or stored. - PRINCE WILLIAM COUNTY VIRGINIA ZONING ORDINANCE CHAPTER 32, ARTICLE I, PART 100. DEFINITION OF A “DATA CENTER” DATA CENTER ACCESSORY USE: Utilities, utility lines, [electrical substations], pump stations, water towers, mechanical equipment and environmental controls (air conditioning or cooling towers, fire suppression, etc.), redundant/backup power supplies, redundant data communicati...</summary>
+</entry>
+</feed>

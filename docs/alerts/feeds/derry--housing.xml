@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:derry--housing</id>
+<title>Derry NH: Housing development</title>
+<subtitle>Town meeting records in Derry on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/derry--housing.xml"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:4036-housing</id>
+<title>Derry Zoning / ZBA: Housing development (2026-10-15)</title>
+<link href="https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_10152026-367"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ard Maria E &amp; Arthur N Trustees Parcel ID 44013 19 Chester Rd Zoned: MDR The applicant is requesting a variance to the terms of Article VI, Section 165.46.A to allow the construction of a 6 building, [156 unit multi]-family housing development on the parcel. 26-132 Applicant: RGNH Construction, LLC Owner: RGNH Construction, LLC Parcel ID 11092-001 63 English Range Rd Zoned: LDR The applicant i...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141758-housing</id>
+<title>Derry Zoning / ZBA: Housing development (2026-10-15)</title>
+<link href="https://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_10152026-367"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...site walk as part of the review process. If approved by the Board, the project will be subject to Planning Board subdivision approval. The prior Ownerreceived conditional Planning Board approvalfor a [13-lot subdivision] on the property; however, that approval has since expired. If approved, appropriate permits and inspections will be required. 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 1...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141670-housing</id>
+<title>Derry Conservation commission: Housing development (2026-10-05)</title>
+<link href="https://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_10052026-364"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...lot being nine acres with a driveway culvert. That culvert will have about 600-foot impact. The wetlands have beenflagged with the crossing being minimized as muchaspossible. The old crossing for the [14-lot subdivision] because of all the road design standards, was about 1900 square feet. The driveway will be moved at the narrowercrossing location and moved downto 600 square feet. The proposal will put the house on ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:50-housing</id>
+<title>Derry Conservation commission: Housing development (2026-09-28)</title>
+<link href="https://www.derrynh.gov/AgendaCenter/ViewFile/Minutes/_09282026-361"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...and doing a great job. Chairman Buzzanga addedhe continuesto receive Commission updates weekly on new andcontinuing work being done. -Site Plan Review: -Tax Map 11092, Lot 001; 63 English Range Road; [13 Lot Subdivision]; Owner: RGNH Construction-Kevin Landry, 20 Rockingham Rd, Windham NH. Surveyor: James Verra &amp; Associates, Inc, (JVA) 100 Griffin Road Unit C, Portsmouth, NH. Presenters: Nicholas DiBartholomeo, Morga...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:38-housing</id>
+<title>Derry Conservation commission: Housing development (2026-09-28)</title>
+<link href="https://www.derrynh.gov/AgendaCenter/ViewFile/Agenda/_09282026-361"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...rgency Exits 5. Introduction of Commissioners 6. Approval of Minutes: 8/17/2026 7. Chair’s Report 8. Correspondence Site Plan Review (15 minutes each) • Tax Map 11092, Lot 001; 63 English Range Road; [13 Lot Subdivision]; Owner: RGNH Construction – Kevin Landry, 20 Rockingham Road, Windham 03087; Surveyor: James Verra &amp; Associates, Inc. (JVA) 100 Griffin Road, Unit C, Portsmouth, NH 03801 Presenters: Nicholas DiBarth...</summary>
+</entry>
+</feed>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:carroll--nuclear</id>
+<title>Carroll NH: Nuclear / micro-nuclear</title>
+<subtitle>Town meeting records in Carroll on nuclear / micro-nuclear.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/carroll--nuclear.xml"/>
+<updated>2024-01-01T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+</feed>

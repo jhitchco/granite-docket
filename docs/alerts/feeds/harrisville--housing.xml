@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:harrisville--housing</id>
+<title>Harrisville NH: Housing development</title>
+<subtitle>Town meeting records in Harrisville on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/harrisville--housing.xml"/>
+<updated>2026-10-23T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:88813-housing</id>
+<title>Harrisville Planning board: Housing development (2026-10-23)</title>
+<link href="https://harrisvillenh.org/wp-content/uploads/2026/10/Draft-Pocket-Neighborhood-Ordinance-October-2026.pdf"/>
+<updated>2026-10-23T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...; 31.2.2 creating options for smaller, more energy-efficient, and therefore more affordable housing; and 31.2.3 providing “missing middle” housing that bridges the gap between single-family homes and [apartment complex]es. The intention of this Article is to offer sufficient flexibility that allows the Planning Board and the applicant to work collaboratively to develop the best possible plan for each site, as well a...</summary>
+</entry>
+</feed>

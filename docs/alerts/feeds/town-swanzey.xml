@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-swanzey</id>
+<title>Swanzey NH: tracked topics</title>
+<subtitle>Town meeting records in Swanzey on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-swanzey.xml"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:27643-housing</id>
+<title>Swanzey Planning board: Housing development (2026-11-05)</title>
+<link href="https://www.swanzeynh.gov/PB Packet 11 5 2026.pdf?t=202611021208240"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...tes October 22, 2026 Page 3 of 7 o Ames inquires about truck circulation and how they will move to the rear spaces. Tymula answers and demonstrates the circulation.  Ames inquires about the abutting [apartment complex] and fence line, and where the pedestrians from the apartments will walk to get to the convenience store. o Tymula explains that there is more landscaping between the uses to provide more of a buffer ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:26540-solar</id>
+<title>Swanzey Select board / council: Solar (2026-11-03)</title>
+<link href="https://www.swanzeynh.gov/2026-11-03 BOS Agenda Packet.pdf?t=202611021616050"/>
+<updated>2026-11-03T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...y Rural for sessions on streetscapes &amp; intergenerational learning 10/12 – CIP Meeting – Fire Dept, Stratton Free Library, and Rail Trails 10/12 – Energy Commission – EV Town vehicles fleet potential, [Solar Ordinance] status, Weatherization 10/15 - Perimeter hike of Mt Cresson with Jay Ward for compliance with past funding 10/15 – PLAN Webinar for Land Use Regulation Amendment Process and RSAs update 10/15 – MAST ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:26540-housing</id>
+<title>Swanzey Select board / council: Housing development (2026-11-03)</title>
+<link href="https://www.swanzeynh.gov/2026-11-03 BOS Agenda Packet.pdf?t=202611021616050"/>
+<updated>2026-11-03T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...k’s office. Amendment No. 3 Are you in favor of the adoption of Amendment No. 3, as proposed by the Planning Board, to amend Section III-AA of the Swanzey Zoning Ordinance in its entirety, regulating [Accessory Dwelling Units] (ADUs), bringing local regulations into compliance with state statutory standards? Note: This amendment completely updates Section III-AA to align Swanzey’s Accessory Dwelling Unit regulations with c...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27681-solar</id>
+<title>Swanzey Planning board: Solar (2026-10-22)</title>
+<link href="https://www.swanzeynh.gov/PB Packet - 10 22 2026.pdf?t=202610151532120"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... a discussion regarding the date of the first public hearing and the group decided to schedule it for the November 19th meeting. Chair Ames said that Bob Audette asked her if there was an update on a [solar ordinance]. This will be investigated further. Alan invited all to attend the Open House for the new fire station on Saturday, October 10 from 10am - 1pm. The discussion moved on to the Table of Uses changes th...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:26567-solar</id>
+<title>Swanzey Select board / council: Solar (2026-10-21)</title>
+<link href="https://www.swanzeynh.gov/2026-10- 21 BOS Agenda Packet.pdf?t=202610211420370"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...Page 3 of 5 Next, Barbara told Chair Tempesta that he should expect a DocuSign via email by Friday to sign for ReVision Energy’s contract to purchase the Renewable Energy Certificates (RECS) from the [solar array] at the Wastewater Treatment plant. There was a discussion regarding the Hydro net metering contract with Keene; Barbara wondered if there was a conflict with the Standard Power agreement. Jay Ward re...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:28665-housing</id>
+<title>Swanzey Zoning / ZBA: Housing development (2026-10-19)</title>
+<link href="https://www.swanzeynh.gov/10 19 2026 ZBA Draft Minutes.pdf?t=202610221536210"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... Jessica stated that her point is that it might be taking away an option for a business in the business district. Jay Ward clarified that if this was approved, it is for a single-family dwelling, not [multi-family dwellings]. Town of Swanzey Zoning Board of Adjustment Draft Minutes October 19, 2026 Page 3 of 7 Chair Mulhearn explained the Board’s job to the applicant; that the Board has to determine what hardship might e...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:28661-housing</id>
+<title>Swanzey Zoning / ZBA: Housing development (2026-10-19)</title>
+<link href="https://www.swanzeynh.gov/ZBA Packet 10 19 2026.pdf?t=202610190955130"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ere. Debora Murray added that area kids play in parking lot and she’s worried about their safety. Chair Karasinski said that someone has removed the gate from the fence along the line adjacent to the [apartment building], but it is not the applicant’s responsibility; it’s the parents and the apartment complex owner’s responsibility. Mr. Tymula explained that his client wants to be a good neighbor and is making additi...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27553-solar</id>
+<title>Swanzey Energy committee: Solar (2026-10-12)</title>
+<link href="https://www.swanzeynh.gov/2026-10-12 EnergyCom minutes DRAFT.pdf?t=202610220833330"/>
+<updated>2026-10-12T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...s seconded. All in favor. EVs for Swanzey fleet—Mehu suggested we have a 6-year cost-comparison spreadsheet to show the town, between EVs and gas-powered vehicles. Russell said he can find that info. [Solar Ordinance]—We were told the solar ordinance will get pushed to next year, because of SWRPC’s ordinance audit. There will be many amendments in 2027. We’ve been waiting two years. Audette said the Planning Board...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27703-housing</id>
+<title>Swanzey Planning board: Housing development (2026-10-08)</title>
+<link href="https://www.swanzeynh.gov/PB Packet 10 8 2026.pdf?t=202610011601460"/>
+<updated>2026-10-08T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...e and legal review Child care Sets clear rules for home-based child care and child care centers Proposed language Consolidated definitions Gives each use one name and one definition Proposed language [Multifamily housing] Allows multifamily housing by right in Village Business I and the Business District Proposed language Agriculture Defines farming by State law and removes extra local review Proposed language Accesso...</summary>
+</entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:candia--housing</id>
+<title>Candia NH: Housing development</title>
+<subtitle>Town meeting records in Candia on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/candia--housing.xml"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142831-housing</id>
+<title>Candia Planning board: Housing development (2026-11-04)</title>
+<link href="https://www.candianh.org/AgendaCenter/ViewFile/Minutes/_11042026-626"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ogy needs legal review rather than deciding it at the meeting. Staff will reach out to New Hampshire Municipal Association’s legal team for direction. The Board discusses HB1010 and HB1588, requiring [multifamily housing] to be allowed in commercial zones and limiting municipal authority to regulate it. It is argued that converting commercial property, viewed as a net positive for the tax rate, to multifamily housing ...</summary>
+</entry>
+</feed>

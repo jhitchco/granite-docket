@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:sullivan--housing</id>
+<title>Sullivan NH: Housing development</title>
+<subtitle>Town meeting records in Sullivan on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/sullivan--housing.xml"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:153164-housing</id>
+<title>Sullivan Planning board: Housing development (2026-11-10)</title>
+<link href="https://townofsullivannh.com/vertical/sites/%7B55112C42-38E1-4306-9104-21AA508BD373%7D/uploads/Public_Notice_Petition__(CPO_Gen_Stan_ADU)_11.10.2026(1).docx"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...hange s in the Sullivan NH Planning Ordinance to modify Article I V -section H , concerning general standards for [Accessory Dwelling Units] (ADUs), to conform to recent State Law changes, will be submitted to the Planning Board Wednesday, December 2nd , 202 6 ...</summary>
+</entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:brookfield--housing</id>
+<title>Brookfield NH: Housing development</title>
+<subtitle>Town meeting records in Brookfield on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/brookfield--housing.xml"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:98517-housing</id>
+<title>Brookfield Planning board: Housing development (2026-10-26)</title>
+<link href="https://www.brookfieldnh.gov/1388/Rules-of-Procedure"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>.... Pursuant to RSA 674:43, a site plan review is the process of approving or disapproving a plan for development or change of use or expansion of use of tracts of land for non- residential uses or for [multi-family dwelling] units. Such a plan for land development may or may not include a subdivision. If it does include a subdivision, then a separate application must be submitted for the subdivision under Brookfield Subd...</summary>
+</entry>
+</feed>

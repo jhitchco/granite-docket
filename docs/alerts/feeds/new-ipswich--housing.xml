@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:new-ipswich--housing</id>
+<title>New Ipswich NH: Housing development</title>
+<subtitle>Town meeting records in New Ipswich on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/new-ipswich--housing.xml"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142582-housing</id>
+<title>New Ipswich Planning board: Housing development (2026-11-04)</title>
+<link href="https://towncloud-core-prod.s3.us-west-2.amazonaws.com/uploads/new-ipswich-nh/meetings/item_attachment/attachment/323/Planning_Board_Meeting_Minutes_11-04-2026.docx"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...y by state law. To balance regional housing needs with municipal character, HUD-standard pre-site-built homes will remain permitted on standard rural lots but restricted on historic village lots. [Accessory Dwelling Unit] Definitions (ADUs – Zoning Article XIII, Pages 5–6) Attached ADU Definition: Updated Article XIII to align with recent state statutory updates by striking the phrase &quot;or completely c...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:38775-housing</id>
+<title>New Ipswich Zoning / ZBA: Housing development (2026-10-28)</title>
+<link href="https://towncloud.io/go/new-ipswich-nh/agendas/429/PDF/get_agenda_document_link"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...: San-Ken Application for Special Exception at 2 Baylor Drive This application is for Special Exception to Zoning Ordinance, Article VI, Section C.1 and Article IV, Section C. 6 to construct a 3 unit [multifamily dwelling] in the Rural District. a. Case ZBA-2026-10: San-Ken Application for Special Exception at 3 Baylor Drive This application is for Special Exception to Zoning Ordinance, Article VI, Section C.1 and Arti...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:45955-housing</id>
+<title>New Ipswich Planning board: Housing development (2026-10-13)</title>
+<link href="https://towncloud-core-prod.s3.us-west-2.amazonaws.com/uploads/new-ipswich-nh/meetings/item_attachment/attachment/319/Planning_Board_meeting_minutes_10-13-2026_DRAFT.docx"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... Briefly discussed whether to evaluate park/community provisions for tiny homes or manufactured housing under cluster-style or special exception frameworks. D. [Accessory Dwelling Units] (ADUs) Reviewed structural adjustments regarding attached versus detached ADUs, clarifying pre-existing structures and separation standards. E. S...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:39453-housing</id>
+<title>New Ipswich Planning board: Housing development (2026-10-13)</title>
+<link href="https://towncloud.io/go/new-ipswich-nh/agendas/425/pdf_packet/get_agenda_document_link"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ufactured/Tiny Home Communities: Briefly discussed whether to evaluate park/community provisions for tiny homes or manufactured housing under cluster-style or special exception frameworks. Page 14 D. [Accessory Dwelling Units] (ADUs) • Reviewed structural adjustments regarding attached versus detached ADUs, clarifying pre-existing structures and separation standards. E. Short-Term Rentals &amp; Family Daycares • The board note...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:39546-housing</id>
+<title>New Ipswich Planning board: Housing development (2026-10-09)</title>
+<link href="https://towncloud.io/go/new-ipswich-nh/agendas/416/pdf_packet/get_agenda_document_link"/>
+<updated>2026-10-09T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...e following density controls are intended to carry out the intention of having a greater density in the villages and a lesser density in the rural district. By allowing older homes to be converted to [multi-family housing] at a greater density, the older housing stock will be maintained while providing a much-needed form of housing for the town and the region. Also by allowing multi-family and cluster development to be...</summary>
+</entry>
+</feed>

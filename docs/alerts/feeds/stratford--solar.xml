@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:stratford--solar</id>
+<title>Stratford NH: Solar</title>
+<subtitle>Town meeting records in Stratford on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/stratford--solar.xml"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:92899-solar</id>
+<title>Stratford Select board / council: Solar (2026-10-05)</title>
+<link href="https://stratfordnh.gov/wp-content/uploads/simple-file-list/Minutes/Selectboard-Meeting-Minutes/2026-Selectboard-Minutes/2026_10_05-SB-Minutes.pdf"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ard also discussed obtaining additional electrical quotes and completing minor excavation work for the genera­ tor installation in-house if appropriate. The Board was advised that one inverter at the [solar array] re­ mains out of service. Follow-up with the contractor is ongoing. Suzanne: Data Centers: The Board discussed a proposed warrant article regarding data centers. The proposed article would amend the ...</summary>
+</entry>
+</feed>

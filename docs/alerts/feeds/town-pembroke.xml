@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-pembroke</id>
+<title>Pembroke NH: tracked topics</title>
+<subtitle>Town meeting records in Pembroke on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-pembroke.xml"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142394-solar</id>
+<title>Pembroke Select board / council: Solar (2026-11-18)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_11182026-434"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... and conduit ready before winter and | preferably by December. | Board members commented favorably on the quality of the completed structure. In the same discussion, the Board referenced the upcoming [solar project] at the library and stated that the Energy Committee would follow up with staff regarding bidding, timing, and next steps. IV. New Business Partial Release of San-Ken Bond Phase IV The Board reviewed ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27460-housing</id>
+<title>Pembroke Planning board: Housing development (2026-10-27)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_10272026-417"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...sion Request for Time Limits of Conditional Approval –The Applicant requests a one-year extension of the conditional approval granted on October 28, 2025 (valid until October 28, 2026) to construct a [multifamily development] consisting of two 6-unit buildings, with associated parking and stormwater management, to be served by town water and sewer. The agenda for the meeting will be posted per RSA 91-A:2. Refer to the age...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27469-housing</id>
+<title>Pembroke Planning board: Housing development (2026-10-20)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_10202026-418"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...earings that are continued will not be re-noticed, so please contact the Planning Office if you have interest in a particular application. Attendance Old Business 1. Proposed Zoning Amendment Memo a. [Multifamily Housing] in Commercial Zones b. ADU Water and Sewer Connections c. Family Day Cares in Accessory Structures and Day Care Centers Exempt from Site Plan Review 2. Proposed Wetlands Ordinance Amendments Minutes ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142400-solar</id>
+<title>Pembroke Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Minutes/_10192026-410"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... as pasture for the horses and cattle. James Colorusso, 477 4th Range Rd., stated that he was an abutter to the Gelinas Farm and also owned horses. He was in favor of the easement but asked whether a [solar farm] would be a permitted use. Jeff replied that solar power pertinent to farm use would be permitted but that commercial solar power operations would not. Erin closed the Public Hearing at 8:14 PM Gelina...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27959-housing</id>
+<title>Pembroke Zoning / ZBA: Housing development (2026-09-28)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Minutes/_09282026-402"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...nd meets applicable requirements of the State. The site currently has an approved water supply and sewage system for employees and there will be no change in operations. 9. If the proposed use is for [multi-family dwellings], will it be served by the Town water system and by the Town sewerage system. N/A Pembroke Zoning Board Page 13 of 28 September 28, 2026 Of Adjustment Meeting Minutes (Draft) Mr. Hollis read from the ...</summary>
+</entry>
+</feed>

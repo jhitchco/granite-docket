@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:allenstown--housing</id>
+<title>Allenstown NH: Housing development</title>
+<subtitle>Town meeting records in Allenstown on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/allenstown--housing.xml"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:136382-housing</id>
+<title>Allenstown Planning board: Housing development (2026-10-07)</title>
+<link href="https://www.allenstownnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-372"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...approved by the State Legislature during the 2026 legislative session. Town Initiated Amendment Requests: e Atthe request of the Building Inspector, the Board agreed to propose adding definitions for [Multi-Family Dwelling] and Duplex to the ordinance. e Regarding occupancy of an Accessory Dwelling Unit (ADU), at the request of the Building Inspector, the Board reviewed the option provided in State Law to have one of th...</summary>
+</entry>
+</feed>

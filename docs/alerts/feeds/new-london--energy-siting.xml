@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:new-london--energy-siting</id>
+<title>New London NH: energy siting</title>
+<subtitle>Town meeting records in New London on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/new-london--energy-siting.xml"/>
+<updated>2026-10-29T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:136500-solar</id>
+<title>New London Select board / council: Solar (2026-10-29)</title>
+<link href="https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/BOS_minutes_10-29-26_DRAFT.pdf"/>
+<updated>2026-10-29T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... reserves where money goes in and immediately out, as these are already in the budget and unnecessarily increase the number of warrant articles. • Current potential warrant articles: DPW garage bond, [solar array]. Discussion for other potential articles ongoing with department heads. • Town Meeting Date: at the request of the Selectmen, Ashley explored options for a Saturday town meeting. School gym available...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:46874-solar</id>
+<title>New London Energy committee: Solar (2026-10-07)</title>
+<link href="https://newlondon.nh.gov/vertical/sites/%7B26F9F697-D5BE-4423-95D7-E1EECBB7F549%7D/uploads/2026-10-07_Energy_Committee_Minutes.pdf"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...utes are posted to the town website. Voting on final versions of August and September minutes to be deferred until the November meeting to allow Meredith to review them. 2. Stump Dump &amp; Mountain Road [Solar Project] Updates: Per Ted Vansant (Barrington Solar, as of 9/15/2026): • Stump Dump: Town will have a 200-amp service installed at the Stump Dump location; once the electric meter is installed, the interconne...</summary>
+</entry>
+</feed>

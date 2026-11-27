@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:stratham--solar</id>
+<title>Stratham NH: Solar</title>
+<subtitle>Town meeting records in Stratham on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/stratham--solar.xml"/>
+<updated>2026-11-20T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:148104-solar</id>
+<title>Stratham Zoning / ZBA: Solar (2026-11-20)</title>
+<link href="https://www.strathamnh.gov/Documents/Boards and Committees/Planning Board/Public Hearing Notices/2026.11.20  Planning Board Zoning Amendments_PH_Packet.pdf?t=202611201540100"/>
+<updated>2026-11-20T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...The replacement of siding or roofing materials if the replacement material is of a different material unless the replacement material meets the requirements of Section 3.10.5.b.v. viii. The siting of [ground-mounted solar] energy facilities shall be subject to review and approval unless such facilities meet the criteria outlined below, in which case such facilities shall be exempt from review and approval. 1. Views of ...</summary>
+</entry>
+</feed>

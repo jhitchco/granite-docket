@@ -27,20 +27,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:e918edfe21e1b7219c1e@granite-docket
-DTSTAMP:20261103T101016Z
-DTSTART;TZID=America/New_York:20260927T130000
-DURATION:PT2H
-SUMMARY:Atkinson State Election - Ballot Tabulator Testing
-LOCATION:Atkinson\, NH
-URL:https://www.town-atkinsonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_0
- 9272026-413
-DESCRIPTION:Agenda: State Election - Ballot Tabulator Testing\nhttps://www.
- town-atkinsonnh.com/AgendaCenter/ViewFile/ArchivedAgenda/_09272026-413\n\n
- From the town's posted records via Granite Docket. Check the town's site f
- or changes.
-END:VEVENT
-BEGIN:VEVENT
 UID:1819528ba693b34e5938@granite-docket
 DTSTAMP:20261103T100425Z
 DTSTART;VALUE=DATE:20260929

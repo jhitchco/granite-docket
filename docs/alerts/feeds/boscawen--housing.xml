@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:boscawen--housing</id>
+<title>Boscawen NH: Housing development</title>
+<subtitle>Town meeting records in Boscawen on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/boscawen--housing.xml"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:60530-housing</id>
+<title>Boscawen Planning board: Housing development (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6086/111026-PH-and-Relined-LDRs-Pkg"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...n Meeting, in accordance with the provisions of RSA 674:44 as from time to time amended, the Town of Boscawen Planning Board adopted regulations governing the review of non-residential site plans and [multi-family development] in excess of two (2) units, whether or not such development includes a subdivision or re-subdivision of the site. Section 1.3 Title These regulations shall be known and may be cited as “Land Developm...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136718-housing</id>
+<title>Boscawen Planning board: Housing development (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6742/111026-Pkg-for-Amendments-to-the-Master-Plan"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...es and Canterbury with the highest in the comparison. • Comments from residents indicate a desire for a more diverse housing stock in town that serves the needs of residents in all income brackets. • [Accessory Dwelling Units] often provide affordable housing options for multiple generations living in the same household. In Boscawen, ADUs must be allowed by right in all zoning districts where single-family homes are allowe...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:51323-housing</id>
+<title>Boscawen Planning board: Housing development (2026-10-06)</title>
+<link href="https://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10062026-340"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ton: Ms. Thereault, Wilcox &amp; Barton, explained the 97 project will be located at the corner of Commercial Street and River Road, which is currently a 98 gravel pit. The proposal consists of 2 4-story [apartment buildings] containing 70 units each as 99 market rate rentals located on Commercial Street/River Rd, and 5 buildings containing 5 2-story 100 town homes each with a garage underneath coming off Fisher Ave for a...</summary>
+</entry>
+</feed>

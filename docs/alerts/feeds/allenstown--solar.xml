@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:allenstown--solar</id>
+<title>Allenstown NH: Solar</title>
+<subtitle>Town meeting records in Allenstown on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/allenstown--solar.xml"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:136382-solar</id>
+<title>Allenstown Planning board: Solar (2026-10-07)</title>
+<link href="https://www.allenstownnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-372"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... Planning Board., SUBCOMMITTEE &amp; STAFF UPDATE e None BUILDING INSPECTOR / CODE ENFORCEMENT OFFICER UPDATES e None. OTHER e Michael Frascinella reported on an initiative by Thibault Corp. to install a [Solar Field] Array at their property on Granite St. Details of the proposed array are still being developed and finalized, but the concept is to size the array so that it fully powers all on-site operations with ...</summary>
+</entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:swanzey--housing</id>
+<title>Swanzey NH: Housing development</title>
+<subtitle>Town meeting records in Swanzey on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/swanzey--housing.xml"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:27643-housing</id>
+<title>Swanzey Planning board: Housing development (2026-11-05)</title>
+<link href="https://www.swanzeynh.gov/PB Packet 11 5 2026.pdf?t=202611021208240"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...tes October 22, 2026 Page 3 of 7 o Ames inquires about truck circulation and how they will move to the rear spaces. Tymula answers and demonstrates the circulation.  Ames inquires about the abutting [apartment complex] and fence line, and where the pedestrians from the apartments will walk to get to the convenience store. o Tymula explains that there is more landscaping between the uses to provide more of a buffer ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:26540-housing</id>
+<title>Swanzey Select board / council: Housing development (2026-11-03)</title>
+<link href="https://www.swanzeynh.gov/2026-11-03 BOS Agenda Packet.pdf?t=202611021616050"/>
+<updated>2026-11-03T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...k’s office. Amendment No. 3 Are you in favor of the adoption of Amendment No. 3, as proposed by the Planning Board, to amend Section III-AA of the Swanzey Zoning Ordinance in its entirety, regulating [Accessory Dwelling Units] (ADUs), bringing local regulations into compliance with state statutory standards? Note: This amendment completely updates Section III-AA to align Swanzey’s Accessory Dwelling Unit regulations with c...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:28665-housing</id>
+<title>Swanzey Zoning / ZBA: Housing development (2026-10-19)</title>
+<link href="https://www.swanzeynh.gov/10 19 2026 ZBA Draft Minutes.pdf?t=202610221536210"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... Jessica stated that her point is that it might be taking away an option for a business in the business district. Jay Ward clarified that if this was approved, it is for a single-family dwelling, not [multi-family dwellings]. Town of Swanzey Zoning Board of Adjustment Draft Minutes October 19, 2026 Page 3 of 7 Chair Mulhearn explained the Board’s job to the applicant; that the Board has to determine what hardship might e...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:28661-housing</id>
+<title>Swanzey Zoning / ZBA: Housing development (2026-10-19)</title>
+<link href="https://www.swanzeynh.gov/ZBA Packet 10 19 2026.pdf?t=202610190955130"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ere. Debora Murray added that area kids play in parking lot and she’s worried about their safety. Chair Karasinski said that someone has removed the gate from the fence along the line adjacent to the [apartment building], but it is not the applicant’s responsibility; it’s the parents and the apartment complex owner’s responsibility. Mr. Tymula explained that his client wants to be a good neighbor and is making additi...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27703-housing</id>
+<title>Swanzey Planning board: Housing development (2026-10-08)</title>
+<link href="https://www.swanzeynh.gov/PB Packet 10 8 2026.pdf?t=202610011601460"/>
+<updated>2026-10-08T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...e and legal review Child care Sets clear rules for home-based child care and child care centers Proposed language Consolidated definitions Gives each use one name and one definition Proposed language [Multifamily housing] Allows multifamily housing by right in Village Business I and the Business District Proposed language Agriculture Defines farming by State law and removes extra local review Proposed language Accesso...</summary>
+</entry>
+</feed>

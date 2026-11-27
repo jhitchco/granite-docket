@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:new-ipswich--energy-siting</id>
+<title>New Ipswich NH: energy siting</title>
+<subtitle>Town meeting records in New Ipswich on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/new-ipswich--energy-siting.xml"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:39453-wind</id>
+<title>New Ipswich Planning board: Wind (2026-10-13)</title>
+<link href="https://towncloud.io/go/new-ipswich-nh/agendas/425/pdf_packet/get_agenda_document_link"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...f the town of New Ipswich 5. Agricultural uses 6. Recreational uses 7. Roadside stands 8. Greenhouses 9. Stables and riding schools Page 24 10 10. Summer camps for children 11. Large [wind energy systems], subject to the provisions of Article XIII-2 and to the provisions of the Site Plan Review regulations of the Town of New Ipswich Zoning Section C. MANUFACTURED MOBILE HOMES AND INNOVATIVE HOUSING: 1...</summary>
+</entry>
+</feed>

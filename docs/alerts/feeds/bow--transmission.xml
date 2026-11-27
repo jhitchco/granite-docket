@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:bow--transmission</id>
+<title>Bow NH: Transmission &amp; substations</title>
+<subtitle>Town meeting records in Bow on transmission &amp; substations.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/bow--transmission.xml"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:153198-transmission</id>
+<title>Bow Select board / council: Transmission &amp; substations (2026-12-03)</title>
+<link href="https://bownh.gov/AgendaCenter/ViewFile/Agenda/_12032026-2806?packet=true"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>Moratorium mentioned. ...ly to house computer systems, servers, data storage, networking equipment, high performance computing, cloud computing systems or cryptocurrency mining infrastructure, including all associated onsite [power substations], backup generators, cooling systems and battery storage. The term “data center” does not include incidental server or information technology (IT) equipment areas that are subordinate to a primary com...</summary>
+</entry>
+</feed>

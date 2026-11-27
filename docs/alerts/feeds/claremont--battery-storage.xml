@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:claremont--battery-storage</id>
+<title>Claremont NH: Battery storage</title>
+<subtitle>Town meeting records in Claremont on battery storage.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/claremont--battery-storage.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:444-battery_storage</id>
+<title>Claremont Planning board: Battery storage (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB Meeting Packet Part 1_1793655644.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="battery_storage" label="Battery storage"/>
+<summary>...lar Ordinance can go back to the Planning Board. Mr. Lemieux asked if these panels will be roof top. Mr. Russel asked if there were safety concerns and I don’t know about this. Mr. Russel asked about [battery storage] and its safety with a larger kW. Mr. Putnam said this applicant’s company that will be installing the solar array had done a survey and that has shown what will give the applicant 100% solar. They ne...</summary>
+</entry>
+</feed>

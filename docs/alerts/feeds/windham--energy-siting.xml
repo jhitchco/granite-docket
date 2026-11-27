@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:windham--energy-siting</id>
+<title>Windham NH: energy siting</title>
+<subtitle>Town meeting records in Windham on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/windham--energy-siting.xml"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:147971-data_center</id>
+<title>Windham Planning board: Data centers (2026-10-07)</title>
+<link href="https://windhamnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-3060"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...gton, Selectmen’s liaison- present 18 19 Staff 20 Julie Suech, Assistant Planner 21 22 Announcements / Liaison Reports 23 24 Chairman Cross summarized several email exchanges around flock cameras and [data centers]. There was 25 a Route 111 presentation at the Select Board meeting. Ms. Ballaya stated the GMO Committee met for the 26 first time and will meet again at the end of the month. Staff did work on the s...</summary>
+</entry>
+</feed>

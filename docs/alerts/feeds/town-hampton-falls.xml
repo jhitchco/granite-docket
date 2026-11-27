@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-hampton-falls</id>
+<title>Hampton Falls NH: tracked topics</title>
+<subtitle>Town meeting records in Hampton Falls on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-hampton-falls.xml"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:143022-transmission</id>
+<title>Hampton Falls Planning board: Transmission &amp; substations (2026-11-17)</title>
+<link href="https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-195"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...ts, and encompassing all necessary supporting infrastructure, including but not limited to air handlers, mechanical cooling systems, backup power generators, fuel storage tanks, liquid cooling loops, [electrical substations], and network hardware. Article III, Section 4 – Table of Uses for Hampton Falls Zoning Districts Add to Table of Uses – Under “M Industrial” 9. Data Center N N N N Vegetative Buffer Article III, S...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:143022-housing</id>
+<title>Hampton Falls Planning board: Housing development (2026-11-17)</title>
+<link href="https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-195"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...of the vegetative buffer is appropriate and acceptable.” ARTICLE I – Section 4 - Definitions Amend the following two definitions as indicated: Posted 11/9/26: Town Hall, Library, Post Office Attached [Accessory Dwelling Unit]: An attached accessory dwelling unit means a unit that is within or physically connected attached to the principal dwelling unit. Detached Accessory Dwelling Unit: A detached accessor dwelling unit m...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:143022-data_center</id>
+<title>Hampton Falls Planning board: Data centers (2026-11-17)</title>
+<link href="https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-195"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ovember 17, 2026, at 7:00 PM at the Hampton Falls Town Hall, 1 Drinkwater Road, Hampton Falls, NH. The purpose of the hearing is to propose amendments to the Hampton Falls Zoning Ordinance as listed: [Data Center] Article I, Section 4 - Definitions Add definition: “Data Center” A facility or building used primarily for the storage, management, processing, and transmission of digital data. The use includes the ...</summary>
+</entry>
+</feed>

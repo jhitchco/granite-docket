@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-meredith</id>
+<title>Meredith NH: tracked topics</title>
+<subtitle>Town meeting records in Meredith on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-meredith.xml"/>
+<updated>2026-11-24T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142429-housing</id>
+<title>Meredith Zoning / ZBA: Housing development (2026-11-24)</title>
+<link href="https://www.meredithnh.gov/AgendaCenter/ViewFile/Agenda/_11242026-1439"/>
+<updated>2026-11-24T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...nd floodproofing of all structures constructed within a floodplain. 2. ARTICLE III – General Provisions, Section N. Accessory Apartments Proposed amendments to comply with revisions to RSA 674:71-73, [Accessory Dwelling Units] (ADUs). Changes include allowing standalone accessory apartments, removing distance restrictions between an accessory apartment and the primary dwelling, and revising the maximum permitted floor area...</summary>
+</entry>
+</feed>

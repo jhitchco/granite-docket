@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:litchfield--solar</id>
+<title>Litchfield NH: Solar</title>
+<subtitle>Town meeting records in Litchfield on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/litchfield--solar.xml"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:22406-solar</id>
+<title>Litchfield Select board / council: Solar (2026-10-26)</title>
+<link href="https://litchfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10262026-974"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ing to the Board of Selectmen for final consideration. Mr. Perry explained that the discussion followed a question about an invoice from the Town’s former engineering firm for work on the Morgan Road [solar array] project. He supported retaining the Town’s escrow system as providing greater protection. Members agreed that escrow accounts were preferable to direct billing and noted that the Town could withhold ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:23324-solar</id>
+<title>Litchfield Planning board: Solar (2026-10-06)</title>
+<link href="https://litchfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-962"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...Reilly​ ​ (Member) f.​ John Brunelle​ ​ (Selectmen’s Representative) C.​ Public Input Related to Non-Agenda Items 7:04 p.m. a.​ No one came forward. Public Input closed at 7:05 p.m. II.​ Business A.​ [Commercial Solar] Array – Site Plan Application A Site Plan application by Continental Paving, Inc Tax Map 19 &amp; 21, Lot 338, for a proposed commercial solar array. The Litchfield site will be 3.7 acres. The abutting L...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:23321-solar</id>
+<title>Litchfield Planning board: Solar (2026-10-06)</title>
+<link href="https://litchfieldnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-962"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...y Way, Litchfield, NH​ Pledge of Allegiance Roll Call of Members Present Public Input on non-agenda items 1.​ A Site Plan application by Continental Paving, Inc Tax Map 19 &amp; 21 Lot 338 for a proposed [commercial solar] array. The Litchfield site will be 3.7 acres. The abutting Londonderry solar site will be 48.8 acres which is reviewed and approved by the Town of Londonderry. 2.​ Liberty Utilities application to th...</summary>
+</entry>
+</feed>

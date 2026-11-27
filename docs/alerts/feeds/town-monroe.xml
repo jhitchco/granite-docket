@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-monroe</id>
+<title>Monroe NH: tracked topics</title>
+<subtitle>Town meeting records in Monroe on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-monroe.xml"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:150688-wind</id>
+<title>Monroe Zoning / ZBA: Wind (2026-10-22)</title>
+<link href="https://monroenh.org/wp-content/uploads/Zoning-Amendment-10222026.pdf"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...re As amended March 8, 2022 Page 4 h. Renewable energy facilities for the purpose of providing electricity, heating or cooling when not primarily for on-site needs, including [small wind energy] systems in accordance with RSA 674:62-66. i. Multi-family housing for the purposes of providing Workforce Housing in accordance with RSA 674:58-61. j. Other uses that are consistent with the resident...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:150688-housing</id>
+<title>Monroe Zoning / ZBA: Housing development (2026-10-22)</title>
+<link href="https://monroenh.org/wp-content/uploads/Zoning-Amendment-10222026.pdf"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...residential uses normally required to provide a balanced and attractive village area. The following uses will be permitted in Zone A: a. Single family dwellings, single family dwellings with attached [accessory dwelling units], and two-family dwellings b. Forestry b.c. Growing and harvesting of crops and horticultural commodities c.d. Home businesses d.e. Schools e.f. Churches f.g. Community buildings g.h. Lodges, halls h....</summary>
+</entry>
+</feed>

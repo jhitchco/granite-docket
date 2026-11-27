@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:littleton--data-center</id>
+<title>Littleton NH: Data centers</title>
+<subtitle>Town meeting records in Littleton on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/littleton--data-center.xml"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:38066-data_center</id>
+<title>Littleton Select board / council: Data centers (2026-10-26)</title>
+<link href="https://www.townoflittleton.org/AgendaCenter/ViewFile/Minutes/_10262026-213"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... been received, and that a report and contractor for fixes were expected that week. Manager Brown noted there will be a two-part repair approach. Massimilla asked about the process for establishing a [data center] in Littleton. Hogan explained the planning board was researching the matter and that the commissioners passed a large load rate schedule to address distribution system impacts. Cherian explained Litt...</summary>
+</entry>
+</feed>

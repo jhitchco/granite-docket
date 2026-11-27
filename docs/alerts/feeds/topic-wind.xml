@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:topic-wind</id>
+<title>Wind: New Hampshire town meetings</title>
+<subtitle>Town meeting records that mention wind with land-use context.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/topic-wind.xml"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:60530-wind</id>
+<title>Boscawen Planning board: Wind (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6086/111026-PH-and-Relined-LDRs-Pkg"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...erred without subdivision approval. 5. The Town of Boscawen may not merge preexisting subdivided lots or parcels except upon the consent of the owner. Section 2.9 Permits for Renewable Energy Systems [Small Wind Energy] Systems Small wind energy systems and met towers are an accessory use permitted in all zoning districts where structures of any sort are allowed. No small wind energy system shall be erected, constru...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:150688-wind</id>
+<title>Monroe Zoning / ZBA: Wind (2026-10-22)</title>
+<link href="https://monroenh.org/wp-content/uploads/Zoning-Amendment-10222026.pdf"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...re As amended March 8, 2022 Page 4 h. Renewable energy facilities for the purpose of providing electricity, heating or cooling when not primarily for on-site needs, including [small wind energy] systems in accordance with RSA 674:62-66. i. Multi-family housing for the purposes of providing Workforce Housing in accordance with RSA 674:58-61. j. Other uses that are consistent with the resident...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:39453-wind</id>
+<title>New Ipswich Planning board: Wind (2026-10-13)</title>
+<link href="https://towncloud.io/go/new-ipswich-nh/agendas/425/pdf_packet/get_agenda_document_link"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...f the town of New Ipswich 5. Agricultural uses 6. Recreational uses 7. Roadside stands 8. Greenhouses 9. Stables and riding schools Page 24 10 10. Summer camps for children 11. Large [wind energy systems], subject to the provisions of Article XIII-2 and to the provisions of the Site Plan Review regulations of the Town of New Ipswich Zoning Section C. MANUFACTURED MOBILE HOMES AND INNOVATIVE HOUSING: 1...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:91805-wind</id>
+<title>Richmond Planning board: Wind (2026-10-06)</title>
+<link href="http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/Planning_Board_Final_Minutes_10-6_Planning_Board_Minutes.pdf"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...ll distribute a rough outline of suggested topics and chapter via AI using the 2010 master Plan, Recommendations Review Committee results, Town Survey results and surrounding town’s energy, solar and [wind ordinances]. The board will review and comment for next MP meeting. 5) Other a) Hold for Ordinance Vote Hearing Remove Article 1204 Occupancy Permits and 1204.1 in its entirety as these permits are no longer app...</summary>
+</entry>
+</feed>

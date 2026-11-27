@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:topic-battery-storage</id>
+<title>Battery storage: New Hampshire town meetings</title>
+<subtitle>Town meeting records that mention battery storage with land-use context.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/topic-battery-storage.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:444-battery_storage</id>
+<title>Claremont Planning board: Battery storage (2026-11-09)</title>
+<link href="https://www.claremontnh.com/corecode/uploads/document6/uploaded_pdfs/corecode/11 9 26 PB Meeting Packet Part 1_1793655644.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="battery_storage" label="Battery storage"/>
+<summary>...lar Ordinance can go back to the Planning Board. Mr. Lemieux asked if these panels will be roof top. Mr. Russel asked if there were safety concerns and I don’t know about this. Mr. Russel asked about [battery storage] and its safety with a larger kW. Mr. Putnam said this applicant’s company that will be installing the solar array had done a survey and that has shown what will give the applicant 100% solar. They ne...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136014-battery_storage</id>
+<title>Littleton Select board / council: Battery storage (2026-11-09)</title>
+<link href="https://www.townoflittleton.org/DocumentCenter/View/1288"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="battery_storage" label="Battery storage"/>
+<summary>...nt of Silence: Approval of Minutes: 1. 10/21/2026 - Board Budget Work Session 2. 10/26/2026 - Board Meeting Business: 1. Public Hearing – Manns Hill Culvert Project $1,907,812.50 - Director Oliver 2. [Battery Storage] Project Report - LWL 3. Proposed Lot Line Adjustment between the Town &amp; Winn Properties - Jeff Winn Town Manager Report: 1. 2026 Tax Rate 2. C-Pacer Program 3. 2027 Warrant Article Discussions Select...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36393-battery_storage</id>
+<title>Wolfeboro Select board / council: Battery storage (2026-11-06)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_11062026-442"/>
+<updated>2026-11-06T12:00:00Z</updated>
+<category term="battery_storage" label="Battery storage"/>
+<summary>...r Room, Wolfeboro Public Library 1. Call to Order 2. Accept minutes from meeting 9/21/26 3. Old Business a. MED Electric Contract status update b. EVSE grant application update c. Warrant article for [battery storage] project d. Library Solar updates 4. New Business a. Free small utility cybersecurity program opportunity 5. Next Meeting ...</summary>
+</entry>
+</feed>

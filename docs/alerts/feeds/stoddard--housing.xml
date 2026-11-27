@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:stoddard--housing</id>
+<title>Stoddard NH: Housing development</title>
+<subtitle>Town meeting records in Stoddard on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/stoddard--housing.xml"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:106767-housing</id>
+<title>Stoddard Select board / council: Housing development (2026-10-14)</title>
+<link href="https://stoddardnh.org/AgendaCenter/ViewFile/Minutes/_10142026-355"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...: A permit for a 45-foot long, 12-inch-wide wall was approved. The project meets all setbacks, is not near wetlands.  State Law Changes (ADUs): An email update from the state clarified new rules for [Accessory Dwelling Units] (ADUs). The definition of &quot;attached&quot; was updated, and pre- 2005 nonconforming structures can now be converted to ADUs by right. Additionally, ADU-related permits can extend beyond one year.  Activit...</summary>
+</entry>
+</feed>

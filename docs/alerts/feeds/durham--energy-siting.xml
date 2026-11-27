@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:durham--energy-siting</id>
+<title>Durham NH: energy siting</title>
+<subtitle>Town meeting records in Durham on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/durham--energy-siting.xml"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:3307-solar</id>
+<title>Durham Zoning / ZBA: Solar (2026-10-19)</title>
+<link href="https://www.durhamnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-416?packet=true"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... s Corner (CC) Office Research - Route 108 (OR) Mixed Use and Office Research (MUDOR) Office Research Light Industry (ORLI) Durham Business Park (DBP) Planned Unit Dev. Overlay District (PUDOD) Small [Utility-Scale solar] energy system – principal use (See Article XX) • Building-mounted X X X X P P P P P P P P P P P • Freestanding X X X X X X X X X X P P P P X Large Utility...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:17123-transmission</id>
+<title>Durham Zoning / ZBA: Transmission &amp; substations (2026-10-19)</title>
+<link href="https://www.durhamnh.gov/DocumentCenter/View/20671/Zoning-Ordinance-October-19-2026-with-Table-of-Contents"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...ce facility shall not exceed 12 feet in width. A gravel or crushed stone surface is encouraged. H. Antenna Types - Any antenna array placed upon an existing or proposed ground mount, utility pole, or [transmission line] mount shall have a diameter of no more than 4 feet, exclusive of the diameter of the mount. A larger diameter antenna array may be permitted after a finding by the Planning Board that the visual impa...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:17123-solar</id>
+<title>Durham Zoning / ZBA: Solar (2026-10-19)</title>
+<link href="https://www.durhamnh.gov/DocumentCenter/View/20671/Zoning-Ordinance-October-19-2026-with-Table-of-Contents"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... Soil Scientist in accordance with the Society of Soil Scientists of Northern New England (SSSNNE) Special Publication - No.1, High Intensity Soil Maps for New Hampshire (www.sssnne.org), as amended. [SOLAR ENERGY SYSTEMS] – Specific definitions pertinent to solar energy systems follow. Building-Mounted Solar Energy System − A solar energy system attached to and completely supported by a building that does not extend m...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:2431-data_center</id>
+<title>Durham Planning board: Data centers (2026-10-14)</title>
+<link href="https://www.durhamnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-420"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...he does not want 31 to go into 175:107 Conservation Subdivisions now. Article XX. Standards for specific uses, page 32 95, rewritten to be a little more flexible. Page 96 has new number 6 referencing [data centers]; 33 Councilor Lehrman said this does not need to be put in and only confuses things; need to come 34 up with a definition for a hyper-scale data center and define it as a separate issue and Board 35 ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:134031-data_center</id>
+<title>Durham Energy committee: Data centers (2026-10-06)</title>
+<link href="https://www.durhamnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-435"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...e submitted information about Durham’s EV Charging Stations. There was further discussion about the Sustainability Newsletter and the material to be provided by the Energy Committee in the future. b. [Data Centers] Andrew Coppens believes it is unlikely Dr. Stephen Bird could attend an Energy Committee meeting to discuss Data Centers at this time due to his busy schedule and responsibilities at the Carsey Schoo...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:16146-solar</id>
+<title>Durham Zoning / ZBA: Solar (2026-09-30)</title>
+<link href="https://www.durhamnh.gov/DocumentCenter/View/20559/Proposal-for-September-30-2026-Discussion"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...versity of all flora and fauna. 175-62. Prohibited Uses in the WCOD. Any use that is not identified as a permitted use in 175-60 or a conditional use in 175-61 shall be a prohibited use. Freestanding [solar energy systems] are prohibited in the WCOD. Notwithstanding this limitation, the erection of a structure or septic system on an existing lot within the Wetland Conservation Overlay District may be permitted by speci...</summary>
+</entry>
+</feed>

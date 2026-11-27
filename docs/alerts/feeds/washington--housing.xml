@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:washington--housing</id>
+<title>Washington NH: Housing development</title>
+<subtitle>Town meeting records in Washington on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/washington--housing.xml"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:85148-housing</id>
+<title>Washington Planning board: Housing development (2026-10-27)</title>
+<link href="https://www.washington.nh.gov/AgendaCenter/ViewFile/Minutes/_10272026-241"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ots. Piatt said his 2.2-acre lot was created in 2009. Kluk said that a lot line adjustment created the lot in 2008. Kluk asked if this is being proposed only for minor subdivisions. Piatt asked about [cluster subdivisions]. Kluk answered that these can be ½ or one acre lots with the balance held as open space. Schwartz said that there isn’t a problem we are trying to solve here. Peel doesn’t want to tackle this now. Kl...</summary>
+</entry>
+</feed>

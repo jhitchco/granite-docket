@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:pembroke--energy-siting</id>
+<title>Pembroke NH: energy siting</title>
+<subtitle>Town meeting records in Pembroke on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/pembroke--energy-siting.xml"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142394-solar</id>
+<title>Pembroke Select board / council: Solar (2026-11-18)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_11182026-434"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... and conduit ready before winter and | preferably by December. | Board members commented favorably on the quality of the completed structure. In the same discussion, the Board referenced the upcoming [solar project] at the library and stated that the Energy Committee would follow up with staff regarding bidding, timing, and next steps. IV. New Business Partial Release of San-Ken Bond Phase IV The Board reviewed ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142400-solar</id>
+<title>Pembroke Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Minutes/_10192026-410"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... as pasture for the horses and cattle. James Colorusso, 477 4th Range Rd., stated that he was an abutter to the Gelinas Farm and also owned horses. He was in favor of the easement but asked whether a [solar farm] would be a permitted use. Jeff replied that solar power pertinent to farm use would be permitted but that commercial solar power operations would not. Erin closed the Public Hearing at 8:14 PM Gelina...</summary>
+</entry>
+</feed>

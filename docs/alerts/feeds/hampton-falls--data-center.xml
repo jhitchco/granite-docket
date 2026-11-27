@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:hampton-falls--data-center</id>
+<title>Hampton Falls NH: Data centers</title>
+<subtitle>Town meeting records in Hampton Falls on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/hampton-falls--data-center.xml"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:143022-data_center</id>
+<title>Hampton Falls Planning board: Data centers (2026-11-17)</title>
+<link href="https://www.hamptonfalls.org/AgendaCenter/ViewFile/Agenda/_11172026-195"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ovember 17, 2026, at 7:00 PM at the Hampton Falls Town Hall, 1 Drinkwater Road, Hampton Falls, NH. The purpose of the hearing is to propose amendments to the Hampton Falls Zoning Ordinance as listed: [Data Center] Article I, Section 4 - Definitions Add definition: “Data Center” A facility or building used primarily for the storage, management, processing, and transmission of digital data. The use includes the ...</summary>
+</entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:berlin--housing</id>
+<title>Berlin NH: Housing development</title>
+<subtitle>Town meeting records in Berlin on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/berlin--housing.xml"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:22713-housing</id>
+<title>Berlin Planning board: Housing development (2026-10-06)</title>
+<link href="https://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-198"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...e 2 of 6 I ask you again to please contemplate some provisions in the proposed Zoning Code which could allow an unintended result. Please consider the combination of, 1) the additional allowances for [accessory dwelling units] on all residential lots, 2) the allowance of ‘manufactured housing’ to be used on single-family lots, and 3) the absence of any limitation on short-term vacation rentals. I believe I have demonstrate...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25011-housing</id>
+<title>Berlin Planning board: Housing development (2026-09-30)</title>
+<link href="https://www.berlinnh.gov/DocumentCenter/View/4025/Final-Draft-Berlin-Table-of-Uses-09-30-2026"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...d by conditional use permit; N=prohibited. 6 RR JG RS RM DT BG IB Ref. Uses accessory to industrial activities including offices, automobile repair facilities, and living quarters N N N N N N Y [Accessory dwelling unit] Y Y Y Y N SE SE 17-3.4(B) ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25008-housing</id>
+<title>Berlin Zoning / ZBA: Housing development (2026-09-30)</title>
+<link href="https://www.berlinnh.gov/DocumentCenter/View/4026/Final-Draft-Berlin-Zoning-Ordinance-09-30-2026"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...acilities; h. Relocation of the driveway or change in driveway configuration; and i. Other conditions attached to specific uses permitted by special exception under the provisions of this chapter. B. [Accessory Dwelling Units]. Accessory Dwelling Units (ADU) are permitted as of right on any lot with a detached single-family dwelling, subject to the following requirements: 1. A maximum of one ADU per lot is permitted. 2. Th...</summary>
+</entry>
+</feed>

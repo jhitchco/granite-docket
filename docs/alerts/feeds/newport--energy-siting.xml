@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:newport--energy-siting</id>
+<title>Newport NH: energy siting</title>
+<subtitle>Town meeting records in Newport on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/newport--energy-siting.xml"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:35860-data_center</id>
+<title>Newport Select board / council: Data centers (2026-10-14)</title>
+<link href="https://newportnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-233"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ess Lot 110-007-A.Boutin Pinnacle Overlook-A.Boutin Raymond Holden Easement-J.Hoppock Review of Action Items 3) Review Revised Draft of Rules of Procedure New Business: 1) Priorities list for 2027 2) [Data Center] Zoning-R.Brunette 3) Boundary Marking-Town Forest and/or Maple Street Lot-L.Schissel 4) Other New Business Member Paul Baird’s status NHACC registration/tuition discussion Joint Land Use Boards Meeti...</summary>
+</entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:canterbury--solar</id>
+<title>Canterbury NH: Solar</title>
+<subtitle>Town meeting records in Canterbury on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/canterbury--solar.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:152228-solar</id>
+<title>Canterbury Energy committee: Solar (2026-11-09)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-09-Energy-Committee-Agenda.docx"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... Battery Storage - Beth B report and Beth M on January event Eversource Time-of-Day rates Weatherize Concord Subcommittee for current town [solar installation] maintenance Community Power updates PlugIn Solar document to share Information on heat pumps/power strips - Keith ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:66526-solar</id>
+<title>Canterbury Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board-of-Selectmen-Minutes-DRAFT.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... like 189 the issue solved, but he wasn’t sure swapping the entry/exit would work because the busses 190 might not be able to make a right turn out of the current entrance. 191 3. Energy Committee re [Solar Project] Capital Reserve Fund (CRF) 192 a. Beth McGuinn attended to explain the EC’s proposal for a solar project CRF. 193 b. Beth McGuinn explained that the EC felt there was substantial support in town for ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:66521-solar</id>
+<title>Canterbury Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board-of-Selectmen-Agenda.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ads i. Police 1. CES Traffic Issues 2. Highway Safety Grant 3. Special Detail Pay Update ii. Fire 1. Bid for Engine 3 iii. Highway 1. Pickup Salvage 2. Water Truck Salvage b. 5:30 Energy Committee re [Solar Project] CRF 3. New Business a. Tricentennial Flag Proposal 4. Old Business a. C-PACER b. CIP 5. Selectboard Representative Reports The Selectmen have the authority to add/delete any item on this agenda and c...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136748-solar</id>
+<title>Canterbury Select board / council: Solar (2026-10-19)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-19-Board-of-Selectmen-Minutes.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... Edgar would like the issue solved, but he wasn’t sure swapping the entry/exit would work because the busses might not be able to make a right turn out of the current entrance. 3. Energy Committee re [Solar Project] Capital Reserve Fund (CRF) a. Beth McGuinn attended to explain the EC’s proposal for a solar project CRF. b. Beth McGuinn explained that the EC felt there was substantial support in town for solar pr...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:109325-solar</id>
+<title>Canterbury Energy committee: Solar (2026-10-12)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-12-Energy-Committee-Agenda.pdf"/>
+<updated>2026-10-12T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...orkshops - Battery Storage b. Municipal Building audit c. Municipal Solar d. WindowDressers update e. Solar friendly zoning f. C-Pacer g. Eversource Time-of-Day rates h. Subcommittee for current town [solar installation] maintenance i. Community Power 6. New Business a. PlugIn Solar b. Budget request The Committee has the authority to add/delete any item on this agenda and conduct the meeting as they see fit. ...</summary>
+</entry>
+</feed>

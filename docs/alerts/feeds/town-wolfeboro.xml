@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-wolfeboro</id>
+<title>Wolfeboro NH: tracked topics</title>
+<subtitle>Town meeting records in Wolfeboro on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-wolfeboro.xml"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142479-housing</id>
+<title>Wolfeboro Select board / council: Housing development (2026-11-12)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_11122026-447"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... Whitten Neck Rd, Map 191, Lot 56; Zone: Residential Applicant: Jeffrey Greenfield &amp; Caroline Long Owner: Whitten Farm Trust Action: Provide comment and recommendations Item 2 Proposal: Construct two [multifamily buildings] with five units in each building (10 units total) Location: 15 Willow St., Map 204, Lot 17; Zone: Wolfeboro Falls Limited Business District Applicant: Lifetime Green Homes, LLC Owner: Lifetime Green ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36599-housing</id>
+<title>Wolfeboro Planning board: Housing development (2026-11-10)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_11102026-427"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ld a hearing on the proposals by the CIP Committee For the 10-year CIP Plan. Action: Public Hearing, Vote on Acceptance 7. Other Business Item 1: Ordinance preparation for the 2027 Warrant, Batch 2 • [Accessory Dwelling Unit] • Demolition Delay • Nonconforming Structures and Structure Definition (General Discussion) 8. Adjournment ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142464-housing</id>
+<title>Wolfeboro Planning board: Housing development (2026-11-10)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Minutes/_11102026-427"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...t January deadlines. The Board and Heritage Commission members agreed to continue refining the ordinance. II. Ordinance preparation for the 2027 Warrant, Batch 2 Mr. Hinderliter provided an update on [accessory dwelling units] (ADUs) and other 2027 ordinances, stating the ADU ordinance was not ready but would be presented on November 24. He noted he had backed away from redefining nonconforming structures as the issue requ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36393-battery_storage</id>
+<title>Wolfeboro Select board / council: Battery storage (2026-11-06)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Agenda/_11062026-442"/>
+<updated>2026-11-06T12:00:00Z</updated>
+<category term="battery_storage" label="Battery storage"/>
+<summary>...r Room, Wolfeboro Public Library 1. Call to Order 2. Accept minutes from meeting 9/21/26 3. Old Business a. MED Electric Contract status update b. EVSE grant application update c. Warrant article for [battery storage] project d. Library Solar updates 4. New Business a. Free small utility cybersecurity program opportunity 5. Next Meeting ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:135665-data_center</id>
+<title>Wolfeboro Select board / council: Data centers (2026-10-19)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Minutes/_10192026-419"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... location, then get Matt Bishop’s opinion on an appropriate 249 species. 250 251 B. Peter Foley used ChatGPT to review our ordinances. Wolfeboro doesn’t have any ordinance that 252 speaks directly to [data centers], and because they aren’t addressed, potential developers could 253 argue that they are not prohibited. It would all come down to specific location, and it will be the 254 Planning Board’s responsibil...</summary>
+</entry>
+</feed>

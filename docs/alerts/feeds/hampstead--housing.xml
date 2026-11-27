@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:hampstead--housing</id>
+<title>Hampstead NH: Housing development</title>
+<subtitle>Town meeting records in Hampstead on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/hampstead--housing.xml"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:141885-housing</id>
+<title>Hampstead Planning board: Housing development (2026-10-19)</title>
+<link href="https://www.hampsteadnh.us/AgendaCenter/ViewFile/Minutes/_10192026-511"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...r brought forward a proposal that he feels will help the town moderate expansion. Weimar is proposing to add wording under the &quot;size&quot; section of residential A, recreation B, mobile D, and elderly and [multi-family housing]. Following is the wording: &quot;In no event shall the average gross area be less than 22,000 square feet per building unit. For the purpose of this ordinance, building unit shall be defined as : a single...</summary>
+</entry>
+</feed>

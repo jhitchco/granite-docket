@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:freedom--solar</id>
+<title>Freedom NH: Solar</title>
+<subtitle>Town meeting records in Freedom on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/freedom--solar.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:141121-solar</id>
+<title>Freedom Select board / council: Solar (2026-11-09)</title>
+<link href="https://townoffreedomnh.gov/wp-content/uploads/2026/11/09.28.2026-BOS-Minutes.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...at the former rates. The group noted that diesel costs remain uncertain, so the adjustment was treated as a temporary measure. Stacy will put a copy of the fuel rates in Scott’s box. Kearsarge Energy [Solar Project] Tax Agreement: Andrew Bernstein, a representative of Kearsarge Energy, presented a proposed 20-year tax agreement for a 4.99-megawatt AC solar array. Before deciding whether to advance the proposal, ...</summary>
+</entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-loudon</id>
+<title>Loudon NH: tracked topics</title>
+<subtitle>Town meeting records in Loudon on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-loudon.xml"/>
+<updated>2026-09-29T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:99609-housing</id>
+<title>Loudon Planning board: Housing development (2026-09-29)</title>
+<link href="https://www.loudonnh.org/AgendaCenter/ViewFile/Minutes/_09292026-219"/>
+<updated>2026-09-29T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ide units. Members discussed whether the term “modular home” needed to be included in the definitions section. The definition needs to include standards for which they are built. 2. Members discussed [cluster developments] and the concepts of compounds with multiple houses on the same lot. There was no consensus about whether this needed to be changed. 3. Members discussed the law change that required doorways between ...</summary>
+</entry>
+</feed>

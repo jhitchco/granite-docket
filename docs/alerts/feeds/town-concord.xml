@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-concord</id>
+<title>Concord NH: tracked topics</title>
+<subtitle>Town meeting records in Concord on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-concord.xml"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:18000-data_center</id>
+<title>Concord Select board / council: Data centers (2026-10-14)</title>
+<link href="https://concordnh.gov/Archive.aspx?AMID=56&amp;Type=Recent"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...re the Commission in April to discuss the restoration plan for the buffer in conjunction with a flexible development of industrial and warehouse storage. The developer has since decided to do a micro [data center]. The center of the property at the end of Locke Rd there is an existing gravel road that goes onto the adjacent property that leads for a cell tower. This is on undeveloped land. The owner of the pro...</summary>
+</entry>
+</feed>

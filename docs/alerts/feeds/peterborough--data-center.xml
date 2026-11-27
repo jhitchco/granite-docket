@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:peterborough--data-center</id>
+<title>Peterborough NH: Data centers</title>
+<subtitle>Town meeting records in Peterborough on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/peterborough--data-center.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:135598-data_center</id>
+<title>Peterborough Planning board: Data centers (2026-11-09)</title>
+<link href="https://www.peterboroughnh.gov/PB Packet 11-9-26.pdf?t=202611041513560"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ps, and new FEMA-required definitions and regulatory language. 3. Zoning Workshop — Discussion includes: a. Updating Parking Minimums to meet State standards b. Definition of ‘Frontage’ c. Regulating [Data Centers] in Peterborough 4. Minutes of 10/14 and 10/26 5. Other Business 6. Adjourn Copies ofthe proposed, amended Zoning Ordinance, code, and information on zoning work are available for public inspection in...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36265-data_center</id>
+<title>Peterborough Planning board: Data centers (2026-10-26)</title>
+<link href="https://www.peterboroughnh.gov/PB Packet 10-26-26.pdf?t=202610191111280"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ntroductions 2. Zoning Workshop – Discussion includes: a. Rescind §245-28 Phased Development and replace it with an overhauled, updated version b. Update to §245-13 Floodplain Ordinance c. Regulating [Data Centers] in Peterborough d. Discussion of §224 Manufactured House Parks 3. Other Business 4. Adjourn Anyone who needs assistance attending this meeting should contact the Office at (603) 924-8000 x 104 one we...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36278-data_center</id>
+<title>Peterborough Planning board: Data centers (2026-10-14)</title>
+<link href="https://www.peterboroughnh.gov/PB Packet 10-14-26 - Redacted.pdf?t=202610071352180"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...snow and wind load requirements, and educating voters to address historical stigmas surrounding manufactured housing. Vice-Chair McGill questioned whether the Town would pursue regulations addressing [AI data] centers this year, noting that the topic had been brought forward in prior years by previous Board members. He asked whether this would be addressed as part of the Zoning Ordinance. Miller reported o...</summary>
+</entry>
+</feed>

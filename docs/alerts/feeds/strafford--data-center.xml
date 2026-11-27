@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:strafford--data-center</id>
+<title>Strafford NH: Data centers</title>
+<subtitle>Town meeting records in Strafford on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/strafford--data-center.xml"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:48847-data_center</id>
+<title>Strafford Planning board: Data centers (2026-10-01)</title>
+<link href="https://strafford.nh.gov/wp-content/uploads/2026/09/PB20261001Agenda.pdf"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ons may be scheduled up to two days in advance of the meeting. 5. Board Discussion • Discuss revision of regulation book, including updates regarding state legislation. • Discuss next steps regarding [data centers]. • Discuss other business not anticipated by the board. 6. Meeting Minutes &amp; Board Updates September 10, 2026 – Approval of Minutes The November Planning Board meeting will be held on Thursday, Novem...</summary>
+</entry>
+</feed>

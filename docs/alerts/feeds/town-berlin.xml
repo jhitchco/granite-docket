@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-berlin</id>
+<title>Berlin NH: tracked topics</title>
+<subtitle>Town meeting records in Berlin on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-berlin.xml"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:22713-housing</id>
+<title>Berlin Planning board: Housing development (2026-10-06)</title>
+<link href="https://www.berlinnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-198"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...e 2 of 6 I ask you again to please contemplate some provisions in the proposed Zoning Code which could allow an unintended result. Please consider the combination of, 1) the additional allowances for [accessory dwelling units] on all residential lots, 2) the allowance of ‘manufactured housing’ to be used on single-family lots, and 3) the absence of any limitation on short-term vacation rentals. I believe I have demonstrate...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25011-housing</id>
+<title>Berlin Planning board: Housing development (2026-09-30)</title>
+<link href="https://www.berlinnh.gov/DocumentCenter/View/4025/Final-Draft-Berlin-Table-of-Uses-09-30-2026"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...d by conditional use permit; N=prohibited. 6 RR JG RS RM DT BG IB Ref. Uses accessory to industrial activities including offices, automobile repair facilities, and living quarters N N N N N N Y [Accessory dwelling unit] Y Y Y Y N SE SE 17-3.4(B) ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25008-transmission</id>
+<title>Berlin Zoning / ZBA: Transmission &amp; substations (2026-09-30)</title>
+<link href="https://www.berlinnh.gov/DocumentCenter/View/4026/Final-Draft-Berlin-Zoning-Ordinance-09-30-2026"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...ortunities for the siting of Energy Projects; 2. All Energy Projects must meet the performance standards as stated in Section 17-6.3. 3. All Energy Projects shall be sited to maximize use of existing [transmission lines] and minimize the creation of new transmission lines. If new lines are required, the Applicant shall provide to the Planning Board a report from a qualified engineer stating the necessity of an upgrad...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25008-solar</id>
+<title>Berlin Zoning / ZBA: Solar (2026-09-30)</title>
+<link href="https://www.berlinnh.gov/DocumentCenter/View/4026/Final-Draft-Berlin-Zoning-Ordinance-09-30-2026"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...SLOPE: The deviation of a surface from the horizontal, usually expressed in percent or degrees. Slope percent is computed by dividing the vertical distance by the horizontal distance times 100. SOLAR [PHOTOVOLTAIC] (PV) SYSTEM: A solar collection system consisting of one or more building systems, solar photovoltaic cells, panels or arrays and solar related equipment that rely upon solar radiation as an energy s...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25008-housing</id>
+<title>Berlin Zoning / ZBA: Housing development (2026-09-30)</title>
+<link href="https://www.berlinnh.gov/DocumentCenter/View/4026/Final-Draft-Berlin-Zoning-Ordinance-09-30-2026"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...acilities; h. Relocation of the driveway or change in driveway configuration; and i. Other conditions attached to specific uses permitted by special exception under the provisions of this chapter. B. [Accessory Dwelling Units]. Accessory Dwelling Units (ADU) are permitted as of right on any lot with a detached single-family dwelling, subject to the following requirements: 1. A maximum of one ADU per lot is permitted. 2. Th...</summary>
+</entry>
+</feed>

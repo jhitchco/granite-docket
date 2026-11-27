@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:acworth--energy-siting</id>
+<title>Acworth NH: energy siting</title>
+<subtitle>Town meeting records in Acworth on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/acworth--energy-siting.xml"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:150906-data_center</id>
+<title>Acworth Select board / council: Data centers (2026-11-02)</title>
+<link href="https://www.acworthnh.net/_files/ugd/a327e9_ea0a871bad4244948296fdcbce35b61e.pdf"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... the draft for some of the changes in ZO. Steve said the changes mainly address the loophole in the special exception language so the ZBA can’t be backed into a corner. This will address requests for [data centers] and large developments. Also, there will be language changes for ADU and Class VI Roads. CONSERVATION COMMISSION: None PUBLIC: John Mattson spoke on dock de-icers at the Lake. Per RSA 270:34 individu...</summary>
+</entry>
+</feed>

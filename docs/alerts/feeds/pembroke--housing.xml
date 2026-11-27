@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:pembroke--housing</id>
+<title>Pembroke NH: Housing development</title>
+<subtitle>Town meeting records in Pembroke on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/pembroke--housing.xml"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:27460-housing</id>
+<title>Pembroke Planning board: Housing development (2026-10-27)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_10272026-417"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...sion Request for Time Limits of Conditional Approval –The Applicant requests a one-year extension of the conditional approval granted on October 28, 2025 (valid until October 28, 2026) to construct a [multifamily development] consisting of two 6-unit buildings, with associated parking and stormwater management, to be served by town water and sewer. The agenda for the meeting will be posted per RSA 91-A:2. Refer to the age...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27469-housing</id>
+<title>Pembroke Planning board: Housing development (2026-10-20)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Agenda/_10202026-418"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...earings that are continued will not be re-noticed, so please contact the Planning Office if you have interest in a particular application. Attendance Old Business 1. Proposed Zoning Amendment Memo a. [Multifamily Housing] in Commercial Zones b. ADU Water and Sewer Connections c. Family Day Cares in Accessory Structures and Day Care Centers Exempt from Site Plan Review 2. Proposed Wetlands Ordinance Amendments Minutes ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27959-housing</id>
+<title>Pembroke Zoning / ZBA: Housing development (2026-09-28)</title>
+<link href="https://www.pembroke-nh.com/AgendaCenter/ViewFile/Minutes/_09282026-402"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...nd meets applicable requirements of the State. The site currently has an approved water supply and sewage system for employees and there will be no change in operations. 9. If the proposed use is for [multi-family dwellings], will it be served by the Town water system and by the Town sewerage system. N/A Pembroke Zoning Board Page 13 of 28 September 28, 2026 Of Adjustment Meeting Minutes (Draft) Mr. Hollis read from the ...</summary>
+</entry>
+</feed>

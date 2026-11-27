@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:plymouth--housing</id>
+<title>Plymouth NH: Housing development</title>
+<subtitle>Town meeting records in Plymouth on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/plymouth--housing.xml"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142409-housing</id>
+<title>Plymouth Zoning / ZBA: Housing development (2026-12-03)</title>
+<link href="https://www.plymouthnh.gov/Government/Planning Board/Zoning Amendments/2027 TM/12-3-26/Proposed Zoning Amendment 3 - Multifamily in Commercial.pdf?t=202611091539110"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...Proposed 2027 Zoning Amendment #3 Town of Plymouth, New Hampshire Article II, III, XII: [Multifamily Dwellings] in Commercial Districts Amend Article II, III, and XII in response to recent changes in State law pertaining to multifamily dwellings in commercial districts. Article II would be amended to adopt a n...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142407-housing</id>
+<title>Plymouth Zoning / ZBA: Housing development (2026-12-03)</title>
+<link href="https://www.plymouthnh.gov/Government/Planning Board/Zoning Amendments/2027 TM/12-3-26/Proposed Zoning Amendment 1 - Short Term Rentals.pdf?t=202611091538320"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...granted by the Zoning Board of Adjustment. A dash indicates that the use is neither permitted, nor allowed by special exception in the corresponding zone. USES ZONE RESIDENTIAL SFR MFR A CI VC HC ICD [Accessory Dwelling Unit] P P P P P P P Continuing Care Retirement Community - - P - - - - Manufactured Housing - - P - SE1 SE SE Multifamily Dwelling, not exceeding 6 units per building - P SE SE P1 P SE Open-Space Residenti...</summary>
+</entry>
+</feed>

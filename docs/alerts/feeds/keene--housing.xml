@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:keene--housing</id>
+<title>Keene NH: Housing development</title>
+<subtitle>Town meeting records in Keene on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/keene--housing.xml"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:175-housing</id>
+<title>Keene Planning board: Housing development (2026-10-26)</title>
+<link href="https://keenenh.gov/wp-content/uploads/2026/10/10262026-Planning-Board-Agenda-Packet.pdf"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ation for this transformation. The form- based district allows buildings up to seven stories and 85 feet in height, with a zero- to five- foot build-to zone along Gilbo Avenue. Permitted uses include [multifamily housing] and ground-floor commercial space along the primary street frontage, creating the potential for a more active, pedestrian-oriented streetscape while accommodating substantial new housing. Several exi...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:235-housing</id>
+<title>Keene Select board / council: Housing development (2026-10-15)</title>
+<link href="https://keenenh.gov/wp-content/uploads/2026/10/2026_10_15_City_Council_Agenda_optimized.pdf"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...very important consideration. Over the past several years the following Community Development bad ideas have been enacted: • Moving the minimum rural zone lot size from 5 acres to 2 acres; • Allowing [Accessory Dwelling Units] (ADU) as a matter of right; and • Increased density incentives for building certain types of housing or meeting energy efficiency standards. These three changes effectively quadruples (4X) developmen...</summary>
+</entry>
+</feed>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-belmont</id>
+<title>Belmont NH: tracked topics</title>
+<subtitle>Town meeting records in Belmont on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-belmont.xml"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142370-housing</id>
+<title>Belmont Zoning / ZBA: Housing development (2026-10-26)</title>
+<link href="https://belmontnh.gov/wp-content/uploads/sites/38/2026/11/2027-proposed-Full-Text-.pdf"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...dential purposes, municipalities are required to afford exemptions to setbacks, height or frontage of a building, provided the dimensional elements of the building do not change. PROPOSED Article 8:J [Multifamily Development] on Commercially Zoned Land I. a. &quot;Commercially zoned land&quot; means land zoned for such commercial activities as retail and office space. (Article 15: Commercial A use primarily concerned with the makin...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25817-solar</id>
+<title>Belmont Zoning / ZBA: Solar (2026-10-11)</title>
+<link href="https://belmontnh.gov/wp-content/uploads/sites/38/2026/10/11-2026-Amendments-for-Deliberative-Session.pdf"/>
+<updated>2026-10-11T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...6 Proposed Article #3 AMENDED/NEW Article 15: Definitions Solar - Any ground mounted or roof mounted solar collection system primarily consisting of one or more free-standing, ground or roof mounted, [solar arrays] or modules, or solar related equipment, intended to primarily reduce on-site consumption of utility power. Commercial Solar: Any ground mounted or roof mounted solar collection system designed for ot...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:33266-housing</id>
+<title>Belmont Planning board: Housing development (2026-10-05)</title>
+<link href="https://belmontnh.gov/wp-content/uploads/sites/38/2026/05/260928-PB-Minutes.pdf"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ard. Second: W. Peterson Vote: All in favor, motion carried (4/0) Proposed Amendments K. Stuyniski stated that one of the amendments she is proposing would be to address the new state law that allows [multifamily development] on commercial land. The Town can restrict the residential units to the second floor, and the bottom floors restricted to commercial. The second proposed amendment pertains to short term lodging. It a...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:33216-housing</id>
+<title>Belmont Planning board: Housing development (2026-10-05)</title>
+<link href="https://belmontnh.gov/wp-content/uploads/sites/38/2026/05/261026-PB-Minutes.pdf"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ring in November. K. Stuyniski stated that there were only a few minor modifications made to the amendments she presented to the Board last month. There were no changes to the amendment pertaining to [multifamily housing]. The second proposed amendment that pertains to short term lodging only had the change to add no on street parking allowed. She also removed “f” because it was redundant. Minutes of August 24, 2026 a...</summary>
+</entry>
+</feed>

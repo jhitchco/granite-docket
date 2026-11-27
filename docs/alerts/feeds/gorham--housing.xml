@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:gorham--housing</id>
+<title>Gorham NH: Housing development</title>
+<subtitle>Town meeting records in Gorham on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/gorham--housing.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142955-housing</id>
+<title>Gorham Planning board: Housing development (2026-11-09)</title>
+<link href="https://towncloud.io/go/gorham-nh/agendas/258/pdf_packet/get_agenda_document_link"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...consistent with state law by 1. updating Section 5.02 Home Occupation and Section 3.27 in Deﬁnitions regarding home-based day care to be allowed by right without site plan review, and 2. Section 5.14 [Cluster Development] regarding utilities to be allowed in open space areas. The language proposed to be added is shown like this. 5.02 HOME OCCUPATION A. Permits for home occupations such as deﬁned in Article III may be ...</summary>
+</entry>
+</feed>

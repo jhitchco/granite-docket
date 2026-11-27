@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:grantham--housing</id>
+<title>Grantham NH: Housing development</title>
+<subtitle>Town meeting records in Grantham on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/grantham--housing.xml"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:65818-housing</id>
+<title>Grantham Planning board: Housing development (2026-11-05)</title>
+<link href="https://granthamnh.gov/vertical/sites/%7B8E4EE0D6-AAA5-4E63-B5FA-19873AF96E35%7D/uploads/2026-11-05-PB-Meeting-Materials.pdf"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...wo tracked edits. Four are endorsements or wording improvements we should accept. Two raise real issues: the statute references in the CCRC definition, and how senior housing incentives interact with [workforce housing]. # Where What he said Recommended response 1 CCRC definition (Part 2.1) Added &quot;Pursuant of RSA 151-E and licensed pursuant RSA 420- D,&quot; believing these govern age- restricted housing. Revise. RSA 151...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:66711-housing</id>
+<title>Grantham Planning board: Housing development (2026-10-29)</title>
+<link href="https://granthamnh.gov/vertical/sites/%7B8E4EE0D6-AAA5-4E63-B5FA-19873AF96E35%7D/uploads/Grantham_Overlay_Briefing_2026-10-29.docx"/>
+<updated>2026-10-29T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...wo tracked edits. Four are endorsements or wording improvements we should accept. Two raise real issues: the statute references in the CCRC definition, and how senior housing incentives interact with [workforce housing]. # Where What he said Recommended response 1 ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:66718-housing</id>
+<title>Grantham Planning board: Housing development (2026-10-07)</title>
+<link href="https://granthamnh.gov/vertical/sites/%7B8E4EE0D6-AAA5-4E63-B5FA-19873AF96E35%7D/uploads/Grantham_MPTF_Minutes_2026-10-07_DRAFT.docx"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...e state generally likes to see offsetting allowances when age-restricted housing is enabled, such as the availability of workforce-type housing. Although cluster housing is not formally classified as [workforce housing], he suggested it could be a good pairing with age-restricted housing. Mr. Walla will bring proposed cluster housing edits to a future meeting. 7. Action Items Mr. Haffner...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:148566-housing</id>
+<title>Grantham Planning board: Housing development (2026-10-01)</title>
+<link href="https://granthamnh.gov/vertical/sites/%7B8E4EE0D6-AAA5-4E63-B5FA-19873AF96E35%7D/uploads/2026-10-01-PB-Meeting-Materials(1).pdf"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ents are exactly the tools that produce a village rather than a strip. Without these rules, ordinary commercial zoning tends to produce the strip pattern residents said they don’t want. Will there be [apartment buildings]? Not large ones. Housing here means homes above or behind a shop, or small buildings with a handful of units — the pattern you see in older New England village centers. The survey showed clear opposi...</summary>
+</entry>
+</feed>

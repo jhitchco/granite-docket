@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-albany</id>
+<title>Albany NH: tracked topics</title>
+<subtitle>Town meeting records in Albany on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-albany.xml"/>
+<updated>2026-10-12T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:151360-housing</id>
+<title>Albany Planning board: Housing development (2026-10-12)</title>
+<link href="https://albanynh.org/wp-content/2026/11/APB-20261012-Minutes-Approved.pdf"/>
+<updated>2026-10-12T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...et for 2027 with a total of $23,230 to be presented to the Select Board for review. Morris West seconded. The motion carries 5-0-0 James Drouin stated that he would lead discussion at the next APB on [Accessory Dwelling Units] Elijah Ralph stated that he will be attending a NHMA webinar and reporting back to the APB Sean Wadsworth made a motion to adjourn. James Drouin seconded. The motion carried 5-0-0 Next meeting to be ...</summary>
+</entry>
+</feed>

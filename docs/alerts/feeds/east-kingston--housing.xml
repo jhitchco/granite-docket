@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:east-kingston--housing</id>
+<title>East Kingston NH: Housing development</title>
+<subtitle>Town meeting records in East Kingston on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/east-kingston--housing.xml"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:143076-housing</id>
+<title>East Kingston Zoning / ZBA: Housing development (2026-11-12)</title>
+<link href="https://www.eknh.org/DocumentCenter/View/2165/Proposed-Zoning-Amendments-for-November-12th-Work-Session---DRAFT"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... source of water and is unable to dispose of wastewater or sewage in 37 accordance with regulations. 38 RSA 674:80, III: This amendment expands on the reasons a municipality does not have to allow 39 [multi-family dwellings] in commercial zoning districts that also permit industrial and manufacturing 40 uses to include the potential effects which may be incompatible with residential use, including 41 dust, glare, and vib...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:143020-housing</id>
+<title>East Kingston Planning board: Housing development (2026-11-12)</title>
+<link href="https://www.eknh.org/AgendaCenter/ViewFile/Minutes/_11122026-143"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...OPOSED ZONING AMENDMENTS 86 RPC Planner Berry presented proposed zoning amendment language resultant of the board’s feedback at the last two 87 meetings. 88 Article IV – Commercial District regarding [multi-family developments] – no changes proposed to the language approved 89 at the last meeting. This will be added to the list of amendments to be moved to public hearing at the November 19th 90 meeting. 91 Article IX – Lot ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:143010-housing</id>
+<title>East Kingston Select board / council: Housing development (2026-11-09)</title>
+<link href="https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_11092026-153"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...on Development amendments. 8.​ 11-4-26 notice to two Public Hearings on Thursday, 11-19-26 at 6pm at the Pound School about 1) Groundwater Protection Ordinance and 2) Pappalardo Family Realty Trust – [17-lot Subdivision] Proposal at 14 Tilton Lane. 9.​ NH PDIP Monthly General Fund - $2522.46 10.​ Railroad Lot Conservation Easement Monitoring ACTION ITEMS from 10-12-26 1.​ Gordon – share updated Conservation Prioritie...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136730-housing</id>
+<title>East Kingston Planning board: Housing development (2026-11-04)</title>
+<link href="https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_11042026-143"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...earing prior to placement on the 2027 Town Warrant. Amendments to be discussed to include (but not limited to): - Amendments due to changes in state law: o Article IV Commercial District to allow for [multifamily housing] in commercial zones o Article IX Lot Area and Yard Requirement to allow for multifamily housing in commercial zones o Article III-B Residential/Agricultural District to allow for family childcare ope...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:64465-housing</id>
+<title>East Kingston Planning board: Housing development (2026-10-15)</title>
+<link href="https://www.eknh.org/AgendaCenter/ViewFile/Minutes/_10152026-122"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...on Subdivision – 143 Depot Road – Design Review – Case# 2026-08 7 Chinburg Development – Proposed 2-Lot Subdivision – 116 Willow Road – Design Review – Case# 2026-09 8 Chinburg Development – Proposed [20-Lot Subdivision] – 141 Willow Road – Design Review – Case# 2026-10 9 Chinburg Development – Proposed 2-Lot Subdivision – 162 Willow Road – Design Review – Case# 2026-11 10 Land Bear Holdings, LLC – Proposed 2-Lot Sub...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:64459-housing</id>
+<title>East Kingston Planning board: Housing development (2026-10-15)</title>
+<link href="https://www.eknh.org/AgendaCenter/ViewFile/Agenda/_10152026-122"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... CHAIR 1. CALL TO ORDER 6:00PM* (Roll call, designation of voting members) 2. GROUNDWATER PROTECTION ORDINANCE PUBLIC FORUM 3. PUBLIC HEARING 7:00PM-7:45PM* • 2026-02 PAPPALARDO FAMILY REALTY TRUST – [17-LOT SUBDIVISION] PROPOSAL – 14 TILTON LANE The applicant proposes to create a 17-lot conservation subdivision on property located at 14 Tilton Lane (MBL# 14-3-12) consisting of 42.67 acres. The applicant has been gra...</summary>
+</entry>
+</feed>

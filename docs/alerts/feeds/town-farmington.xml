@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-farmington</id>
+<title>Farmington NH: tracked topics</title>
+<subtitle>Town meeting records in Farmington on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-farmington.xml"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:136394-transmission</id>
+<title>Farmington Planning board: Transmission &amp; substations (2026-11-04)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3129/PB-Packet-11-04-26"/>
+<updated>2026-11-04T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...essed, transferred and/or stored. - PRINCE WILLIAM COUNTY VIRGINIA ZONING ORDINANCE CHAPTER 32, ARTICLE I, PART 100. DEFINITION OF A “DATA CENTER” DATA CENTER ACCESSORY USE: Utilities, utility lines, [electrical substations], pump stations, water towers, mechanical equipment and environmental controls (air conditioning or cooling towers, fire suppression, etc.), redundant/backup power supplies, redundant data communicati...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:37354-solar</id>
+<title>Farmington Select board / council: Solar (2026-11-02)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/ArchivedAgenda/_11022026-290"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...pshire, Inc. ● Review of Minutes o Approval of Public Meeting Minutes 10/26/26 o Approval of Non-Public Meeting Minutes A&amp;B 10/26/26 ● Public Input ● Malcolm Bliss – Kearsarge Energy Presentation For [Solar Facility] on R19-013/013.1 ● Public Input ● Executive Budget Presentation ● Building &amp; Grounds Budget Presentation ● Finance Budget Presentation ● Business o Water/Sewer Connection Study o Fire Department Ambu...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:31007-solar</id>
+<title>Farmington Select board / council: Solar (2026-11-02)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Agenda/_11022026-279"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...pshire, Inc. ● Review of Minutes o Approval of Public Meeting Minutes 10/26/26 o Approval of Non-Public Meeting Minutes A&amp;B 10/26/26 ● Public Input ● Malcolm Bliss – Kearsarge Energy Presentation For [Solar Facility] on R19-013/013.1 ● Executive Budget Presentation ● Building &amp; Grounds Budget Presentation ● Finance Budget Presentation ● Business o Insurance rates and dental plan o Fire Department Ambulance Agreem...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:135255-solar</id>
+<title>Farmington Select board / council: Solar (2026-10-26)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10262026-276"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...we will have the public hearing on Breezeline and in their packet already for the next week is somebody has to make a motion he’s already outlined the whole motion what needs to be made to pass that. [Solar Project]- Mr. Henry said he got an email today for your landﬁll for the solar project. He said they’re going to be here also next week to talk about that because Eversource did approve the connection fees. Mr...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35318-solar</id>
+<title>Farmington Planning board: Solar (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10212026-274"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>Moratorium mentioned. ...n limited districts. He listed zoning considerations such as air quality, noise, size, on-site fuel storage, water use, power, setbacks, height, and screening. He suggested a tiered approach like the [solar ordinance], perhaps permitting facilities in the range of 1 to 5 megawatts, with Dover at 1 to 2, while prohibiting hyperscale facilities in the short term. ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35318-housing</id>
+<title>Farmington Planning board: Housing development (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10212026-274"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...es and remain accessory. Because of state legislation, they must now be accessory to any residential principal use, not only single-family homes. This means one could operate in an apartment within a [multi-family unit] building. He explained that under the new state law a childcare center with 30 or fewer children is not subject to site plan re...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35318-data_center</id>
+<title>Farmington Planning board: Data centers (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10212026-274"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...e. Staff Comments Mr. Pimental asked members to review materials on [data centers] before the November meeting, including definitions used by Rochester and Dover and examples from other jurisdictions. He explained that both Rochester and Dover allow data centers only by conditional...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136397-housing</id>
+<title>Farmington Planning board: Housing development (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3125/PB-Packet_102126"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...nly density bonus without also offering a sewer bonus, noting there is currently no sewer service in the ARg zone, and that the water capacity question is more tractable. Mr. Pimental also raised the [cluster subdivision] ordinance as a related tool, noting it has existed for over ten years and has not attracted significant developer interest. He suggested the Board consider reviewing the cluster subdivision regulatio...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136397-data_center</id>
+<title>Farmington Planning board: Data centers (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3125/PB-Packet_102126"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...ed that Code Enforcement Officer Carrie Ann had brought this to his attention and that he would develop the specific language and thresholds before bringing it to the Board. No formal vote was taken. [Data Centers] 2:46:37 Mr. Pimental raised the emerging issue of data centers and asked whether the Board wished to address them proactively in the zoning ordinance. He noted that currently, a data center would lik...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:103011-housing</id>
+<title>Farmington Planning board: Housing development (2026-10-07)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3120/PB-Packet-10-07-26"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...re was already legislative pushback on this provision. He indicated the Board might want to monitor whether the legislature revisits it. ● Multifamily in Commercial Districts: A state requirement for [multifamily housing] to be allowed by right in commercial districts was under discussion statewide. Director Pimental noted that Farmington had already taken steps in this direction through its mixed-use district provisi...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:103011-data_center</id>
+<title>Farmington Planning board: Data centers (2026-10-07)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3120/PB-Packet-10-07-26"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...her potential amendments to consider: • Short-term rentals • Parcel-based zoning districts – Fix VC and UR • Determine if the Board would like to add density bonuses for the two mixed-use districts • [Data centers] ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:31045-solar</id>
+<title>Farmington Select board / council: Solar (2026-10-05)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10052026-268"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...e? Mr. Henry said $85,000. Mr. King said so it went from $80,000 to $85,000 which is an increase of 6%. Mr. Scruton said $4,000 would be 5% so 6% is probably close. Vote: the motion passed 5-0. Nutes [Solar Farm]-Mr. Henry said just in their packet he already talked to them earlier about the damage that was on somebody’s property from the Nutes Solar Farm. He said he will write back to them and continue with ...</summary>
+</entry>
+</feed>

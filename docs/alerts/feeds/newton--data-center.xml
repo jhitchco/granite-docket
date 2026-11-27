@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:newton--data-center</id>
+<title>Newton NH: Data centers</title>
+<subtitle>Town meeting records in Newton on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/newton--data-center.xml"/>
+<updated>2024-01-01T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+</feed>

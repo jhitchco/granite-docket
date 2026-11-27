@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-rindge</id>
+<title>Rindge NH: tracked topics</title>
+<subtitle>Town meeting records in Rindge on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-rindge.xml"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:148231-housing</id>
+<title>Rindge Planning board: Housing development (2026-11-16)</title>
+<link href="https://rindgenh.gov/2026-11-16 Notice of Public Hearing Planning Board meeting December 1, 2026.pdf?t=202611160935350"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ercial unit on a lot without the division of the fee simple interest in said lot.” 3. To amend Article V, Paragraph 1 to read: “1. It shall be a district of farms, single and two-family dwellings and [multi-family dwellings] per paragraph 3 below. Each structure that contains dwelling unit(s) shall be on a separate lot, with the exception of Accessory Dwelling Units and Condominiums.” 4. To amend Article XI, A-18 by dele...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:32035-housing</id>
+<title>Rindge Zoning / ZBA: Housing development (2026-10-27)</title>
+<link href="https://rindgenh.gov/Documents/Boards Commission/Zoning Board of Adjustment/Agenda Minutes/2026/Minutes/v2_10.27.26_ZBA Minutes_DRAFT.pdf?t=202611021231060"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...han 5 miles down Rt. 202 in an apartment owned by her boyfriend's parents. But it is the third option which I find most peculiar. The applicant could, I quote, &quot;force her daughter into a much smaller [accessory dwelling unit],&quot; end quote. Force, really. But, the really ironic part is the daughter would be forced to live with her brother and his girlfriend because they are presently living in the existing accessory dwellin...</summary>
+</entry>
+</feed>

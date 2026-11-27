@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-warner</id>
+<title>Warner NH: tracked topics</title>
+<subtitle>Town meeting records in Warner on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-warner.xml"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:75251-housing</id>
+<title>Warner Planning board: Housing development (2026-11-02)</title>
+<link href="https://warnernh.gov/tow/meetings/mtgdocs/plan/20261102/Nov22026PBMtgPackageAgendaandDraftMinutes.pdf"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>Moratorium mentioned. ...considered. 23 24 John Leavitt stated that all points mentioned by Pier all valid and have been discussed. He believes the 25 driving issue is that the residents do not like the Dollar General or the [apartment development] not necessarily 26 a retail development. Pier D’Aprile stressed that this is about the growth of the Town particularly in the 27 interval district and the need to update the master plan. John Leavitt...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:75251-data_center</id>
+<title>Warner Planning board: Data centers (2026-11-02)</title>
+<link href="https://warnernh.gov/tow/meetings/mtgdocs/plan/20261102/Nov22026PBMtgPackageAgendaandDraftMinutes.pdf"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...s Gaffney. She clarified that her letter is a 20 letter of concern that requests that the Planning Board take action to draft a better ordinance for the future to 21 avoid CBD shops, tattoo shops and [data centers] coming to town. She stressed that residents want a nice 22 town and ordinances are the only way to protect the town. James Gaffney questioned what a proposed 23 ordinance would look like that would p...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142942-housing</id>
+<title>Warner Planning board: Housing development (2026-10-28)</title>
+<link href="https://warnernh.gov/meetings/minutes/hc/hc-20261028.pdf"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...le this change with regards to either deleting Section IV.L, or 29 using the additional draft language for more clarity. There was talk over whether the draft 30 language allowed for two multi-family [apartment buildings] to be built: this amendment is 31 separate from the Multifamily amendment but is related to it in that the number of units 32 would be driven by the density calculation in whatever Multifamily calcul...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:61286-housing</id>
+<title>Warner Planning board: Housing development (2026-10-19)</title>
+<link href="https://warnernh.gov/tow/meetings/agendas/plan/agenda-plan-20261019.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...uinn Agent: Benjamin Osgood, P.E., Ranger Engineering Group, Inc. Address: Route 103 West, near Rt. 89 exit 9 Map/Lot: Map 35, Lot 4-3 District: C1 Intervale Description: Site plan review for 34-unit [workforce housing] IV. MINUTES – September 14, 2026, September 28, 2026 and October 5, 2026 V. NEW BUSINESS a) Application for Conceptual Consultation Applicant: Bill and Kim Morgan Owners: Bill and Kim Morgan Agent: N...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:58986-housing</id>
+<title>Warner Zoning / ZBA: Housing development (2026-10-19)</title>
+<link href="https://warnernh.gov/meetings/minutes/zbanod/zbanod-20261019-PB_CATCH_Site_Plan.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...tory Annual Deicing Reporting. 2. Fire Safety, Emergency Vehicle Access, Apparatus Turning Radius, Building Height, and Required Written Determinations. 3. Ground-Floor Commercial Use Requirement. 4. [Workforce Housing] Income Eligibility, Annual Recertifications, Continued Occupancy, and Enforcement. The vote tally was 4 to 3 in favor of approving the Site Plan. The Planning Board’s decision may be appealed to supe...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:58597-housing</id>
+<title>Warner Planning board: Housing development (2026-10-19)</title>
+<link href="https://warnernh.gov/meetings/minutes/planning/plan-20261019.pdf"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>Moratorium mentioned. ...Benjamin Osgood, P.E., Ranger Engineering Group, Inc. 22 Address: Route 103 West, near Rt. 89 exit 9 23 Map/Lot: Map 35, Lot 4-3 24 District: C1 Intervale 25 Description: Site plan review for 34-unit [workforce housing] 26 Karen Coyne opened the continued hearing. Tom Frutado and Alex Panagiotakos and Ben Osgood via Zoom 27 addressed the Planning Board. Ben Osgood recapped that at the last meeting the revised plan w...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:61293-housing</id>
+<title>Warner Planning board: Housing development (2026-10-05)</title>
+<link href="https://warnernh.gov/tow/meetings/agendas/plan/agenda-plan-20261005.pdf"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...uinn Agent: Benjamin Osgood, P.E., Ranger Engineering Group, Inc. Address: Route 103 West, near Rt. 89 exit 9 Map/Lot: Map 35, Lot 4-3 District: C1 Intervale Description: Site plan review for 34-unit [workforce housing] b) Public Hearing Continued – Site Plan Review Regulations. Board members to sign authorization page. IV. MINUTES – September 14, 2026 and September 28, 2026 V. NEW BUSINESS VI. COMMUNICATIONS VII. ...</summary>
+</entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:portsmouth--solar</id>
+<title>Portsmouth NH: Solar</title>
+<subtitle>Town meeting records in Portsmouth on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/portsmouth--solar.xml"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:141734-solar</id>
+<title>Portsmouth Select board / council: Solar (2026-11-12)</title>
+<link href="https://files.portsmouthnh.gov/cip/2026.11.12.FY28-33-CIP-for-Work-Session.pdf"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...rick Calcinari Address: 1246 South St Submitting on Behalf of a Committee: Yes, Sustainability Committee. Vote taken August 27, 2026. Project Type: Buildings and Infrastructure Title: Installation of [solar arrays] on city properties Location: Various throughout the city Project Description (as submitted): This proposal is consistent with Climate Action Plan Priority Action BE-9 to eliminate the use of fossil f...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:6159-solar</id>
+<title>Portsmouth Select board / council: Solar (2026-10-13)</title>
+<link href="https://files.portsmouthnh.gov/agendas/2026/City Council/City Council Agenda and Packet 10.13.2026.pdf"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...nnot create an ADU exemption without that authority. Page 108 of 138 The solar exemption shows how a local option can work. RSA 72:62 authorizes cities and towns to adopt a property tax exemption for [solar energy systems]. The state creates the option, and each community decides whether to use it. In 2020, the Legislature also allowed towns to set their own exemption limits. This proposal follows the same basic struct...</summary>
+</entry>
+</feed>

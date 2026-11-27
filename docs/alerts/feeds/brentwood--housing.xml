@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:brentwood--housing</id>
+<title>Brentwood NH: Housing development</title>
+<subtitle>Town meeting records in Brentwood on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/brentwood--housing.xml"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:45626-housing</id>
+<title>Brentwood Select board / council: Housing development (2026-10-06)</title>
+<link href="https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&amp;docid=14878"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...haud explained that the furnace will be looked at. Menter: Conservation meeting upcoming October 14th – same date as the Budget Committee. Kleinman: Planning Board – preliminary design review for the [multi-family development]. Commercial requirement was addressed with pickleball. Introduced Gabby Kelly: urged the board to take time to read and pass the Joint Finance Committee. Bedard: School Board, couple laws House Bills...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:44343-housing</id>
+<title>Brentwood Planning board: Housing development (2026-10-01)</title>
+<link href="https://www.brentwoodnh.gov/docview.aspx?doctype=minuteDoc&amp;docid=14875"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... Property Locations: 414 Route 125, 420 Route 125, Brentwood, NH Tax Maps: 201.002.000, 208.024.000, 208.030.000 Proposal is for a [multi-family development] with additional Age restricted units and a 30,000 square foot recreational / commercial building with indoor pickle-ball courts and associated parking with a proposed loop road with 2 entrances ...</summary>
+</entry>
+</feed>

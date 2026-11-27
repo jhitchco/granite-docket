@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:boscawen--data-center</id>
+<title>Boscawen NH: Data centers</title>
+<subtitle>Town meeting records in Boscawen on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/boscawen--data-center.xml"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:60141-data_center</id>
+<title>Boscawen Planning board: Data centers (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6082/PB-PN-111026-LDR-Amendments"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...years to three years in Section 2.10. - Clarifying 12 copies of the reduced plans are needed in Section 2.11, not three. - Revising architectural standards throughout. - Adding a new Section 3.12 for [data centers] or other high intensity computing facilities. - Revise Section 4.1.11 by deleting the existing text and specifying that all applications shall include twelve 11 x 17 plans and one 22 x 34 plan. - Cha...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:58686-data_center</id>
+<title>Boscawen Planning board: Data centers (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6581/Land-Development-Regulations---Approved-111026"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ing Board shall require sidewalks or sidewalk improvements for site plans and subdivision applications being considered under the provisions of this Article. Section 3.13, ADDITIONAL REQUIREMENTS FOR [DATA CENTERS], OR OTHER HIGH INTENSITY COMPUTING FACILITES A. General Requirements: In addition to the rest of these Regulations, this Section applies to all data centers, or facilities or land uses that, in the o...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:51323-data_center</id>
+<title>Boscawen Planning board: Data centers (2026-10-06)</title>
+<link href="https://boscawennh.gov/AgendaCenter/ViewFile/Minutes/_10062026-340"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ans. 64 • Definitions. 65 66 Mr. Monahan said we’re still waiting for engineering updates including information on bonds and 67 construction standards from Underwood Engineers. He suggested including [data center] updates. 68 Potential 1st Public Hearing to be set in December and 2nd Public Hearing in January if needed. 69 Mr. Young, PBWP Operations Advisor, said the PBWP does not have capacity for a data cent...</summary>
+</entry>
+</feed>

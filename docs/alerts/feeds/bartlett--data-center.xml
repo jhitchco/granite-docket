@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:bartlett--data-center</id>
+<title>Bartlett NH: Data centers</title>
+<subtitle>Town meeting records in Bartlett on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/bartlett--data-center.xml"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:56994-data_center</id>
+<title>Bartlett Planning board: Data centers (2026-10-05)</title>
+<link href="https://www.townofbartlett.nh.gov/AgendaCenter/ViewFile/Minutes/_10052026-203"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...the application till 11- 02-2026. o Master Plan- Continued discussion by board regarding changes and modifications. Secretary to reach out to the Fire Department and Road manager for update. o AI and [data centers]- Board to discuss if this needs to be added to the Master Plan regarding allowing of these entities and possible requirements. Pat Roberts informed the board that he has seen articles online and in s...</summary>
+</entry>
+</feed>

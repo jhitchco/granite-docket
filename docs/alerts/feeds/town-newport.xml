@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-newport</id>
+<title>Newport NH: tracked topics</title>
+<subtitle>Town meeting records in Newport on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-newport.xml"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:49329-housing</id>
+<title>Newport Planning board: Housing development (2026-10-28)</title>
+<link href="https://newportnh.gov/DocumentCenter/View/2936/20261028-Planning-Board-NoticeMaster-Plan"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...s rich history as a regional economic and industrial hub has resulted in an attractive, 8 historic downtown surrounded by a residential district with a range of historic and 9 contemporary single and [multi-family housing]. Over the years, this density of commercial and 10 residential uses benefits from a full range of municipal and public services. 11 Mixed-Use Commercial Core 12 The Downtown commercial core encompass...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35860-data_center</id>
+<title>Newport Select board / council: Data centers (2026-10-14)</title>
+<link href="https://newportnh.gov/AgendaCenter/ViewFile/Agenda/_10142026-233"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...ess Lot 110-007-A.Boutin Pinnacle Overlook-A.Boutin Raymond Holden Easement-J.Hoppock Review of Action Items 3) Review Revised Draft of Rules of Procedure New Business: 1) Priorities list for 2027 2) [Data Center] Zoning-R.Brunette 3) Boundary Marking-Town Forest and/or Maple Street Lot-L.Schissel 4) Other New Business Member Paul Baird’s status NHACC registration/tuition discussion Joint Land Use Boards Meeti...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35563-housing</id>
+<title>Newport Select board / council: Housing development (2026-09-30)</title>
+<link href="https://newportnh.gov/AgendaCenter/ViewFile/Minutes/_09302026-238"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ptimal. Members emphasized the importance of maintaining productive meetings by encouraging greater participation and identifying relevant agenda items for future discussion.​ ●​ State Law Impacts on [Accessory Dwelling Units] (ADUs) and Concerns Regarding Housing Trends and Code Enforcement - Planning Board Vice Chair Merrow raised concerns about the increase in single-family and multifamily housing development and recent...</summary>
+</entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-bedford</id>
+<title>Bedford NH: tracked topics</title>
+<subtitle>Town meeting records in Bedford on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-bedford.xml"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:110287-housing</id>
+<title>Bedford Planning board: Housing development (2026-11-16)</title>
+<link href="https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_11162026-3030"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ustrial building, at 30 Harvey Road, Lot 35-98-32, Zoned PZ. IV. Concept Proposals and Other Business: 1. Bedford RLG Properties, LLC (Owner) – Request for a conceptual review of a proposed 220- unit [multifamily development] with associated site improvements, at 308 South River Road, Lot 24-98-19, Zoned PZ. V. Approval of Minutes of Previous Meetings: November 2, 2026, minutes VI. Communications to the Board VII. Reports...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:1219-solar</id>
+<title>Bedford Energy committee: Solar (2026-10-22)</title>
+<link href="https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10222026-3023"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...nt confirmed the destruction requirement and stated they would contact Mr. Desfosses to review the equipment list and discuss approaching the Town Council. d. Other – None. IX. New Business a. Future [Solar Projects] b. Future Battery, Future Storage Projects Mr. Bandazian stated there are no future solar projects to discuss. Ms. Walker provided a year of Eversource bills for review. Mr. Bandazian plans to analyz...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:2558-housing</id>
+<title>Bedford Select board / council: Housing development (2026-10-14)</title>
+<link href="https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10142026-3017"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...omplete, with tenant fit-up ongoing and only a few spaces remaining. J.Crew received the most recent Certificate of Occupancy (CO). - Market and Main senior housing: A 62-unit independent multifamily [apartment building] targeting ages 55 and older, featuring individually owned condominium units. Approved in 2024, the applicant is currently discussing a time extension to finalize parking and traffic details while wor...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:2014-housing</id>
+<title>Bedford Planning board: Housing development (2026-10-05)</title>
+<link href="https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10052026-3011"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...te it. 3. ER Bedford/Encore Commercial LLC (Owner) &amp; Munson and Associates, LLC (Applicant) - Request for a one-year time extension of a conditional approval for a Site Plan application for a 62-unit [senior housing development], at Market &amp; Main, 125 South River Road, lot 12-33, Zoned PZ. Mr. Eldon Munson, Applicant, and Mr. Tom Burns and Mr. Bob Duval, both of TF Moran, presented: Mr. Eldon Munson said good evening. My nam...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:2004-housing</id>
+<title>Bedford Planning board: Housing development (2026-10-05)</title>
+<link href="https://bedfordnh.gov/AgendaCenter/ViewFile/Agenda/_10052026-3011"/>
+<updated>2026-10-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...d R&amp;A. 3. ER Bedford/Encore Commercial LLC (Owner) &amp; Munson and Associates, LLC (Applicant) – Request for a one-year time extension of a conditional approval for a Site Plan application for a 62-unit [senior housing development], at Market &amp; Main, 125 South River Road, lot 12-33, Zoned PZ. IV. Concept Proposals and Other Business: 1. Purnima &amp; Jayakumar Patil (Owners &amp; Applicants) – Request for conceptual review of a site pl...</summary>
+</entry>
+</feed>

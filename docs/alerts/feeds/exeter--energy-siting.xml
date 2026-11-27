@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:exeter--energy-siting</id>
+<title>Exeter NH: energy siting</title>
+<subtitle>Town meeting records in Exeter on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/exeter--energy-siting.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:9360-solar</id>
+<title>Exeter Select board / council: Solar (2026-11-09)</title>
+<link href="https://www.exeternh.gov/sites/default/files/archives/Meeting Minutes/Board of Selectman/2011/Minutes/SEL110926.pdf"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...n Ordinance. Ms. Gilman seconded. Vote: Unanimous FINAL MINUTES ____________________________________________________________________________________________________ Board of Selectmen 09/26/11 9 iii. [Solar Array] Re-bid The Office of Energy and Planning has offered additional grant money to see if the Town can get a more favorable proposal for the solar array at the WWTP. Ms. Gilman explained that they can ge...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:391-solar</id>
+<title>Exeter Select board / council: Solar (2026-10-26)</title>
+<link href="https://www.exeternh.gov/sites/default/files/fileattachments/select_board/meeting/packets/64370/select_board_packet_10-26-26.pdf"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...n unusually active year for building permits c - Cable Franchise Fees dedicated entirely to EXTV in 2026 d - New banking relationship in 2026 leading to greater interest income e - First full year of [solar array] energy production CHANGE FROM 2025 (11,047) (381,000) {4,542) (2,105) - (1,059) (13,749) (332,323) (77,284) - (16,548) 863 5,742 50,539 10,547 (20) 236,165 (28,323) 322,025 (242,119) a b C d e ...</summary>
+</entry>
+</feed>

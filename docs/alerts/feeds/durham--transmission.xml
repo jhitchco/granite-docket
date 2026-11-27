@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:durham--transmission</id>
+<title>Durham NH: Transmission &amp; substations</title>
+<subtitle>Town meeting records in Durham on transmission &amp; substations.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/durham--transmission.xml"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:17123-transmission</id>
+<title>Durham Zoning / ZBA: Transmission &amp; substations (2026-10-19)</title>
+<link href="https://www.durhamnh.gov/DocumentCenter/View/20671/Zoning-Ordinance-October-19-2026-with-Table-of-Contents"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...ce facility shall not exceed 12 feet in width. A gravel or crushed stone surface is encouraged. H. Antenna Types - Any antenna array placed upon an existing or proposed ground mount, utility pole, or [transmission line] mount shall have a diameter of no more than 4 feet, exclusive of the diameter of the mount. A larger diameter antenna array may be permitted after a finding by the Planning Board that the visual impa...</summary>
+</entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-shelburne</id>
+<title>Shelburne NH: tracked topics</title>
+<subtitle>Town meeting records in Shelburne on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-shelburne.xml"/>
+<updated>2026-12-07T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:152424-housing</id>
+<title>Shelburne Planning board: Housing development (2026-12-07)</title>
+<link href="https://www.townofshelburnenh.gov/_files/ugd/0e126e_90f5d44f949b4e7493a8df9e807adef6.pdf"/>
+<updated>2026-12-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... Manufactured housing shall not include pre-site built housing as defined in RSA 674:31-a. • Existing : 36 Mobile Home (see manufactured housing} • Proposed : 36 Mobile Home – Remove. • Existing : 37 [Multi Family Dwelling] – a dwelling with a maximum of 2 units. • Proposed : 37 Multi Family Dwelling - A residential building containing Two (2) to five (5) dwelling units, each with separate cooking, sleeping, and sanitat...</summary>
+</entry>
+</feed>

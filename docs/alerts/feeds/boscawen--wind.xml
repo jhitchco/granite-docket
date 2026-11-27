@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:boscawen--wind</id>
+<title>Boscawen NH: Wind</title>
+<subtitle>Town meeting records in Boscawen on wind.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/boscawen--wind.xml"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:60530-wind</id>
+<title>Boscawen Planning board: Wind (2026-11-10)</title>
+<link href="https://boscawennh.gov/DocumentCenter/View/6086/111026-PH-and-Relined-LDRs-Pkg"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...erred without subdivision approval. 5. The Town of Boscawen may not merge preexisting subdivided lots or parcels except upon the consent of the owner. Section 2.9 Permits for Renewable Energy Systems [Small Wind Energy] Systems Small wind energy systems and met towers are an accessory use permitted in all zoning districts where structures of any sort are allowed. No small wind energy system shall be erected, constru...</summary>
+</entry>
+</feed>

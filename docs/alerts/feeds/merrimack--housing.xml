@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:merrimack--housing</id>
+<title>Merrimack NH: Housing development</title>
+<subtitle>Town meeting records in Merrimack on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/merrimack--housing.xml"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:3499-housing</id>
+<title>Merrimack Zoning / ZBA: Housing development (2026-10-28)</title>
+<link href="https://www.merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_10282026-375"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ued from the August 26, 2026 and September 30, 2026 meetings. 4. Duane Laflotte (petitioner/owner) – Variance under Section 2.02.1.A.3.e of the Zoning Ordinance to permit a 1,200 square foot attached [Accessory Dwelling Unit] (ADU) whereas no more than 1,000 square feet is allowed. The parcel is located at 9 Samuel J Drive in the R-1 (Residential, by map) District. Tax Map 6A Lot 13-5. Case # ZBA 2026-21. 5. Darren Gagne ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:2789-housing</id>
+<title>Merrimack Planning board: Housing development (2026-10-20)</title>
+<link href="https://www.merrimacknh.gov/AgendaCenter/ViewFile/Agenda/_10202026-374"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ribed in the agenda below. 1. Call to Order 2. Consent Agenda  Regional Impact Determination 3. Chris Tofte (applicant) &amp; S.C. Development, LLC (owner) – Review for acceptance and consideration of a [60-unit condominium] subdivision. The parcel is located at 29 Bedford Road in the R-1 (Residential, by soils) &amp; Aquifer Conservation Districts, and Wellhead Protection Area. Tax Map 6D Lot 241. Case # PB 2026-25. 4. Chri...</summary>
+</entry>
+</feed>

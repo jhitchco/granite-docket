@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-gilsum</id>
+<title>Gilsum NH: tracked topics</title>
+<subtitle>Town meeting records in Gilsum on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-gilsum.xml"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:94507-housing</id>
+<title>Gilsum Planning board: Housing development (2026-11-18)</title>
+<link href="https://gilsum-nh.gov/wp-content/uploads/2026/11/Draft_Gilsum-Site-Plan-Review-Regulations.pdf"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...tutes a change of use of sufficient magnitude or impact to trigger Planning Board action, the following guidelines will be observed: 1) If the proposal involves new construction of non-residential or [multi-family development]. 2) If the proposal involves a change of use category, e.g., from residential to commercial, or For Public Hearing on November 18, 2026 3 from single family to multi-family. 3) If the proposal involv...</summary>
+</entry>
+</feed>

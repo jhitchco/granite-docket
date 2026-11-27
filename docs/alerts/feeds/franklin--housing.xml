@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:franklin--housing</id>
+<title>Franklin NH: Housing development</title>
+<subtitle>Town meeting records in Franklin on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/franklin--housing.xml"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:22507-housing</id>
+<title>Franklin Select board / council: Housing development (2026-10-13)</title>
+<link href="https://franklinnh.gov/AgendaCenter/ViewFile/Minutes/_10132026-199"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...of condominium owners, and asked whether the Council could proceed with the current changes and later revisit provisions of the prior Chapter 257, including the treatment of commercial properties and [apartment buildings]. City Manager Kloewer agreed, stated that the Council could not afford to delay the program because revenues would be at risk, and suggested that the Legislative Committee or a special committee revi...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:22485-housing</id>
+<title>Franklin Select board / council: Housing development (2026-10-13)</title>
+<link href="https://franklinnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-199"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... material at the transfer station without being subject to Chapter 160, Fees. G. Properties are not eligible for automated residential curbside collection system provided by the City. (1) Condominium/[apartment buildings] or complexes, or multifamily buildings, with three or more individual residential dwellings. (2) Mobile/manufactured home parks, campgrounds, vacant lots and homes under an enforcement order for a So...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:24282-housing</id>
+<title>Franklin Planning board: Housing development (2026-10-07)</title>
+<link href="https://franklinnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-200"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...treet (Map/Lot #97-54 &amp;amp; #97-56) 174 North Main Street LLC, represented by Meridian Land Services, requested Site Plan Approval to convert the former mill building at 174 North Main Street into a [31-unit multifamily] residential building and develop off-street parking on the vacant lot across North Main Street. The property is located in the B-1 Low-Density Business &amp;amp; Commercial zoning district. The Board v...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:24280-housing</id>
+<title>Franklin Planning board: Housing development (2026-10-07)</title>
+<link href="https://franklinnh.gov/AgendaCenter/ViewFile/Agenda/_10072026-200"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... from 09/23/2026  New Business: P26-06 Site Plan Review - 174 N Main St (Map/Lot #97-54 &amp; #97-56): 174 North Main Street LLC, Applicant, seeks Site Plan Approval to convert former mill building into [31-unit multi]-family with off-street parking for residences on empty lot located across North Main Street. Properly is located in the B-1 [Low-Density Business &amp; Commercial] zoning district.  Other Business: Conc...</summary>
+</entry>
+</feed>

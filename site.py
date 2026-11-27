@@ -43,7 +43,7 @@ def page(title, depth, body, desc=""):
 <title>{e(title)}</title><meta name="description" content="{e(desc)}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="{up}assets/site.css?v={dt.date.today():%Y%m%d}"></head><body>
-<nav class="bar"><div class="in"><a class="brand" href="{up}index.html">{NAME}</a><span class="links"><a href="{up}topics/data-centers/index.html">Data centers</a><a href="{up}topics/nuclear/index.html">Nuclear</a><a href="{up}housing/index.html">Housing</a><a href="{up}civic/index.html">Town records</a><a href="{up}coverage/index.html">Coverage</a></span></div></nav>
+<nav class="bar"><div class="in"><a class="brand" href="{up}index.html">{NAME}</a><span class="links"><a href="{up}topics/data-centers/index.html">Data centers</a><a href="{up}topics/nuclear/index.html">Nuclear</a><a href="{up}housing/index.html">Housing</a><a href="{up}civic/index.html">Town records</a><a href="{up}alerts/index.html">Alerts</a><a href="{up}coverage/index.html">Coverage</a></span></div></nav>
 <main class="wrap">{body}</main>
 <footer class="wrap foot">Built from agendas, minutes, packets and warrants posted by New Hampshire municipalities. Excerpts are quoted from public records; open the linked document before relying on one. Topic definitions and scoring are ours.</footer>
 </body></html>"""
@@ -125,6 +125,7 @@ def main():
     os.makedirs(os.path.join(OUT, "assets"))
     shutil.copy(os.path.join(ROOT, "site.css"), os.path.join(OUT, "assets", "site.css"))
     shutil.copy(os.path.join(ROOT, "civic.js"), os.path.join(OUT, "assets", "civic.js"))
+    shutil.copy(os.path.join(ROOT, "alerts.js"), os.path.join(OUT, "assets", "alerts.js"))
     open(os.path.join(OUT, ".nojekyll"), "w").close()
     maps.assets(OUT)
 
@@ -217,6 +218,8 @@ def main():
     import cal  # .ics meeting calendars per town and board, plus statewide hearings
     feeds, cal_links = cal.build(conn, page, write, slug, e, BOARD, civic.clean_title, towns)
     civic.build(conn, OUT, page, write, slug, e, BOARD, report_url, feeds, cal_links)
+    import alerts  # Atom alert feeds by town and topic, plus the sign-up page
+    alerts.build(conn, page, write, slug, e, BOARD, civic.clean_title, towns)
     print(f"site written to {OUT}: {len(events)} events, {len(towns)} towns")
 
 

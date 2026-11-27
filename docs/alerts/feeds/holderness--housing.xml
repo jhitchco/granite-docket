@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:holderness--housing</id>
+<title>Holderness NH: Housing development</title>
+<subtitle>Town meeting records in Holderness on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/holderness--housing.xml"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:79550-housing</id>
+<title>Holderness Zoning / ZBA: Housing development (2026-10-14)</title>
+<link href="https://www.holderness-nh.gov/DocumentCenter/View/1828"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...and convert existing unfinished garage space into an [Accessory Dwelling Unit] (ADU) that exceeds 800 square feet. Discussion: , W. Hess made a motion to grant the variance as requested and approve the application and proposed renovations as depicted on the plans submitted by t...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:70937-housing</id>
+<title>Holderness Zoning / ZBA: Housing development (2026-10-13)</title>
+<link href="https://www.holderness-nh.gov/AgendaCenter/ViewFile/Agenda/_10132026-145"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... as Tax Map 224-051-000 located at 7 Trivett Lane in the General Residential District (GR) for a variance from Section 400.24.1 in order to expand and convert existing unfinished garage space into an [Accessory Dwelling Unit] (ADU) that exceeds 800 square feet. Case # 533-09-03: Application submitted by Steven Grill on behalf of Peter and Karen Darnell for property identified at Tax Map 236-047-000 located at 25 Glen Cove...</summary>
+</entry>
+</feed>

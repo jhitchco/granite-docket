@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:candia--energy-siting</id>
+<title>Candia NH: energy siting</title>
+<subtitle>Town meeting records in Candia on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/candia--energy-siting.xml"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:51135-data_center</id>
+<title>Candia Planning board: Data centers (2026-10-07)</title>
+<link href="https://www.candianh.org/AgendaCenter/ViewFile/Minutes/_10072026-611"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>..., which are currently permitted in industrial, mixed-use, and commercial districts, and allowed by special exception in the residential district. T. D’Arcy shares his personal experience, noting that [data centers] are often quiet, office-like environments, and states that the primary concern for the Town would be power grid capacity rather than noise or environmental impact. A discussion ensues about the pros ...</summary>
+</entry>
+</feed>

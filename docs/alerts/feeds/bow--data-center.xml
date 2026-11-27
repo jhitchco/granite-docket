@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:bow--data-center</id>
+<title>Bow NH: Data centers</title>
+<subtitle>Town meeting records in Bow on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/bow--data-center.xml"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:153198-data_center</id>
+<title>Bow Select board / council: Data centers (2026-12-03)</title>
+<link href="https://bownh.gov/AgendaCenter/ViewFile/Agenda/_12032026-2806?packet=true"/>
+<updated>2026-12-03T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ... of one year. As more specifically defined in the ordinance, LRCUs are those commercial and industrial uses that consume designated amounts of electricity and water and include but are not limited to [data centers], heavy manufacturing facilities, electric generating facilities, oil or gas refineries, natural gas storage facilities, and regional warehouse distribution centers. The text of the proposed ordinance...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142818-data_center</id>
+<title>Bow Zoning / ZBA: Data centers (2026-11-05)</title>
+<link href="http://bownh.gov/AgendaCenter/ViewFile/Minutes/_11052026-2793"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...Lull and Lynne Powers, speaking on behalf of a group of residents who 17 submitted a petition containing approximately 826 signatures requesting consideration of a temporary 18 one-year moratorium on [data center] development. Ms. Powers stated that the petition and supporting 19 materials had been submitted to Town Hall and requested that the Planning Board recommend a special 20 Town Meeting and warrant arti...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:121186-data_center</id>
+<title>Bow Planning board: Data centers (2026-10-15)</title>
+<link href="http://bownh.gov/AgendaCenter/ViewFile/Minutes/_10152026-2783"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...lso discussed potential zoning ordinance amendments, including multiple principal uses on a lot, farm 202 stands, signage regulations, utility placement, dead-end street regulations, noise standards, [data center] considerations, 203 and recent state law changes affecting land-use regulations. These items will be reviewed in detail at the November 5, 204 2026 meeting. No formal action was taken. 205 VI REVIEW ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:120644-data_center</id>
+<title>Bow Select board / council: Data centers (2026-10-07)</title>
+<link href="http://bownh.gov/AgendaCenter/ViewFile/Minutes/_10072026-2782"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...water issues are addressed. Planning Board discussions 55 regarding possible zoning amendments are expected to begin in October. Members also discussed 56 possible future zoning amendments related to [data centers], mixed-use development, and other business- 57 related land use topics. 58 Select Board Representative Flanagan departed at 8:05 a.m. 59 4. Merrimack County Savings Bank Business After Hours Event 60...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:121124-data_center</id>
+<title>Bow Planning board: Data centers (2026-10-06)</title>
+<link href="http://bownh.gov/AgendaCenter/ViewFile/Minutes/_10062026-2779"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... attendees and stated that the Committee is at an important point in the development of the Land Use Chapter of the Master Plan. He noted that several ongoing and emerging issues, including potential [data center] development, redevelopment opportunities at the former Merrimack Station site, the Bow Mills Strategic Plan, and proposed improvements at Interstate 89 Exit 1, should be considered as part of the lon...</summary>
+</entry>
+</feed>

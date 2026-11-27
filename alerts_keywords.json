@@ -1,0 +1,110 @@
+{
+  "_comment": "Alert-only topics (alerts.py). Same shape as keywords.json topics. These do not feed the site's topic pages or hits.csv, which Mettison reads; keywords.json topics (nuclear, data centers) are included in alerts automatically.",
+  "topics": {
+    "solar": {
+      "label": "Solar",
+      "strong": [
+        "solar (farm|array|facilit\\w*|project|installation|energy (system|facilit\\w*|project)|garden|field|ordinance|overlay)s?",
+        "photovoltaic",
+        "community solar",
+        "utility[- ]scale solar",
+        "ground[- ]mounted solar",
+        "commercial solar"
+      ],
+      "weak": [
+        "\\bsolar\\b",
+        "\\bPV\\b"
+      ],
+      "exclude": [
+        "passive solar",
+        "solar eclipse",
+        "solar system of",
+        "solar (powered|lights?) (sign|speed|crosswalk|flash)\\w*"
+      ]
+    },
+    "battery_storage": {
+      "label": "Battery storage",
+      "strong": [
+        "battery (energy )?storage",
+        "\\bBESS\\b",
+        "energy storage (system|facilit\\w*|project|ordinance)s?",
+        "lithium[- ]ion batter(y|ies) (storage|facilit\\w*|system)s?"
+      ],
+      "weak": [
+        "energy storage",
+        "\\bbatter(y|ies)\\b"
+      ],
+      "exclude": [
+        "battery (backup|operated|powered) (radio|clock|sign)\\w*"
+      ]
+    },
+    "wind": {
+      "label": "Wind",
+      "strong": [
+        "wind (turbine|farm|energy (system|facilit\\w*|project)|tower|power (project|facilit\\w*)|project|ordinance)s?",
+        "meteorological (tower|test tower)s?",
+        "small wind energy"
+      ],
+      "weak": [
+        "\\bturbines?\\b"
+      ],
+      "exclude": [
+        "wind chill",
+        "wind(storm| damage| event)",
+        "high winds?"
+      ]
+    },
+    "transmission": {
+      "label": "Transmission & substations",
+      "strong": [
+        "transmission (line|corridor|project|facilit\\w*)s?",
+        "(electric(al)?|utility|power) substations?",
+        "\\d{2,3}\\s?kV",
+        "high[- ]voltage (line|transmission)s?",
+        "Site Evaluation Committee",
+        "\\bSEC\\b (docket|application|certificate)"
+      ],
+      "weak": [
+        "\\bsubstations?\\b",
+        "right[- ]of[- ]way",
+        "\\bEversource\\b",
+        "\\bISO[- ]New England\\b"
+      ],
+      "exclude": [
+        "police substation",
+        "fire substation",
+        "transmission (of|repair|fluid|shop)",
+        "automatic transmission",
+        "(radio|television|microwave|telecommunications?|wireless|cellular|broadcast) transmission",
+        "electrical transmission towers",
+        "\\d+[- ]inch (water )?transmission( line| main)?",
+        "water transmission (line|main)s?",
+        "(pipelines|power\\s?lines),?\\s+(and\\s+)?(other\\s+)?transmission\\s+lines"
+      ]
+    },
+    "housing": {
+      "label": "Housing development",
+      "strong": [
+        "multi[- ]?family (housing|dwelling|development|building|units?|project)s?",
+        "apartment (complex|building|project|development)s?",
+        "workforce housing",
+        "inclusionary (zoning|housing)",
+        "accessory dwelling units?",
+        "cluster (development|subdivision)s?",
+        "(senior|elderly|affordable) housing (project|development)s?",
+        "\\d{2,4}[- ]units? (of housing|residential|apartments?|condo\\w*|dwellings?|townhouses?|multi\\w*)",
+        "\\d{2,4}[- ](unit|lot) (subdivision|development|project|apartment|condo\\w*|townhouse)s?"
+      ],
+      "weak": [
+        "\\bhousing\\b",
+        "\\bADUs?\\b",
+        "dwelling units?"
+      ],
+      "exclude": [
+        "housing authority (meeting|minutes)",
+        "animal housing",
+        "storage units?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:sanbornton--energy-siting</id>
+<title>Sanbornton NH: energy siting</title>
+<subtitle>Town meeting records in Sanbornton on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/sanbornton--energy-siting.xml"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142920-solar</id>
+<title>Sanbornton Other board: Solar (2026-11-17)</title>
+<link href="https://www.sanborntonnh.org/AgendaCenter/ViewFile/Agenda/_11172026-473"/>
+<updated>2026-11-17T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...lar Energy and the library d. Memorandum of Understanding (MOU) e. Sugar Maple Tree Grant Project 5. New Business a. Policy: Library Raffles b. NH Legislative Session: 2026 bills – check NHLTA c. [Solar Array] project d. Exit Interview discussion e. Memorandum of Understanding (MOU) f. Staffing 6. Other Business 7. If needed: Non-Public session in accordance with RSA 91-A: ...</summary>
+</entry>
+</feed>

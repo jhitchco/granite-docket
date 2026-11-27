@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-gilmanton</id>
+<title>Gilmanton NH: tracked topics</title>
+<subtitle>Town meeting records in Gilmanton on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-gilmanton.xml"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:68159-solar</id>
+<title>Gilmanton Select board / council: Solar (2026-11-02)</title>
+<link href="https://www.gilmantonnh.gov/DocumentCenter/View/3814/FY2027-Board-of-Selectmen-Proposed-Budget---V6-Budget-Committee-11-02-26"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ion, enforcement ensures correct fastening patterns and hurricane ties (rafter-to-wall ties) to prevent high-velocity winds from lifting structural framing. • Alternative Energy Infrastructure: Large [solar arrays] require specialized engineering to guarantee they are securely anchored against severe storms and wind shear. • Code Enforcement: Enforce compliance with zoning laws, building codes, and safety regul...</summary>
+</entry>
+</feed>

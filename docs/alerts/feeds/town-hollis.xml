@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-hollis</id>
+<title>Hollis NH: tracked topics</title>
+<subtitle>Town meeting records in Hollis on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-hollis.xml"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:134634-housing</id>
+<title>Hollis Conservation commission: Housing development (2026-10-07)</title>
+<link href="https://hollisnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-361"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...d final review in October. 37 6.) The PB &amp; ZBA held a joint workshop on October 7, 2026 to discuss the proposed amendments to regulations for 38 March 2027. These proposed changes include language on [Accessory Dwelling Units] (ADU) and Code Enforcement, 39 among other items. These will be further discussed and voted on by the Planning Board in December. 40 41 TREASURERS REPORT – T. Davies 42 As of October 6, 2026, the HCC...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:24714-housing</id>
+<title>Hollis Planning board: Housing development (2026-10-06)</title>
+<link href="https://hollisnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-349"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...6, 2026 2 buffer will apply. One of the questions that has come up is when such a structure transitions from an 46 agricultural use, being continuously maintained, to something other than that. 47 48 [Accessory Dwelling Units]. The State has passed recent statutes allowing attached or detached ADUs on 49 all parcels. Detached, according to our ordinance, required twice the land area; we can no longer require 50 that for de...</summary>
+</entry>
+</feed>

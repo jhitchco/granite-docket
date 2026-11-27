@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:jaffrey--energy-siting</id>
+<title>Jaffrey NH: energy siting</title>
+<subtitle>Town meeting records in Jaffrey on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/jaffrey--energy-siting.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142639-solar</id>
+<title>Jaffrey Town meeting / warrant: Solar (2026-11-09)</title>
+<link href="https://townofjaffrey.com/DocumentCenter/View/727/Capital-Improvements-Plan-PDF"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... PROJECT OUTLAY 2027 2028 2029 2030 2031 2032 Outyear Costs $2,442K — — — — — — 58 CAPITAL IMPROVEMENTS PROGRAM | PLANNING BOARD ADOPTED | NOVEMBER 9, 2026 | CY 2027–2032 SEWER ENTERPRISE FUND Lagoon [Solar Project] DEPARTMENT Sewer Enterprise Fund STATUS / PRIORITY Concept · Not assigned YEAR TBD / Outyear ESTIMATED COST TBD FUNDING TBD WHY NOW? Explore a visible clean-energy opportunity at the lagoon site and ...</summary>
+</entry>
+</feed>

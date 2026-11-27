@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-salem</id>
+<title>Salem NH: tracked topics</title>
+<subtitle>Town meeting records in Salem on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-salem.xml"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:127654-housing</id>
+<title>Salem Select board / council: Housing development (2026-10-19)</title>
+<link href="https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10192026-1823"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...46 Town of Salem NH Page 2 66135 Town Council September 28, 2026 and they did not have to be the only one carrying that concern. Ms. McLoughlin stated that she 1 did not believe that they needed more [multi-family housing] on Route 28. She was opposed to the 2 proposal and hoped that they voted against it. 3 4 6. Fire Department – Swearing in of New Firefighter and Introduction of Fire 5 Administration Coordinator 6 Ma...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:126294-housing</id>
+<title>Salem Planning board: Housing development (2026-10-13)</title>
+<link href="https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-1803?packet=true"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...e Permits Project approvals will be subject to applicable State permits as required. (will comply with amended State permits as required) 490-601.C District Location Provide a compatible location for [senior housing projects]. (complies) (1) A senior housing overlay district may be established on any tract/parcels having the following characteristics: (a) A total land area appropriate to the use per Section F, unless othe...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:126283-housing</id>
+<title>Salem Planning board: Housing development (2026-10-13)</title>
+<link href="https://salemnh.gov/AgendaCenter/ViewFile/Minutes/_10132026-1803"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...t lines as well as the frontage and the square 12 footage of each lot. He said the conditions of approval are prior to recording plan submit staff approvals, 13 set or bond monuments, application for [accessory dwelling unit] to be approved and deed addendum to be 14 recorded, modify plan to exclude minimum basement floor elevation, he said they can strike that it has 15 been taken care of. Prior to building permit, remov...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:127687-housing</id>
+<title>Salem Select board / council: Housing development (2026-09-28)</title>
+<link href="https://salemnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1805"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...icipalities to allow multi-family in commercial districts. The 15 municipality can ensure there is adequate infrastructure and that language was incorporated into 16 this amendment. The proposals for [multi-family housing] would still be subject to the 17 dimensional requirements such as setbacks. The town was also allowed to regulate the ground 18 floor space. The Town wanted to have mixed use development already and ...</summary>
+</entry>
+</feed>

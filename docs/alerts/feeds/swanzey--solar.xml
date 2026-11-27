@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:swanzey--solar</id>
+<title>Swanzey NH: Solar</title>
+<subtitle>Town meeting records in Swanzey on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/swanzey--solar.xml"/>
+<updated>2026-11-03T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:26540-solar</id>
+<title>Swanzey Select board / council: Solar (2026-11-03)</title>
+<link href="https://www.swanzeynh.gov/2026-11-03 BOS Agenda Packet.pdf?t=202611021616050"/>
+<updated>2026-11-03T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...y Rural for sessions on streetscapes &amp; intergenerational learning 10/12 – CIP Meeting – Fire Dept, Stratton Free Library, and Rail Trails 10/12 – Energy Commission – EV Town vehicles fleet potential, [Solar Ordinance] status, Weatherization 10/15 - Perimeter hike of Mt Cresson with Jay Ward for compliance with past funding 10/15 – PLAN Webinar for Land Use Regulation Amendment Process and RSAs update 10/15 – MAST ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27681-solar</id>
+<title>Swanzey Planning board: Solar (2026-10-22)</title>
+<link href="https://www.swanzeynh.gov/PB Packet - 10 22 2026.pdf?t=202610151532120"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... a discussion regarding the date of the first public hearing and the group decided to schedule it for the November 19th meeting. Chair Ames said that Bob Audette asked her if there was an update on a [solar ordinance]. This will be investigated further. Alan invited all to attend the Open House for the new fire station on Saturday, October 10 from 10am - 1pm. The discussion moved on to the Table of Uses changes th...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:26567-solar</id>
+<title>Swanzey Select board / council: Solar (2026-10-21)</title>
+<link href="https://www.swanzeynh.gov/2026-10- 21 BOS Agenda Packet.pdf?t=202610211420370"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...Page 3 of 5 Next, Barbara told Chair Tempesta that he should expect a DocuSign via email by Friday to sign for ReVision Energy’s contract to purchase the Renewable Energy Certificates (RECS) from the [solar array] at the Wastewater Treatment plant. There was a discussion regarding the Hydro net metering contract with Keene; Barbara wondered if there was a conflict with the Standard Power agreement. Jay Ward re...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:27553-solar</id>
+<title>Swanzey Energy committee: Solar (2026-10-12)</title>
+<link href="https://www.swanzeynh.gov/2026-10-12 EnergyCom minutes DRAFT.pdf?t=202610220833330"/>
+<updated>2026-10-12T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...s seconded. All in favor. EVs for Swanzey fleet—Mehu suggested we have a 6-year cost-comparison spreadsheet to show the town, between EVs and gas-powered vehicles. Russell said he can find that info. [Solar Ordinance]—We were told the solar ordinance will get pushed to next year, because of SWRPC’s ordinance audit. There will be many amendments in 2027. We’ve been waiting two years. Audette said the Planning Board...</summary>
+</entry>
+</feed>

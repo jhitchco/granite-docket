@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:chichester--housing</id>
+<title>Chichester NH: Housing development</title>
+<subtitle>Town meeting records in Chichester on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/chichester--housing.xml"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142985-housing</id>
+<title>Chichester Planning board: Housing development (2026-11-05)</title>
+<link href="https://www.chichesternh.org/AgendaCenter/ViewFile/Minutes/_11052026-275"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...lations should reproduce lengthy State statutory provisions or refer directly to the applicable RSAs. The goal would be to keep Town regulations understandable, accurate, and accessible to residents. [Accessory Dwelling Units] The Board reviewed recent changes concerning accessory dwelling units, particularly the conversion of existing detached structures into residential units. Members discussed the treatment of legally p...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:61329-housing</id>
+<title>Chichester Select board / council: Housing development (2026-10-27)</title>
+<link href="https://www.chichesternh.org/AgendaCenter/ViewFile/Minutes/_10272026-273"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...Notify the resident when the correspondence has been sent. The Board expressed support for prompt action. No formal enforcement order, compliance deadline, or roll-call vote was recorded. Lane Road — [Accessory Dwelling Unit] and Engineering Requirement A Lane Road resident identiﬁed as Mark addressed the Board regarding diƯiculties obtaining approval to construct an accessory dwelling unit (ADU) within an existing barn. ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:60713-housing</id>
+<title>Chichester Planning board: Housing development (2026-10-01)</title>
+<link href="https://www.chichesternh.org/AgendaCenter/ViewFile/Minutes/_10012026-264"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ol portion into another residential unit, resulting in a three-family property. The Board reviewed material summarizing the amended statute and discussed provisions limiting municipal restrictions on [multifamily development] in commercially zoned areas, including certain frontage, setback, height and adaptive-reuse requirements. However, the Board's preliminary reading was that the statutory changes did not eliminate Chi...</summary>
+</entry>
+</feed>

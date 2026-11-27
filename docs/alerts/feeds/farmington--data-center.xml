@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:farmington--data-center</id>
+<title>Farmington NH: Data centers</title>
+<subtitle>Town meeting records in Farmington on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/farmington--data-center.xml"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:35318-data_center</id>
+<title>Farmington Planning board: Data centers (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/AgendaCenter/ViewFile/Minutes/_10212026-274"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...e. Staff Comments Mr. Pimental asked members to review materials on [data centers] before the November meeting, including definitions used by Rochester and Dover and examples from other jurisdictions. He explained that both Rochester and Dover allow data centers only by conditional...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:136397-data_center</id>
+<title>Farmington Planning board: Data centers (2026-10-21)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3125/PB-Packet_102126"/>
+<updated>2026-10-21T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>Moratorium mentioned. ...ed that Code Enforcement Officer Carrie Ann had brought this to his attention and that he would develop the specific language and thresholds before bringing it to the Board. No formal vote was taken. [Data Centers] 2:46:37 Mr. Pimental raised the emerging issue of data centers and asked whether the Board wished to address them proactively in the zoning ordinance. He noted that currently, a data center would lik...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:103011-data_center</id>
+<title>Farmington Planning board: Data centers (2026-10-07)</title>
+<link href="https://www.farmington.nh.us/DocumentCenter/View/3120/PB-Packet-10-07-26"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>...her potential amendments to consider: • Short-term rentals • Parcel-based zoning districts – Fix VC and UR • Determine if the Board would like to add density bonuses for the two mixed-use districts • [Data centers] ...</summary>
+</entry>
+</feed>

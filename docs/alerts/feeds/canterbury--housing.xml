@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:canterbury--housing</id>
+<title>Canterbury NH: Housing development</title>
+<subtitle>Town meeting records in Canterbury on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/canterbury--housing.xml"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:150685-housing</id>
+<title>Canterbury Conservation commission: Housing development (2026-11-12)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-12_Conservation_Commission_Agenda.pdf"/>
+<updated>2026-11-12T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ermit notices and applications a. New (if any) 3. Updates: a. UMRLAC b. Crowley property c. Thunberg property d. Kinter garden 4. Wetland setback ordinance. Discuss definition proposed by Ag Comm. 5. [Cluster subdivision] revision. What input does CCC want to give PB regarding: a. starting density b. density bonuses c. level of protection of designated open space and what’s allowed/excluded d. other 6. Conservation pr...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:148572-housing</id>
+<title>Canterbury Planning board: Housing development (2026-11-10)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/11/2026-11-10-Planning-Board-Minutes-DRAFT.pdf"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...eptable for what is now in the Table of Uses. The Board agreed there 79 should be a discussion of different types of educational facilities for the Table of Uses. 80 81 Jill McCullough asked when the [Cluster Subdivision] Ordinance would be discussed. Megan noted the 82 next working session on November 24, 2026 would include this discussion. 83 84 Calvin noted there are only two meetings left for revision before the p...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:107375-housing</id>
+<title>Canterbury Select board / council: Housing development (2026-10-20)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-20-Agricultural-Commission-Minutes-DRAFT-1.pdf"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...r the Ag Commission. 10.​Mark’s updates, a.​ Kelly Short, Chair of the Conservation Commission and Brendan O’Donnell Chair of the Planning Board invited Mark to talk about a couple of topics: i.​ The [cluster development] wording. Mark is encouraged by the progress towards making cluster development attractive to developers which would encourage more conservation of agricultural land. Discussion: Calvin provided some ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:68857-housing</id>
+<title>Canterbury Planning board: Housing development (2026-10-13)</title>
+<link href="https://www.canterburynh.gov/wp-content/uploads/2026/10/2026-10-13-Planning-Board-Minutes-DRAFT.pdf"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...in the requirements, unusual 68 slopes just to meet the frontage requirements should be avoided. The front setback cannot be 69 included in the minimum acreage requirement. 70 71 Section 6 deals with [Cluster Subdivision]. Brendan suggests defining “limited area” of mixed 72 use. There should be further clarity of how baseline density is calculated. Greg said the 73 Ordinance gives the impression of inequality - that ...</summary>
+</entry>
+</feed>

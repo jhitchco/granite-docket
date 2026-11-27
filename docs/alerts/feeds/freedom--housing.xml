@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:freedom--housing</id>
+<title>Freedom NH: Housing development</title>
+<subtitle>Town meeting records in Freedom on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/freedom--housing.xml"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:149142-housing</id>
+<title>Freedom Zoning / ZBA: Housing development (2026-10-27)</title>
+<link href="https://townoffreedomnh.gov/wp-content/uploads/2026/11/2026.10.27-ZBA-Minutes-Approved-1.pdf"/>
+<updated>2026-10-27T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...sociated with improvements to their waterfront property, including: • Construction of an addition connecting the existing house and garage with a breezeway. • Conversion of part of the garage into an [accessory dwelling unit] (ADU)/apartment, which had already been reviewed through the septic permitting process. • Construction of patios, walkways, stairs, retaining walls, seating areas, and a fire pit within the shoreline...</summary>
+</entry>
+</feed>

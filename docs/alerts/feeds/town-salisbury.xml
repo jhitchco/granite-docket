@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-salisbury</id>
+<title>Salisbury NH: tracked topics</title>
+<subtitle>Town meeting records in Salisbury on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-salisbury.xml"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:141574-housing</id>
+<title>Salisbury Planning board: Housing development (2026-11-02)</title>
+<link href="https://www.salisburynh.org/AgendaCenter/ViewFile/Minutes/_11022026-186"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...mber 16th at 6:30 p.m at Academy Hall. TA Rollins was unsure of the format Tardiff had planned for the evening. Public Hearing for Changes to the Town’s Zoning Ordinance’s Article III and Article IV, [Accessory Dwelling Units] Changed include an update to the Accessory Dwelling Unit’s definition in Article III and a complete replacement of the ADU section under Article IV. Chair Razin opened the public hearing at 7:30 p.m....</summary>
+</entry>
+</feed>

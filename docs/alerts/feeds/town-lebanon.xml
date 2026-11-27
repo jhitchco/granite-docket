@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-lebanon</id>
+<title>Lebanon NH: tracked topics</title>
+<subtitle>Town meeting records in Lebanon on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-lebanon.xml"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:13496-housing</id>
+<title>Lebanon Planning board: Housing development (2026-09-28)</title>
+<link href="https://lebanonnh.gov/DocumentCenter/View/877/Site-Plan-Regulations-Review-PDF"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...oard (or, as applicable, the Minor Site Plan Committee) will review and may approve or disapprove site plans for the development or change or expansion of use of tracts for nonresidential uses or for [multifamily dwelling] units, which are defined as containing more than two dwelling units. Section 1.2 – Short Title These Regulations shall be known and may be cited as the “Site Plan Review Regulations” for the City of ...</summary>
+</entry>
+</feed>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:newport--housing</id>
+<title>Newport NH: Housing development</title>
+<subtitle>Town meeting records in Newport on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/newport--housing.xml"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:49329-housing</id>
+<title>Newport Planning board: Housing development (2026-10-28)</title>
+<link href="https://newportnh.gov/DocumentCenter/View/2936/20261028-Planning-Board-NoticeMaster-Plan"/>
+<updated>2026-10-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...s rich history as a regional economic and industrial hub has resulted in an attractive, 8 historic downtown surrounded by a residential district with a range of historic and 9 contemporary single and [multi-family housing]. Over the years, this density of commercial and 10 residential uses benefits from a full range of municipal and public services. 11 Mixed-Use Commercial Core 12 The Downtown commercial core encompass...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:35563-housing</id>
+<title>Newport Select board / council: Housing development (2026-09-30)</title>
+<link href="https://newportnh.gov/AgendaCenter/ViewFile/Minutes/_09302026-238"/>
+<updated>2026-09-30T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ptimal. Members emphasized the importance of maintaining productive meetings by encouraging greater participation and identifying relevant agenda items for future discussion.​ ●​ State Law Impacts on [Accessory Dwelling Units] (ADUs) and Concerns Regarding Housing Trends and Code Enforcement - Planning Board Vice Chair Merrow raised concerns about the increase in single-family and multifamily housing development and recent...</summary>
+</entry>
+</feed>

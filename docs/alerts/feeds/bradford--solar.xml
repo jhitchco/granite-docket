@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:bradford--solar</id>
+<title>Bradford NH: Solar</title>
+<subtitle>Town meeting records in Bradford on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/bradford--solar.xml"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:149086-solar</id>
+<title>Bradford Energy committee: Solar (2026-11-16)</title>
+<link href="https://towncloud.io/go/bradford-nh/agendas/463/PDF/get_agenda_document_link"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...d Laura attended the CPCNH Fall Membership Meeting in Concord on November 4. The Board will be setting new electricity rates in December effective February 2027. b. Update on status of Poverty Plains [Solar Facility]. 1. Solar Energy a. SolSmart - Susan will report on next steps regarding implementation of a solar ordinance in Bradford. b. Plug in Solar – no change. Regulations have not be developed in NH. 2. Dec...</summary>
+</entry>
+</feed>

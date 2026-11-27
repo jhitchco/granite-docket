@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-brookline</id>
+<title>Brookline NH: tracked topics</title>
+<subtitle>Town meeting records in Brookline on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-brookline.xml"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142514-housing</id>
+<title>Brookline Planning board: Housing development (2026-11-09)</title>
+<link href="https://www.brooklinenh.gov/Documents/Government/Boards and Committees/Planning Board/Other Docs/2027 ZO/Section 1500 - Open Space SD.2026.11.09.pdf?t=202611091150090"/>
+<updated>2026-11-09T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...-Agricultural District. as shown on the Zoning Map. 2 1500.05 Permitted Uses All uses allowed in the Residential-Agricultural District are allowed in an Open Space Conservation Development except for [Workforce Housing] (Section 620) and Housing for Older Persons (Section 2200). 1500.06 Open Space A. All land not devoted to house lots, roads, and driveways shall be set aside as permanent open space. B. A minimum of ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:142510-housing</id>
+<title>Brookline Planning board: Housing development (2026-11-05)</title>
+<link href="https://www.brooklinenh.gov/Documents/Government/Boards and Committees/Planning Board/Other Docs/2027 ZO/Section 603.11.05.2026.pdf?t=202611091142430"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ands, water bodies, and land in the 100-year floodplain. 603.04 Number of Dwelling Units. Only one dwelling unit shall be permitted per individual building lot, except as provided in Section 2000.00, [Accessory Dwelling Units]. A two-unit dwelling unit shall require at least 176,000 four (4) contiguous square feet acres of land excluding wetlands, water bodies, and land in the 100-year floodplain. 603.05 Building Requireme...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:114302-solar</id>
+<title>Brookline Budget / CIP: Solar (2026-10-26)</title>
+<link href="https://www.brooklinenh.gov/Documents/Government/Boards and Committees/Capital Improvement Committee/Capital Improvment Plans/CIP_2027_2032_draft_20261026.pdf?t=202610261641570"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...costs Funding: Warrant Article 70 7.8.1.2 Shared Projects 20. Solar System Installation — CSDA/RMMS The implementation of solar energy is an important objective for SAU 41. This project could include [solar arrays] on roofs or in outdoor fields or other available spaces. The potential benefit of solar energy would be to reduce the district's dependence on rising energy prices. This project is many years away, b...</summary>
+</entry>
+</feed>

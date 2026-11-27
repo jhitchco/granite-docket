@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:hooksett--solar</id>
+<title>Hooksett NH: Solar</title>
+<subtitle>Town meeting records in Hooksett on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/hooksett--solar.xml"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:147455-solar</id>
+<title>Hooksett Select board / council: Solar (2026-11-18)</title>
+<link href="https://www.hooksett.gov/November 18 Recap.pdf?t=202611200750460"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...tion *Ken Conaty, Hooksett Wastewater Supt., will receive the James J. Courchaine award. The award is given to one person in New England once a year for excellence in working with Collection Systems *[Solar Project] Update *26/27 Tax Rate-Application of Fund Balance ( Town Council’s voted to apply fund balance to retain 8% fund balance, fund warrant articles being funded from balance and remaining to be applied ...</summary>
+</entry>
+</feed>

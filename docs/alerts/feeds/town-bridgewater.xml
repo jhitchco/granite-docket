@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-bridgewater</id>
+<title>Bridgewater NH: tracked topics</title>
+<subtitle>Town meeting records in Bridgewater on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-bridgewater.xml"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:149973-housing</id>
+<title>Bridgewater Planning board: Housing development (2026-10-20)</title>
+<link href="https://img1.wsimg.com/blobby/go/1fe88111-8580-4a2e-bfae-899271219bdd/downloads/246650dc-184e-4a89-b533-e7f9375354c9/BPB%20Minutes%2010-20-26.pdf?ver=1795196078283"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...y Jeff. All board members voted in favor, and the motion passed. The board then signed multiple copies of the site plans and the mylar. Roy and Lori left the meeting at 7:25 PM. Discussion shifted to [accessory dwelling units] (ADUs). Terry distributed the proposed wording for the zoning ordinance, noting that it largely mirrored state law with a few minor adjustments. The board reviewed the ordinance line by line, holding...</summary>
+</entry>
+</feed>

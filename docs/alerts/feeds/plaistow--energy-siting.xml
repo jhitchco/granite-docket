@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:plaistow--energy-siting</id>
+<title>Plaistow NH: energy siting</title>
+<subtitle>Town meeting records in Plaistow on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/plaistow--energy-siting.xml"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:25700-solar</id>
+<title>Plaistow Planning board: Solar (2026-10-07)</title>
+<link href="https://www.plaistow.com/AgendaCenter/ViewFile/Minutes/_10072026-292"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>... that he and R. LeClaire met to review rough drafts that dealt with legislative changes from the NH Legislature, noting they all have some element of statutory required changes in them other than the [solar ordinance] which has been seen by the Board and the sign ordinance. He said the sign ordinance goes through a lot of definitions and then a lot of signs that are exempt. He said they had input from some Town bu...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:25714-solar</id>
+<title>Plaistow Zoning / ZBA: Solar (2026-10-01)</title>
+<link href="https://www.plaistow.com/AgendaCenter/ViewFile/Minutes/_10012026-296"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...rms. Mr. Anthony noted that there is identical language in the proposed Article III proposed amendment since this article only deals with a PRD. Proposed Z 26-7: The Energy Committee prepared a draft [Solar ordinance] for the Planning Board’s review and comment and Mr. Kane provided his comments in response to that initial draft. Mr. Kane noted that the Committee had looked at amending the solar ordinance last yea...</summary>
+</entry>
+</feed>

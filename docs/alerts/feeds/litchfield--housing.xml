@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:litchfield--housing</id>
+<title>Litchfield NH: Housing development</title>
+<subtitle>Town meeting records in Litchfield on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/litchfield--housing.xml"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:23318-housing</id>
+<title>Litchfield Planning board: Housing development (2026-10-20)</title>
+<link href="https://litchfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10202026-972"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...March 1989. The Board discussed allowing mixed-use development by removing the limit of one residential unit alongside a commercial use. The district is within the Multifamily Overlay District, where [multifamily housing] is permitted. The change would not independently allow single-family residential development where otherwise prohibited; existing single-family homes would remain grandfathered. Members also consider...</summary>
+</entry>
+</feed>

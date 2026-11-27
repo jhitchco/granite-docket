@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-hanover</id>
+<title>Hanover NH: tracked topics</title>
+<subtitle>Town meeting records in Hanover on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-hanover.xml"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:141946-housing</id>
+<title>Hanover Zoning / ZBA: Housing development (2026-11-16)</title>
+<link href="https://hanovernh.org/AgendaCenter/ViewFile/Agenda/_11162026-1357"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...Hanover [Workforce Housing] Task Force TOWN OF HANOVER, NEW HAMPSHIRE WORKFORCE HOUSING TASK FORCE Meeting Agenda November 16, 2026, 1:45 PM 1. Call to Order 2. RFQ • Review RFQ timing and potential firms to invite. 3. Website ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141949-housing</id>
+<title>Hanover Other board: Housing development (2026-11-02)</title>
+<link href="https://hanovernh.org/AgendaCenter/ViewFile/Minutes/_11022026-1354"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...orations on projects like Summer Park. Ms. Adams asked why Twin Pines was initially conceived as a partner for the Greensboro Road project and what had changed. Mr. Houseman explained that the town's [workforce housing] definition of 80 to 120 percent AMI conflicted with the restrictions of Twin Pines' rental funding sources, which favor lower income brackets. Mr. Winter noted that New Hampshire provides minimal fun...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:148022-housing</id>
+<title>Hanover Select board / council: Housing development (2026-10-19)</title>
+<link href="https://hanovernh.org/DocumentCenter/View/10208/ADOPTED-10-19-26-2026-2027-Selectboard-OKRs-"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>.... Advance housing. i. Support the Planning Board’s efforts to comprehensively update Hanover Zoning Ordinance to reflect the goals of the 2024 Sustainability Master Plan. ii. Complete the work of the [Workforce Housing] Taskforce. 2. Improve Fiscal Transparency, Accountability and Long-Term Viability a. Strengthen long-range financial planning and preserve future options. i. Refine multi-year financial forecasting t...</summary>
+</entry>
+</feed>

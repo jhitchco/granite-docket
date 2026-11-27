@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:londonderry--solar</id>
+<title>Londonderry NH: Solar</title>
+<subtitle>Town meeting records in Londonderry on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/londonderry--solar.xml"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:7515-solar</id>
+<title>Londonderry Conservation commission: Solar (2026-10-13)</title>
+<link href="https://www.londonderrynh.gov/AgendaCenter/ViewFile/Minutes/_10132026-1307"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...er 4 5 Absent: Elkel Bickford, member; Susan Malouin, alternate member 6 7 8 Call to Order and Roll Call 9 M. Badois called the meeting to order at 7:30 p.m. 10 11 DRC – 49C Rear Rolling Ridge Road - [Solar Array] - Map 11 Lot 47 12 Ethan Beals of Hayner/Swanson Inc. appeared before the Commission representing Continental Paving 13 Inc. to discuss a proposal to install a solar array on a parcel consisting of 3...</summary>
+</entry>
+</feed>

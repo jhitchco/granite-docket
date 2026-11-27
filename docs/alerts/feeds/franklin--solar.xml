@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:franklin--solar</id>
+<title>Franklin NH: Solar</title>
+<subtitle>Town meeting records in Franklin on solar.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/franklin--solar.xml"/>
+<updated>2026-10-16T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:30202-solar</id>
+<title>Franklin Planning board: Solar (2026-10-16)</title>
+<link href="https://franklinnh.gov/DocumentCenter/View/3136/Site-Plan-Review-Regulations"/>
+<updated>2026-10-16T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...registered in the State of New Hampshire, that the improvements have been constructed and completed in compliance with the approved plans or any approved field changes. 402-7 Solar Systems A. For all [solar projects] which, per Section 305-29.2 of the Zoning Ordinance, trigger the submission of a Site Plan and/or Special Use Permit, the application package shall contain or address the items outlined below: 1. A c...</summary>
+</entry>
+</feed>

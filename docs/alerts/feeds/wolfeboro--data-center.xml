@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:wolfeboro--data-center</id>
+<title>Wolfeboro NH: Data centers</title>
+<subtitle>Town meeting records in Wolfeboro on data centers.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/wolfeboro--data-center.xml"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:135665-data_center</id>
+<title>Wolfeboro Select board / council: Data centers (2026-10-19)</title>
+<link href="https://www.wolfeboronh.us/AgendaCenter/ViewFile/Minutes/_10192026-419"/>
+<updated>2026-10-19T12:00:00Z</updated>
+<category term="data_center" label="Data centers"/>
+<summary>... location, then get Matt Bishop’s opinion on an appropriate 249 species. 250 251 B. Peter Foley used ChatGPT to review our ordinances. Wolfeboro doesn’t have any ordinance that 252 speaks directly to [data centers], and because they aren’t addressed, potential developers could 253 argue that they are not prohibited. It would all come down to specific location, and it will be the 254 Planning Board’s responsibil...</summary>
+</entry>
+</feed>

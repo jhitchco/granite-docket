@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:town-brookfield</id>
+<title>Brookfield NH: tracked topics</title>
+<subtitle>Town meeting records in Brookfield on the tracked topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/civic/calendars/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/town-brookfield.xml"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:98517-transmission</id>
+<title>Brookfield Planning board: Transmission &amp; substations (2026-10-26)</title>
+<link href="https://www.brookfieldnh.gov/1388/Rules-of-Procedure"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...ing Board Rules of Procedure Last Amended October 2026 65 ADDITIONAL ITEMS: 1. PSNH’s rights when developing land adjacent to or under [transmission lines] and that a PSNH easement may exist despite the fact that distribution or transmission lines are not evident. Contact PSNH at (603) 634-2477 for information. This is the Applicant’s responsibility. 2....</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:98517-housing</id>
+<title>Brookfield Planning board: Housing development (2026-10-26)</title>
+<link href="https://www.brookfieldnh.gov/1388/Rules-of-Procedure"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>.... Pursuant to RSA 674:43, a site plan review is the process of approving or disapproving a plan for development or change of use or expansion of use of tracts of land for non- residential uses or for [multi-family dwelling] units. Such a plan for land development may or may not include a subdivision. If it does include a subdivision, then a separate application must be submitted for the subdivision under Brookfield Subd...</summary>
+</entry>
+</feed>

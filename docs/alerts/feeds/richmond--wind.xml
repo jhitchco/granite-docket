@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:richmond--wind</id>
+<title>Richmond NH: Wind</title>
+<subtitle>Town meeting records in Richmond on wind.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/richmond--wind.xml"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:91805-wind</id>
+<title>Richmond Planning board: Wind (2026-10-06)</title>
+<link href="http://www.richmond.nh.gov/vertical/sites/%7BA403C866-D7A3-4A6F-8C05-C74435D0CF15%7D/uploads/Planning_Board_Final_Minutes_10-6_Planning_Board_Minutes.pdf"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="wind" label="Wind"/>
+<summary>...ll distribute a rough outline of suggested topics and chapter via AI using the 2010 master Plan, Recommendations Review Committee results, Town Survey results and surrounding town’s energy, solar and [wind ordinances]. The board will review and comment for next MP meeting. 5) Other a) Hold for Ordinance Vote Hearing Remove Article 1204 Occupancy Permits and 1204.1 in its entirety as these permits are no longer app...</summary>
+</entry>
+</feed>

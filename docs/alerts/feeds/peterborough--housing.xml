@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:peterborough--housing</id>
+<title>Peterborough NH: Housing development</title>
+<subtitle>Town meeting records in Peterborough on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/peterborough--housing.xml"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:99707-housing</id>
+<title>Peterborough Zoning / ZBA: Housing development (2026-11-02)</title>
+<link href="https://www.peterboroughnh.gov/ZBA Packet - 11.2.26 - Redacted.pdf?t=202610271238200"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...mily use was reasonable for the district. They noted that the public gain from denying the fourth unit did not outweigh the loss to the applicant, particularly given that the district already permits [multifamily housing] by right. The committee discussed the 5 Variance Criteria’s: Criterion 1: Contrary to the Public Interest: The Board discussed the town’s need for additional housing, while also considering the opini...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36265-housing</id>
+<title>Peterborough Planning board: Housing development (2026-10-26)</title>
+<link href="https://www.peterboroughnh.gov/PB Packet 10-26-26.pdf?t=202610191111280"/>
+<updated>2026-10-26T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...any single builder or contractor for the purpose of constructing dwellings for speculation sale. [In other words, if the development involves the construction of single-family dwellings, duplexes, or [multi-family units], the threshold is one percent (1%). But if the subdivider intends to sell lots to individual buyers for them to build their own homes on, then the threshold is two percent (2%). C. Said phasing sched...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:31107-housing</id>
+<title>Peterborough Select board / council: Housing development (2026-10-20)</title>
+<link href="https://www.peterboroughnh.gov/SB Meeting Packet 10202026.pdf?t=202610151548370"/>
+<updated>2026-10-20T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...o the submission of a project proposal are not eligible for funding. 4.3. Can I install Level 2 EVSE at a residential property such as a multifamily housing complex? No. Private residences, including [multifamily housing] complexes, are not eligible sites under this program. 4.4. Does my site have to be accessible year-round or are seasonal sites eligible? Level 2 EVSE installed under this program must be accessible (...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:36278-housing</id>
+<title>Peterborough Planning board: Housing development (2026-10-14)</title>
+<link href="https://www.peterboroughnh.gov/PB Packet 10-14-26 - Redacted.pdf?t=202610071352180"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...rs. Chair Staley began by introducing the first public hearing for the evening: Preliminary Review: Conceptual Consultation Application submitted by Shatos Realty Trust to discuss the potential for a [workforce housing] development consisting of 16 small homes (averaging 600 square feet each) located x, | (Parcel No. U033-001-000), in the Rural District. Howard Shafman, of Shatos Realty Trust and the property owner,...</summary>
+</entry>
+</feed>

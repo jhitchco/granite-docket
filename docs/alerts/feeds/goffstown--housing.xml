@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:goffstown--housing</id>
+<title>Goffstown NH: Housing development</title>
+<subtitle>Town meeting records in Goffstown on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/goffstown--housing.xml"/>
+<updated>2026-12-10T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:147426-housing</id>
+<title>Goffstown Planning board: Housing development (2026-12-10)</title>
+<link href="https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_12102026-1628"/>
+<updated>2026-12-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...ional Standards, by adding Sections 4.4.5. and Section 5.2.8. to read as follows: Accessory Dwelling Unit Density – For purposes of determining the density calculation for a multi- family project, an [Accessory Dwelling Unit] (ADU) is considered a separate dwelling unit? This amendment clarifies that an Accessory Dwelling Unit will be considered a separate unit for density purposes only. 5. Are you in favor of the adoptio...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:11384-housing</id>
+<title>Goffstown Zoning / ZBA: Housing development (2026-11-10)</title>
+<link href="https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_11102026-1601"/>
+<updated>2026-11-10T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...Zoning Ordinance. Lot 124 has a single-family home located on it has approximately 0.17 acres (7,502 sq. ft.), whereas 0.50 acres (21,780 sq. ft.) is required; and Lot 117 has a residential four-unit [multifamily building] located on it with approximately 0.71 acres (30,762 sq. ft.) whereas 1 acre (43,560 sq. ft.) is required. The proposal would add approximately 5,500 sq. ft. to Lot 124, increasing the property size t...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:141798-housing</id>
+<title>Goffstown Zoning / ZBA: Housing development (2026-11-05)</title>
+<link href="https://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_11052026-1598"/>
+<updated>2026-11-05T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... during 2026, while others are housekeeping or clarification items aimed at resolving ambiguities that had become apparent in actual applications. She said one of the recurring problem areas involved [multifamily housing], including uncertainty over density calculations and when a proposed arrangement should be treated as multifamily for zoning and site plan purposes. She also noted that Bruce Buttrick had additional ...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:3736-housing</id>
+<title>Goffstown Select board / council: Housing development (2026-10-07)</title>
+<link href="https://goffstownnh.gov/AgendaCenter/ViewFile/Minutes/_10072026-1584"/>
+<updated>2026-10-07T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... the process could be improved. Members also discussed the Master Plan and its relationship to zoning, and variances granted for multifamily conversions. Chair Bowen attributed these in part to state [workforce housing] goals and noted that the Council could advocate for business opportunities and site-ready parcels during the next Master Plan update. Members discussed a proposed mixed-use development near Starbucks...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:11390-housing</id>
+<title>Goffstown Zoning / ZBA: Housing development (2026-10-06)</title>
+<link href="https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_10062026-1570"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...s located at 6 Pleasant Street (Map 34, Lot 44), Zoned: Residential-1. 2026 Charron Family Trust &amp; Michel Charron, Trustee, Applicant/Owner is seeking a Variances to allow for an existing 832 sq. ft. [accessory dwelling unit] to increase the size by adding an additional 238 sq. ft. of living area. This will increase the size of the accessory dwelling unit to 1,070 sq. ft. whereas the maximum allowed is 950 sq. ft. per Sec...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:12120-housing</id>
+<title>Goffstown Select board / council: Housing development (2026-09-28)</title>
+<link href="https://goffstownnh.gov/AgendaCenter/ViewFile/Agenda/_09282026-1576?packet=true"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>... Team reported that at least three new subdivisions were under review: one 40+ unit subdivision in a potential wildfire area that has been required to add appropriate cisterns and fire ponds; another [54 unit condo] development with no issues; and one 90 unit single-family home subdivision, which required a box culvert to ensure good stormwater flow. A new Police Station is also being planned; however, a suitabl...</summary>
+</entry>
+</feed>

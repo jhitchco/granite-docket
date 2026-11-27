@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:bedford--energy-siting</id>
+<title>Bedford NH: energy siting</title>
+<subtitle>Town meeting records in Bedford on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/bedford--energy-siting.xml"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:1219-solar</id>
+<title>Bedford Energy committee: Solar (2026-10-22)</title>
+<link href="https://bedfordnh.gov/AgendaCenter/ViewFile/Minutes/_10222026-3023"/>
+<updated>2026-10-22T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...nt confirmed the destruction requirement and stated they would contact Mr. Desfosses to review the equipment list and discuss approaching the Town Council. d. Other – None. IX. New Business a. Future [Solar Projects] b. Future Battery, Future Storage Projects Mr. Bandazian stated there are no future solar projects to discuss. Ms. Walker provided a year of Eversource bills for review. Mr. Bandazian plans to analyz...</summary>
+</entry>
+</feed>

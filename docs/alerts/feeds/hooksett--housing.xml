@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:hooksett--housing</id>
+<title>Hooksett NH: Housing development</title>
+<subtitle>Town meeting records in Hooksett on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/hooksett--housing.xml"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:147455-housing</id>
+<title>Hooksett Select board / council: Housing development (2026-11-18)</title>
+<link href="https://www.hooksett.gov/November 18 Recap.pdf?t=202611200750460"/>
+<updated>2026-11-18T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>Moratorium mentioned. ...ng articles planned for Ballot- hearings are scheduled- See Planning board schedule These are State RSA alignments, Multifamily Residential Development in Commercial zones, Housing for Older persons, [Workforce housing] and Data enter 12-month Moratorium Click to edit Master title style 8 Next meeting. December 9, 2026 Full minutes and meeting videos are available – Hooksett.gov For questions, concerns and issues- A...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:6550-housing</id>
+<title>Hooksett Planning board: Housing development (2026-10-15)</title>
+<link href="https://www.hooksett.gov/9.28.2026 PB Minutes Official.pdf?t=202610231040250"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...n 68 independent district or an overlay for purposes of the new law. Members also raised the question 69 of whether the existing 24-unit-per-building limitation could conflict with restrictions on 70 [multifamily housing] in commercial areas. The Board expressed interest in a district-by-district 71 crosswalk and Town Counsel’s interpretation before settling on proposed amendment language. 72 73 Staff follow-up: Prepa...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:6372-housing</id>
+<title>Hooksett Planning board: Housing development (2026-09-28)</title>
+<link href="https://www.hooksett.gov/9-28-26 PB Agenda_Workshop.pdf?t=202609241354120"/>
+<updated>2026-09-28T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...s • Identify needed changes to the land use regulations for alignment with RSA 674:21-b, including dead-end road length, lot limits, and other limitations. 3. Local Language Revisions a. Article 27 - [Accessory Dwelling Units] • Consider revising Article 27, Item 6 to remove the phase “Habitable Area” and clarify how the 750-square-foot maximum ADU size is calculated. 4. Board Direction and Next Steps • Provide direction t...</summary>
+</entry>
+</feed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:hudson--transmission</id>
+<title>Hudson NH: Transmission &amp; substations</title>
+<subtitle>Town meeting records in Hudson on transmission &amp; substations.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/hudson--transmission.xml"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:11108-transmission</id>
+<title>Hudson Select board / council: Transmission &amp; substations (2026-10-13)</title>
+<link href="https://www.hudsonnh.gov/AgendaCenter/ViewFile/Agenda/_10132026-377"/>
+<updated>2026-10-13T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>...with St. Gobane. We're also working with the state as well, and Pennechuck, to basically turn this into a regional project. We did exactly that, and that's what this grant does. This grant takes this [transmission line] from a line to a 24-inch, increases capacity significantly, and also provides the ability for the town, Pennechuck, and the state to not only provide the water that we need here in Hudson, but also t...</summary>
+</entry>
+</feed>

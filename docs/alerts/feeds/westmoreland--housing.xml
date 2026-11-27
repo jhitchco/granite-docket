@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:westmoreland--housing</id>
+<title>Westmoreland NH: Housing development</title>
+<subtitle>Town meeting records in Westmoreland on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/westmoreland--housing.xml"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:148727-housing</id>
+<title>Westmoreland Planning board: Housing development (2026-11-16)</title>
+<link href="https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downloads/f68746b3-89fb-454a-a7fe-ed504a22cc7a/Planning%20Board%20November%2016%2C%202026.docx.pdf?ver=1795202274601"/>
+<updated>2026-11-16T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...used: Larry Siegel (alternate) The meeting was called to order at 3:00 p.m. by Chair Lauren Bressett. Planning Board Work Session – Ordinance Preparation for December 7th Hearing ●​ Site Plan Review, [Multifamily Housing] and ADUs​ The Board continued discussion about proposed changes to site-plan requirements in response to state law effective July 1, 2026. The discussion included removing two-family residential uses...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:147187-housing</id>
+<title>Westmoreland Select board / council: Housing development (2026-11-03)</title>
+<link href="https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downloads/20587bfa-5f77-4fff-9bc8-9a7b11297c4a/Board%20of%20Selectmen%20November%203%2C5%20%26%209%2C%202026.pdf?ver=1794508014451"/>
+<updated>2026-11-03T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...6.07 per $1,000 of assessed valuation. The Tax Warrant was signed. B. Planning Board Update — Lauren Bressett, Chair Ordinances e The Planning Board is reviewing recent changes in state law regarding [multi-family dwellings] and child care facilities. e The use table is being updated for consistency. e Awork session is scheduled for November 16 at 3:00 p.m. to complete the review of definitions and proposed ballot amendm...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:140395-housing</id>
+<title>Westmoreland Planning board: Housing development (2026-11-02)</title>
+<link href="https://img1.wsimg.com/blobby/go/c493d398-36b9-49b7-be40-6a5c541a4796/downloads/a32ebc73-ae8d-4d11-950b-1fd0a9909d3f/Planning%20Board%20November%202%2C%202026.docx.pdf?ver=1793902472895"/>
+<updated>2026-11-02T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...needed to remove the local building ordinances, what provisions, if any, should remain, and whether the existing language should be repealed or retained. State-Mandated Changes Due to Legislation: ●​ [Multifamily Housing]: Members discussed state requirements for allowing multifamily housing by right in commercial/industrial districts. The Board deferred these ordinance changes until 2027. ●​ Accessory Dwelling Units ...</summary>
+</entry>
+</feed>

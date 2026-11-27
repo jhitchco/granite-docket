@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:cornish--energy-siting</id>
+<title>Cornish NH: energy siting</title>
+<subtitle>Town meeting records in Cornish on energy and siting topics.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/cornish--energy-siting.xml"/>
+<updated>2026-10-10T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:78577-solar</id>
+<title>Cornish Planning board: Solar (2026-10-10)</title>
+<link href="https://cornish.nh.gov/wp-content/uploads/2026/10/10-15-26-PB-Minutes.pdf"/>
+<updated>2026-10-10T12:00:00Z</updated>
+<category term="solar" label="Solar"/>
+<summary>...ertification.” 6. Correct the spelling of Regulatory in Note 9. 7. Under “Metes and Bounds of Proposed Right of Way,” delete the reference to the solar array and replace with the following language: “[Solar array] to remain in right of way as shown on the plan.” Planning Board Minutes, 10/15/2026 Page 2 of 2 unapproved 8. Prior to the signing of the subdivision plat, the applicant must provide evidence that a ...</summary>
+</entry>
+</feed>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:greenland--housing</id>
+<title>Greenland NH: Housing development</title>
+<subtitle>Town meeting records in Greenland on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/greenland--housing.xml"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:48358-housing</id>
+<title>Greenland Planning board: Housing development (2026-10-15)</title>
+<link href="https://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_10152026-140"/>
+<updated>2026-10-15T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...nd representing Michael Gill, applicant, addressed the Board. Also present were Jase Gregoire – Project Engineer (Civilworks NE), and Michael Gill, applicant. Subdivision Layout: A revised plan for a [10-lot subdivision] was presented. The proposal is to subdivide the 39-acre lot into nine residential lots that will be accessed from a cul-de-sac off Moulton Avenue; Lot 10 will remain a residual parcel of more than 20...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:48222-housing</id>
+<title>Greenland Select board / council: Housing development (2026-10-14)</title>
+<link href="https://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_10142026-139"/>
+<updated>2026-10-14T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...lzi of Wakefield Investments, Jones &amp; Beach Engineer Paige Libbey, and certified wetland scientist (CWS) Brenden Walden were also present.​ ​ The conceptual review discussion for this 140-unit rental [apartment project] began with Ms. Libbey reviewing potential extensive wetland impacts, with “just over 1 acre of direct impact,” and “just over 2 acres of buffer impacts.” Said development would require a wetlands per...</summary>
+</entry>
+<entry>
+<id>tag:granite-docket,2026:48375-housing</id>
+<title>Greenland Planning board: Housing development (2026-10-01)</title>
+<link href="https://greenland.nh.gov/AgendaCenter/ViewFile/Minutes/_10012026-137"/>
+<updated>2026-10-01T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...--------------------------------------- Planning Board Work Session Minutes - Page 4 of 5 (Thursday 10.01.2026) Documents used by the Planning Board during this meeting may be found in the case file. [Multi-Family Housing]: Multi-family uses must be allowed by right in all commercial zones, including zones without public water. The Board may require some or all of the ground floor to remain commercial. The regulations ...</summary>
+</entry>
+</feed>

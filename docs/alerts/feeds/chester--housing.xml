@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:chester--housing</id>
+<title>Chester NH: Housing development</title>
+<subtitle>Town meeting records in Chester on housing development.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/chester--housing.xml"/>
+<updated>2026-12-02T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:142581-housing</id>
+<title>Chester Planning board: Housing development (2026-12-02)</title>
+<link href="https://www.chesternh.org/AgendaCenter/ViewFile/Agenda/_12022026-380"/>
+<updated>2026-12-02T12:00:00Z</updated>
+<category term="housing" label="Housing development"/>
+<summary>...th River Road, Bedford, NH 03110, to construct 32 single-family homes on a future public road, 18 single-family homes on a future private road (condominium), and 25 duplexes on a future private road ([50-unit condominium]); located off 483 Haverhill Road (Tax Map 2 Lots 87 and 82-6 &amp; Tax Map 3 Lot 6-3). Approximately 212.44 acres will be deeded as protected open space. The documents related to these hearings may be vi...</summary>
+</entry>
+</feed>

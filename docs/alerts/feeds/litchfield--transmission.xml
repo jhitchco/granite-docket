@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>tag:granite-docket,2026:litchfield--transmission</id>
+<title>Litchfield NH: Transmission &amp; substations</title>
+<subtitle>Town meeting records in Litchfield on transmission &amp; substations.</subtitle>
+<link rel="alternate" href="https://jhitchco.github.io/granite-docket/alerts/"/>
+<link rel="self" href="https://jhitchco.github.io/granite-docket/alerts/feeds/litchfield--transmission.xml"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<author><name>Granite Docket</name></author>
+<entry>
+<id>tag:granite-docket,2026:23324-transmission</id>
+<title>Litchfield Planning board: Transmission &amp; substations (2026-10-06)</title>
+<link href="https://litchfieldnh.gov/AgendaCenter/ViewFile/Minutes/_10062026-962"/>
+<updated>2026-10-06T12:00:00Z</updated>
+<category term="transmission" label="Transmission &amp; substations"/>
+<summary>... panels would not move at night and agreed to obtain additional information from Revision Energy if necessary. The closest residence is approximately 900 feet from the nearest panel, and the existing [electrical substation] would obstruct views of the arrays from nearby residential areas. Public Comment at 7:21 p.m. a.​ No one came forward Public Comment closed at 7:22 p.m. Clearing and Wetland Concerns Mr. Beals explai...</summary>
+</entry>
+</feed>

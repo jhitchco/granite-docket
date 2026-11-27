@@ -247,3 +247,7 @@ ol.docs a{display:block}
 .bfeeds{display:inline-block;margin:0 10px 4px 0;font-size:13px}
 .bfeeds summary{cursor:pointer;color:var(--accent)}
 .pick{display:flex;flex-wrap:wrap;gap:16px;margin-bottom:8px}.pick label{font:13px var(--f-mono);display:flex;gap:8px;align-items:center}.pick select{font:14px var(--f-sans);padding:6px 8px;border:1px solid var(--rule);border-radius:6px;background:var(--panel);color:var(--ink)}
+.wtab td{vertical-align:top}.wtab .q{font-size:14px;color:var(--ink)}.atags{margin-top:6px;display:flex;gap:4px;flex-wrap:wrap}.atags .chip{font-size:11px}
+.chip.pet{background:var(--warn);color:var(--panel)}.ryes{color:var(--accent)}.rno{color:var(--nuc)}.muted{color:var(--muted);font-size:13px}
+.wtab{table-layout:fixed;width:100%}.wtab th:nth-child(1){width:44px}.wtab th:nth-child(3){width:130px}.wtab th:nth-child(4){width:230px}.wtab th:nth-child(5){width:110px}
+.wtab td{white-space:normal;overflow-wrap:anywhere}.wtab .q{font:14px/1.45 var(--f-sans)}

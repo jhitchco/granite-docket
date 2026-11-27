@@ -145,6 +145,7 @@ def build(conn, out_dir, page, write, slug, e, BOARD, report_url, feeds=None, ca
     body = f"""<header class="hd"><div class="eyebrow">Pilot</div><h1>Town records</h1>
 <p class="lede">Search a town's minutes and agendas from the last year, see what met this week, and check what the record covers. Answers are quotes from the records with links, never summaries. Highlighted towns are the first pilot.</p></header>
 <section><div class="grid">{rows}</div><p class="note">Some cities post only part of their record online or ask crawlers to stay out; each town page says what is missing. Updated {today.isoformat()}.</p>
+<p class="note"><a href="warrants/index.html">Town meeting warrant guide</a>: every article on each town's warrant, with cost and recommendations.</p>
 <p class="note"><a href="calendars/index.html">Meeting calendars for every town</a>: subscribe in Google, Apple or Outlook and new agendas and hearings appear on their own.</p></section>"""
     write("civic/index.html", page("Town records · Granite Docket", 1, body, "Search New Hampshire town meeting records"))
     return cards

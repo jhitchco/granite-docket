@@ -220,6 +220,8 @@ def main():
     civic.build(conn, OUT, page, write, slug, e, BOARD, report_url, feeds, cal_links)
     import alerts  # Atom alert feeds by town and topic, plus the sign-up page
     alerts.build(conn, page, write, slug, e, BOARD, civic.clean_title, towns)
+    import warrants  # town meeting warrant guide, article by article
+    warrants.build(conn, page, write, slug, e)
     print(f"site written to {OUT}: {len(events)} events, {len(towns)} towns")
 
 
